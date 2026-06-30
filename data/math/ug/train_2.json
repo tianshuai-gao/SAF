@@ -1,0 +1,112 @@
+[
+    {
+        "id": "math_ug_60",
+        "question": "ئەڭ كىچىك ئۈچ خانىلىق بىلەن ئەڭ چوڭ ئىككى خانىلىق ساننىڭ پەرىقى قانچە؟",
+        "zh_translation": "最小的三位数与最大的两位数的差是多少？",
+        "answer": "1",
+        "cot": {
+            "zh": "最小的三位数是100，最大的两位数是99，两者的差是100-99=1. 答案是1",
+            "en": "The smallest three-digit number is 100, and the largest two-digit number is 99. The difference between them is 100 - 99 = 1. The answer is 1"
+        },
+        "en_translation": "What is the difference between the smallest three-digit number and the largest two-digit number?"
+    },
+    {
+        "id": "math_ug_128",
+        "question": "110 مېتىرلىق ئاتلېتكا مۇسابىقىسىدە ھەر 10 مېتىردا بىردىن ئاتلېتكا قويۇلۇپ باشلىنىش نۇقتىسى ۋە ئاخىرلىشىش نۇقتىسىدا  قويۇلمىسا، بۇ مۇسابىقە يولىدا قانچە دانە ئاتلېتكا بار؟",
+        "zh_translation": "110米跨栏比赛中，每隔10米放一个栏架，起点和终点不放，一条赛道上有多少个栏架？",
+        "answer": "10",
+        "cot": {
+            "zh": "110/10-2=10，所以一条赛道上有10个栏架. 答案是10",
+            "en": "110/10 - 2 = 10, so there are 10 hurdles on one lane. The answer is 10"
+        },
+        "en_translation": "In a 110-meter hurdles race, a hurdle is placed every 10 meters. None are placed at the start and finish lines. How many hurdles are there on one lane?"
+    },
+    {
+        "id": "math_ug_58",
+        "question": "ۋىلىسپىت تەنھەركەتچىسى ھەر سائىتىگە ئوتتۇرچە 23كىلومىتىر ۋىلىسپىت مىنىدۇ، ئۇنداقتا 4 سائىتىگە قانچە كىلومىتىر مىنىدۇ؟",
+        "zh_translation": "自行车运动员平均每小时骑行23千米，4小时能骑多少千米？",
+        "answer": "92",
+        "cot": {
+            "zh": "23×4=92千米. 答案是92",
+            "en": "23×4=92 kilometers. The answer is 92"
+        },
+        "en_translation": "A cyclist rides at an average speed of 23 kilometers per hour. How many kilometers can they ride in 4 hours?"
+    },
+    {
+        "id": "math_ug_233",
+        "question": "ئا ب س د ئۈچ ئادەمنىڭ ھازىرقى  يېشىنىڭ جەمىيسى 64 ياش، ئا  ئادەم  21 ياش ۋاقتىدا  ب ئادەم 17 ياش ئىدى ، ئا ئادەم  18 ياش ۋاقتىدا س ئادەمنىڭ يېشى د نىڭ يېشىنىڭ ئۈچ ھەسسە بولسا ، د  ھازىر قانچە ياش ؟",
+        "zh_translation": "甲、乙、丙、丁四人现在的年龄和是64岁．甲21岁时，乙17岁，甲18岁时，丙的年龄是丁的3倍．丁现在的年龄是多少岁？",
+        "answer": "8",
+        "cot": {
+            "zh": "设丁现在的年龄为x岁，则甲现在的年龄是64-x岁，乙现在的年龄是64-x-21岁，丙现在的年龄是64-x-18岁．  由题意可得：64-x-18=3(64-x)  64-x-18=192-3x  2x=110  x=55  丁现在的年龄是8岁. 答案是8",
+            "en": "Let D's current age be x years, then A's current age is 64-x years, B's current age is 64-x-21 years, and C's current age is 64-x-18 years. According to the problem statement: 64-x-18=3(64-x) 64-x-18=192-3x 2x=110 x=55 D's current age is 8 years. The answer is 8"
+        },
+        "en_translation": "The sum of the current ages of A, B, C, and D is 64 years. When A was 21, B was 17. When A was 18, C's age was 3 times D's age. How old is D now?"
+    },
+    {
+        "id": "math_ug_113",
+        "question": "شىياۋمىڭ كىتاب ئوقۇپ، بىرىنچى كۈن 83 بەت، ئىككىنچى كۈنى 74 بەت، ئۈچىنچى كۈنى 71 بەت، تۆتىنچى كۈنى 64 بەت ئوقۇدى، بەشىنچى كۈنى ئوقۇغان بېتىنىڭ سانى بۇ بەش كۈندە ئوقۇغان بېتىنىڭ ئوتتۇرچىسىدىنمۇ 3.2 بەت كۆپ بولسا، شاۋمىڭ بەشىنچى كۈنىسى قانچە بەت كىتاب ئوقۇدى؟",
+        "zh_translation": "小明读一本书，第一天读83页，第二天读74页，第三天读71页，第四天读64页，第五天读的页数比这五天中平均读的页数要多3.2页．小明第五天读了多少页？",
+        "answer": "77",
+        "cot": {
+            "zh": "83+74+71+64+x=5×(83+74+71+64+x)/5+3.2，解得x=77，所以小明第五天读了77页. 答案是77",
+            "en": "83+74+71+64+x=5×(83+74+71+64+x)/5+3.2, solving gives x=77, so Xiao Ming read 77 pages on the fifth day. The answer is 77"
+        },
+        "en_translation": "Xiao Ming is reading a book. He reads 83 pages on the first day, 74 pages on the second day, 71 pages on the third day, 64 pages on the fourth day, and on the fifth day, he reads 3.2 pages more than the average number of pages read over these five days. How many pages did Xiao Ming read on the fifth day?"
+    },
+    {
+        "id": "math_ug_160",
+        "question": "شياۋلىدا 192 پارچە رەسىم بار، ھەربەتكە تۆت پارچە رەسىم قويۇلسا، 2 دانە ئالبوم دەل توشىدۇ،  ئۇنداقتا ھەر بىر ئالبومغا قانچە پارچە رەسىم قويغىلى بولىدۇ ؟",
+        "zh_translation": "小丽有192张照片，每页放了4张照片，正好放满了2本相册．每本相册有多少页？",
+        "answer": "24",
+        "cot": {
+            "zh": "照片总数是192，每页放4张，所以共有192/4=48页，正好放满了2本相册，所以每本相册有48/2=24页. 答案是24",
+            "en": "The total number of photos is 192, with 4 photos per page, so there are 192/4=48 pages in total, which perfectly fills 2 photo albums. Therefore, each album has 48/2=24 pages. The answer is 24"
+        },
+        "en_translation": "Xiao Li has 192 photos, with 4 photos on each page, perfectly filling 2 photo albums. How many pages does each album have?"
+    },
+    {
+        "id": "math_ug_117",
+        "question": "بىر كالىغا 3 تۇياق قوينى ئالماشتۇرغىلى بولسا، 1 قويغا 4 تال توشقاننى ئالماشتۇرغىلى بولىدۇ، 1 تال توشقانغا 2 تال توخۇنى ئالماشتۇرغىلى بولىدۇ، ئۇنداقتا ، 360 تال توخۇغا قانچە تۇياق كالىنى ئالماشتۇرغىلى بولىدۇ ؟",
+        "zh_translation": "一头牛可换3只羊，1只羊可换4只兔，1只兔可换2只鸡，360只鸡可换多少头牛？",
+        "answer": "15",
+        "cot": {
+            "zh": "360只鸡可换180只兔，180只兔可换45只羊，45只羊可换15头牛. 答案是15",
+            "en": "360 chickens can be exchanged for 180 rabbits, 180 rabbits can be exchanged for 45 sheep, 45 sheep can be exchanged for 15 cows. The answer is 15"
+        },
+        "en_translation": "One cow can be exchanged for 3 sheep, 1 sheep can be exchanged for 4 rabbits, 1 rabbit can be exchanged for 2 chickens. How many cows can 360 chickens be exchanged for?"
+    },
+    {
+        "id": "math_ug_111",
+        "question": "چياڭ چياڭ، مىڭ مىڭ، يىڭ يىڭ ئۈچ ئادەمنىڭ ئىچىدە چياڭ چياڭ ھەممىدىن چوڭ، چياڭ چياڭ مىڭ مىڭدىن بىر ياش چوڭ ، مىڭ مىڭ ياڭ ياڭدىن بىر ياش چوڭ . ئەگەر ئۇلارنىڭ يېشىنى ئۆز ئارا كۆپەيتسەك 504 بولسا چياڭ چياڭ قانچە ياش ؟",
+        "zh_translation": "强强，明明，洋洋三人中强强最大，强强比明明大一岁，明明比洋洋大一岁，已知它们三个岁数相乘是504，请问强强多少岁？",
+        "answer": "9",
+        "cot": {
+            "zh": "设强强的岁数为x，则明明的岁数为x-1，洋洋的岁数为x-2，x(x-1)(x-2)=504，解得x=9，所以强强9岁. 答案是9",
+            "en": "Let Qiangqiang’s age be x, then Mingming’s age is x-1, and Yangyang’s age is x-2. So, x(x-1)(x-2) = 504. Solving this gives x = 9. Therefore, Qiangqiang is 9 years old. The answer is 9"
+        },
+        "en_translation": "Among Qiangqiang, Mingming, and Yangyang, Qiangqiang is the oldest. Qiangqiang is one year older than Mingming, and Mingming is one year older than Yangyang. It is known that the product of their ages is 504. How old is Qiangqiang?"
+    },
+    {
+        "id": "math_ug_158",
+        "question": "بەش تال بولكىنىڭ جەمىي ئېغىرلىقى 300 گىرام بولسا، بىر تال بولكىنىڭ ئېغىرلىقى قانچە گىرام ؟",
+        "zh_translation": "5只面包共重300克，一只面包重多少克？",
+        "answer": "60",
+        "cot": {
+            "zh": "300/5=60，所以一只面包重60克. 答案是60",
+            "en": "300/5 = 60, so one loaf of bread weighs 60 grams. The answer is 60"
+        },
+        "en_translation": "Five loaves of bread weigh a total of 300 grams. How much does one loaf of bread weigh?"
+    },
+    {
+        "id": "math_ug_231",
+        "question": "شىزى باشلانغۇچ مەكتىپىدىكى 300 نەپەر ئوقۇغۇچى 801 ئاممىۋى ئاپتوبۇسىغا ئولتۇرۇپ ۋۇجىڭشىن خاتىرە سارىيىنى ئېكسكۇرسىيە قىلماقچى، بىر ماشىنىدا ئەڭ كۆپ بولغاندا 45 نەپەر ئوقۇغۇچى ئولتۇرالىسا، ئاز دېگەندە قانچە دانە ماشىنا  بولۇشى كېرەك؟",
+        "zh_translation": "十字小学300名学生乘801公共汽车去吴敬梓纪念馆参观，一辆汽车最多坐45名学生，至少要多少辆这样的汽车？",
+        "answer": "7",
+        "cot": {
+            "zh": "00÷45=6辆余30人，30人也需要一辆车，所以最少是7辆车. 答案是7",
+            "en": "300 ÷ 45 = 6 buses with 30 students remaining, and 30 students also need a bus, so at least 7 buses are needed. The answer is 7"
+        },
+        "en_translation": "Cross Primary School has 300 students taking bus number 801 to visit the Wu Jingzi Memorial Hall. Each bus can hold up to 45 students. How many buses are required at a minimum?"
+    }
+]

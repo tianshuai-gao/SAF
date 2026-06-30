@@ -1,0 +1,28 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "safw"
+version = "1.0.0"
+description = "Scorer-Adaptive Fusion with Weighting: training-free test-time logit fusion for low-resource language adaptation"
+readme = "README.md"
+requires-python = ">=3.10"
+license = { file = "LICENSE" }
+authors = [{ name = "Tianshuai Gao" }]
+dependencies = [
+    "torch>=2.1",
+    "transformers>=4.40",
+    "accelerate>=0.30",
+    "sentencepiece>=0.1.99",
+    "numpy>=1.24",
+    "sacrebleu>=2.4",
+    "rouge-score>=0.1.2",
+]
+
+[project.optional-dependencies]
+docs = ["sphinx>=7.0", "sphinx-rtd-theme>=2.0"]
+test = ["pytest>=8.0"]
+
+[tool.setuptools]
+packages = ["safw"]

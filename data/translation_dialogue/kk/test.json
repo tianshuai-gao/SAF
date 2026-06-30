@@ -1,0 +1,4040 @@
+[
+    {
+        "zh": "好的，谢谢!",
+        "kk": "جارايدى، راقىمەت!",
+        "id": "trans-d_kk_614",
+        "en": "Okay, thank you!"
+    },
+    {
+        "zh": "冬天太冷了，夏天又太热了。春天不错，就是太短了。",
+        "kk": "قىستا وتە سۋىق، جازدا وتە ىستىق بولادى. كوكتەم جاقسى، تىم قىسقا بولدى.",
+        "id": "trans-d_kk_494",
+        "en": "Winter is too cold, and summer is too hot. Spring is nice, but it's too short."
+    },
+    {
+        "zh": "您好，买点儿什么?",
+        "kk": "سالەمەتسىز بە، نە الاسىز؟",
+        "id": "trans-d_kk_396",
+        "en": "Hello, what would you like to buy?"
+    },
+    {
+        "zh": "千万别这么说，现在我没那技术了。",
+        "kk": "ەر : ايتا كورمە، قازىر ونداي ونەرىم جوق.",
+        "id": "trans-d_kk_160",
+        "en": "Don't say that, I don't have that skill anymore."
+    },
+    {
+        "zh": "你住在那么高的楼上，上下楼梯多累啊!",
+        "kk": "نەدەگەن بيىك عيماراتتا تۇراسىڭ، شىعىپ تۇسكەن شارشاتادى عوي!",
+        "id": "trans-d_kk_439",
+        "en": "You live on such a high floor; climbing the stairs must be exhausting!"
+    },
+    {
+        "zh": "是吗?那我去找他。",
+        "kk": "سولاي ما؟ وندا مەن ونى ىزدەپ بارامىن.",
+        "id": "trans-d_kk_413",
+        "en": "Is that so? Then I'll go find him."
+    },
+    {
+        "zh": "师傅，我的钱包忘在刚才去的商店里了，麻烦您把车开回去。",
+        "kk": "ۇستاز، اقشا قاپشىعىم الگىندە بارعان دۇكەندە قالىپ قويىپتى، ارتقا قايتۋىڭىزعا بولاما، اۋىرەلەيتىن بولدىم.",
+        "id": "trans-d_kk_654",
+        "en": "Driver, I left my wallet in the store we just visited. Could you please drive back?"
+    },
+    {
+        "zh": "我为什么要告诉你?",
+        "kk": "ساعان نەگە ايتۋىم كەرەك؟",
+        "id": "trans-d_kk_144",
+        "en": "Why should I tell you?"
+    },
+    {
+        "zh": "不会。是快没电了，一会儿回房间充上电就好了。",
+        "kk": "بۇزىلعان جوق. توگى جوق بولىپ تۇر، ۇيگە قايتقانسوڭ توك تولتىرساق بولدى.",
+        "id": "trans-d_kk_259",
+        "en": "It can't be. The battery is almost dead. It will be fine once we charge it in the room later."
+    },
+    {
+        "zh": "对不起，这里不能停车，停车场就在前面不远的地方。",
+        "kk": "كەشىرىڭىز، بۇل جەرگە ماشينا توقتاتۋعا بولمايدى، ماشينا توقتاتۋ الاڭى الدىڭعى جاقتا.",
+        "id": "trans-d_kk_141",
+        "en": "I'm sorry, you can't park here. The parking lot is not far ahead."
+    },
+    {
+        "zh": "那是我叔叔，站在我右边的是我爸爸。当时照相的时候我可开心了。",
+        "kk": "ول مەنىڭ اعايىم، وڭ جاقتا تۇرعان اكەم. سول كەزدە سۋرەتكە تۇسكەن كەزدە قاتتى قۋاندىم.",
+        "id": "trans-d_kk_346",
+        "en": "That's my uncle. The one standing on my right is my dad. I was really happy when we took the photo."
+    },
+    {
+        "zh": "咱们在这站下车吧，到学校正门下有点儿远。",
+        "kk": "بىز وسى بەكەتتەن تۇسەيىك، مەكتەپتىڭ قاقپاسىنا بارساڭىز ٴبىراز الىس ەكەن.",
+        "id": "trans-d_kk_278",
+        "en": "Let's get off at this stop. It's a bit far to get off at the main entrance of the school."
+    },
+    {
+        "zh": "昨天天气预报说今天是晴天啊!",
+        "kk": "كەشە اۋا رايىنان الدىن الا مالىمەتتە بۇگىن اشىق كۇن دەدى!",
+        "id": "trans-d_kk_371",
+        "en": "The weather forecast said it would be sunny today!"
+    },
+    {
+        "zh": "你好，我昨天在你们这儿订了一个位子，我姓赵。",
+        "kk": "سالەمەتسىز بە، مەن كەشە سىزدەردىڭ بۇل ارادا ٴبىر ورىن تاپسىرعان ەدىم، فاميليام جاۋ.",
+        "id": "trans-d_kk_656",
+        "en": "Hello, I booked a table here yesterday. My last name is Zhao."
+    },
+    {
+        "zh": "好吧，我自己对付一口，不过这饺子好像有味儿了。",
+        "kk": "جارايدى، مەن ٴوزىم امالدايىن، ٴبىراق شوشىرە بۇزىلىپ قالعانداي.",
+        "id": "trans-d_kk_263",
+        "en": "Okay, I'll make do with a bite myself, but these dumplings seem to have an odor."
+    },
+    {
+        "zh": "抱歉，他今天休息。我给您推荐另一位发型师吧。",
+        "kk": "ۋاڭ لين شاشتاراز بۇگىن دەمالدى، مەن سىزگە تاعى ٴبىر شاشتاراز تانىستىرايىن.",
+        "id": "trans-d_kk_155",
+        "en": "Sorry, he is off today. I can recommend another hairstylist for you."
+    },
+    {
+        "zh": "你怎么这么说?",
+        "kk": "نەگە بۇلاي ايتتىڭ؟",
+        "id": "trans-d_kk_423",
+        "en": "Why do you say that?"
+    },
+    {
+        "zh": "你怎么又回来了?",
+        "kk": "قايتىپ كەلدىڭ بە؟",
+        "id": "trans-d_kk_508",
+        "en": "Why are you back again?"
+    },
+    {
+        "zh": "马上就要考试了，你怎么还跟朋友出去玩儿啊?",
+        "kk": "ەمتيحان تاياپ قالدى، سەن دوسىڭمەن قالايشا سىرتقا شىعىپ وينايسىڭ؟",
+        "id": "trans-d_kk_629",
+        "en": "The exams are just around the corner, why are you still going out with friends?"
+    },
+    {
+        "zh": "这样也好，这期间可以准备一下找工作的事。",
+        "kk": "ودا بولادى ەكەن، وسى مەزگىلدە قىزمەت ىزدەۋگە دايىندالايىق .",
+        "id": "trans-d_kk_735",
+        "en": "That's fine, I can use this time to prepare for job hunting."
+    },
+    {
+        "zh": "这地方怎么这么冷?",
+        "kk": "بۇل جەر قالايشا وسىنشاما سۋىق بولادى؟",
+        "id": "trans-d_kk_369",
+        "en": "Why is it so cold here?"
+    },
+    {
+        "zh": "抱歉，那本书已经卖完了，您下周再过来看看吧。",
+        "kk": "عاپۋ ەتىڭىز، الگى كىتاپ ساتىلىپ بولىپتى، كەلەسى اپتادا تاعى كەلىپ كورىڭىز.",
+        "id": "trans-d_kk_513",
+        "en": "Sorry, that book is sold out. Please come back next week to check."
+    },
+    {
+        "zh": "听说你儿子在这次全国演讲比赛中得了冠军，是真的吗?",
+        "kk": "ۇلىڭىزدىڭ وسى رەتكى مەملەكەتتىك لەكسيا جارىسىندا اعا جۇلدەگەر بولعانىن ەستىدىم، شىن با؟",
+        "id": "trans-d_kk_274",
+        "en": "I heard your son won the championship in this national speech contest, is it true?"
+    },
+    {
+        "zh": "那你真该减肥了。",
+        "kk": "وندا سەن شىنىمەن ارىقتاساڭ بولعانداي.",
+        "id": "trans-d_kk_765",
+        "en": "Then you really should lose weight."
+    },
+    {
+        "zh": "我可不愿意坐长途汽车，太累了。在高速公路上跑，也不安全。",
+        "kk": "مەن ۇزىن جولدى اۆتوموبيلگە وتىرعىم كەلمەيدى، قاتتى شارشادىم. جوعارى قارقىندى تاس جولدا جۇگىرگەندە دە حاۋىپسىز .",
+        "id": "trans-d_kk_276",
+        "en": "I don't want to take a long-distance bus, it's too exhausting. It's not safe to drive on the highway."
+    },
+    {
+        "zh": "其他地方都合适，就是颜色浅了点儿。",
+        "kk": "باسقا جەرلەردىڭ ٴبارى ۇيلەسىمدى، رەڭى سولعىن بولدى.",
+        "id": "trans-d_kk_378",
+        "en": "Everything else is fine, but the color is a bit light."
+    },
+    {
+        "zh": "不行啊，张教授要求我明天必须把这份材料交给他。",
+        "kk": "ايەل : بولمايدى، ەرتەڭ وسى ماتەريالدى جاڭ پروفەسسور تابىستاۋىم كەرەك.",
+        "id": "trans-d_kk_45",
+        "en": "I can't, Professor Zhang requires me to submit this material to him tomorrow."
+    },
+    {
+        "zh": "是的。",
+        "kk": "سولاي.",
+        "id": "trans-d_kk_761",
+        "en": "Yes."
+    },
+    {
+        "zh": "小姐，我想问问动物园的门票怎么卖?",
+        "kk": "بويجەتكەن، مەن حايۋاناتتار باقشاسىنىڭ ەسىك بەلەتىن قالاي ساتىپ الام؟",
+        "id": "trans-d_kk_716",
+        "en": "Miss, I want to ask how the zoo tickets are sold?"
+    },
+    {
+        "zh": "圣诞节晚上你打算做什么?",
+        "kk": "روجدەستۆو مەرەكەسى كۇنى كەشتە نە ىستەمەكشى بولدىڭىز؟",
+        "id": "trans-d_kk_417",
+        "en": "What do you plan to do on Christmas Eve?"
+    },
+    {
+        "zh": "哦，对不起，算错了。",
+        "kk": "ە، كەشىرىڭىز، قاتەلەستىم.",
+        "id": "trans-d_kk_721",
+        "en": "Oh, sorry, I made a mistake."
+    },
+    {
+        "zh": "导游小姐，今天你带我们去哪儿观光?",
+        "kk": "جول باستاۋشى، بۇگىن ٴبىزدى قايدا ەرتىپ تاماشالاتاسىز؟",
+        "id": "trans-d_kk_668",
+        "en": "Tour guide, where are you taking us for sightseeing today?"
+    },
+    {
+        "zh": "昨天下午的演出怎么样？",
+        "kk": "كەشە تۇستەن كەيىنگى ويىن –ساۋىق قانداي بولدى؟",
+        "id": "trans-d_kk_137",
+        "en": "How was the performance yesterday afternoon?"
+    },
+    {
+        "zh": "可以不存。",
+        "kk": "امانات اقشا قويماساڭىز دا بولادى.",
+        "id": "trans-d_kk_470",
+        "en": "You don't need to deposit any money."
+    },
+    {
+        "zh": "一个人大概花了多少钱?",
+        "kk": "ٴبىر ادام قانشا اقشا جۇمسايدى؟",
+        "id": "trans-d_kk_114",
+        "en": "How much did it cost per person?"
+    },
+    {
+        "zh": "不太远。",
+        "kk": "تىم الىس ەمەس.",
+        "id": "trans-d_kk_665",
+        "en": "Not too far."
+    },
+    {
+        "zh": "你在找什么?把抽屉弄得这么乱!",
+        "kk": "نە ىزدەپ ءجۇرسىڭ؟ سۋىرمانى وسىنشاما بىلىقتىرۋ كەرەك پە!",
+        "id": "trans-d_kk_415",
+        "en": "What are you looking for? You've made such a mess of the drawer!"
+    },
+    {
+        "zh": "老师说大卫考试没通过。",
+        "kk": "مۇعالىم داۋي ەمتيحانىنان وتپەدى دەدى.",
+        "id": "trans-d_kk_724",
+        "en": "The teacher said David failed the exam."
+    },
+    {
+        "zh": "喜欢就选一个吧，我今天刚发工资。",
+        "kk": "ەر : ۇناتساڭ بىرەۋىن تالدا، بۇگىن مەنىڭ ايلىعىمدى تاراتتى.",
+        "id": "trans-d_kk_210",
+        "en": "If you like one, just choose one. I just got my salary today."
+    },
+    {
+        "zh": "我不吃，咱们还是先看花展吧。",
+        "kk": "مەن جەمەيمىن، ٴبىز الدىمەن گۇل كورمەسىن كورەلىك.",
+        "id": "trans-d_kk_474",
+        "en": "I'm not eating, let's see the flower exhibition first."
+    },
+    {
+        "zh": "请问，哪儿有开水?",
+        "kk": "ەندەشە، قاي جەردە قايناعان سۋ بار؟",
+        "id": "trans-d_kk_658",
+        "en": "Excuse me, where can I find hot water?"
+    },
+    {
+        "zh": "我把办护照需要注意的问题都写在电子邮件里了。",
+        "kk": "مەن پاسپورت بىتىرۋدە كوڭىل بولۋگە ٴتيىستى ماسەلەلەردىڭ بارلىعىن ەلەكتروندىق پوچتا جولداماسىنا جازدىم.",
+        "id": "trans-d_kk_585",
+        "en": "I have written all the issues that need attention when applying for a passport in the email."
+    },
+    {
+        "zh": "买了一条裙子，一双凉鞋，给你买了一条短裤，两双袜子。",
+        "kk": "كويلەك،ساندال ساتىپ الدىم، ساعان شولاق ىشتان، ەكى بايپاق الدىم .",
+        "id": "trans-d_kk_739",
+        "en": "I bought a dress, a pair of sandals, a pair of shorts for you, and two pairs of socks."
+    },
+    {
+        "zh": "你看什么呢?",
+        "kk": "نە كورىپ وتىرسىڭ؟",
+        "id": "trans-d_kk_108",
+        "en": "What are you watching?"
+    },
+    {
+        "zh": "动画片，这是最新的，很有意思。",
+        "kk": "كارتون فيلىم كورىپ وتىرمىن، جاڭاشىققان ەكەن، وتە قىزىقتى.",
+        "id": "trans-d_kk_109",
+        "en": "A cartoon. It's the latest one and very interesting."
+    },
+    {
+        "zh": "好的，记住一个月以内来还书，不然就要多交钱了。",
+        "kk": "جارايدى، ٴبىر اي ىشىندە كىتاپ قايتارۋ كەرەك، ويتپەگەندە كوبىرەك اقشا تاپسىراسىز.",
+        "id": "trans-d_kk_694",
+        "en": "Okay, remember to return the book within a month, otherwise, you will have to pay more."
+    },
+    {
+        "zh": "王强啊，你怎么知道我来长沙了，难道你也在长沙?",
+        "kk": "ۋاڭ چياڭ ەكەنسىڭ عوي، چاڭشاعا كەلەتىنىنمدى قالاي ٴبىلدىڭ، سەن دە چاڭشادا تۇرسىڭ با؟",
+        "id": "trans-d_kk_29",
+        "en": "Wang Qiang, how did you know I came to Changsha? Are you also in Changsha?"
+    },
+    {
+        "zh": "你来得真及时，现在是6:25，还有5分钟就要开车了。",
+        "kk": "سەن ٴدال ۋاقىتىندا كەلدىڭ، قازىر 6:25 بولدى، بەس مينۋتتان كەيىن اۆتو كولىكتى جۇرەگىزەمىز.",
+        "id": "trans-d_kk_78",
+        "en": "You arrived just in time. It's 6:25 now, and the train will leave in 5 minutes."
+    },
+    {
+        "zh": "明天我还要上课，周日才休息。",
+        "kk": "ەرتەڭ مەن تاعى ساباق وقيمىن، جەكسەنبى كۇنى عانا دەمالامىن.",
+        "id": "trans-d_kk_129",
+        "en": "I have classes tomorrow; I can only rest on Sunday."
+    },
+    {
+        "zh": "我把电影票放到钱包里了。",
+        "kk": "مەن كينو بەلەتىن اقشا قاپشىعىنا سالىپ قويعامىن.",
+        "id": "trans-d_kk_107",
+        "en": "I put the movie tickets in my wallet."
+    },
+    {
+        "zh": "手术很成功，她恢复得很快，过两天，下周一二就可以出院了。",
+        "kk": "وپەراتسيا ٴساتتى بولدى، ول تەز قالپىنا كەلدى، ەكى كۇننەن كەيىن، كەلەسى اپتانىڭ -12كۇنى شيپاحانادان شىعادى.",
+        "id": "trans-d_kk_134",
+        "en": "The surgery was very successful, and she is recovering quickly. In a couple of days, she can be discharged next Monday or Tuesday."
+    },
+    {
+        "zh": "是很漂亮。和我们一起去吧？",
+        "kk": "وتە ادەمى ەكەن. بىرگە بارايىق؟",
+        "id": "trans-d_kk_128",
+        "en": "It is very beautiful. Why don't you come with us?"
+    },
+    {
+        "zh": "这太慢了，我的票是十点半的，现在都十点了。",
+        "kk": "\" بۇل وتە باياۋ، ون  جارىمنىڭ بەلەتىن العامىن. قازىر ون بولدى.",
+        "id": "trans-d_kk_609",
+        "en": "That's too slow; my ticket is for 10:30, and it's already 10:00 now."
+    },
+    {
+        "zh": "一共100。",
+        "kk": "جيىنى 100 يۋان بولدى.",
+        "id": "trans-d_kk_719",
+        "en": "A total of 100."
+    },
+    {
+        "zh": "不一定，现在越来越多的年轻人选择自己住。",
+        "kk": "بۇل ەكىتالاي، قازىر كوپتەگەن جاستار بولەك تۋرۋدى ۇناتادى.",
+        "id": "trans-d_kk_393",
+        "en": "Not necessarily, more and more young people are choosing to live on their own."
+    },
+    {
+        "zh": "真不好意思，我等会儿还有两节课。",
+        "kk": "ۇيات بولدى عوي، ٴسال تۇرىپ تاعى ەكى ساعات ساباعىم بار.",
+        "id": "trans-d_kk_146",
+        "en": "I'm really sorry, I have two classes later."
+    },
+    {
+        "zh": "最近工作找得怎么样了?",
+        "kk": "جۋىقتان بەرى قىزمەت قالاي بولدى؟",
+        "id": "trans-d_kk_711",
+        "en": "How is the job search going recently?"
+    },
+    {
+        "zh": "这次比赛你们班怎么样?",
+        "kk": "بۇل رەتكى جارىستا سىزدەردىڭ كلاستارىڭىز قانداي؟",
+        "id": "trans-d_kk_353",
+        "en": "How did your class do in the competition this time?"
+    },
+    {
+        "zh": "我跟张梅的关系没得说，我去找她，她准同意。",
+        "kk": "جاڭ مەيمەن بولعان قارىم-قاتىناسىمدا ايتار جوق،وعان قولقا سالسام سوزسىز ماقۇل بولادى.",
+        "id": "trans-d_kk_6",
+        "en": "My relationship with Zhang Mei is beyond words. If I go to her, she will definitely agree."
+    },
+    {
+        "zh": "本来想回家的，可是没买到票。",
+        "kk": "ٴاسىلى ۇيگە قايتپاقشى ەدىم، ٴبىراق بەلەت ساتىپ المادىم.",
+        "id": "trans-d_kk_731",
+        "en": "I was planning to go home, but I couldn't get a ticket."
+    },
+    {
+        "zh": "你还是穿那一件吧，我觉得那件比较正式。",
+        "kk": "انا كيىمدى كي، مەنشە انا كيىم رەتتى كورىنەدى ەكەن.",
+        "id": "trans-d_kk_124",
+        "en": "You should wear that one instead. I think it's more formal."
+    },
+    {
+        "zh": "充电器带了吗？",
+        "kk": "ەلەكتر زارياتتاعىشتى الدىڭبا؟",
+        "id": "trans-d_kk_260",
+        "en": "Did you bring the charger?"
+    },
+    {
+        "zh": "按说是没什么愁的，可就是总遇不到一个称心如意的。",
+        "kk": "ول راسىندا ەشتەمەدەن قام جەمەيدى، ٴبىراق بۇيرىق جوق بولىپ جۇر.",
+        "id": "trans-d_kk_484",
+        "en": "She should have nothing to worry about, but she just can't meet the right person."
+    },
+    {
+        "zh": "好吧，明天顺便买个柜子，不然你的衣服都没地方放了。",
+        "kk": "جارايدى، ەرتەڭ ىشكاپ ساتىپ الايىق، بولماسا كيىمىڭدى قوياتىن جەر قالمادى.",
+        "id": "trans-d_kk_723",
+        "en": "Okay, let's buy a cabinet tomorrow as well, otherwise there will be no place to put your clothes."
+    },
+    {
+        "zh": "我每天从早忙到晚，你可倒好，整天不是打麻将，就是看电视。",
+        "kk": "مەن ٴار كۇنى ەرتەدەن كەشكە دەيىن قاربالاس بولامىن، ال سەن بولساڭ، كۇنى بويى ماجياڭ وينايىسىڭ ودان قالسا تەلەۆيزور كورەسىڭ.",
+        "id": "trans-d_kk_486",
+        "en": "I'm busy from morning till night every day, and there you are, either playing mahjong or watching TV all day."
+    },
+    {
+        "zh": "别客气，我给你拿双新的。",
+        "kk": "جاريدى، سىزگە جاڭاسىن الىپ بەرەيىن.",
+        "id": "trans-d_kk_402",
+        "en": "No problem, I'll get you a new pair."
+    },
+    {
+        "zh": "你今天不用上班啊?",
+        "kk": "بۇگىن قىزمەتكە شىقپايسىڭ با؟",
+        "id": "trans-d_kk_116",
+        "en": "You don't have to work today?"
+    },
+    {
+        "zh": "阿新帮了我半天忙，我给他一千块钱怎么样?",
+        "kk": "اشين ماعان جارتى كۇن كومەك كورسەتتى، مەن وعان مىڭ يۋان قالاي اقشا بەردىم؟",
+        "id": "trans-d_kk_477",
+        "en": "Axin helped me for half a day. How about I give him a thousand yuan?"
+    },
+    {
+        "zh": "图书馆在哪儿？",
+        "kk": "كىتاپحانا قايدا؟",
+        "id": "trans-d_kk_726",
+        "en": "Where is the library?"
+    },
+    {
+        "zh": "你好，我想点一份香辣鸡腿汉堡套餐，现在有什么优惠活动吗?",
+        "kk": "سالەمەتسىز بە، مەن ٴبىر تال تاۋىق سيراعىنىڭ گامبۋرگ جەلىلەس تاماعىن كورگىم كەلەدى، قازىر ٴتيىمدى قيمىلدار بارما؟",
+        "id": "trans-d_kk_570",
+        "en": "Hello, I would like to order a spicy chicken burger meal. Are there any promotions right now?"
+    },
+    {
+        "zh": "嗯，苏州园林和杭州的西湖很有名。",
+        "kk": "يا، سۋجوۋدىڭ باۋ-باقشاسى مەن حاڭجوۋدىڭ شيحۋ كولى وتە ايگىلى.",
+        "id": "trans-d_kk_100",
+        "en": "Yeah, the gardens of Suzhou and West Lake in Hangzhou are very famous."
+    },
+    {
+        "zh": "这菜包的味道真不错，是不是张记的?",
+        "kk": "بۇل ٴمانتىنىڭ ٴدامى وتە جاقسى ەكەن، جاڭ جاي  ما؟",
+        "id": "trans-d_kk_312",
+        "en": "These vegetable buns taste really good. Are they from Zhang's?"
+    },
+    {
+        "zh": "明天可是放假前的最后一天，还能开会吗？",
+        "kk": "ەرتەڭ دەمالىسقا تاراۋعا ٴبىر كۇن عانا قالادى، جيىن اشۋعا بولا ما؟",
+        "id": "trans-d_kk_48",
+        "en": "Tomorrow is the last day before the holiday. Can we still have a meeting?"
+    },
+    {
+        "zh": "那你最好去梦里找。",
+        "kk": "ەر:ونداي ادامدى سەن تۇسىڭدە كور .",
+        "id": "trans-d_kk_580",
+        "en": "Then you better look for him in your dreams."
+    },
+    {
+        "zh": "那我们到外面去玩儿吧。",
+        "kk": "وندا ءبىز سىرتقا شىعىپ ويناپ كەلەيىك.",
+        "id": "trans-d_kk_182",
+        "en": "Then let's go outside and have fun."
+    },
+    {
+        "zh": "没有啊，我们国家一年四季都很热。所以看到雪我太高兴了。",
+        "kk": "جوق، ەلىمىزدىڭ  ٴتورت ماۋسىمى دا وتە ىستىق. سوندىقتان قار جاۋعانىن كورگەنىمە وتە قۋانىپ تۇرمىن.",
+        "id": "trans-d_kk_181",
+        "en": "No, in our country, it's hot all year round. So I'm very happy to see snow."
+    },
+    {
+        "zh": "经理，我昨天感冒发烧了，能请一天假吗?",
+        "kk": "ديرەكتور، مەن كەشە تۇماۋراتىپ قىزدىم، ٴبىر كۇن رۇقسات الۋعا بولاما؟",
+        "id": "trans-d_kk_349",
+        "en": "Manager, I had a cold and fever yesterday. Can I take a day off?"
+    },
+    {
+        "zh": "我去过苏州、杭州。",
+        "kk": "مەن سۋجوۋ مەن حاڭجوۋعا باردىم.",
+        "id": "trans-d_kk_99",
+        "en": "I've been to Suzhou and Hangzhou."
+    },
+    {
+        "zh": "有可能，你先查一下血吧，过一会儿把报告单拿来给我。",
+        "kk": "مۇمكىندىك بار، الدىمەن قاندى تەكسەرىپ كورەيىك، سالدەن سوڭ مالىمەت تالونىن ماعان اكەلىڭىز.",
+        "id": "trans-d_kk_238",
+        "en": "It’s possible. You should have a blood test first, and bring the report to me later."
+    },
+    {
+        "zh": "年轻时爱好游泳、滑冰，老了喜欢读书了。",
+        "kk": "جاس كەزىندە مالتاۋعا، مۇزدا سىرعاناۋعا اۋەس بولاتىن، قارتايعاندا كىتاپ وقۋدى ۇناتادى.",
+        "id": "trans-d_kk_683",
+        "en": "When he was young, he loved swimming and skating, but now that he's older, he enjoys reading."
+    },
+    {
+        "zh": "听说你上中学时，就算没带钥匙，也能开门进去。",
+        "kk": "ەستۋىمشە، ورتا مەكتەپتە وقىپ جۇرگەن كەزىڭدە كىلت الماساڭدا، ەسكتى اشىپ كىرە بەرەدى ەكەنسىڭ عوي.",
+        "id": "trans-d_kk_159",
+        "en": "I heard that when you were in middle school, you could get in even if you forgot your keys."
+    },
+    {
+        "zh": "寒假就快到了，你有什么打算吗?",
+        "kk": "قىسقى دەمالىس تاياپ قالدى، سەنىڭ قانداي ويىڭ بار؟",
+        "id": "trans-d_kk_302",
+        "en": "The winter break is almost here, do you have any plans?"
+    },
+    {
+        "zh": "你怎么又换工作了?",
+        "kk": "نە ءۇشىن قىزمەت اۋىستىردىڭ؟",
+        "id": "trans-d_kk_445",
+        "en": "Why did you change jobs again?"
+    },
+    {
+        "zh": "我的朋友今天就要回国了，以后很难再见面了。",
+        "kk": "دوسىم بۇگىن شەتەلگە شىعادى، كەيىن بەت كورۋىم قيىنعا سوقتى.",
+        "id": "trans-d_kk_630",
+        "en": "My friend is going back to his country today, it will be difficult to meet again in the future."
+    },
+    {
+        "zh": "没有，您的航班很准时。车在外面，我来帮您拿行李。",
+        "kk": "دال ۋاعىندا بولدى. ماشينا سىرتتا، مەن سىزگە كومەكتەسىپ جۇك الىپ بەرەيىن.",
+        "id": "trans-d_kk_86",
+        "en": "No, your flight was on time. The car is outside. I'll help you with your luggage."
+    },
+    {
+        "zh": "也不见得，大部分人的爱情还是很单纯的，只是社会更复杂了。",
+        "kk": "كوپ ساندى ادامداردىڭ ماحابباتى ٴالى جالعان، قوعام ٴتىپتى دە كۇردەلى.",
+        "id": "trans-d_kk_710",
+        "en": "Not necessarily, most people's love is still very pure, it's just that society has become more complex."
+    },
+    {
+        "zh": "今天你准备几点起床？",
+        "kk": "بۇگىن قانشادا ورنىڭنان تۇراسىڭ؟",
+        "id": "trans-d_kk_403",
+        "en": "What time are you planning to get up today?"
+    },
+    {
+        "zh": "你想买点儿什么?",
+        "kk": "سىز نە ساتىپ العىڭىز كەلەدى؟",
+        "id": "trans-d_kk_214",
+        "en": "What do you want to buy?"
+    },
+    {
+        "zh": "你中午自己把剩的饺子热一下吃了吧。",
+        "kk": "تۇستە قالعان شوشىرەنى ىسىتىپ جە.",
+        "id": "trans-d_kk_262",
+        "en": "Warm up the leftover dumplings and eat them yourself for lunch."
+    },
+    {
+        "zh": "小姐，超过200毫升的化妆水是不能带上飞机的。",
+        "kk": "بيكەش، 200 ميلليليتردەن اسپ كەتكەن  مەتارلىق سۋدى ايروپلان الا المايدى.",
+        "id": "trans-d_kk_611",
+        "en": "Miss, cosmetic liquids exceeding 200ml cannot be taken on the plane."
+    },
+    {
+        "zh": "小赵?别看他长得又高又壮，其实一点儿力气都没有。",
+        "kk": "شياۋ جاۋ؟ ونىڭ بويىنىڭ بيىكتىگى مەن دەمبەلشە ەكەنىنە قاراماڭىز، امالياتتا ودا كۇش جوق.",
+        "id": "trans-d_kk_389",
+        "en": "Xiao Zhao? Despite looking tall and strong, he actually doesn't have any strength."
+    },
+    {
+        "zh": "我是王强啊，听说你来长沙啦?",
+        "kk": "مەن ۋاڭ چياڭمىن، سىزدى چاڭشاعا كەلدى دەيدى عوي.",
+        "id": "trans-d_kk_28",
+        "en": "I'm Wang Qiang. I heard you came to Changsha?"
+    },
+    {
+        "zh": "不顺利吗?不行再想想别的办法吧。",
+        "kk": "ءساتسىز بولدى ما، باسقا دا امالىن قاراستىرىپ كور.",
+        "id": "trans-d_kk_713",
+        "en": "Is it not going well? If not, try to think of other ways."
+    },
+    {
+        "zh": "但是现在是冬天啊。",
+        "kk": "ٴبىراق قازىر قىس بولدى.",
+        "id": "trans-d_kk_372",
+        "en": "But it is winter now."
+    },
+    {
+        "zh": "明天再不开，哪天开呀？",
+        "kk": "ەرتەڭ اشپاساق قاشان اشامىز؟",
+        "id": "trans-d_kk_49",
+        "en": "If we're not having it tomorrow, then when can we?"
+    },
+    {
+        "zh": "现在房价这么高，你为什么非得着急买房呢?",
+        "kk": "قازىر ٴۇي باعاسى وسىنشاما جوعارى، سەن نە ٴۇشىن ٴۇي ساتىپ الۋعا اسىقاسىڭ؟.",
+        "id": "trans-d_kk_88",
+        "en": "The housing prices are so high right now, why are you in such a hurry to buy a house?"
+    },
+    {
+        "zh": "行，我下班后给你打电话。",
+        "kk": "بولادى، قىزمەتتەن تۇسكەننەن كەيىن ساعان تەلەفون سوعامىن.",
+        "id": "trans-d_kk_166",
+        "en": "Sure, I'll call you after work."
+    },
+    {
+        "zh": "服务员，请问卫生间在哪儿?",
+        "kk": "كۇتۋشى، تازالىق بولمەسى قايدا؟",
+        "id": "trans-d_kk_743",
+        "en": "Waiter, could you tell me where the restroom is?"
+    },
+    {
+        "zh": "好吧，去那边吧。",
+        "kk": "جارايدى، انا جاققا بارايىق.",
+        "id": "trans-d_kk_576",
+        "en": "Alright, let's go over there."
+    },
+    {
+        "zh": "喂，请问是孙丽吗?",
+        "kk": "ۋاي، سۇن لي ما؟",
+        "id": "trans-d_kk_26",
+        "en": "Hello, is this Sun Li?"
+    },
+    {
+        "zh": "我没把它弄丢，但就是不记得放在哪里了。",
+        "kk": "مەن ونى جوعالتپادىم، ٴبىراق ونى قايدا قويعانىمدى  بىلمەيىم ايتەۋ.",
+        "id": "trans-d_kk_592",
+        "en": "I didn't lose them, I just don't remember where I put them."
+    },
+    {
+        "zh": "你家离学校远吗？",
+        "kk": "ءۇيىڭىز مەكتەپتەن الىس پا؟",
+        "id": "trans-d_kk_664",
+        "en": "Is your home far from the school?"
+    },
+    {
+        "zh": "以前是这样，现在不需要了。",
+        "kk": "بۇرىن وسىلاي بولاتىن، قازىر قاجەتسىز.",
+        "id": "trans-d_kk_391",
+        "en": "It used to be like that, but it's not necessary anymore."
+    },
+    {
+        "zh": "上小学的时候。",
+        "kk": "باستاۋىش وقىپ جۇرگەندە.",
+        "id": "trans-d_kk_158",
+        "en": "When I was in elementary school."
+    },
+    {
+        "zh": "啊，我想起来了。就是那个笑起来有酒窝的姑娘吧。",
+        "kk": "ە، ەسىمە كەلدى . سول كۇلگەنى سۇيكىمدى قىز شىعار.",
+        "id": "trans-d_kk_283",
+        "en": "Ah, I remember now. She's the girl with dimples when she smiles, right?"
+    },
+    {
+        "zh": "小弟，你什么时候来北京的?出差还是旅游?怎么不告诉我?",
+        "kk": "ىنىشەك، سەن قاشان بەيجيڭگە كەلدىڭ؟ ساياحاتتاپ كەلدىڭ بە جوق ٴىس ساپارمەن كەلدىڭ بە؟ ماعان نەگە ايتپادىڭ؟",
+        "id": "trans-d_kk_8",
+        "en": "Little brother, when did you come to Beijing? For business or tourism? Why didn't you tell me?"
+    },
+    {
+        "zh": "考是考上了，不过学校不太理想。",
+        "kk": "ەمتيحاننان وتكەنمەن،تالداعان مەكتەبى ويداعىداي بولمادى.",
+        "id": "trans-d_kk_5",
+        "en": "She did get in, but the university isn't very ideal."
+    },
+    {
+        "zh": "换了，售货员态度挺好的，他们说这次进货时就发现有破的。",
+        "kk": "اۋىستىرىپ بەردى، زات ساتۋشىلاردىڭ پوزيتسياسى وتە جاقسى ەكەن، ولار وسى جولى زات كىرگىزگەندە ىستاكانداردىڭ سىنعانى بار ەكەنىن بايقاپتى.",
+        "id": "trans-d_kk_252",
+        "en": "I did, the salesperson was quite nice. They said they found some broken ones when they received the shipment this time."
+    },
+    {
+        "zh": "王姐，你能帮我们公司介绍几个外国客户吗?",
+        "kk": "ۋاڭ اپەكە، ٴسىز سەرىكتىگىمىزگە كومەكتەسىپ بىرنەشە شەتەلدىك قاريدارلاردى تانىستىرا الاسىز با؟",
+        "id": "trans-d_kk_615",
+        "en": "Sister Wang, can you help our company introduce a few foreign clients?"
+    },
+    {
+        "zh": "就他那两下子，算了吧。",
+        "kk": "قولىنان كوپ ەشتەمە كەلمەيدى، شياۋجياڭدى قوي،",
+        "id": "trans-d_kk_578",
+        "en": "With his limited skills, forget it."
+    },
+    {
+        "zh": "这能赖我吗，都是经济危机闹的。",
+        "kk": "بۇنى مەنەن كورەسىڭبەك، بارلىعى ەكونوميكالىق داعدارىستىڭ كەسەلى عوي.",
+        "id": "trans-d_kk_25",
+        "en": "Can you blame me? It's all because of the economic crisis."
+    },
+    {
+        "zh": "她办的那个刊物我也看了，虽然不专业，但选的稿件也有出彩的。",
+        "kk": "ول اشقان جۋرنالدى مەن دە كوردىم، كاسىپتىك بولماسا دا، تاڭداپ العان ماقالالار دا كەرەمەت.",
+        "id": "trans-d_kk_566",
+        "en": "I've also read the publication she manages. Although it's not professional, there are some outstanding articles."
+    },
+    {
+        "zh": "不用。",
+        "kk": "شىقپايمىن .",
+        "id": "trans-d_kk_117",
+        "en": "No need."
+    },
+    {
+        "zh": "那我办理托运可以吗?",
+        "kk": "وندا مەن جۇك تاسىمالىن بىتىرسەم بولا ما؟",
+        "id": "trans-d_kk_612",
+        "en": "Can I check it in?"
+    },
+    {
+        "zh": "当然带了，不然这几天我们怎么拍照？",
+        "kk": "ارينە، الىپ جۇرمىن، ويتپەگەندە بىرنەشە كۇننەن بەرى ٴبىز قالاي سۋرەتكە تۇستىك؟",
+        "id": "trans-d_kk_261",
+        "en": "Of course I did, otherwise how would we take pictures these days?"
+    },
+    {
+        "zh": "好的，谢谢。",
+        "kk": "جارايدى، راقىمەت.",
+        "id": "trans-d_kk_156",
+        "en": "Okay, thank you."
+    },
+    {
+        "zh": "您好，我是来应聘的，请问需要哪些材料?",
+        "kk": "سالەمەتسىزبە، مەن قىزمەت ىزدەۋگە كەلدىم، قانداي ماتەريالداردى قاجەت ەتەدى؟",
+        "id": "trans-d_kk_337",
+        "en": "Hello, I am here to apply for a job. What materials do I need to provide?"
+    },
+    {
+        "zh": "走路去多累啊，咱们还是骑自行车去吧!",
+        "kk": "جول جۇرىپ، شارشاپ – شالدىققانشا،  ءبىز تاعى دا ۆەلوسيپەدپەن بارايىق!",
+        "id": "trans-d_kk_448",
+        "en": "Walking is too tiring, let's ride a bike instead!"
+    },
+    {
+        "zh": "这张合影效果最好，背景选得好，色彩好，你的表情也好。",
+        "kk": "بۇل سۋرەت جاقسى تارتىلپتى، ارتقى كورىنىسى، رەڭى، سەنىڭ ميميكاڭدا جاقسى بولىپتى.",
+        "id": "trans-d_kk_90",
+        "en": "This group photo turned out the best, the background is well chosen, the colors are good, and your expression is great."
+    },
+    {
+        "zh": "哦，我要见你们的主管厂长，结工程款。",
+        "kk": "ە، مەن سىزدەردىڭ زاۆود باستىقتارىڭىزعا كەزىگىپ، قۇرىلىس اقشاسىن  الايىن دەگەن ەدىم.",
+        "id": "trans-d_kk_407",
+        "en": "Oh, I need to see your manager to settle the project payment."
+    },
+    {
+        "zh": "好的，那就后天，先带你去岳麓书院，然后再去橘子洲，怎么样?",
+        "kk": "جارايدى، ونان سوڭ ارتقى كۇنى، الدىمەن سەنى يۋەيۋ مەكتەبىنە ەرتىپ بارىپ، ونان سوڭ ماندارين وبلىسىنا بارىپ، قالاي بولادى؟",
+        "id": "trans-d_kk_38",
+        "en": "Okay, then the day after tomorrow. I'll first take you to Yuelu Academy, then to Orange Island. How about that?"
+    },
+    {
+        "zh": "那还用说，他们可是我们单位的模范夫妻。",
+        "kk": "ولارعا ٴسوز جوق،  ولار ٴبىزدىڭ قىزمەت ورنىمىزداعى ۇلگىلى ەرلى-زايىپتىلار.",
+        "id": "trans-d_kk_178",
+        "en": "That's for sure, they are the model couple in our unit."
+    },
+    {
+        "zh": "看小赵这身板，让他去帮忙是再合适不过了。",
+        "kk": "شياۋجاۋدىڭ كەلبەتىنە قاراپ اق وعان كومەكتەسۋدىڭ قاجەتى جوق سياقتى.",
+        "id": "trans-d_kk_388",
+        "en": "Look at Xiao Zhao's build; it's perfect for him to help."
+    },
+    {
+        "zh": "我的手机哪儿去了?",
+        "kk": "مەنىڭ قول تەلەفونىم قايدا كەتتى؟",
+        "id": "trans-d_kk_449",
+        "en": "Where did my phone go?"
+    },
+    {
+        "zh": "我没有你做得好吃。",
+        "kk": "مەن سەندەي  ٴدامدى جاساي المايىم .",
+        "id": "trans-d_kk_546",
+        "en": "I can't cook as well as you do."
+    },
+    {
+        "zh": "放假打算去哪玩啊?",
+        "kk": "دەمالىستا قايدا بارىپ ويناماقشىسىڭ؟",
+        "id": "trans-d_kk_272",
+        "en": "Where do you plan to go for vacation?"
+    },
+    {
+        "zh": "这件颜色挺好的，但是有点儿瘦，有没有大一号的?",
+        "kk": "مىنانىڭ رەڭى جاقسى ەكەن، ٴبىراق ازىراق كىشكەنە بولىپ تۇر، ۇلكەن ٴنومىرى بارما؟",
+        "id": "trans-d_kk_221",
+        "en": "This color is nice, but it's a bit tight. Do you have a larger size?"
+    },
+    {
+        "zh": "也对，去开会还是应该穿得正式一点儿。",
+        "kk": "سولاي، جيىن اشۋعا بارعان سوڭ رەتتى  كيىنۋ كەرەك.",
+        "id": "trans-d_kk_125",
+        "en": "That's true, it's better to dress more formally for a meeting."
+    },
+    {
+        "zh": "恐怕你不是只喜欢我吧!",
+        "kk": "سەن مەنى عانا جاقسى كورمەيتىن شىعارسىڭ !",
+        "id": "trans-d_kk_422",
+        "en": "I'm afraid you don't only like me, right!"
+    },
+    {
+        "zh": "这都怪我，是我赶时间。您别生气。咱有话好商量，行吗?",
+        "kk": "ايەل:.مەن كىنالىمىن، رەنجىمەڭىز.   اسىعىس ەدى، اقىلداسىپ كورسەك بولاما؟",
+        "id": "trans-d_kk_331",
+        "en": "It's all my fault; I was in a hurry. Please don't be angry. Let's talk it over, okay?"
+    },
+    {
+        "zh": "穿这件吧，这件我觉得更漂亮一点儿。",
+        "kk": "مىنانى كيەمىن، وسى كيىمىم جاقسى ۇقسايدى.",
+        "id": "trans-d_kk_123",
+        "en": "I'll wear this one. I think this one looks prettier."
+    },
+    {
+        "zh": "你好。我想开立一个账户，但我不知道要开哪种账户。",
+        "kk": "سالەمەتسىز بە. مەن ٴبىر ەسەپ  تۇرى اشقىم كەلەدى، ٴبىراق قانداي ەسەپ اشۋدى بىلمەيمىن.",
+        "id": "trans-d_kk_463",
+        "en": "Hello. I want to open an account, but I don't know which type to open."
+    },
+    {
+        "zh": "这桔子真甜，你在哪儿买的?",
+        "kk": "مىنا ماندارين راسىندا ٴتاتتى ەكەن، سەن قاي جەردەن ساتىپ الاسىڭ؟",
+        "id": "trans-d_kk_339",
+        "en": "These oranges are really sweet. Where did you buy them?"
+    },
+    {
+        "zh": "不对吧?我的孩子不到一米二。",
+        "kk": "سولاي ما؟ مەنىڭ بالالارىمنىڭ بويى ٴبىر مەتر ەكىگە دە جەتپەيدى.",
+        "id": "trans-d_kk_720",
+        "en": "That's not right, my child is under 1.2 meters."
+    },
+    {
+        "zh": "语文老师让我们多阅读名著。我想借一本文学方面的书。",
+        "kk": "ٴتىل-ادەبيەت مۇعالىمى بىزگە ايگىلى شىعارمالاردى كوبىرەك وقۋ كەرەك دەدى.مەن بۇل ادەبي جاقتاعى ٴبىر كىتاپتى قارىزعا الماقشىمىن.",
+        "id": "trans-d_kk_687",
+        "en": "The language teacher advised us to read more classics. I want to borrow a book on literature."
+    },
+    {
+        "zh": "就这首吧，我没事时经常唱的。",
+        "kk": "مىنا ٴاندى تالدايىق، بوس ۋاقىتىمدا ۇنەمى ايتىپ جۇرەتىن ٴانىم.",
+        "id": "trans-d_kk_186",
+        "en": "How about this one? I often sing it when I'm free."
+    },
+    {
+        "zh": "以前喜欢吃，但现在不喜欢了。",
+        "kk": "بۇرىن جەگەندى جاقسى كورەتىن ەدىم، ٴبىراق قازىر ۇناتپايتىن بولدىم.",
+        "id": "trans-d_kk_602",
+        "en": "I used to like it, but not anymore."
+    },
+    {
+        "zh": "那不一定吧，只有提高产品质量才能得到顾客的信任。",
+        "kk": "ول ەكىتالاي، ءونىم ساپاسىن جوعارىلاتقاندا عانا قاريدارلاردىڭ سەنىمىنە يە بولۋعا بولادى.",
+        "id": "trans-d_kk_61",
+        "en": "That's not necessarily true. Only by improving product quality can you gain customers' trust."
+    },
+    {
+        "zh": "没有，你有什么好的建议吗?",
+        "kk": "جوق، سەنىڭ قانداي جاقسى ۇسىنىسىڭ بار؟",
+        "id": "trans-d_kk_638",
+        "en": "Nothing, do you have any good suggestions?"
+    },
+    {
+        "zh": "真臭。到处都是垃圾!",
+        "kk": "نەدەگەن ساسىق. بارلىق جەر قوقىر-قوقسىق!",
+        "id": "trans-d_kk_239",
+        "en": "It really stinks. There's garbage everywhere!"
+    },
+    {
+        "zh": "您经常存钱和取钱吗?",
+        "kk": "ءسىز ۇنەمى اقشا ساقتايسىز با، جوق اقشا شىعارىپ الالاسىز با؟",
+        "id": "trans-d_kk_464",
+        "en": "Do you frequently deposit and withdraw money?"
+    },
+    {
+        "zh": "饭还没好吗?",
+        "kk": "تاماق دايىن ما؟",
+        "id": "trans-d_kk_485",
+        "en": "Isn't the meal ready yet?"
+    },
+    {
+        "zh": "您请!",
+        "kk": "كىرىڭىز!",
+        "id": "trans-d_kk_517",
+        "en": "Please go ahead!"
+    },
+    {
+        "zh": "最近医院特别忙，下周六吧。",
+        "kk": "تاياۋدا شيپاحانا ەرەكشە قاربالاس، كەلەسى سەنبى كۇنى بارايىق.",
+        "id": "trans-d_kk_385",
+        "en": "The hospital has been particularly busy recently, let's go next Saturday."
+    },
+    {
+        "zh": "是的，我和孩子一起去，爬山是他最大的爱好。",
+        "kk": "سولاي، مەن بالامەن بىرگە بارامىن، تاۋعا شىعۋ ونىڭ ەڭ ۇلكەن اۋەسى.",
+        "id": "trans-d_kk_503",
+        "en": "Yes, I go with my child. Hiking is his greatest hobby."
+    },
+    {
+        "zh": "在哪儿买的?",
+        "kk": "قاي جەردەن ساتىپ العانسىڭ؟",
+        "id": "trans-d_kk_563",
+        "en": "Where did you buy them?"
+    },
+    {
+        "zh": "快点儿，出租车还在下面等着呢。",
+        "kk": "تەز بول، تاكسي استىدا كۇتىپ تۇر.",
+        "id": "trans-d_kk_104",
+        "en": "Hurry up, the taxi is still waiting downstairs."
+    },
+    {
+        "zh": "听说你昨天晚上给安娜过生日去了。",
+        "kk": "ەستۋىمشە. كەشە اننانىڭ تۋىلعان كۇنىن وتكىزۋگە بارىپىسز -عوي.",
+        "id": "trans-d_kk_363",
+        "en": "I heard you attended Anna's birthday party last night."
+    },
+    {
+        "zh": "你应该多穿点儿衣服。",
+        "kk": "سەن قالىڭ كيسەڭ بولمايما.",
+        "id": "trans-d_kk_370",
+        "en": "You should wear more clothes."
+    },
+    {
+        "zh": "是吗?那我就不客气了。",
+        "kk": "سولاي ما؟ وندا مەن تارتىنبايىن.",
+        "id": "trans-d_kk_211",
+        "en": "Really? Then I won't hold back."
+    },
+    {
+        "zh": "除非老李出面。",
+        "kk": "ەگەر لاۋلى بەت كورسەتپەسە قيىنداۋ.",
+        "id": "trans-d_kk_663",
+        "en": "Unless Old Li steps in."
+    },
+    {
+        "zh": "一天三次，饭后吃。",
+        "kk": "ٴبىر كۇندە ٴۇش رەت تاماقتان كەيىن جەۋ كەرەك.",
+        "id": "trans-d_kk_67",
+        "en": "Three times a day, after meals."
+    },
+    {
+        "zh": "我看我应该把裙子找出来了。",
+        "kk": "جازدىق كويلەگىمدى تاۋىپ السام بولادى ەكەن.",
+        "id": "trans-d_kk_344",
+        "en": "I think I should find my skirt."
+    },
+    {
+        "zh": "可以，您先去办行李托运手续吧，一会儿再过来进行安全检查。",
+        "kk": "بولادى !،ٴسىز الدىمەن جۇك تاسۋ راسمياتىن وتەسەڭىز، سالدەن سوڭ كەلىپ حاۋىپسىزدىك تەكسەرۋىن جۇرگىزەسىز.",
+        "id": "trans-d_kk_613",
+        "en": "Yes, please go check your luggage first, and then come back for the security check."
+    },
+    {
+        "zh": "这个胡同里的房子看起来年代比较久远。",
+        "kk": "بۇل حۋتۇڭداعى ءۇي قاراماققا ءبىرشاما ۇزاق كورىنەدى.",
+        "id": "trans-d_kk_644",
+        "en": "The houses in this alley look quite old."
+    },
+    {
+        "zh": "这头也有吗?这边人少，也近一点儿。",
+        "kk": "مىنا جاق باسىندا  بار ما؟ بۇل جاقتا ادام از،  ٴارى جاقىن ەكەن.",
+        "id": "trans-d_kk_660",
+        "en": "Is there one on this end too? There are fewer people here, and it's a bit closer."
+    },
+    {
+        "zh": "那我们就周日去吧，周日公园里更好玩儿。",
+        "kk": "وندا ٴبىز جەكسەنبى كۇنى ارايىق، جەكسەنبى باقشاداعى ويىن ٴتىپتى دە قىزىقتى بولادى.",
+        "id": "trans-d_kk_130",
+        "en": "Then let's go on Sunday, it's even more fun in the park on Sundays."
+    },
+    {
+        "zh": "我和同学说好一起去打篮球。",
+        "kk": "ساباقتاستارىممەن بىرگە باسكەتبول ويناۋعا بارامىن .",
+        "id": "trans-d_kk_619",
+        "en": "I agreed with my classmates to go play basketball together."
+    },
+    {
+        "zh": "看来这次聚会浪费了不少粮食啊!",
+        "kk": "قاراعاندا بۇل جولعى باس قوسۋدا كوپتەگەن استىق ىسىراپ بولعان ەكەن عوي!",
+        "id": "trans-d_kk_492",
+        "en": "It seems that this gathering wasted quite a bit of food!"
+    },
+    {
+        "zh": "应该会吧。好像是在一周之后。",
+        "kk": "ٴبىر اپتادان كەيىن سياقتى.",
+        "id": "trans-d_kk_528",
+        "en": "It probably will be. It seems like it'll happen in a week."
+    },
+    {
+        "zh": "陈小明，找到工作了吗?",
+        "kk": "چىن شياۋميڭ قىزمەت تاپتى ما؟",
+        "id": "trans-d_kk_10",
+        "en": "Chen Xiaoming, have you found a job?"
+    },
+    {
+        "zh": "是吗?太好了!我五点四十下课，我们六点一刻在学校门口见面。",
+        "kk": "سولاي ما؟ وتە جاقسى بولدى! ساعات 5 تەن 40 مينوت وتكەندە مەكتەپتىڭ الدىندا كەزدەسەيىك.",
+        "id": "trans-d_kk_642",
+        "en": "Really? That's great! I finish class at 5:40, let's meet at the school gate at 6:15."
+    },
+    {
+        "zh": "请问银行怎么走?",
+        "kk": "بانكەگە قالاي جۇرەدى؟",
+        "id": "trans-d_kk_198",
+        "en": "Excuse me, how do I get to the bank?"
+    },
+    {
+        "zh": "在中国，结婚以前一定要去检查身体，这是真的吗？",
+        "kk": "جۇڭگودا بۇرىن دەنساۋلىعىڭىزدى ٴسوزسىز تەكسەرۋ كەرەك ەكەن، بۇل راس پا؟",
+        "id": "trans-d_kk_390",
+        "en": "In China, is it true that you must get a health check before getting married?"
+    },
+    {
+        "zh": "他今天一直保持沉默，太奇怪了。",
+        "kk": "ول بۇگىن ۇندەمەي وتىردى، قاجاپ.",
+        "id": "trans-d_kk_213",
+        "en": "He stayed silent today, which was really strange."
+    },
+    {
+        "zh": "小张，你知道中国银行什么时候下班吗?",
+        "kk": "شياۋجاڭ جۇڭگو بانكەسىنىڭ قاي كەزدە قىزمەتتەن تۇسەتىنىن بىلەسىز بە؟",
+        "id": "trans-d_kk_357",
+        "en": "Xiao Zhang, do you know when the Bank of China closes?"
+    },
+    {
+        "zh": "学校对面有商店，你出门往左走就能看到。",
+        "kk": "مەكتەپتىڭ قارسىسىندا دۇكەن بار، سىرتقا شىعىپ سولعا قاراي جۇرسەڭ-اق كورە الاسىڭ.",
+        "id": "trans-d_kk_460",
+        "en": "There's a shop opposite the school. If you go out and turn left, you'll see it."
+    },
+    {
+        "zh": "对不起，昨天刚卖完。明天还要进货，你再来看看吧?",
+        "kk": "كەشىرىڭىز،كەشە ساتىلىپ بولدى، ەرتەڭ زات كىرگىزەمىز، ەرتەڭ كەلىپ كورىڭىز؟",
+        "id": "trans-d_kk_381",
+        "en": "Sorry, they just sold out yesterday. We are getting more stock tomorrow, can you come back to check?"
+    },
+    {
+        "zh": "那太可惜了。那还会推迟举办吗?",
+        "kk": "ول وتە وكىنىشتى ەكەن. وندا تاعى كەشىكتىرىلىپ وتكىزىلۋى مۇمكىن بە؟",
+        "id": "trans-d_kk_527",
+        "en": "That's a shame. Will it be postponed?"
+    },
+    {
+        "zh": "没在桌子上吗?",
+        "kk": "ۇستەلدە ەمەس پە؟",
+        "id": "trans-d_kk_450",
+        "en": "Isn't it on the table?"
+    },
+    {
+        "zh": "昨天刚买的。",
+        "kk": "كەشە عانا ساتىپ الدىم.",
+        "id": "trans-d_kk_562",
+        "en": "I just bought them yesterday."
+    },
+    {
+        "zh": "招聘单位的条件也是越来越高，要博士，还要有相关工作经历。",
+        "kk": "قىزمەتكەر قابىلداۋشى ورىنداردىڭ تالابى دا بارعان سايىن جوعارلادى، دوكتور بولۋىڭ شارت، قاتىستى قىزمەت كەشىرمەلەرىڭ بولۋى شارت.",
+        "id": "trans-d_kk_17",
+        "en": "The recruitment companies are setting higher and higher requirements, asking for a PhD, and they also want relevant work experience."
+    },
+    {
+        "zh": "我好色，颜色好看才让人想吃嘛。",
+        "kk": "مەن رەڭى ادەمى بولعاندا عانا  تاماق جەگىم كەلەدى.",
+        "id": "trans-d_kk_257",
+        "en": "I'm fond of color, as a good appearance makes you want to eat."
+    },
+    {
+        "zh": "是啊，这是他第一天上班。",
+        "kk": "سولاي، بۇل ونىڭ ٴبىرىنشى كۇنى جۇمىسقا شىعۋى.",
+        "id": "trans-d_kk_271",
+        "en": "Yes, it's his first day at work."
+    },
+    {
+        "zh": "别灰心，慢慢来吧。总会找到的。",
+        "kk": "سۋىنۋعا بولمايدى. اقىرىن – اقىرىن قىزمەت تابىلادى.",
+        "id": "trans-d_kk_715",
+        "en": "Don't lose heart, take it slow. You will find one eventually."
+    },
+    {
+        "zh": "这照相机怎么坏了？打开就自动关机。",
+        "kk": "مىنا فوتواپپارات قالاي بۇزىلدى؟ اشسام بولدى اۆتوماتتى جاۋىلىپ قالادى.",
+        "id": "trans-d_kk_258",
+        "en": "What's wrong with this camera? It turns off automatically when I turn it on."
+    },
+    {
+        "zh": "没关系，我平时都坐电梯。",
+        "kk": "وقاسى جوق، مەن ادەتتە ليفتكە وتىرامىن.",
+        "id": "trans-d_kk_440",
+        "en": "It's okay, I usually take the elevator."
+    },
+    {
+        "zh": "医生，我一个晚上拉了六次肚子，现在一点儿力气都没了!",
+        "kk": "شيپاگەر، مەن ٴبىر تۇندە التى رەت ئشىم ٴوتتى، قازىر  ٴالىم قۇرىپ تۇر!",
+        "id": "trans-d_kk_235",
+        "en": "Doctor, I had diarrhea six times in one night, and now I have no strength at all!"
+    },
+    {
+        "zh": "王丽的电话号码不知道让我记在哪儿了。",
+        "kk": "ۋاڭ ليدىڭ تەلەفون ٴنومىرىن  قايدا قويعانىمدى بىلمەيمىن.",
+        "id": "trans-d_kk_416",
+        "en": "I don't know where I noted down Wang Li's phone number."
+    },
+    {
+        "zh": "真是越忙越出错，我还有很多作业要写呢。",
+        "kk": "راسىندا قاربالاس بولعان سايىن قاتەلىك تۋىلادى، مەن دە كوپتەگەن تاپسىرمالاردى جازۋىم كەرەك.",
+        "id": "trans-d_kk_549",
+        "en": "The busier I get, the more mistakes I make. I still have a lot of homework to do."
+    },
+    {
+        "zh": "小莉，好长时间没去看你父母了，最近工作太忙，常常加班。",
+        "kk": "شياۋلي ۇزاق ۋاقىت اكە-شەشەسىنىڭ ۇيىنە بارمادى، جۋىقتان بەرى قىزمەتى وتە قاربالاس بولعاندىقتان، ۇنەمى ۇستەمە جۇمىس ىستەيدى.",
+        "id": "trans-d_kk_535",
+        "en": "Xiao Li, I haven't visited your parents for a long time. I've been very busy with work lately and often work overtime."
+    },
+    {
+        "zh": "请在这里签个字，一会儿我带你过去面试。",
+        "kk": "ايەل:مىنا اراعا توقتامعا قول قويىڭىز، سالدەن سوڭ سەنى بەتپە- بەت ەمتيقانىنا ەرتىپ بارامىن.",
+        "id": "trans-d_kk_356",
+        "en": "Please sign here, and I'll take you to the interview in a moment."
+    },
+    {
+        "zh": "那这件事就好办了。",
+        "kk": "بۇل ءىس وڭىنا كەلەدى.",
+        "id": "trans-d_kk_7",
+        "en": "Then this matter will be easy to handle."
+    },
+    {
+        "zh": "明天吧，今天是我妈妈的生日，我得回家吃饭。",
+        "kk": "ەرتەڭ بارايىق، بۇگىن شەشەمنىڭ تۋعان كۇنى، مەن ۇيگە قايتىپ تاماق ىشۋىم كەرەك.",
+        "id": "trans-d_kk_395",
+        "en": "How about tomorrow, today is my mom's birthday and I have to go home for dinner."
+    },
+    {
+        "zh": "你画的这些画儿真漂亮!一点儿也不像业余爱好者画的。",
+        "kk": "سىزعان مىنا سۋرەتتەر وتە ادەمى ەكەن! كاسىپتەن سىرتقى اۋەسكەرلەردىڭ سۋرەتىنە ۇقسامايدى.",
+        "id": "trans-d_kk_314",
+        "en": "The paintings you did are really beautiful! They don't look like they were done by an amateur at all."
+    },
+    {
+        "zh": "恐怕不行，厂长正开会呢。",
+        "kk": "كەزىگە الماسىز، زاۆود باستىعى ٴماجىلىس اشىپ جاتىر.",
+        "id": "trans-d_kk_410",
+        "en": "I'm afraid not, the manager is in a meeting."
+    },
+    {
+        "zh": "不是很贵，每人20。",
+        "kk": "ايەل : ونشا قىمبات ەمەس، ادام باسىنا 20 يۋان",
+        "id": "trans-d_kk_115",
+        "en": "It wasn't very expensive, 20 each."
+    },
+    {
+        "zh": "所以还是再努努力，到了周末好好休息吧。",
+        "kk": "سوندىقتان تاعى دا قۇلشىنىپ، اپتا سوڭىندا دەمال.",
+        "id": "trans-d_kk_291",
+        "en": "So, just keep working hard, and take a good rest on the weekend."
+    },
+    {
+        "zh": "赵先生……有您的登记信息，三号桌，我带您过去。",
+        "kk": "جاۋ مىرزا 3-ٴنومىرلى ۇستەل بار، مەن ٴسىزدى ەرتىپ بارايىن.",
+        "id": "trans-d_kk_657",
+        "en": "Mr. Zhao... I have your registration information. Table number three, I'll take you there."
+    },
+    {
+        "zh": "田芳，你作业做完了吗?",
+        "kk": "تيان فاڭ، سەن تاپسىرمانى جازىپ بولدىڭ با؟",
+        "id": "trans-d_kk_264",
+        "en": "Tian Fang, have you finished your homework?"
+    },
+    {
+        "zh": "差十分六点。",
+        "kk": "التىعا ون مينۋت قالدى.",
+        "id": "trans-d_kk_521",
+        "en": "It's ten minutes to six."
+    },
+    {
+        "zh": "火车晚点了，又赶上早高峰，一直打不到车，后来又遇上堵车。",
+        "kk": "پويەز كەشىگىپ قالدى، تاڭەرتەڭگى كەپتەلىس بولدى، ماشينا الماي، كەيىن كەپتەلىسكە ۇشىرادىق.",
+        "id": "trans-d_kk_368",
+        "en": "The train was delayed and then it was the morning rush hour. I couldn't get a taxi, and later there was a traffic jam."
+    },
+    {
+        "zh": "所以你不应该乱扔垃圾呀!",
+        "kk": "سوندىقتان سەن قوقىر-قوقسىقتى بەتالدى تاستاما!",
+        "id": "trans-d_kk_240",
+        "en": "That's why you shouldn't litter!"
+    },
+    {
+        "zh": "真对不起，下次我一定注意。",
+        "kk": "كەشىرىڭىز، كەلەسى جولى مەن ٴسوزسىز نازار اۋدارامىن.",
+        "id": "trans-d_kk_480",
+        "en": "I'm really sorry, I'll definitely pay attention next time."
+    },
+    {
+        "zh": "那场音乐会的票现在打9折，可是还是有点儿贵。",
+        "kk": "مۋزيكا كەشىنىڭ سول بەلەتى قازىر %90  ارزانداتىلىپ تۇر، ٴبىراق ٴالى دە قىمبات.",
+        "id": "trans-d_kk_646",
+        "en": "The tickets for that concert are now at a 10% discount, but they are still a bit expensive."
+    },
+    {
+        "zh": "有，最近我们进了很多款式的羽绒服。",
+        "kk": "بار، جۋىقتان بەرى ٴبىز كوپتەگەن مامىق كيىمدەر كىرگىزدىك.",
+        "id": "trans-d_kk_375",
+        "en": "Yes, we recently got many styles of down jackets."
+    },
+    {
+        "zh": "你觉得这个计划怎样？",
+        "kk": "سىزشە بۇل جوسپار قانداي؟",
+        "id": "trans-d_kk_529",
+        "en": "What do you think of this plan?"
+    },
+    {
+        "zh": "我小时候的梦想就是开一个自己的画展。",
+        "kk": "مەنىڭ كىشكەنە كەزىندەگى ارمانىم ٴوزىمنىڭ سۋرەت كورمەمدى اشۋ ەدى.",
+        "id": "trans-d_kk_315",
+        "en": "My dream since childhood was to hold my own art exhibition."
+    },
+    {
+        "zh": "你怎么敢穿这么高的高跟鞋，累不累啊?",
+        "kk": "مۇنداي بيىك وكشەلى شاقايدى كيۋگە قالاي باتىلدىق ەتەسىڭ، شارشامايسىڭ با؟",
+        "id": "trans-d_kk_268",
+        "en": "How dare you wear such high heels, aren't you tired?"
+    },
+    {
+        "zh": "要考试了，哪有心思啊?",
+        "kk": "ەمتيحان بار،  قايداعى ويناعان؟",
+        "id": "trans-d_kk_420",
+        "en": "I have exams coming up, how can I have the mood for that?"
+    },
+    {
+        "zh": "不是，刚才儿子回来了，你看，这次考试他只得了四十分。",
+        "kk": "ۇلىم قايتىپ كەلگەن، قاراشى، وسى جولعى ەمتيقاننان 40 ٴنومىر الپىتى.",
+        "id": "trans-d_kk_164",
+        "en": "No, my son just came back. Look, he only scored forty on this exam."
+    },
+    {
+        "zh": "伯父，这是我的一点儿心意。",
+        "kk": "بۇل مەنىڭ ازعانتاي نيەتىم.",
+        "id": "trans-d_kk_631",
+        "en": "Uncle, this is a small token of my appreciation."
+    },
+    {
+        "zh": "我听说公园里今天晚上有一场演出，我正好有两张票，你有兴趣吗?",
+        "kk": "مەن باقشادا بۇگىن كەشتە ويىن بار ەكەن، مەندە ەكى بەلەت بار، قىزىعاسىڭ با؟",
+        "id": "trans-d_kk_639",
+        "en": "I heard there's a performance in the park tonight, and I happen to have two tickets. Are you interested?"
+    },
+    {
+        "zh": "我袜子不是挺多的吗?",
+        "kk": "بايپاق تىم كوپ ەمەس پە؟",
+        "id": "trans-d_kk_740",
+        "en": "Don't I have plenty of socks?"
+    },
+    {
+        "zh": "我好口渴啊，你知道这附近哪儿有卖饮料的吗?",
+        "kk": "مەن شولدەپ  كەتتىم، وسى ماڭدا سۋسىن ساتاتىن قايدا ەكەنىن بىلەسىڭ بە؟",
+        "id": "trans-d_kk_459",
+        "en": "I'm so thirsty, do you know where there's a place to buy drinks nearby?"
+    },
+    {
+        "zh": "好，不见不散!",
+        "kk": "جارايدى، ٴسوسىز كەزدەسەيىك!",
+        "id": "trans-d_kk_643",
+        "en": "Okay, see you there!"
+    },
+    {
+        "zh": "啊!对不起，我着急去上班，忘了付钱，我马上给。",
+        "kk": "ا! كەشىر، مەن قىزمەتكە ساسقالاقتاپ، اقشا تولەۋدى ۇمىتىپ قالدىم، دەرەۋ بەرەيىن.",
+        "id": "trans-d_kk_336",
+        "en": "Ah! Sorry, I was in a hurry to go to work and forgot to pay. I'll pay right away."
+    },
+    {
+        "zh": "黄色的，看上去更可爱一些。",
+        "kk": "سارى ٴتۇستى، قاراماققا ٴتىپتى دە سۇيكىمدى كورىنەدى.",
+        "id": "trans-d_kk_649",
+        "en": "The yellow one, it looks cuter."
+    },
+    {
+        "zh": "就是颜色很漂亮、香味很浓、味道很美，这三种缺一不可。",
+        "kk": "رەڭى كوركەم، حوش ٴيىتسى، ٴدامى ٴتىل ۇيىرەدى، بۇل ۇشەۋىنىڭ ٴبىرى كەم بولسا بولمايدى.",
+        "id": "trans-d_kk_255",
+        "en": "It means the color is beautiful, the aroma is strong, and the taste is delicious; these three cannot be lacking."
+    },
+    {
+        "zh": "嗯，要是课前不喝一杯咖啡，很多同学都不能保持清醒。",
+        "kk": "يا، ەگەر ساباقتان بۇرىن كوفە ىشپەسەڭ، كوپتەگەن ساباقتاستار سەرگەك بولا المايدى ەكەن .",
+        "id": "trans-d_kk_582",
+        "en": "Well, if we don't have a cup of coffee before class, many students can't stay awake."
+    },
+    {
+        "zh": "放松点儿，你又不是第一次发言。",
+        "kk": "كوڭىلدەۋ تۇر، سەن ٴبىرىنشى رەت ٴسوز سويلەمەيسىڭ عوي .",
+        "id": "trans-d_kk_574",
+        "en": "Relax a bit, it's not your first time speaking."
+    },
+    {
+        "zh": "我早就出来了，可路上堵车堵得厉害。走走走，我请你吃饭去。",
+        "kk": "مەن ەرتە شىققام، ٴبىراق جولدا ماشينا توسىلىپ قالدى. جۇرىڭدەر، تاماققا بارايىق.",
+        "id": "trans-d_kk_473",
+        "en": "I left a long time ago, but there was a terrible traffic jam. Let's go, I'll treat you to dinner."
+    },
+    {
+        "zh": "这件让他试试。",
+        "kk": "بۇنى ول سىناپ كورسىن.",
+        "id": "trans-d_kk_377",
+        "en": "Let him try this one."
+    },
+    {
+        "zh": "前一阵子工作不忙，出去旅游的时候把手机丢了，电话号码都找不到了。",
+        "kk": "الدىڭعى ٴبىر مەزگىلدە قىزمەتىم عوي قاربالاس ەمەس، سىرتقا شىعىپ ساياحاتتاعاندا قولفوندى جوعالتىپ الدىم، تەلەفون ٴنومىرلەردى تابا المادىم.",
+        "id": "trans-d_kk_207",
+        "en": "I wasn't busy with work a while ago, and when I went traveling, I lost my phone and couldn't find any phone numbers."
+    },
+    {
+        "zh": "谢谢您。",
+        "kk": "راحمەت سىزگە.",
+        "id": "trans-d_kk_758",
+        "en": "Thank you."
+    },
+    {
+        "zh": "我昨天跟朋友去唱歌了，今天早上四点才回家。",
+        "kk": "مەن كەشە دوسىممەن ٴان ايتتىم، بۇگىن تاڭەرتەڭ ساعات تورتتە ۇيگە  قايتتىم.",
+        "id": "trans-d_kk_628",
+        "en": "I went singing with friends yesterday and only got home at four this morning."
+    },
+    {
+        "zh": "两个成人，孩子两岁半。",
+        "kk": "ەكى ەرەسەك ادام، بالامىز ەكى جاسقا كەلدى.",
+        "id": "trans-d_kk_718",
+        "en": "Two adults, child is two and a half years old."
+    },
+    {
+        "zh": "他没有反应。",
+        "kk": "ول ەشقانداي اڭىس بىلدىرمەدى.",
+        "id": "trans-d_kk_305",
+        "en": "He had no reaction."
+    },
+    {
+        "zh": "别着急，我们可以欣赏一下儿风景。",
+        "kk": "ابىرجىماڭىز، ٴبىز كورىنىستەن ٴلاززاتتانۋىمىزعا بولادى.",
+        "id": "trans-d_kk_325",
+        "en": "Don't worry, we can enjoy the scenery."
+    },
+    {
+        "zh": "那不一样。",
+        "kk": "ول ۇقسامايدى.",
+        "id": "trans-d_kk_431",
+        "en": "It's not the same."
+    },
+    {
+        "zh": "还是到正门下吧。",
+        "kk": "الدە قاقپادان تۇسەيىك.",
+        "id": "trans-d_kk_279",
+        "en": "Let's get off at the main entrance."
+    },
+    {
+        "zh": "这么多歌我都不知道选哪首了。",
+        "kk": "وسىنشا  كوپ اننەن قايسىسىن تالداۋدى بىلمەيمىن.",
+        "id": "trans-d_kk_185",
+        "en": "There are so many songs, I don't know which one to choose."
+    },
+    {
+        "zh": "是的，谢谢你。还好被你看到了，丢了就麻烦了。",
+        "kk": "ٴيا، راقىمەت سىزگە. ءبىر ءتاۋىرى، سەن كوردىڭ، جوعالىپ كەتسە اۋرەشىلىك بولات ەدى .",
+        "id": "trans-d_kk_737",
+        "en": "Yes, thank you. Luckily, you saw it. It would have been a problem if it was lost."
+    },
+    {
+        "zh": "我很小的时候特别喜欢下象棋，现在大了反而不怎么喜欢了。",
+        "kk": "مەن كىشكەنە كەزىمدە شاحمات ويناۋدى ەرەكشە ۇناتامىن، قازىر ۇلكەن بولعاندا ونى ونشا جاقسى كورمەيمىن.",
+        "id": "trans-d_kk_443",
+        "en": "I really loved playing chess when I was little, but now that I'm older, I don't like it as much."
+    },
+    {
+        "zh": "你看起来比以前胖了些。",
+        "kk": "قاراعاندا بۇرىنعىدان سەمىرىپ قالىپسىڭ .",
+        "id": "trans-d_kk_763",
+        "en": "You look a bit fatter than before."
+    },
+    {
+        "zh": "对，北京这边好几个客户要跟，大家都走不开，只能我自己去。",
+        "kk": "جالعىز بارامىن، بەيجيڭدەگىلەردىڭ ٴبارىنىڭ قاريدارى بار، ٴبارىنىڭ قول تيمەيدى، تەك ٴوزىم عانا بارامىن.",
+        "id": "trans-d_kk_53",
+        "en": "Yes, several clients in Beijing need to be attended to, and everyone here is occupied, so I have to go myself."
+    },
+    {
+        "zh": "现在房价太贵，再等等看吧。",
+        "kk": "قازىر ٴۇي باعاسى قىمبات،  كۇتە تۇرىڭىز.",
+        "id": "trans-d_kk_74",
+        "en": "The housing prices are too high now, let's wait and see."
+    },
+    {
+        "zh": "今天下午的比赛临时取消了。",
+        "kk": "بۇگىن تۇستەن كەيىنگى جارىس ۋاقىتشا كۇشىنەن قالدىرىلدى.",
+        "id": "trans-d_kk_524",
+        "en": "This afternoon's match has been canceled at the last minute."
+    },
+    {
+        "zh": "你都多大了，还看这个? 这都是小孩儿看的。",
+        "kk": "سەن ەرەسەك ادام بولا تۇرا وسىنى كورەسىڭبە، بۇنى بالالار كورەدى ەمەسپە .",
+        "id": "trans-d_kk_110",
+        "en": "How old are you, and you're still watching this? These are for kids."
+    },
+    {
+        "zh": "好看。",
+        "kk": "ادەمى ەكەن.",
+        "id": "trans-d_kk_742",
+        "en": "It looks nice."
+    },
+    {
+        "zh": "你是怎么弄的?怎么不看路?",
+        "kk": "سەعان نە بولدى؟ كوزىكە قاراپ جۇرمەيسىڭ بە؟",
+        "id": "trans-d_kk_328",
+        "en": "How did you manage that? Why weren't you watching the road?"
+    },
+    {
+        "zh": "这边的面包是免费的。",
+        "kk": "مىنا جاقتاعى بولكا اقىسىز.",
+        "id": "trans-d_kk_489",
+        "en": "The bread here is free."
+    },
+    {
+        "zh": "没的说，有什么问题你尽管问他。",
+        "kk": "جاقسى، نە ماسەلە بولسا دا ودان سۇراساڭىز بولادى .",
+        "id": "trans-d_kk_476",
+        "en": "It's excellent. If you have any questions, feel free to ask him."
+    },
+    {
+        "zh": "明天是我妈的生日，我想给她一个惊喜。",
+        "kk": "ەرتەڭ مەنىڭ شەشەمنىڭ تۋعان كۇنى، مەن وعان توسىن قۋانىش باعىشتاعىم كەلەدى.",
+        "id": "trans-d_kk_675",
+        "en": "Tomorrow is my mom's birthday, I want to give her a surprise."
+    },
+    {
+        "zh": "好的，谢谢。",
+        "kk": "جارايدى، راقىمەت.",
+        "id": "trans-d_kk_382",
+        "en": "Okay, thank you."
+    },
+    {
+        "zh": "下一班是十二点半，还剩几张票，不过都不打折。",
+        "kk": "كەلەسى كەزەك ساعات 12 جارىمدا بولىپ، تاعى دا بىرنەشە بەلەت قالعان، ٴبىراق ارزانداتىلمايدى.",
+        "id": "trans-d_kk_500",
+        "en": "The next one is at 12:30, there are a few tickets left, but none of them are discounted."
+    },
+    {
+        "zh": "往前走，两节火车之间，左边的房间就是开水房。",
+        "kk": "ەكى ۋاگون اراسىندا سول جاقتاعى بولمەدە سۋ ٴۇيى بار،",
+        "id": "trans-d_kk_659",
+        "en": "Go straight ahead, between the two train coaches, the room on the left is the hot water room."
+    },
+    {
+        "zh": "谁说的，连我都下得过他。",
+        "kk": "كىم ايتادى،مەن ونى جەڭىپ شىعا الامىن.",
+        "id": "trans-d_kk_588",
+        "en": "Who says that? Even I can beat him."
+    },
+    {
+        "zh": "习惯了，我也没办法，个子太矮了。",
+        "kk": "داعدىلانىپ كەتتىم، مەن دە امالسىزبىن، بويىم وتە الاسا بولدى.",
+        "id": "trans-d_kk_269",
+        "en": "I'm used to it, I have no choice, I'm too short."
+    },
+    {
+        "zh": "是呀，又可以在家多待一些时间了。",
+        "kk": "راس-اۋ، ۇيدە كوبىرەك بولۋعا بولادى.",
+        "id": "trans-d_kk_511",
+        "en": "Yes, I can stay at home for a bit longer."
+    },
+    {
+        "zh": "我也是。写毕业论文真不容易!",
+        "kk": "مەن دە سولاي. مەكتەپ ءبىتىرۋ ديسسەرتاتسياسىن جازۋ وڭاي ەمەس!",
+        "id": "trans-d_kk_539",
+        "en": "Me too. Writing the thesis is really not easy!"
+    },
+    {
+        "zh": "怎么可能呢?他虽然常常生病，可是我们班上最好的学生。",
+        "kk": "قانداي مۇمكىندىك بار؟ ول ۇنەمى اۋىرىپ قالعانىمەن، ءبىزدىڭ كلاستاعى ەڭ جاقسى وقۋشى ەدى.",
+        "id": "trans-d_kk_725",
+        "en": "How is that possible? Although he often gets sick, he is the best student in our class."
+    },
+    {
+        "zh": "你喜欢参加旅行团还是喜欢自己去旅游?",
+        "kk": "ساياحات ۇيىرمەسىنە قاتىناسۋدى ۇناتاسىڭ با، الدە ٴوزىڭ ساياحاتتاۋدى جاقسى كورەسىڭ بە؟",
+        "id": "trans-d_kk_183",
+        "en": "Do you prefer joining a travel group or traveling on your own?"
+    },
+    {
+        "zh": "珍妮，来中国后你去哪儿旅游过?",
+        "kk": "جەنني جۇڭگوعا كەلگەننەن كەيىن قاي جەرگە ساياحاتتاي باردىڭىز؟",
+        "id": "trans-d_kk_98",
+        "en": "Jenny, where have you traveled since coming to China?"
+    },
+    {
+        "zh": "办这件事难度挺大，你看能办成吗?",
+        "kk": "بۇل ٴىستى ىستەۋدىڭ قيىندىعى زور، قاراشى، ىستەي الاسىڭ با؟",
+        "id": "trans-d_kk_662",
+        "en": "It's quite difficult to handle this matter, do you think it can be done?"
+    },
+    {
+        "zh": "您好!我能帮您什么忙吗?",
+        "kk": "سالەمەتسىز بە! –مەنىڭ سىزگە نە كومەگىم قاجەت؟",
+        "id": "trans-d_kk_406",
+        "en": "Hello! How can I help you?"
+    },
+    {
+        "zh": "差一点就输了，比赛的时候我正好有事没去看，据说很精彩。",
+        "kk": "جەڭىلىپ قالا جازدادىق، جارىس كەزىندە جۇمىس بولىپ  كورە المادىم، ايتۋلارعا قاراعاندا جارىس وتە قىزعىندى بولىپتى.",
+        "id": "trans-d_kk_354",
+        "en": "We almost lost. I happened to have something to do and didn't watch the competition, but I heard it was very exciting."
+    },
+    {
+        "zh": "李阿姨，天气这么冷，您怎么还出来?可别感冒了!",
+        "kk": "لي اپاي، كۇن وسىنشاما سۋىق، ٴسىز سىرتقا نەگە شىقتىڭىز؟ تۇماۋ تيمەسىن !",
+        "id": "trans-d_kk_518",
+        "en": "Auntie Li, it's so cold. Why are you still going out? Don't catch a cold!"
+    },
+    {
+        "zh": "听说你们一家三口去游泳了?",
+        "kk": "ەستۋىمشە،ٴبىر ۇيدەگى ٴۇش ادام مالتاۋعا باردىڭدار ما؟",
+        "id": "trans-d_kk_112",
+        "en": "I heard your family of three went swimming?"
+    },
+    {
+        "zh": "可以，你千万要把资料都整理好。",
+        "kk": "بولادى،  قانداي بولماسىن ماتەريالداردى  رەتتەپ بولىڭىز.",
+        "id": "trans-d_kk_426",
+        "en": "Sure, you must make sure to get all the materials organized."
+    },
+    {
+        "zh": "上午9点，枫林宾馆门口怎么样?",
+        "kk": "تۇستەن بۇرىن ساعات 9 دا فىڭلين قوناق ٴۇيىنىڭ قاقپاسى قالاي؟",
+        "id": "trans-d_kk_42",
+        "en": "How about 9 AM at the entrance of Fenglin Hotel?"
+    },
+    {
+        "zh": "有，最近我们进了很多款式的羽绒服。",
+        "kk": "بار، جۋىقتان بەرى ٴبىز كوپتەگەن مامىق كيىمدەرگە كىرگىزدىك.",
+        "id": "trans-d_kk_216",
+        "en": "Yes, we recently got many styles of down jackets."
+    },
+    {
+        "zh": "是吗?太好了!我五点四十下课，我们六点一刻在学校门口见面。",
+        "kk": "سولاي ما؟ وتە جاقسى بولدى! مەن ساعات 5 تەن 40 مينوت وتكەندە مەكتەپتەن تۇسەمىن، التىدان  ونبەس وتكەندە مەكتەپتىڭ الدىندا كەزدەسەيىك.",
+        "id": "trans-d_kk_703",
+        "en": "Really? That's great! I finish class at 5:40, let's meet at the school gate at 6:15."
+    },
+    {
+        "zh": "现在越来越多的大学生有心理问题了。",
+        "kk": "قازىر كوپتەگەن ستۋدەنتتەردىڭ پسيحولوگيالىق ماسەلەسى بارعان سايىن كوبەيۋدە.",
+        "id": "trans-d_kk_347",
+        "en": "More and more college students are having mental health issues now."
+    },
+    {
+        "zh": "哦，期待能有好结果。",
+        "kk": "ە، جاقسى ناتيجەگە قول جەتكىزۋدى ٴۇمىت ەتەمىن.",
+        "id": "trans-d_kk_299",
+        "en": "Oh, I hope we have a good result."
+    },
+    {
+        "zh": "刚说到儿童节目数量太少的问题。",
+        "kk": "بالالار باعدارلاماسىنىڭ سانى وتە از بولۋ ماسەلەسى تۋرالى ٴسوز قوزعاپ جاتقامىز.",
+        "id": "trans-d_kk_250",
+        "en": "We were just talking about the issue of there being too few children's programs."
+    },
+    {
+        "zh": "爸爸，明天是“六一”儿童节，你带我去哪儿玩儿?",
+        "kk": "اكە، ەرتەڭ بالالار مەرەكەسى، مەنى قايدا اپاراسىڭ؟",
+        "id": "trans-d_kk_229",
+        "en": "Dad, tomorrow is Children's Day, where will you take me to play?"
+    },
+    {
+        "zh": "对，我准备以后每天都出去跑步。",
+        "kk": "ٴيا، ٴار كۇنى سىرتقا شىعىپ جۇگىرەيىن دەپ وتىرمىن.",
+        "id": "trans-d_kk_766",
+        "en": "Yes, I plan to go running every day in the future."
+    },
+    {
+        "zh": "谁说的，我刚才还看见他在打球呢。",
+        "kk": "كىم ايتادى، مەن الگىندە ونىڭ دوپ ويناپ جاتقانىن كورگەمىن.",
+        "id": "trans-d_kk_532",
+        "en": "Who said that? I just saw him playing ball."
+    },
+    {
+        "zh": "房屋出租广告?你看这个干什么?",
+        "kk": "ۇيدى مايعا بەرۋ جارناماسى؟ نەگە بۇنى كورىپ وتىرسىڭ؟",
+        "id": "trans-d_kk_284",
+        "en": "House rental advertisement? Why are you looking at this?"
+    },
+    {
+        "zh": "噢，我知道你的感受，我到这里都一年多了，有时还迷路呢。",
+        "kk": "اۋ، سەنىڭ اسەرىڭدى بىلەمىن، بۇل اراعا كەلگەندە ٴبىر جىلدان استام ۋاقىت بولدى، كەيدە  مەندە اداسام.",
+        "id": "trans-d_kk_201",
+        "en": "Oh, I know how you feel, I've been here for over a year and sometimes I still get lost."
+    },
+    {
+        "zh": "那中国人结婚以后，是和丈夫的爸爸妈妈一起住吗？",
+        "kk": "جۇڭگولىقتار توي جاساعاننان كەيىن ٴسوزسىز اتا – ەنەسىمەن بىرگە تۇرۋى كەرەك پە؟",
+        "id": "trans-d_kk_392",
+        "en": "Do Chinese people live with their husband's parents after getting married?"
+    },
+    {
+        "zh": "没有啊，在你包里吗?",
+        "kk": "جوق، سەنىڭ سومكاڭدا ما؟",
+        "id": "trans-d_kk_451",
+        "en": "No, is it in your bag?"
+    },
+    {
+        "zh": "好吧，我再看看谁有时间。",
+        "kk": "جارايدى، كىمنىڭ ۋاقىتى بار ەكەنىن كورەيىن.",
+        "id": "trans-d_kk_197",
+        "en": "Alright, I'll see who else has time."
+    },
+    {
+        "zh": "你在长沙工作还是?",
+        "kk": "سەن چاڭشادا قىزمەت ىستەيسىڭ بە؟",
+        "id": "trans-d_kk_31",
+        "en": "Are you working in Changsha or?"
+    },
+    {
+        "zh": "女儿没去，就我和丈夫去了。",
+        "kk": "قىزىم بارمادى، كۇيەۋىم ەكەۋىمىز باردىق.",
+        "id": "trans-d_kk_113",
+        "en": "Our daughter didn't go, just my husband and I went."
+    },
+    {
+        "zh": "上次看的那个房子你租了吗?",
+        "kk": "الدىڭعى جولى الگى ٴۇيدى مايعا الدىڭىز با؟",
+        "id": "trans-d_kk_767",
+        "en": "Did you rent the house we looked at last time?"
+    },
+    {
+        "zh": "好的，那到时候见。",
+        "kk": "جارايدى، سول كەزدە كەزىكتىم.",
+        "id": "trans-d_kk_43",
+        "en": "Okay, see you then."
+    },
+    {
+        "zh": "老师说推迟到下个星期了，不着急。",
+        "kk": "مۇعالىم كەلەسى اپتاعا كەشىكتىرىلگەنىن، ابىرجىمايتىنىن ايتتى.",
+        "id": "trans-d_kk_679",
+        "en": "The teacher said it's postponed to next week, no rush."
+    },
+    {
+        "zh": "早点休息吧，明天再继续写。",
+        "kk": "ەرتەرەك دەمالايىق، ەرتەڭ جالعاستى جازامىز.",
+        "id": "trans-d_kk_44",
+        "en": "Get some rest early, continue writing tomorrow."
+    },
+    {
+        "zh": "我很爱玩儿，经常和朋友一起踢足球、打篮球、爬山。",
+        "kk": "مەن ويىندى وتە جاقسى كورەمىن، ۇنەمى دوستارىممەن بىرگە فۋتبول تەۋىپ، باسكەتبول ويناپ، تاۋعا شىعام.",
+        "id": "trans-d_kk_442",
+        "en": "I really love playing, often playing soccer, basketball, and hiking with friends."
+    },
+    {
+        "zh": "你今晚有什么安排?",
+        "kk": "بۇگىن كەشتە قانداي ورنالاستىرۋلار بار؟",
+        "id": "trans-d_kk_637",
+        "en": "What plans do you have for tonight?"
+    },
+    {
+        "zh": "啊?那我们换换吧，你在家里洗衣服做饭，我去上班。",
+        "kk": "ا؟ وندا ٴبىز اۋىستىرىپ كورەيىك، سەن ۇيدە كيىم-كەشەك جۋىپ، تاماق ىستەيسىڭ، مەن قىزمەتكە بارامىن.",
+        "id": "trans-d_kk_289",
+        "en": "Huh? Then let's switch. You stay home to do the laundry and cook, and I'll go to work."
+    },
+    {
+        "zh": "月亮为什么会跑呢?",
+        "kk": "اي مەن اي نە ٴۇشىن جۇگىرەدى؟",
+        "id": "trans-d_kk_320",
+        "en": "Why is the moon moving?"
+    },
+    {
+        "zh": "天气再冷也得去买菜啊，要不晚上吃什么?",
+        "kk": "كۇن قانشا سۋىق بولسا دا كوكونىس ساتىپ الۋعا تۋرا كەلەدى،بولماسا  كەشتە نە جەيمىز؟",
+        "id": "trans-d_kk_519",
+        "en": "No matter how cold it is, I have to go buy groceries. Otherwise, what will we eat for dinner?"
+    },
+    {
+        "zh": "那您开账户主要想做什么?",
+        "kk": "وندا ٴسىز ەسەپ اشۋدا نەگىزىنەن نە ىستەمەكشىسىز؟",
+        "id": "trans-d_kk_466",
+        "en": "Then what is your main purpose for opening an account?"
+    },
+    {
+        "zh": "我明天早上的飞机，今天中午有时间见个面吗？",
+        "kk": "مەن ەرتەڭ تاڭەرتەڭ ايروپلان بەلەتىن الىپ قويدىم، بۇگىن تۇستە جۇزدەسۋگە ۋاقىتىڭ  بار ما؟",
+        "id": "trans-d_kk_351",
+        "en": "I have a flight tomorrow morning. Do you have time to meet this afternoon?"
+    },
+    {
+        "zh": "拿一款保暖性能好点儿的。",
+        "kk": "ايەل:جىلىراق بىرەۋىن كيىپ كورەيىك.",
+        "id": "trans-d_kk_376",
+        "en": "Show me one with good warmth."
+    },
+    {
+        "zh": "你的自行车太旧了，该换辆新的了。",
+        "kk": "سەنىڭ ۆەلوسيپەتىڭ وتە ەسكىرىپ كەتىپتى، جاڭا كولىك اۋىستىرۋعا تۋرا كەلىپتى.",
+        "id": "trans-d_kk_171",
+        "en": "Your bicycle is too old, you should get a new one."
+    },
+    {
+        "zh": "你看看这双怎么样?这是现在最流行的。",
+        "kk": "مىنانى كورىڭىز؟ بۇل قازىر ەڭ كەڭ تارالعان.",
+        "id": "trans-d_kk_398",
+        "en": "How about this pair? These are the most popular right now."
+    },
+    {
+        "zh": "我也这么想，但人家不这样想。",
+        "kk": "مەنشە دە سولاي، ٴبىراق كاسىپورىننىڭ وزىنە ٴجون بولىپ تۇر عوي.",
+        "id": "trans-d_kk_19",
+        "en": "I think so too, but they don't think that way."
+    },
+    {
+        "zh": "你好，我想找一本逻辑方面的书，作者是王东。",
+        "kk": "سالەمەتسىز بە، مەن لوگيكالىق جاقتاعى ٴبىر كىتاپتى ىزدەگىم كەلەدى، اۆتور ۋاڭ دۇڭ.",
+        "id": "trans-d_kk_512",
+        "en": "Hello, I am looking for a book on logic. The author is Wang Dong."
+    },
+    {
+        "zh": "色香味俱全是什么意思?",
+        "kk": "جان – جاقتىلى دەگەن نە؟",
+        "id": "trans-d_kk_254",
+        "en": "What does a perfect combination of color, aroma, and taste mean?"
+    },
+    {
+        "zh": "没有经验嘛，以后就好了。快走吧!",
+        "kk": "تاجىريبە بولماعان سوڭ،كەيىن جاقسى بولادى. جۇرىڭدەر!",
+        "id": "trans-d_kk_600",
+        "en": "I'm inexperienced, it'll get better next time. Let's go!"
+    },
+    {
+        "zh": "没有。",
+        "kk": "جوق.",
+        "id": "trans-d_kk_768",
+        "en": "No."
+    },
+    {
+        "zh": "奥迪A6，买完我就后悔了。现在油价涨得真厉害。",
+        "kk": "اۋدي A6. ساتىپ العاننان كەيىن وكىنىپ قالدىم. قازىر موناي باعاسى وتە تەز ٴوستى.",
+        "id": "trans-d_kk_544",
+        "en": "Audi A6. As soon as I bought it, I regretted it. The gas prices are really rising sharply."
+    },
+    {
+        "zh": "对呀，我还以为是明天呢。",
+        "kk": "راس، مەن ەرتەڭ ەكەن دەپ قالىپپىن.",
+        "id": "trans-d_kk_636",
+        "en": "Yes, I thought it was tomorrow."
+    },
+    {
+        "zh": "你和公司签劳动合同了吗?",
+        "kk": "ٴسىز سەرىكتىكپەن ەڭبەك توقتامىنا قول قويدىڭىز با؟",
+        "id": "trans-d_kk_175",
+        "en": "Did you sign a labor contract with the company?"
+    },
+    {
+        "zh": "你每天怎么去上学？",
+        "kk": "سەن ءار كۇنى مەكتەپكە قالاي باراسىڭ؟",
+        "id": "trans-d_kk_666",
+        "en": "How do you go to school every day?"
+    },
+    {
+        "zh": "他去国外出差了，月底才能回来，您有事儿就给他发电子邮件吧。",
+        "kk": "ول شەتەلگە ٴىس ساپارعا كەتكەن. اي سوڭىندا قايتىپ كەلەدى،جۇمىسىڭىز  بولسا وعان ەلەكتروندىق پوچتا جولداماسىن جىبەرىڭىز.",
+        "id": "trans-d_kk_242",
+        "en": "He went abroad on a business trip and won’t be back until the end of the month. If you need to contact him, you can send him an email."
+    },
+    {
+        "zh": "估计她是有事情耽搁了吧。",
+        "kk": "ول جۇمىستى اقىگىپ قالعان شىعار.",
+        "id": "trans-d_kk_246",
+        "en": "Maybe he was held up by something."
+    },
+    {
+        "zh": "那我还是以后再读吧。今天先借一本《唐诗三百首》。",
+        "kk": "وندا مەن كەيىن وقىپ كورەيىن. بۇگىن «تاڭ ءداۋىرنىڭ 300  ولەڭىن» بەرە تۇرىىڭىز .",
+        "id": "trans-d_kk_693",
+        "en": "Then I'll read them later. Today I'll borrow 'Three Hundred Tang Poems'."
+    },
+    {
+        "zh": "你每个星期都去爬山吗?",
+        "kk": "سەن اپتا سايىن تاۋعا شىعۋعا باراسىڭ با؟",
+        "id": "trans-d_kk_502",
+        "en": "Do you go hiking every week?"
+    },
+    {
+        "zh": "没准儿，得看谈的情况。",
+        "kk": "ەر : بەلگىسىز، جۇمىستىڭ جاعدايىنا قاراپ كورەمىز عوي.",
+        "id": "trans-d_kk_55",
+        "en": "Not sure, it depends on how the negotiations go."
+    },
+    {
+        "zh": "今天的讨论，他的看法跟你的又不一样吧?",
+        "kk": "بۇگىنگى تالقىدا ونىڭ كوزقاراسى سەنىمەن تاعى ۇقساس ەمەس شىعار؟",
+        "id": "trans-d_kk_212",
+        "en": "In today's discussion, his views were different from yours again, right?"
+    },
+    {
+        "zh": "对。今天去长城，明天去故宫。",
+        "kk": "دۇرىس. بۇگىن ۇلى قورعانعا، ەرتەڭ گۋگۇڭ سارايىنا بارامىز.",
+        "id": "trans-d_kk_671",
+        "en": "Right. Today we go to the Great Wall, tomorrow to the Forbidden City."
+    },
+    {
+        "zh": "请您放心，我会尽快完成，不会延长时间的。",
+        "kk": "الاڭسىز بولىڭىز، مەن دە تەز ارادا ورىندايمىن، ۇزاق ۋاقىت سوزبايمىن.",
+        "id": "trans-d_kk_168",
+        "en": "Please rest assured, I will finish it as soon as possible and won't take more time."
+    },
+    {
+        "zh": "你最近怎么都没给我打电话啊?",
+        "kk": "جاقىننان بەرى ماعان تەلەفون بەرمەدىڭ عوي؟",
+        "id": "trans-d_kk_206",
+        "en": "Why haven't you called me lately?"
+    },
+    {
+        "zh": "那就只有秋天了。",
+        "kk": "كۇزشى .",
+        "id": "trans-d_kk_495",
+        "en": "Then there's only autumn left."
+    },
+    {
+        "zh": "你明天有时间吗，我带你去玩儿。",
+        "kk": "ەرتەسىندە ۋاقىت بار ما، مەن سەنى ويناتۋعا ەرتىپ بارامىن.",
+        "id": "trans-d_kk_36",
+        "en": "Do you have time tomorrow? I can take you out."
+    },
+    {
+        "zh": "你想买点儿什么?",
+        "kk": "نە الماقشىسىز؟",
+        "id": "trans-d_kk_373",
+        "en": "What do you want to buy?"
+    },
+    {
+        "zh": "好，我帮你看看。",
+        "kk": "جارايدى، مەن ساعان كومەكتەسىپ كورەيىن.",
+        "id": "trans-d_kk_267",
+        "en": "Sure, let me help you take a look."
+    },
+    {
+        "zh": "是啊，能方便不少呢。",
+        "kk": "سولاي، وتە قولايلى.",
+        "id": "trans-d_kk_438",
+        "en": "Yeah, it will be much more convenient."
+    },
+    {
+        "zh": "我认为参赛者的年龄应该限制在三十岁以下。",
+        "kk": "مەنىڭشە جارىسقا قاتىناسۋشىلاردىڭ جاسى 30 جاستان تومەن بولۋى كەرەك.",
+        "id": "trans-d_kk_567",
+        "en": "I think the participants' age should be limited to under thirty."
+    },
+    {
+        "zh": "要不是你把钱都买了股票，我们能落到这步田地吗?",
+        "kk": "ەر: بارلىق اقشامىزبەن جارنا ساتىپ الماعاندىڭدا وسى كۇيگە تۇسەر مەدىك؟",
+        "id": "trans-d_kk_24",
+        "en": "If you hadn't spent all the money on stocks, would we be in this predicament?"
+    },
+    {
+        "zh": "您说得对，我会正视这个问题的，谢谢。",
+        "kk": "دۇرىس ايتتىڭىز، مەن بۇل ماسەلەگە دۇرىس قارايىن، راحمەت.",
+        "id": "trans-d_kk_622",
+        "en": "You're right, I will face this problem squarely, thank you."
+    },
+    {
+        "zh": "请问有没有小孩儿穿的羽绒衣服?",
+        "kk": "بالا كيەتىن مامىق كيىم بار ما؟",
+        "id": "trans-d_kk_374",
+        "en": "Do you have any down jackets for children?"
+    },
+    {
+        "zh": "别提了，现在真是最不缺的就是人啊。",
+        "kk": "ايتپا، قازىر، شىنىندا ادام وتە كوپ.",
+        "id": "trans-d_kk_712",
+        "en": "Don't mention it, there really is no shortage of people right now."
+    },
+    {
+        "zh": "那就在北京呆着吧，到6月中旬再回家，就没那么多人了。",
+        "kk": "وندا بەيجيڭدە تۇرايىق، ماۋسىمنىڭ ورتا شەنىندە ۇيگە قايتقاندا ونشا كوپ ادام بولمايدى.",
+        "id": "trans-d_kk_734",
+        "en": "Then stay in Beijing, and go home in mid-June when it won't be as crowded."
+    },
+    {
+        "zh": "她是我同学，要不介绍给你当女朋友吧!",
+        "kk": "ول مەنىڭ ساباقتاسىم، ساعان قىز دوس تانىستىرايىنبا !",
+        "id": "trans-d_kk_750",
+        "en": "She is my classmate. How about I introduce her to you as your girlfriend?"
+    },
+    {
+        "zh": "医生，这药怎么吃?",
+        "kk": "شيپاگەر، بۇل ءدارىنى قالاي جەۋ كەرەك؟",
+        "id": "trans-d_kk_66",
+        "en": "Doctor, how should I take this medicine?"
+    },
+    {
+        "zh": "我昨天和小玲去郊区爬山了，那里风景特别好。",
+        "kk": "مەن كەشە شياۋليڭمەن قالا ماڭى رايونىنا بارىپ تاۋعا شىقتىم، ول ارانىڭ كورىنىسى ەرەكشە جاقسى ەكەن.",
+        "id": "trans-d_kk_280",
+        "en": "I went hiking in the suburbs with Xiaoling yesterday, the scenery there is particularly good."
+    },
+    {
+        "zh": "刘老师，我有点儿发烧，可能感冒了，今天不去上课了。",
+        "kk": "ليۋ مۇعالىم، مەن ازىراق قىزدىم، تۇماۋراتىپ قالدىم، بۇگىن ساباق وتپەدىم.",
+        "id": "trans-d_kk_202",
+        "en": "Teacher Liu, I have a bit of a fever and might have caught a cold, so I won't be going to class today."
+    },
+    {
+        "zh": "好，别催，别催!我再认真找找，啊!找到了。",
+        "kk": "جارايدى، اسىقتىرماڭىز، اسىقتىرماڭىز! مەن جانە زەيىن قويىپ ىزدەپ كورەيىن، اا ! تابىلدى.",
+        "id": "trans-d_kk_598",
+        "en": "Okay, stop rushing me! I'll look carefully again. Ah! Found them!"
+    },
+    {
+        "zh": "有，周三下午我在办公楼124房间，你可以到时候来找我。",
+        "kk": "بار، سارسەنبى كۇنى تۇستەن كەيىن قىزمەت عيماراتىنىڭ 124 بولمەسىنە مەنى ىزدەپ كەلسەڭ بولادى.",
+        "id": "trans-d_kk_148",
+        "en": "Yes, on Wednesday afternoon I am in room 124 of the office building, you can come find me then."
+    },
+    {
+        "zh": "即使你忍不住，也不能表现得太明显。",
+        "kk": "سەن شىداي الماعانىڭدى بىلدىرمەي تۇرساڭ بولمايما.",
+        "id": "trans-d_kk_745",
+        "en": "Even if you can't help it, you shouldn't make it too obvious."
+    },
+    {
+        "zh": "你说小王怪不怪，人家请他吃饭都不来。",
+        "kk": "شياۋۋاڭ قىزىق قوي، تاماققا شاقىرسا دا بارمايدى ەكەن.",
+        "id": "trans-d_kk_76",
+        "en": "Don't you think Xiao Wang is strange? He doesn't come even when people invite him for dinner."
+    },
+    {
+        "zh": "我们要抓紧一切时间，这个工作必须按时完成。",
+        "kk": "ەر : ۋاقىتتى مىقتى ۇستاپ، بۇل قىزمەتتى ۋاعىندا ورىنداۋىمىز كەرەك.",
+        "id": "trans-d_kk_83",
+        "en": "We need to make the most of our time. This work must be completed on time."
+    },
+    {
+        "zh": "请问您要买什么?这些衣服和鞋子是新来的，很不错。",
+        "kk": "نە الا سىز؟ بۇل كيىم مەن اياق كيىم جاڭادان كەلگەن، وتە جاقسى.",
+        "id": "trans-d_kk_771",
+        "en": "May I ask what you want to buy? These clothes and shoes just arrived and are very nice."
+    },
+    {
+        "zh": "响家电视坏了，我看小张整天在弄电器，请他来看看吧?",
+        "kk": "شياڭجيا تەلەۆيزور بۇزىلىپ قالدى، مەن شياۋجاڭنىڭ كۇنى بويى ەلەكتر جابدىقتارىن جاساپ جاتقانىنا كوردىم، ول كەلىپ  كورسىنبە؟",
+        "id": "trans-d_kk_577",
+        "en": "The TV at home is broken. I see that Xiao Zhang is always fiddling with electronics; shall we ask him to take a look?"
+    },
+    {
+        "zh": "其实企业没必要要求高学历，又不是科研单位。",
+        "kk": "ءىس جۇزىندە كاسىپورىننىڭ ماعۇلۇماتقا وتە جوعارى شارت قويۋىنىڭ قاجەتى جوق، عىلمي زەرتتەۋ ورنى بولماعانسوڭ.",
+        "id": "trans-d_kk_18",
+        "en": "Actually, companies don't need to demand such high education levels, they're not research institutions."
+    },
+    {
+        "zh": "你怎么那么认为?找他谈了吗?要知道沟通是处理人际关系的良药。",
+        "kk": "سەن نەعىپ بۇلاي  ويلادىڭ؟ ونىمەن اڭگىمەلەستىڭىز بە؟ قارىم-قاتناس  ادامدار اراسىنداعى ماسەلەنى شەشۋدىڭ  ٴدارىسى ەكەنىن ٴبىلۋ كەرەك.",
+        "id": "trans-d_kk_552",
+        "en": "Why do you think so? Have you talked to him? You know, communication is the remedy for handling interpersonal relationships."
+    },
+    {
+        "zh": "嗯，这双样子挺好，颜色也不错，多少钱?",
+        "kk": "يا، بۇل  وتە جاقسى ەكەن، رەڭى دە جاقسى، قانشا اقشا؟",
+        "id": "trans-d_kk_399",
+        "en": "Hmm, this pair looks nice, and the color is good too. How much are they?"
+    },
+    {
+        "zh": "好的，我现在就看。",
+        "kk": "جارايدى، مۇنى ەندى كورەيىن .",
+        "id": "trans-d_kk_586",
+        "en": "Okay, I'll read it now."
+    },
+    {
+        "zh": "没关系，以后有空儿了，再来我家做客。",
+        "kk": "وقاسى جوق، كەيىن بوس بولعاندا، ۇيىمىزگە كەلىپ قوناق بولسىن .",
+        "id": "trans-d_kk_536",
+        "en": "It's okay, come to my house to visit when you have time in the future."
+    },
+    {
+        "zh": "那太好了。",
+        "kk": "ول وتە جاقسى ەكەن.",
+        "id": "trans-d_kk_510",
+        "en": "That's great."
+    },
+    {
+        "zh": "你父亲退休后做什么?",
+        "kk": "اكەڭ زەينەتكە شىققاننان كەيىن نە ىستەيدى؟",
+        "id": "trans-d_kk_682",
+        "en": "What does your father do after retirement?"
+    },
+    {
+        "zh": "我不睡了，现在就起。",
+        "kk": "ەندى ۇيقتامايمىن، ورنىمنان تۇرعالى جاتىرمىن.",
+        "id": "trans-d_kk_404",
+        "en": "I won't sleep anymore, I'll get up now."
+    },
+    {
+        "zh": "是，我打算周末就去买辆新的，你跟我一起去吗?",
+        "kk": "ٴيا، مەن اپتا سوڭىندا جاڭاسىن ساتىپ الامىن، سەن مەنىمەن بىرگە باراسىڭ با؟",
+        "id": "trans-d_kk_172",
+        "en": "Yes, I'm planning to buy a new one this weekend. Would you like to come with me?"
+    },
+    {
+        "zh": "天气预报很准的，你还是带上雨伞吧!",
+        "kk": "اۋا رايىنان الدىن الا مالىمەت بەرۋ وتە ٴدال ايتادى، قول شاتىر الىپ العانىڭ دۇرىس!",
+        "id": "trans-d_kk_170",
+        "en": "The weather forecast is very accurate, you'd better take an umbrella!"
+    },
+    {
+        "zh": "你怎么突然开始关心体育了？",
+        "kk": "سپورتقا قالاي كوڭىل بولدىڭ؟",
+        "id": "trans-d_kk_559",
+        "en": "Why did you suddenly start caring about sports?"
+    },
+    {
+        "zh": "刚和他那位吹了，这几天看见谁都烦。",
+        "kk": "ەندى عانا ول جۇبايىمەن ءبولىندى، بىرنەشە كۇننەن بەرى ەلدىڭ ٴبارى كوزىنە سيماي جۇر.",
+        "id": "trans-d_kk_77",
+        "en": "He just broke up with his girlfriend, so he's annoyed with everyone these days."
+    },
+    {
+        "zh": "怎么忽然想起买花了?",
+        "kk": "گۇل ساتىپ العان قالايشا ەسىڭە كەلدى؟",
+        "id": "trans-d_kk_674",
+        "en": "Why did you suddenly think of buying flowers?"
+    },
+    {
+        "zh": "听说考试成绩已经公布了，你们家小丽考上大学了吗?",
+        "kk": "ەمتيقان ناتيجەسى شىعىپتى عوي، سەندەردىڭ شياۋلي داشۋەگە قابىلداندى ما؟",
+        "id": "trans-d_kk_4",
+        "en": "I heard that the exam results have been announced. Did your daughter Xiaoli get into university?"
+    },
+    {
+        "zh": "估计快了，今天老师说一个星期以后成绩就出来了。",
+        "kk": "ازا قالعان سياقتى، بۇگىن مۇعالىم بىر اپتادان كەيىن ناتيجە شىعاتىنىن ايتتى.",
+        "id": "trans-d_kk_634",
+        "en": "It should be soon, today the teacher said the results would be out in a week."
+    },
+    {
+        "zh": "晚上我们去跳舞，你要不要一起去？",
+        "kk": "كەشتە ٴبىز ٴبي بيلەيمىز، بىرگە باراسىڭبا؟",
+        "id": "trans-d_kk_300",
+        "en": "We're going dancing tonight, do you want to join us?"
+    },
+    {
+        "zh": "优惠不大嘛!算了，我还是问问麦当劳吧。",
+        "kk": "تيىمدىلىك ازىراق ەكەن! بولدى، مەن مايدانلاۋ دۇكەنىنە قابارلاسايىن .",
+        "id": "trans-d_kk_572",
+        "en": "The promotion is not that great! Forget it, I'll check with McDonald's instead."
+    },
+    {
+        "zh": "这时候还找钱包干什么?快走吧。",
+        "kk": "جوپىلدەمەدە اقشا قاپشىعىن  ىزدەپ قايتەسىڭ؟ تەز جۇرشى",
+        "id": "trans-d_kk_106",
+        "en": "Why are you looking for your wallet at this time? Let's go."
+    },
+    {
+        "zh": "稍等，我马上就来。",
+        "kk": "ٴسال كۇتە تۇرساڭ، مەن دەرەۋ كەلەم .",
+        "id": "trans-d_kk_673",
+        "en": "Hold on, I'll be right there."
+    },
+    {
+        "zh": "对，那是他自己刻苦努力取得的成绩。我很为他感到骄傲。",
+        "kk": "سولاي، ول ٴوزىنىڭ تىرىسىپ قولعا كەلتىرگەن ناتيجەسى. مەن ونى ماقتانىش ەتەمىن.",
+        "id": "trans-d_kk_275",
+        "en": "Yes, that is the result of his own hard work and effort. I am very proud of him."
+    },
+    {
+        "zh": "商场的挺不错的。前几天我在商场买了餐桌。质量挺不错。",
+        "kk": "ساۋدا سارايى جاقسى ەكەن. بىرنەشە كۇننىڭ الدىندا ساۋدا سارايىنان اس ۇستەلىن ساتىپ الدىم. ساپاسى جاقسى ەكەن.",
+        "id": "trans-d_kk_190",
+        "en": "The ones at the mall are pretty good. A few days ago I bought a dining table there. The quality is quite good."
+    },
+    {
+        "zh": "对不起，昨天刚卖完。明天还要进货，你再来看看吧?",
+        "kk": "كەشىرىڭىز، بۇل ۇلگىدەگى مامىق كيىم ساتىلىپ بولعان ەدى، ەرتەڭ زات كىرگىزەمىز، ەرتەڭ كەلىپ كورىڭىز.",
+        "id": "trans-d_kk_222",
+        "en": "Sorry, they just sold out yesterday. We are getting more stock tomorrow, can you come back to check?"
+    },
+    {
+        "zh": "谁说不是呢!",
+        "kk": "ايتقانىڭ راس!",
+        "id": "trans-d_kk_706",
+        "en": "Exactly!"
+    },
+    {
+        "zh": "抱歉，我现在正忙着呢，一会儿给你回电话。",
+        "kk": "كەشىرىڭىز، مەن قازىر قاربالاستاپ جاتىرمىن، سالدەن سوڭ ساعان تەلەفون جالعايمىن.",
+        "id": "trans-d_kk_234",
+        "en": "Sorry, I'm busy right now. I'll call you back later."
+    },
+    {
+        "zh": "实在是抱歉，真不是故意的。",
+        "kk": "شىنىندا كەشىرىم سۇرايمىن. شىنىندا ادەيى ىستەمەدىم.",
+        "id": "trans-d_kk_329",
+        "en": "I'm really sorry, it wasn't intentional."
+    },
+    {
+        "zh": "是呀，我们说的说，唱的唱，跳的跳，生日晚会热闹极了。",
+        "kk": "راس ايتاسىڭ،  ءبىز اڭگىمەلەسىپ، ٴان ايتىپ، ٴبي بيلەپ، كونسەرتتى دۋمانعا بولەدىك.",
+        "id": "trans-d_kk_364",
+        "en": "Yes, we chatted, sang, danced; the birthday party was extremely lively."
+    },
+    {
+        "zh": "中国菜的特点是色香味俱全。",
+        "kk": "جۇڭگو قۋىرماشتارىنىڭ ەرەكشەلىگى – جان – جاقتىلى .",
+        "id": "trans-d_kk_253",
+        "en": "The characteristic of Chinese cuisine is that it is a perfect combination of color, aroma, and taste."
+    },
+    {
+        "zh": "先生，等一等，您吃完饭还没给钱呢!",
+        "kk": "مىرزا، كۇتە تۇرىڭىز، تاماق ٴىشىپ بولعاننان كەيىن اقشا بەرمەدىڭىز!",
+        "id": "trans-d_kk_335",
+        "en": "Sir, wait a moment, you haven't paid after your meal!"
+    },
+    {
+        "zh": "下一班是什么时候?还有票吗?",
+        "kk": "كەلەسى كەزەك قايسى كەزدە بولادى؟ بەلەت بارما؟",
+        "id": "trans-d_kk_499",
+        "en": "When is the next flight? Are there any tickets left?"
+    },
+    {
+        "zh": "正好我们下班还有半个小时的时间，我要去取点儿钱。",
+        "kk": "جۇمىستان تۇسكەننەن كەيىن تاعى جارىم ساعات ۋاقىت بار ەدى، مەن ٴبىراز اقشا الامىن.",
+        "id": "trans-d_kk_359",
+        "en": "It's just right, we still have half an hour after work. I want to withdraw some money."
+    },
+    {
+        "zh": "不客气。",
+        "kk": "وقاسى جوق .",
+        "id": "trans-d_kk_383",
+        "en": "You're welcome."
+    },
+    {
+        "zh": "上个月中旬我休了一个星期年假，就和大学同学去了一趟。",
+        "kk": "وتكەن ايدىڭ ورتا شەنىندە مەن ٴبىر اپتا دەمالىس الىپ، داشۋەدەگى ساباقتاستارمەن بىرگە ٴبىر رەت بارعانمىن .",
+        "id": "trans-d_kk_433",
+        "en": "In the middle of last month, I took a week's annual leave and went there with my college classmates."
+    },
+    {
+        "zh": "我也没想起来，下次吧。",
+        "kk": "مەنىڭدە ەسىمدە بولماپتى، كەلەسى جولى بولسىن.",
+        "id": "trans-d_kk_462",
+        "en": "I didn't think of it either, maybe next time."
+    },
+    {
+        "zh": "你昨晚看新闻了吗?",
+        "kk": "كەشە كەشتە حابار كوردىڭ بە؟",
+        "id": "trans-d_kk_434",
+        "en": "Did you watch the news last night?"
+    },
+    {
+        "zh": "那还不如上班舒服呢。",
+        "kk": "ول قىزمەتكە شىققانعا جەتپەيدى.",
+        "id": "trans-d_kk_290",
+        "en": "That would be even less comfortable than going to work."
+    },
+    {
+        "zh": "那就它吧。有意思，为什么选它呢?",
+        "kk": "وندا وسى ٴان بولسىن، نە ٴۇشىن بۇل ٴاندى تالدادىڭ.",
+        "id": "trans-d_kk_187",
+        "en": "Let's go with it then. Interesting, why did you choose this one?"
+    },
+    {
+        "zh": "听说小王生病住院了？",
+        "kk": "شياۋ ۋاڭ ناۋقاستانىپ بالنيتساعا جاتىپ قالىپتى؟",
+        "id": "trans-d_kk_531",
+        "en": "I heard Xiao Wang is sick and was hospitalized?"
+    },
+    {
+        "zh": "我下个月要搬家，得赶快找房子。",
+        "kk": "كەلەر ايدا ۇيگە كوشىپ شىعۋىم كەرەك، دەرەۋ ٴۇي ىزدەيمىن.",
+        "id": "trans-d_kk_285",
+        "en": "I'm moving next month, so I need to quickly find a house."
+    },
+    {
+        "zh": "什么局长不局长的，我管他是谁呢!",
+        "kk": "مەكەمە باستىعى بولسا قايتەيىن، مەنىڭ ونىمەن نە قاتىسىم بار.",
+        "id": "trans-d_kk_132",
+        "en": "What director or not, I don't care who he is!"
+    },
+    {
+        "zh": "那也难怪，经济不景气，毕业生多，就业压力太大了。",
+        "kk": "سولاي بولماعاندا، مەكتەپ بىتىرگەن وقۋشىلار كوپ، كاسىپتەنۋ قىسىمى وتە زور.",
+        "id": "trans-d_kk_348",
+        "en": "It's not surprising, the economy is sluggish, there are many graduates, and the pressure to find jobs is too high."
+    },
+    {
+        "zh": "等会儿，我找我的钱包。",
+        "kk": "توسا تۇرشى، اقشا قاپشىعىمدى تاۋىپ الايىن.",
+        "id": "trans-d_kk_105",
+        "en": "Wait a moment, I'm looking for my wallet."
+    },
+    {
+        "zh": "经理，我生病了，身体不太舒服，明天想请假可以吗?",
+        "kk": "ديرەكتور، ٴجايسىزدانىپ تۇرمىن، ەرتەڭ ٴبىر كۇن رۇحسات بەرەسىزبە؟",
+        "id": "trans-d_kk_20",
+        "en": "Manager, I'm sick and not feeling well. Can I take a day off tomorrow?"
+    },
+    {
+        "zh": "好的，你明天不用来上班了，好好儿在家休息吧。",
+        "kk": "ماقۇل، ەرتەڭ قىزمەتكە شىقپاڭىز، ۇيدە دەمالىڭىز.",
+        "id": "trans-d_kk_21",
+        "en": "Okay, you don't need to come to work tomorrow. Have a good rest at home."
+    },
+    {
+        "zh": "来了好几天了，一直忙着开会，这不，刚结束我就来看您了。",
+        "kk": "كەلگەنىمە ٴبىر نەشە كۇن بولدى، جين اشۋدىڭ قاربالاستىعى اياقتالعاننان كەيىن دەرقال سىزبەن قابارلاسىپ تۇرعانىم وسى.",
+        "id": "trans-d_kk_9",
+        "en": "I've been here for several days, busy with meetings. See, I came to visit you as soon as it ended."
+    },
+    {
+        "zh": "你好，请问火车站怎么走?",
+        "kk": "سالەمەتسىز بە، پويەز بەكەتىنە قالاي جۇرەدى؟",
+        "id": "trans-d_kk_607",
+        "en": "Hello, could you tell me how to get to the train station?"
+    },
+    {
+        "zh": "你好，我前几天订了一个标准间，我姓张。",
+        "kk": "سالەمەتسىز بە، مەن بىرنەشە كۇننىڭ الدىندا ٴبىر ولشەمدى بولمەگە زاكاز بەردىم، مەنىڭ فاميليام جاڭ.",
+        "id": "trans-d_kk_759",
+        "en": "Hello, a few days ago I booked a standard room, my surname is Zhang."
+    },
+    {
+        "zh": "还得谢谢你啊，要不是你打电话叫醒我，我肯定误了这趟车。",
+        "kk": "ساعان راحىمەت ايتسام بولادى، سەن ماعان تەلەفون سوعىپ وياتپاساڭ، بۇل جولعى اۆتو كولىكتەن قالىپ قوياتىن ەدىم.",
+        "id": "trans-d_kk_79",
+        "en": "I really have to thank you. If you hadn't called to wake me up, I definitely would have missed this train."
+    },
+    {
+        "zh": "太好了，第一次出远门旅行你就制造紧张气氛。",
+        "kk": "وتە جاقسى بولدى، تۇڭعىش رەت الىس ساپارعا شىققاندا قاربالاس جاعداي تۋىلادى.",
+        "id": "trans-d_kk_599",
+        "en": "Great, it's your first time traveling far and you created a tense atmosphere."
+    },
+    {
+        "zh": "我老公就像我肚子里的蛔虫，什么他都知道。",
+        "kk": "كۇيەۋىم جابىسقاق قۇرت سياقتى، ٴبارىن ٴبىلىپ وتىرادى.",
+        "id": "trans-d_kk_58",
+        "en": "My husband is like a worm in my belly, he knows everything about me."
+    },
+    {
+        "zh": "你看，他们俩个多相爱啊!",
+        "kk": "قاراشى، ولاردىڭ ماحاباتى نەدەگەن جاراسقان!",
+        "id": "trans-d_kk_177",
+        "en": "Look, how much they love each other!"
+    },
+    {
+        "zh": "道歉就完了吗?你说怎么办吧，我的车灯都被你撞坏了。",
+        "kk": "كەشىرىم سۇراساڭىز عانا بولعانى ما؟ قايتەيىن دەيسىز، مەنىڭ ماشينا شىراعىمدى سوعىپ كەتتىڭ .",
+        "id": "trans-d_kk_330",
+        "en": "Is an apology enough? What are you going to do about it? My car's headlight is broken because of you."
+    },
+    {
+        "zh": "为什么?这场比赛我已经盼望很久了。",
+        "kk": "نە ٴۇشىن؟ بۇل جارىستى كوپتەن بەرى اڭساپ كەلەمىن.",
+        "id": "trans-d_kk_525",
+        "en": "Why? I've been looking forward to this match for a long time."
+    },
+    {
+        "zh": "和平常一样，看看书，上上网。",
+        "kk": "ادەتتەگى سياقتى، كىتاپ وقۋ، توراپقا شىعۋ.",
+        "id": "trans-d_kk_418",
+        "en": "Same as usual, read some books and browse the internet."
+    },
+    {
+        "zh": "收拾好了，但是我们的身份证不知道被我塞到哪里了。",
+        "kk": "جيىستىرىپ بولدىق، ٴبىراق ازاماتتىق كۋالىگىمىزدىڭ قايدا كەتكەنىن بىلمەي قالدىم.",
+        "id": "trans-d_kk_590",
+        "en": "Yes, I have packed everything, but I don't know where I put our ID cards."
+    },
+    {
+        "zh": "只能这样了，我们到一边去商量一下吧。",
+        "kk": "تەك وسىلاي بولدى، بىلاي تامان بارىپ اقىلداسىپ كورەيىك.",
+        "id": "trans-d_kk_334",
+        "en": "That's all we can do; let's go aside and discuss it."
+    },
+    {
+        "zh": "每天上完班，我的脚都特别累。",
+        "kk": "ٴار  كۇنى ىستەن تۇسكەندە اياعىم قاتتى اۋىرادى.",
+        "id": "trans-d_kk_68",
+        "en": "Every day after work, my feet are especially tired."
+    },
+    {
+        "zh": "这是局长交代的事，你总不能不给面子吧?",
+        "kk": "بۇل مەكەمە باستىعى تاپسىرعان ٴىس، مەكەمە باستىعىنا بەت بەرەتىن شىعارسىڭ؟",
+        "id": "trans-d_kk_131",
+        "en": "This is something the director has instructed, you can't just not give him face?"
+    },
+    {
+        "zh": "你有哪些爱好?",
+        "kk": "سەنىڭ قانداي اۋەستەرىڭ بار؟",
+        "id": "trans-d_kk_441",
+        "en": "What are your hobbies?"
+    },
+    {
+        "zh": "我怕山上没有垃圾桶，总不能乱扔垃圾。",
+        "kk": "مەن تاۋدا قوقىر-قوقسىق شەلەگى جوق دەپ قورقامىن،قوقىر-قوقسىقتى بەتالدى تاستاۋعا بولاما؟",
+        "id": "trans-d_kk_584",
+        "en": "I'm afraid there won't be any trash bins on the mountain, and we can't just litter."
+    },
+    {
+        "zh": "你好!我是建筑公司的王励。",
+        "kk": "سالەمەتسىز بە! مەن قۇرىلىس سەرىكتىگىنەن ۋاڭ لي بولامىن.",
+        "id": "trans-d_kk_405",
+        "en": "Hello! I'm Wang Li from the construction company."
+    },
+    {
+        "zh": "没有，他现在可以见我吗?",
+        "kk": "جوق، ول قازىر ماعان كەزىگە الاما؟",
+        "id": "trans-d_kk_409",
+        "en": "No, can he see me now?"
+    },
+    {
+        "zh": "我看咱家的花都干了，我明天出差，你记得给它浇点儿水。",
+        "kk": "مەنىڭشە، ٴبىزدىڭ ٴۇيدىڭ گۇلى شولدەپ قالدى، ەرتەڭ ٴىس ساپارعا شىققاندا، ونى سۋارۋدى ۇمىتپا.",
+        "id": "trans-d_kk_231",
+        "en": "I noticed that the flowers at home have dried up. I'm going on a business trip tomorrow, so remember to water them."
+    },
+    {
+        "zh": "我主要是想把工资存入这个账户。",
+        "kk": "مەن نەگىزىنەن ەڭبەكاقىنى وسى ەسەپكە قويماقشىمىن.",
+        "id": "trans-d_kk_467",
+        "en": "I mainly want to deposit my salary into this account."
+    },
+    {
+        "zh": "还以为你不来了，我都等你半天了。",
+        "kk": "سەنى كەلمەيدى ەكەن دەسەم، سەنى توسقالى جارىم كۇن بولدى.",
+        "id": "trans-d_kk_140",
+        "en": "I thought you weren't coming. I've been waiting for you for a long time."
+    },
+    {
+        "zh": "唁，别提了，今年的毕业生太多了，这不，腿都快跑断了。",
+        "kk": "ەر،ٴاي، ايتا كورمە، بيىل مەكتەپ بىتىرگەن وقۋشىلار وتە كوپ بولدى،تىكەمىزدەن تىڭ تۇردىق قوي.",
+        "id": "trans-d_kk_11",
+        "en": "Sigh, don't mention it. There are too many graduates this year, and I've been running around like crazy."
+    },
+    {
+        "zh": "我觉得那儿周围有点儿吵，我担心晚上会睡不好觉。",
+        "kk": "\" مەنىڭشە  ماڭايى ازعانتاي شۋىلداق ەكەن، كەشتە  ۇيىقتاي المايمىنا دەپ الاڭدادىم.",
+        "id": "trans-d_kk_770",
+        "en": "I think the surroundings there are a bit noisy, and I'm worried I won't sleep well at night."
+    },
+    {
+        "zh": "月亮不会跑，其实是天上的云在动。",
+        "kk": "اي جۇگىرە  المايدى، ٴىس جۇزىندە اسپانداعى بۇلت.",
+        "id": "trans-d_kk_321",
+        "en": "The moon isn't moving, actually it's the clouds in the sky that are moving."
+    },
+    {
+        "zh": "好的，你最好去看一下医生。",
+        "kk": "جارايدى، شيپاگەرگە ەڭ جاقسىسى بارىپ كورىڭىز.",
+        "id": "trans-d_kk_203",
+        "en": "Okay, you'd better see a doctor."
+    },
+    {
+        "zh": "你怎么现在才到?我都等了你半个小时了!",
+        "kk": "قايدا باردىڭ؟ جارىم ساعات توستىم!",
+        "id": "trans-d_kk_472",
+        "en": "Why are you only here now? I've been waiting for you for half an hour!"
+    },
+    {
+        "zh": "太好了，以后下班不用等那么长时间的车了。",
+        "kk": "وتە جاقسى بولدى، بۇدان كەيىن جۇمىستان تۇسكەنسوڭ، سونشاما ۇزاق ۋاقىت ماشينا كۇتۋدىڭ قاجەتى جوق بولدى .",
+        "id": "trans-d_kk_437",
+        "en": "Great, I won't have to wait so long for a bus after work."
+    },
+    {
+        "zh": "差一刻九点了，你动作快点儿!",
+        "kk": "ٴون بەس مينۋتتان كەيىن ساعات  9بولادى، ارەكەتىڭ تەزىرەك بولسىن !",
+        "id": "trans-d_kk_243",
+        "en": "It's a quarter to nine, hurry up!"
+    },
+    {
+        "zh": "你快来看啊，一个晚上，外面那棵树上的叶子都快要落光了。",
+        "kk": "قاراڭىزشى، ٴبىر تۇندە سىرتتاعى اعاشتاردىڭ جاپىراعى ٴتۇسىپ بولىپىتى.",
+        "id": "trans-d_kk_522",
+        "en": "Come and have a look, the leaves on that tree outside are almost all gone overnight."
+    },
+    {
+        "zh": "还没有，你对什么工作感兴趣呢?",
+        "kk": "جوق، سەن قايسى قىزمەتكە قىزىعاسىڭ؟",
+        "id": "trans-d_kk_624",
+        "en": "Not yet. What kind of job are you interested in?"
+    },
+    {
+        "zh": "好的，那我们还是老地方见。",
+        "kk": "جارايدى، وندا ٴبىز ٴالى دە كونە جەرىمىزدە كەزدەستىك.",
+        "id": "trans-d_kk_352",
+        "en": "Sure, let's meet at the usual place."
+    },
+    {
+        "zh": "当然了，当时很多观众都激动地站起来鼓掌了。",
+        "kk": "ارينە، سول كەزدە كوپتەگەن كورەرمەندەر ورنىنان تۇرىپ شاپالاق سوقتى.",
+        "id": "trans-d_kk_757",
+        "en": "Of course, many in the audience stood up and applauded excitedly at the time."
+    },
+    {
+        "zh": "剪头发。王林发型师在吗?",
+        "kk": "شاشىمدى قيدىرامىن،  ۋاڭ لين شاشتاراز بار ما؟",
+        "id": "trans-d_kk_154",
+        "en": "A haircut. Is hairstylist Wang Lin here?"
+    },
+    {
+        "zh": "这么近，我们就走路去吧，别打车了。",
+        "kk": "جاپ – جاقىن جەرگە جاياۋ بارا سالايىق، ماشينا توسپاي اي اق قويايىق.",
+        "id": "trans-d_kk_447",
+        "en": "It's so close, let's just walk there, no need to take a taxi."
+    },
+    {
+        "zh": "你胡说什么呀，那是他妈!",
+        "kk": "سەن نەنى ايتاسڭ، ول اناسى !",
+        "id": "trans-d_kk_748",
+        "en": "What nonsense are you talking about? That's his mother!"
+    },
+    {
+        "zh": "谢谢你。",
+        "kk": "راقىمەت سىزگە.",
+        "id": "trans-d_kk_653",
+        "en": "Thank you."
+    },
+    {
+        "zh": "我刚才出去买了几个菜包，赶紧趁热吃吧，冷了就不好吃了。",
+        "kk": "مەن جاڭا عانا بىرنەشە ٴمانتى ساتىپ الدىم.",
+        "id": "trans-d_kk_311",
+        "en": "I just went out to buy some vegetable buns. Eat them while they are hot, they don't taste as good when they are cold."
+    },
+    {
+        "zh": "谁的广告花钱多，谁的产品就卖得好。",
+        "kk": "كىم جارناماعا كوپ اقشا جۇمساسا، سونىڭ زاتىنىڭ ٴوتىمى تەز بولادى.",
+        "id": "trans-d_kk_60",
+        "en": "Whoever spends more on advertising will sell more products."
+    },
+    {
+        "zh": "真的吗?",
+        "kk": "راس پا؟",
+        "id": "trans-d_kk_756",
+        "en": "Really?"
+    },
+    {
+        "zh": "你明天又要出差?",
+        "kk": "ەرتەڭ ٴىس ساپارعا شىعاسىڭ با؟",
+        "id": "trans-d_kk_50",
+        "en": "Are you going on another business trip tomorrow?"
+    },
+    {
+        "zh": "就是那家的，他们的包子口味很独特，每次都要排队等呢。",
+        "kk": "سول  دۇكەندىكى، ولاردىڭ ٴمانتىسىنىڭ ٴدامى ەرەكشە، ٴار جولى قاتارعا تۇرىپ كۇتىپ الادى.",
+        "id": "trans-d_kk_313",
+        "en": "Yes, they are from that place. Their buns have a unique flavor, and there’s always a queue waiting for them."
+    },
+    {
+        "zh": "小李看起来很紧张啊。",
+        "kk": "شياۋلي قاراماققا ابىرجىپ تۇرعان سياقتى.",
+        "id": "trans-d_kk_270",
+        "en": "Xiao Li looks very nervous."
+    },
+    {
+        "zh": "站在你左边的是你爸爸吗?他看起来真年轻呀。",
+        "kk": "سەنىڭ سول جاقتا تۇرعان اكەڭ پا؟ ول كورەر كوزگە جاس كورىنەدى.",
+        "id": "trans-d_kk_345",
+        "en": "Is the person standing on your left your dad? He looks really young."
+    },
+    {
+        "zh": "我喜欢你。",
+        "kk": "مەن سەنى جاقسى كورەم .",
+        "id": "trans-d_kk_421",
+        "en": "I like you."
+    },
+    {
+        "zh": "好，不见不散!",
+        "kk": "جارايدى، ٴسوزىسز كەزدەسەتىن بولايىق!",
+        "id": "trans-d_kk_704",
+        "en": "Okay, see you there!"
+    },
+    {
+        "zh": "别急，好好找找。",
+        "kk": "اسىقپا، جاقسىلاپ ىزدەپ كور .",
+        "id": "trans-d_kk_548",
+        "en": "Don't worry, just take your time to look for it."
+    },
+    {
+        "zh": "你觉得这个房子怎么样?喜欢吗?",
+        "kk": "بۇل ٴۇي قانداي؟جاقتىما؟",
+        "id": "trans-d_kk_386",
+        "en": "What do you think of this house? Do you like it?"
+    },
+    {
+        "zh": "没事儿，我那病算不了什么，应该通知我。",
+        "kk": "وقاسى جوق، مەنىڭ اۋرۋىم ەشتەمە ەتپەيدى، ماعان ۇقتىرۋ كەرەك ەدى .",
+        "id": "trans-d_kk_554",
+        "en": "It's okay, my illness is nothing serious, you should have informed me."
+    },
+    {
+        "zh": "我看看这张校园地图。",
+        "kk": "مەن مەكتەپ اۋلاسىنىڭ قاريتاسىن كورەيىن.",
+        "id": "trans-d_kk_727",
+        "en": "Let me look at this campus map."
+    },
+    {
+        "zh": "这件让他试试。",
+        "kk": "مىنانى ول سىناپ كورسىن.",
+        "id": "trans-d_kk_218",
+        "en": "Let him try this one."
+    },
+    {
+        "zh": "我也是，现在看到你们真高兴。",
+        "kk": "مەن دە سولاي،سىزدەردى كورگەنىمە قاتتى قۋانىپ تۇرمىن",
+        "id": "trans-d_kk_3",
+        "en": "Me too, I'm really happy to see you all now."
+    },
+    {
+        "zh": "今天去购物都买什么了?",
+        "kk": "بۇگىن نە ساتىپ الدىڭ؟",
+        "id": "trans-d_kk_738",
+        "en": "What did you buy when you went shopping today?"
+    },
+    {
+        "zh": "姐，您这儿有中国地图吗？",
+        "kk": "اپەكە، مۇندا جۇڭگو قاريتاسى بار ما؟",
+        "id": "trans-d_kk_427",
+        "en": "Sis, do you have a map of China here?"
+    },
+    {
+        "zh": "是的。可能是因为这些天睡得太晚。",
+        "kk": "سولاي. بۇل كۇندەرى تىم جاي ۇيىقتاعانىنان بولۋى مۇمكىن ەمەس .",
+        "id": "trans-d_kk_538",
+        "en": "Yes. It might be because I've been sleeping too late these days."
+    },
+    {
+        "zh": "凡是毕业生招聘会我都去，但没有一家是双方都满意的。",
+        "kk": "بىرنەشە جۇمىسشى قابىلداۋ ورىندارىنا باردىم، ٴبىراق ىلايىقتى ورىن شىقپادى.",
+        "id": "trans-d_kk_15",
+        "en": "I've been to all the graduate job fairs, but none of them are satisfactory for both sides."
+    },
+    {
+        "zh": "当然有，我还给她买了一条裙子。",
+        "kk": "ارينە، بار، مەن وعان ٴبىر كويلەك ساتىپ الدىم.",
+        "id": "trans-d_kk_677",
+        "en": "Of course, I also bought her a dress."
+    },
+    {
+        "zh": "还好还好，谢谢你来机场接我，等了很长时间吧？",
+        "kk": "بولادى، ٴسىز اۋەجايعا كەلىپ مەنى الىپ قالعانىڭىزعا راقىمەت، قانشا ۋاقىت كۇتىپ تۇرىڭىز؟",
+        "id": "trans-d_kk_85",
+        "en": "Not really, not really. Thank you for coming to pick me up at the airport. Have you been waiting long?"
+    },
+    {
+        "zh": "说的是，不过你可以打折的时候去买，会便宜很多。",
+        "kk": "ونى ايتتىڭ، الايدا، سەن ارزانداتقان كەزدە ساتىپ الساڭ، وتە ارزان بولادى.",
+        "id": "trans-d_kk_192",
+        "en": "That's true, but you can buy them during sales, and it will be much cheaper."
+    },
+    {
+        "zh": "明天有一个会，我今晚要加班了，你自己先去吃饭吧。",
+        "kk": "ەرتەڭ ٴبىر ٴجىيىن  بولادى، مەن بۇگىن كەشتە ۇستەمە جۇمىس ىستەيمىن، ٴوزىڭ  الدىمەن تاماق جەي بەر .",
+        "id": "trans-d_kk_425",
+        "en": "There is a meeting tomorrow, so I have to work overtime tonight. You go ahead and have dinner by yourself."
+    },
+    {
+        "zh": "没办法，有一笔大单子要去谈。",
+        "kk": "شىپاسقا امال جوق، ماڭىزدى جۇمىس بار.",
+        "id": "trans-d_kk_51",
+        "en": "There's no choice, I have to negotiate a big deal."
+    },
+    {
+        "zh": "会不会和机票放在一起了?",
+        "kk": "ۇشاق بەلەتىمەن بىرگە  قويدىڭ با؟",
+        "id": "trans-d_kk_595",
+        "en": "Could they be with the plane tickets?"
+    },
+    {
+        "zh": "啊，还真是。",
+        "kk": "ا، شىنىندا.",
+        "id": "trans-d_kk_319",
+        "en": "Ah, it really is."
+    },
+    {
+        "zh": "成人40，儿童一米二以下免费，一米二以上半票。",
+        "kk": "ەرەسەكتەر 40 يۋان،  بويى ٴبىر مەتر ەكى دەن ومەن بالالار ت اقىسىز، ٴبىر مەتر ەكى  دەن جوعارعى بالالار  جارىم باعادا.",
+        "id": "trans-d_kk_717",
+        "en": "Adults 40, children under 1.2 meters are free, over 1.2 meters half price."
+    },
+    {
+        "zh": "你哪一天才能把马大哈的毛病改掉呢?",
+        "kk": "سالدىر – سالاقتىعىڭدى قاشان وزگەرتە الاسىز؟",
+        "id": "trans-d_kk_506",
+        "en": "When will you be able to change your forgetful ways?"
+    },
+    {
+        "zh": "太好了!我常听人说，没到过长城就等于没来过中国。",
+        "kk": "وتە جاقسى بولدى! مەن ۇلى قورعانعا بارماساڭ جۇڭگوعا كەلۋدىڭ قاجەتى جوق دەپ ەستيتىن ەدىم.",
+        "id": "trans-d_kk_670",
+        "en": "Great! I've often heard people say that if you haven't been to the Great Wall, it's like you haven't been to China."
+    },
+    {
+        "zh": "我们得有十年没见了吧?你胖了很多，我都快认不出来了。",
+        "kk": "ون جىل كورىسپەگەن شىعارمىز؟ سەمىرىپ كەتكەندىكتەن سەنى تانىماي قالپمىن.",
+        "id": "trans-d_kk_0",
+        "en": "We haven't seen each other for about ten years, right? You've gained a lot of weight, I almost didn't recognize you."
+    },
+    {
+        "zh": "我们希望你明天就能来上班。",
+        "kk": "ٴبىز سەنىڭ ەرتەڭ قىزمەتكە كەلۋىڭدى ٴۇمىت ەتەمىز.",
+        "id": "trans-d_kk_650",
+        "en": "We hope you can start working tomorrow."
+    },
+    {
+        "zh": "小李要结婚了，你送他什么礼物啊?",
+        "kk": "شياۋلي تويعا شاقىرىپتى، سەن وعان قانداي ساۋعا بەرەسىڭ؟",
+        "id": "trans-d_kk_457",
+        "en": "Xiao Li is getting married. What gift are you going to give him?"
+    },
+    {
+        "zh": "小姐，这件衣服有大一点儿的吗？",
+        "kk": "اپەكە، بۇل كيىمنىڭ ۇلكەنى بار ما؟",
+        "id": "trans-d_kk_161",
+        "en": "Miss, do you have this piece of clothing in a larger size?"
+    },
+    {
+        "zh": "怎么没租呢?哪儿不合适?",
+        "kk": "نەگە المادىڭ؟ قاي جەرى  ۇيلەسىمدى بولمادى؟",
+        "id": "trans-d_kk_769",
+        "en": "Why didn't you rent it? What didn't suit you?"
+    },
+    {
+        "zh": "坐公交和地铁的人太多了，大夏天的多热啊，我看还是打车过去算了!",
+        "kk": "الەۋمەتتىك قاتىناس پەن مەتروعا وتىراتىندار وتە كوپ، جازدىڭ شىلىڭگىر ىستىعىندا، مەنىڭشە، كىرە كولىگىنە وتىرىپ بارايىق!",
+        "id": "trans-d_kk_65",
+        "en": "There are too many people on the bus and subway, and it's too hot in the summer. I think we should just take a taxi!"
+    },
+    {
+        "zh": "都已经跌成白菜价了，这一年又白忙活了。",
+        "kk": "بارلىعى ارزانداپ كەتتى، وسى جىلى تاعى بەكەر بولدى.",
+        "id": "trans-d_kk_456",
+        "en": "They've all dropped to rock-bottom prices. This year has been a waste of effort."
+    },
+    {
+        "zh": "天气预报说今天下午有大雨，但看现在的天气，不太可能啊!",
+        "kk": "اۋا رايى مالىمەتىنە قاراعاندا بۇگىن تۇستەن كەيىن قاتتى جاڭبىر جاۋادى دەپ ەدى، قازىرگى كۇن  رايىنا قاراعاندا جاۋمايتىن سياقتى!",
+        "id": "trans-d_kk_169",
+        "en": "The weather forecast says there will be heavy rain this afternoon, but looking at the current weather, it doesn't seem likely!"
+    },
+    {
+        "zh": "没办法，你先睡吧，我马上就写完了。",
+        "kk": "امال جوق، الدىمەن ۇيىقتاساڭىز، دەرەۋ جازىپ بولام.",
+        "id": "trans-d_kk_47",
+        "en": "There's no way, you go to sleep first, I'm almost finished."
+    },
+    {
+        "zh": "没有，你要地图做什么？",
+        "kk": "جوق، سەن قاريتانى نە قىلاسىڭ؟",
+        "id": "trans-d_kk_428",
+        "en": "No, why do you need a map?"
+    },
+    {
+        "zh": "那他什么时候有空儿?",
+        "kk": "وندا قاي كەزدە قولى بوسايدى؟",
+        "id": "trans-d_kk_411",
+        "en": "Then when will he be available?"
+    },
+    {
+        "zh": "我考了研究生，现在在这边读研呢。",
+        "kk": "مەن اسپيرانتتىققا ەمتيحان بەردىم، قازىر وسى ارادا زەرتتەۋ جۇرگىزدىم.",
+        "id": "trans-d_kk_32",
+        "en": "I got into graduate school and I am studying here now."
+    },
+    {
+        "zh": "嗨!你真是骑驴找驴，钢笔不是在你耳朵上夹着呢吗!",
+        "kk": "ٴاي! سەن شىنىندا استىڭداعى ەسەڭگىڭدى ىزدەگەن ەكەنسىڭ، قالام سەنىڭ قۇلاعىڭدا قىسۋلى تۇرمايما!",
+        "id": "trans-d_kk_550",
+        "en": "Hey! You're looking for something that's right in front of you. Isn't the pen tucked behind your ear!"
+    },
+    {
+        "zh": "喜欢，一出门就能看见大海，太棒了!",
+        "kk": "جاقسى كورەمىن، سىرتقا شىققاندا تەڭىزدى كورۋگە بولادى، وتە كەرەمەت!",
+        "id": "trans-d_kk_387",
+        "en": "I like it. As soon as you step out, you can see the sea. It's fantastic!"
+    },
+    {
+        "zh": "现代社会，那样单纯的爱情可能只能在电影里找了。",
+        "kk": "قازىرگى قوعامدا،،مۇنداي شىنايى ماحاببات كينودان عانا تابىلۋى مۇمكىن.",
+        "id": "trans-d_kk_709",
+        "en": "In modern society, such pure love might only be found in movies."
+    },
+    {
+        "zh": "没忘，可是这边的问题还没解决，回不去啊。",
+        "kk": "ۇمىتقام جوق، بۇل جەردەگى ماسەلە ٴالى شەشىلمەدى، قايتا الماي تۇرمايمىن با.",
+        "id": "trans-d_kk_228",
+        "en": "I haven't forgotten, but the problem here still isn't solved, I can't go back."
+    },
+    {
+        "zh": "你先去吧，下午的会议很重要，我还没准备好呢。",
+        "kk": "سىز الدىمەن بارىڭىز، تۇستەن كەيىنگى ٴماجىلىس وتە ماڭىزدى، مەن ٴالى دايىندالىپ بولا المادىم.",
+        "id": "trans-d_kk_558",
+        "en": "You go ahead, the afternoon meeting is very important and I'm not ready yet."
+    },
+    {
+        "zh": "你怎么了?好像不太高兴，工作遇到问题了吗?",
+        "kk": "نە بولدى؟ رەنجۋلىسىىڭ عوي، قىزمەتتە ماسەلەگە تاپ بولدىڭ با؟",
+        "id": "trans-d_kk_163",
+        "en": "What's wrong? You don't seem very happy. Did you encounter any problems at work?"
+    },
+    {
+        "zh": "是，前几天地上的草还没有绿呢。",
+        "kk": "سولاي، بىرنەشە كۇننىڭ الدىندا جەر ٴالى كوگەرگەن جوق ەدى.",
+        "id": "trans-d_kk_342",
+        "en": "Yes, just a few days ago the grass on the ground wasn't green yet."
+    },
+    {
+        "zh": "要是有时间就好了，可惜最近忙着考试呢。",
+        "kk": "ەگەر ۋاقىت بولسا جاقسى بولار ەدى، وكىنىشكە وراي، تاياۋدا ەمتيحانمەن  قاربالاس بولىپ كەتتىم.",
+        "id": "trans-d_kk_196",
+        "en": "I wish I had time, but unfortunately I'm busy with exams lately."
+    },
+    {
+        "zh": "那我约你们下次一起吃饭。",
+        "kk": "وندا مەن كەلەسى جولى بىرگە تاماقتانۋعا ۋادەلەسەيىق .",
+        "id": "trans-d_kk_752",
+        "en": "Then I'll arrange for us to have a meal together next time."
+    },
+    {
+        "zh": "今天咱们去爬长城。",
+        "kk": "بۇگىن ٴبىز ۇلى قورعانعا شىعايىق.",
+        "id": "trans-d_kk_669",
+        "en": "Today we are going to climb the Great Wall."
+    },
+    {
+        "zh": "这得问你自己，你心里比谁都清楚!",
+        "kk": "مۇنى وزىڭنەن سۇرا، كوڭىلىڭدى ٴوزىڭ بىلەسىڭ!",
+        "id": "trans-d_kk_424",
+        "en": "You should ask yourself, you know better than anyone!"
+    },
+    {
+        "zh": "你好!这里是肯德基宅急送。",
+        "kk": "سالەمەتسىز بە! بۇل ارا كىنتاكيدىڭ جەدەل جەتكىزۋ ورنى.",
+        "id": "trans-d_kk_569",
+        "en": "Hello! This is KFC delivery service."
+    },
+    {
+        "zh": "昨天和我们一起看电影的那个女孩真漂亮，性格也很活泼。",
+        "kk": "كەشە بىزبەن بىرگە كينو كورەتىن الگى قىز بالا وتە ادەمى، مىنەزى دە وتە قاعىلەز ەكەن.",
+        "id": "trans-d_kk_749",
+        "en": "The girl we watched the movie with yesterday was really pretty and very lively."
+    },
+    {
+        "zh": "太好了！太谢谢您了！",
+        "kk": "وتە جاقسى بولدى! سىزگە كوپ راحىمەت!",
+        "id": "trans-d_kk_135",
+        "en": "That's great! Thank you so much!"
+    },
+    {
+        "zh": "您好，我在报纸上看到贵公司的招聘广告，不知道现在招聘结束了吗?",
+        "kk": "سالەمەتسىزبە، مەن گازەتتەن گۇيجۋ سەرىكتىگىنىڭ قىزمەتكەر قابىلداۋ جارناماسىن كوردىم، قازىر قىزمەتكەر قابىلداۋ اياقتادى مە؟",
+        "id": "trans-d_kk_623",
+        "en": "Hello, I saw your company's job advertisement in the newspaper. I wonder if the recruitment has ended?"
+    },
+    {
+        "zh": "其实我还想读一读四大名著。",
+        "kk": "ٴىس جۇزىندە مەن تاعى ٴتورت ايگىلى شىعارمانى وقىعىم كەلەدى.",
+        "id": "trans-d_kk_691",
+        "en": "Actually, I also want to read the Four Great Classical Novels."
+    },
+    {
+        "zh": "离我们医院最近的一个就在杭州大学旁边。",
+        "kk": "شيپاحانامىزعا ەڭ جاقىن بىرەۋى حاڭجوۋ ۋنيۆەرسيتەتىنىڭ جانىندا.",
+        "id": "trans-d_kk_360",
+        "en": "The nearest one to our hospital is next to Hangzhou University."
+    },
+    {
+        "zh": "你喜欢哪个季节?",
+        "kk": "قاي ماۋسىمدى ۇناتاسىڭ؟",
+        "id": "trans-d_kk_493",
+        "en": "Which season do you like?"
+    },
+    {
+        "zh": "真是的，每次他都要迟到，下次再不想跟他出来了。",
+        "kk": "راسىندا، ٴار جولى كەشىگەدى، كەلەسى جولى ونىمەن شىققىسى كەلمەيدى.",
+        "id": "trans-d_kk_245",
+        "en": "Really, he is late every single time. I don't want to go out with him again next time."
+    },
+    {
+        "zh": "你没有和我一起去看真是太可惜了。",
+        "kk": "وكىنشتى، سەن مەنىمەن بىرگە بارساڭ بولاتىن ەدى.",
+        "id": "trans-d_kk_138",
+        "en": "It's a pity you couldn't come with me to see it."
+    },
+    {
+        "zh": "房东给我打电话了，他要卖房子。",
+        "kk": "ٴۇي يەسى ماعان تەلەفون شالدى، ول ٴۇي ساتپاقشى بولدى.",
+        "id": "trans-d_kk_287",
+        "en": "The landlord called me; he wants to sell the house."
+    },
+    {
+        "zh": "你可以从这儿坐1路公共汽车去，一小时就到了。",
+        "kk": "ٴسىز بۇل ارادان ٴبىرىنشى جول اۆتوبۋزىنا وتىرساڭىز، ٴبىر ساعاتتا جەتەسىز .",
+        "id": "trans-d_kk_608",
+        "en": "You can take the No. 1 bus from here, it takes an hour to get there."
+    },
+    {
+        "zh": "看你这孩子，来就来吧，还带什么东西?",
+        "kk": "قاراشى، مىنا بالانى، كەلسەڭ تاعى نە  نارسەلەردى الا كەلدىڭ؟",
+        "id": "trans-d_kk_632",
+        "en": "Look at you, child, just come, why bring anything?"
+    },
+    {
+        "zh": "别担心，我们有学生证，可以打7折。",
+        "kk": "الاڭداماڭىز، بىزدە وقۋشى كۋالىك بار، %70 پايىز ارزانداتىلادى.",
+        "id": "trans-d_kk_647",
+        "en": "Don't worry, we have student IDs and can get a 30% discount."
+    },
+    {
+        "zh": "麻烦你把声音关小一点好吗，我准备睡觉了。",
+        "kk": "ايەل:مۋزيكانىڭ دىبىسىن اقىرىنداتىپ قويشى، مەن ۇيىقتايىن دەپ ەدىم.",
+        "id": "trans-d_kk_80",
+        "en": "Could you please turn down the volume? I'm getting ready to sleep."
+    },
+    {
+        "zh": "那给您办张银行卡吧。您认为怎么样?",
+        "kk": "وندا سىزگە بانكە كارتوچكاسىن اشتىرىڭىز. ءسىز قالاي دەپ قارايسىز؟",
+        "id": "trans-d_kk_468",
+        "en": "Then let's get you a bank card. What do you think?"
+    },
+    {
+        "zh": "别着急，慢慢来，好事多磨嘛!",
+        "kk": "اسىقپا،  ٴسال سابىر ەت، بەينەت تۇبى زەينەت!",
+        "id": "trans-d_kk_12",
+        "en": "Don't worry, take your time, good things take time!"
+    },
+    {
+        "zh": "你还会跟人打架打到医院?那是什么时候的事?",
+        "kk": "سەندە باسقالارمەن توبەلەسىپ دوحدىرقاناعا باردىڭ با؟ قاشان بولعان ٴىس؟",
+        "id": "trans-d_kk_157",
+        "en": "You got into a fight and ended up in the hospital? When did that happen?"
+    },
+    {
+        "zh": "我的男朋友要一米八以上，很有钱，长得帅，性格好，对我也好。",
+        "kk": "مەنىڭ ۇل دوسىمنىڭ بويى 1مەتىر 80نەن جوعارى، وتە اقشالى، كەلبەتتى، مىنەزى جاقسى،مەنى جاقسى كورەدى.",
+        "id": "trans-d_kk_579",
+        "en": "My boyfriend must be taller than 1.8 meters, very rich, handsome, have a good personality, and treat me well."
+    },
+    {
+        "zh": "我想买双鞋，厚一点儿的，冬天穿。",
+        "kk": "اياق كيىم ساتىپ العىم كەلەدى، قالىڭ، قىستا كيەمىن.",
+        "id": "trans-d_kk_397",
+        "en": "I would like to buy a pair of shoes, a bit thicker, for winter wear."
+    },
+    {
+        "zh": "先生，这是你的登机牌吗?刚才掉地上了。",
+        "kk": "مىرزا، مىناۋ سەنىڭ ۇشاققا شىعۋ تاقتاڭىز با؟ الگىندە جەرگە ءتۇسىپ كەتتى.",
+        "id": "trans-d_kk_736",
+        "en": "Sir, is this your boarding pass? It just fell to the ground."
+    },
+    {
+        "zh": "你看，月亮在跑呢。",
+        "kk": "قاراڭىزشى، اي زىمىراپ بارادى.",
+        "id": "trans-d_kk_318",
+        "en": "Look, the moon is moving."
+    },
+    {
+        "zh": "这些衣服大的大小的小，没有一件我穿着合适的!",
+        "kk": "بۇل كيىمدەردىڭ ۇلكەنى -ۇلكەن كىشكەنەسى -كىشكەنە، ماعان لايىقتى كيىم  جوق ەكەن!",
+        "id": "trans-d_kk_705",
+        "en": "These clothes, whether large or small, not a single one fits me well!"
+    },
+    {
+        "zh": "大过节的，出去玩儿玩儿吧。",
+        "kk": "مەرەكە-مەيرامداردا سىرتقا شىعىپ وينامايسىڭبا.",
+        "id": "trans-d_kk_419",
+        "en": "It's a big holiday, you should go out and have some fun."
+    },
+    {
+        "zh": "小张生病了，小王同意帮我请假。",
+        "kk": "شياۋ جاڭ اۋىرىپ قالىپتى، شياۋ ۋاڭ مەنىڭ رۇقسات الۋىما كومەكتەسسىن.",
+        "id": "trans-d_kk_482",
+        "en": "Xiao Zhang is sick, Xiao Wang agreed to help me request leave."
+    },
+    {
+        "zh": "还磨呢，什么时候是个头呀!",
+        "kk": "اسىقپاعاندا،بۇل جۇمىستىڭ قاي ۋاقىتتا اياقتارىن كىم ٴبىلسىن.",
+        "id": "trans-d_kk_13",
+        "en": "Still taking time, when will this end?"
+    },
+    {
+        "zh": "啊，下雪了。你看，真漂亮。",
+        "kk": "ۋا، قار جاۋدى، قاراشى نەدەگەن ٴادەمى!",
+        "id": "trans-d_kk_179",
+        "en": "Ah, it's snowing. Look, it's really beautiful."
+    },
+    {
+        "zh": "是，在我包里呢。",
+        "kk": "ٴيا، مەنىڭ سومكامدا.",
+        "id": "trans-d_kk_452",
+        "en": "Yes, it is in my bag."
+    },
+    {
+        "zh": "明天下午你去唱歌吗？",
+        "kk": "ەرتەڭ تۇستەن كەيىن ٴان ايتۋعا باراسىز با؟",
+        "id": "trans-d_kk_120",
+        "en": "Are you going to sing tomorrow afternoon?"
+    },
+    {
+        "zh": "我女儿考上大学了，今天的午饭我请了。",
+        "kk": "قىزىم داشۋەگە قابىلداندى، بۇگىنگى تۇسكى تاماعىڭدى مەن  تولەيىن .",
+        "id": "trans-d_kk_754",
+        "en": "My daughter got into college, today's lunch is on me."
+    },
+    {
+        "zh": "大学一毕业我就参加了律师资格考试，通过之后就拿到了。",
+        "kk": "ۋنيۆەرسيتەتتى بىتىرگەننەن كەيىن ادۆوكاتتىق تولىمدىلىق ەمتيحانىنا قاتىناستىم.",
+        "id": "trans-d_kk_542",
+        "en": "I took the bar exam right after graduating from university, and I got it after passing."
+    },
+    {
+        "zh": "当然可以，再多休一天吧。好好养病，多喝水，注意休息。",
+        "kk": "ارينە، تاعى ٴبىر كۇن ارتىق دەمالۋعا بولادى. جاقسى دەمالىپ، كوبىرەك سۋ ٴىشۋ، دەمالۋعا كوڭىل ٴبولۋ كەرەك.",
+        "id": "trans-d_kk_350",
+        "en": "Of course, you can take one more day off. Take good care of yourself, drink plenty of water, and get some rest."
+    },
+    {
+        "zh": "晚上有安排吗?去打羽毛球吧?好久没去运动了。",
+        "kk": "كەشتە ۋاقىتىڭ بارما؟ قاۋىرسىن دوپ ويناپ كەلەيىك؟ كوپتەن بەرى ارەكەت جاساماپتىق.",
+        "id": "trans-d_kk_165",
+        "en": "Do you have any plans for the evening? Want to play badminton? It's been a long time since we last exercised."
+    },
+    {
+        "zh": "真对不起，这是最后一件了。",
+        "kk": "كەشىرىڭىز، ەڭ سوڭعى ٴبىر تال قالدى.",
+        "id": "trans-d_kk_162",
+        "en": "I'm really sorry, this is the last one."
+    },
+    {
+        "zh": "那你就好好守着你的“蛔虫”吧。",
+        "kk": "ەندەشە،  جابىسقاق قۇرتىڭدى» جاقسى قورعا.",
+        "id": "trans-d_kk_59",
+        "en": "Then you should really take care of your 'worm'."
+    },
+    {
+        "zh": "我一定按时还书。",
+        "kk": "مەن ٴسوزسىز ۋاعىندا قايتارامىن.",
+        "id": "trans-d_kk_695",
+        "en": "I will definitely return the book on time."
+    },
+    {
+        "zh": "你去上海上学，要注意身体，多给家里打电话，别让我跟你妈担心。",
+        "kk": "سەن شاڭحايعا بارىپ وقىساڭ، دەنساۋلىعىڭا كوڭىل ٴبول، ۇيگە كوبىرەك تەلەفون سوق، شەشەڭ ەكەۋىمىزدى الاڭداتپا.",
+        "id": "trans-d_kk_173",
+        "en": "You're going to study in Shanghai, take care of yourself, call home often, don't make your mom and me worry."
+    },
+    {
+        "zh": "我们是去爬山，你拿塑料袋干什么啊?",
+        "kk": "ٴبىز تاۋعا شىعامىز، سۋلياۋ دوربانى الىپ نە ىستەيسىڭ؟",
+        "id": "trans-d_kk_583",
+        "en": "We're going hiking, why are you bringing a plastic bag?"
+    },
+    {
+        "zh": "你准备自己去请假还是让小张帮你请?",
+        "kk": "رۇحساتتى ٴوزىڭ سۇرايسىڭ با، جوق شياۋجاڭ سۇرپا بەرسىن بە؟",
+        "id": "trans-d_kk_481",
+        "en": "Are you going to request leave yourself or have Xiao Zhang help you?"
+    },
+    {
+        "zh": "你怎么这么晚才来呀，上午的会都结束了。",
+        "kk": "نەگە وسىنشاما كەش كەلدىڭ، جىيىن  تۇستەن بۇرىن اياقتاعانعوي .",
+        "id": "trans-d_kk_367",
+        "en": "Why are you coming so late? The morning meeting has already ended."
+    },
+    {
+        "zh": "这盘录像带才卖11块钱。可惜买了衣服以后，我只剩7块钱了。",
+        "kk": "بۇل كەسكىنگە العىش لەنتا ارەڭ 11 يۋان ەكەن. امال قانشا، كيىم ساتىپ العاننان كەيىن 7 يۋانىم عانا قالدى.",
+        "id": "trans-d_kk_605",
+        "en": "This videotape is only sold for 11 yuan. Unfortunately, after buying clothes, I only have 7 yuan left."
+    },
+    {
+        "zh": "知道了，我让刘雪把昨天的作业带给您。",
+        "kk": "بىلەمىن، ليۋ شۋەنى كەشەگى تاپسىرمانى سىزگە جەتكىزەمىن.",
+        "id": "trans-d_kk_204",
+        "en": "Got it, I'll have Liu Xue bring you yesterday's homework."
+    },
+    {
+        "zh": "逃避解决不了问题，你得勇敢地去面对。",
+        "kk": "ماسەلەنى شەشۋدەن قاشقالاقتاماي، باتىلدىقپەن توتەپ بەرۋىڭ كەرەك.",
+        "id": "trans-d_kk_621",
+        "en": "Escaping won't solve the problem, you have to face it bravely."
+    },
+    {
+        "zh": "我这里还有钱呢。你拿去用吧。",
+        "kk": "مەندە  اقشا بار. الىپ بارىپ ىستەتە بەر.",
+        "id": "trans-d_kk_606",
+        "en": "I still have money here. You can take it and use it."
+    },
+    {
+        "zh": "我们大概有三年没见面了吧。好期待看看咱班的班花啊。",
+        "kk": "جۇزدەسپەگەلى ءۇش جىل بار شىعار. ٴبىزدىڭ كلاس گۇلدەرىمىزدى كورۋدى ٴۇمىت ەتەمىن.",
+        "id": "trans-d_kk_40",
+        "en": "It's been about three years since we last met, right? I'm looking forward to seeing the class beauty."
+    },
+    {
+        "zh": "他会要吗?又不是外人。",
+        "kk": "ول شىداي ما؟ باسقا ادام ەمەس.",
+        "id": "trans-d_kk_478",
+        "en": "Will he take it? He's not an outsider."
+    },
+    {
+        "zh": "不是，这是十二号，十四号在里边。",
+        "kk": "ولاي ەمەس، بۇل 12-نومەر، 14 -نومەر  باتىستا.",
+        "id": "trans-d_kk_515",
+        "en": "No, this is twelve, fourteen is inside."
+    },
+    {
+        "zh": "这里有中国文学和外国文学，你对哪个更有兴趣呢?",
+        "kk": "بۇل ارادا جۇڭگو ادەبيەتى مەن شەتەل ادەبيەتى بار، ٴسىز قايسى جاققا ٴتىپتى دە قىزىعاسىز؟",
+        "id": "trans-d_kk_688",
+        "en": "There is Chinese literature and foreign literature here, which are you more interested in?"
+    },
+    {
+        "zh": "后者更加吸引我。",
+        "kk": "كەيىنگىسى مەنى ٴتىپتى دە باۋرايدى.",
+        "id": "trans-d_kk_184",
+        "en": "The latter is more appealing to me."
+    },
+    {
+        "zh": "我有什么办法，待遇太差了，工资交完房租就没剩多少了。",
+        "kk": "مەنىڭ قانداي امالىم بار، ەڭبەقاقى وتە ناشار، ٴۇيدىڭ ماي پۇلىن تاپسىرعاندا، وزىمىزدە ەشتەڭە قالمايدى.",
+        "id": "trans-d_kk_446",
+        "en": "What choice do I have? The benefits were too poor. There wasn’t much left after paying rent."
+    },
+    {
+        "zh": "五点半吧。",
+        "kk": "بەس جارىمدا.",
+        "id": "trans-d_kk_358",
+        "en": "Around half past five."
+    },
+    {
+        "zh": "有歌舞、小品，还有京剧。",
+        "kk": "ٴان-ٴبي، كومەديا، بەيجيڭ تەاترى بار.",
+        "id": "trans-d_kk_702",
+        "en": "There are songs and dances, skits, and also Beijing opera."
+    },
+    {
+        "zh": "还没呢，我一会儿去吃，还要打印几份文件。",
+        "kk": "ءالى جەگەمىن جوق، سالدەن سوڭ بارىپ جەيمىن، تاعى بىرنەشە قۇجات باسامىن.",
+        "id": "trans-d_kk_73",
+        "en": "Not yet. I will eat in a little while. I also need to print a few documents."
+    },
+    {
+        "zh": "其实小李这人哪儿都好，就是有时说话没轻没重，容易得罪人。",
+        "kk": "ٴىس جۇزىندە شياۋليدىڭ ٴبار جەرى جاقسى، كەيدە جەڭىل-جەلپى سويلەيدى، ادامدى رەنجىتەدى.",
+        "id": "trans-d_kk_226",
+        "en": "Actually, Xiao Li is a good person in every way, it's just that sometimes he talks without restraint and easily offends people."
+    },
+    {
+        "zh": "说明书上写得很清楚，按照上面的步骤来。还不行的话，我明天去帮你。",
+        "kk": "تۇسىندىرمەدە ٴار ٴبىر باسقىشتار انىق جازىلعان.باسقىش بويىنشا قۇراستىرساڭ بولدى،  ٴتىتپى قۇراستىرا الماساڭ، ەرتەڭ ساعان بارىپ كومەكتەسەيىن.",
+        "id": "trans-d_kk_71",
+        "en": "The instructions are written clearly. Follow the steps on it. If it still doesn't work, I'll come and help you tomorrow."
+    },
+    {
+        "zh": "光送花儿，没有别的礼物?",
+        "kk": "گۇل ۇسىنعاننان، باسقا تارتۋ جوق پا؟",
+        "id": "trans-d_kk_676",
+        "en": "Just giving flowers, no other gifts?"
+    },
+    {
+        "zh": "哎?你不是今天要去火车站接朋友吗?",
+        "kk": "ٴاي؟ ءسىز بۇگىن ۆوكزالعا دوستارىڭىزدى العالى باراتىن ەدڭىز عوي.",
+        "id": "trans-d_kk_635",
+        "en": "Oh? Weren't you supposed to go to the train station to pick up your friend today?"
+    },
+    {
+        "zh": "没有啊，怎么了?",
+        "kk": "جوق، نە بولدى؟",
+        "id": "trans-d_kk_435",
+        "en": "No, what's up?"
+    },
+    {
+        "zh": "我们去喝杯咖啡吧。",
+        "kk": "ءبىز كوفە ىشۋگە بارايىق.",
+        "id": "trans-d_kk_557",
+        "en": "Let's go have a cup of coffee."
+    },
+    {
+        "zh": "你别不相信，是真的。",
+        "kk": "وتىرىك دەپ قالدىڭبا؟ شىن .",
+        "id": "trans-d_kk_23",
+        "en": "Don't doubt it, it's true."
+    },
+    {
+        "zh": "你准备好了没，准备好了我们就出发吧!",
+        "kk": "دايىندالىپ بولدىڭ با،سەن دايىندالىپ بولعاننان كەيىن جولعا شىعايىق!",
+        "id": "trans-d_kk_62",
+        "en": "Are you ready? If you are, let's head out!"
+    },
+    {
+        "zh": "请问有没有小孩儿穿的羽绒衣服?",
+        "kk": "بالالار كيەتىن مامىق شاپاندار بارما؟",
+        "id": "trans-d_kk_215",
+        "en": "Do you have any down jackets for children?"
+    },
+    {
+        "zh": "那边的包子也是吗?",
+        "kk": "ول جاقتا ٴمانتى دە اقىسىز با؟",
+        "id": "trans-d_kk_490",
+        "en": "Are the buns over there also free?"
+    },
+    {
+        "zh": "明天我要和一个朋友一起去北海公园。",
+        "kk": "ەرتەڭ مەن ٴبىر دوسىممەن بىرگە بەيحاي باقشاسىنا بارامىن.",
+        "id": "trans-d_kk_126",
+        "en": "Tomorrow I'm going to Beihai Park with a friend."
+    },
+    {
+        "zh": "我家的家具太旧了，我想买套新的，你觉得去哪买好呢?",
+        "kk": "ەر : ٴبىزدىڭ ٴۇيدىڭ ٴۇي جيھازدارى كونەرىپ كەتتى، جاڭاسىن الايىن دەگەمىن، قاي جەردەن السام جاقسى.",
+        "id": "trans-d_kk_189",
+        "en": "The furniture in my house is too old, I want to buy a new set. Where do you think is a good place to buy?"
+    },
+    {
+        "zh": "往那边走，过两个街区，然后再向右拐。银行就在街角的邮局对面。",
+        "kk": "انا جاققا قاراي ٴجۇرىپ، ەكى كوشە رايونىنان ٴوتىپ، ونان سوڭ وڭعا قاراي بۇرىلادى بانكە كوشە بۇرىشىنداعى پوچتا مەكەمەسىنىڭ قارسىسىندا.",
+        "id": "trans-d_kk_199",
+        "en": "Go that way, cross two blocks, and then turn right. The bank is across from the post office on the corner."
+    },
+    {
+        "zh": "你确定张强考了全班第一名吗?",
+        "kk": "جاڭ چياڭ شىنىمەن ەمتيقاندا ٴبىرىنشى بولدى ما؟",
+        "id": "trans-d_kk_22",
+        "en": "Are you sure Zhang Qiang got the first place in the class?"
+    },
+    {
+        "zh": "明天周四，已经有安排了，后天才有时间。",
+        "kk": "ەرتەڭ اپتانىڭ 4-كۇنى ورنالاستىرۋ جاسالدى، كەيىن اسپان ۋاقىت شىعادى.",
+        "id": "trans-d_kk_37",
+        "en": "Tomorrow is Thursday; I already have plans. I'm free the day after tomorrow."
+    },
+    {
+        "zh": "好的，没问题。",
+        "kk": "جارايدى، ماسەلە جوق.",
+        "id": "trans-d_kk_651",
+        "en": "Okay, no problem."
+    },
+    {
+        "zh": "这款羽绒服深色的都卖完了，那你再让他试试这件吧。",
+        "kk": "مىنا مامىق شاپان تۇگەل ساتىلىپ ءبىتتى، ەندى مىنانى سىناپ كورسىن .",
+        "id": "trans-d_kk_379",
+        "en": "All the dark-colored down jackets are sold out, please let him try this one instead."
+    },
+    {
+        "zh": "还是中国文学吧。",
+        "kk": "جۇڭگو ادەبيەتى.",
+        "id": "trans-d_kk_689",
+        "en": "Chinese literature."
+    },
+    {
+        "zh": "有时候坐公共汽车，有时候走路去。",
+        "kk": "كەيدە اۆتوبۋسقا وتىرىپ، كەيدە جاياۋ بارامىن.",
+        "id": "trans-d_kk_667",
+        "en": "Sometimes I take the bus, sometimes I walk."
+    },
+    {
+        "zh": "你决定穿哪一件衣服去参加明天的会议?",
+        "kk": "ەرتەڭگى ماجىلىسكە قايسى كيىمدى كيەسىڭ؟",
+        "id": "trans-d_kk_122",
+        "en": "Have you decided which outfit to wear to attend tomorrow's meeting?"
+    },
+    {
+        "zh": "对面那个房间就是。",
+        "kk": "قارىسى الدىڭىزداعى بولمە سول.",
+        "id": "trans-d_kk_685",
+        "en": "It's the room opposite."
+    },
+    {
+        "zh": "好，那你快洗洗脸睡吧。",
+        "kk": "جارايدى، بەتىڭدى  جۋ.",
+        "id": "trans-d_kk_620",
+        "en": "Okay, then quickly wash your face and go to sleep."
+    },
+    {
+        "zh": "好了，我知道了，你真哕嗦!",
+        "kk": "جارايدى، بىلەمىن، سەنىڭ راسىندا دىر-تاڭ ەكەنسىڭ!",
+        "id": "trans-d_kk_681",
+        "en": "Okay, I got it, you're so naggy!"
+    },
+    {
+        "zh": "没有，你有什么好的建议吗?",
+        "kk": "ورنالاستىرۋ جوق، سەنىڭ قانداي جاقسى ۇسىنىسىڭ بار؟",
+        "id": "trans-d_kk_699",
+        "en": "Nothing, do you have any good suggestions?"
+    },
+    {
+        "zh": "是的，请问你是?",
+        "kk": "ٴيا، ٴسىز كىم بولدىڭىز؟",
+        "id": "trans-d_kk_27",
+        "en": "Yes, may I ask who you are?"
+    },
+    {
+        "zh": "可是这个老板说话太无聊了，我们没必要浪费时间。",
+        "kk": "ٴبىراق، بۇل قوجايىن تىم زەرىگىشتى ەكەن، ٴبىزدىڭ ۋاقىتتمىزدى  ىسىراپ ەتتى.",
+        "id": "trans-d_kk_746",
+        "en": "But this boss is so boring, we don't need to waste our time."
+    },
+    {
+        "zh": "太好了!我就喜欢这样的女生。",
+        "kk": "وتە جاقسى بولدى! مەن وسىنداي قىزدى ۇناتامىن.",
+        "id": "trans-d_kk_751",
+        "en": "That would be great! I like girls like her."
+    },
+    {
+        "zh": "咦，我的钢笔找不着了。",
+        "kk": "ايەل:ٴاي،قالامىمدى تابا المادىم",
+        "id": "trans-d_kk_547",
+        "en": "Oh, I can't find my pen."
+    },
+    {
+        "zh": "你哥哥的棋下得真不错。",
+        "kk": "سەنىڭ اعاڭ شاحماتتا وتە جاقسى ەكەن.",
+        "id": "trans-d_kk_587",
+        "en": "Your brother plays chess really well."
+    },
+    {
+        "zh": "可是你的身体健康也很重要啊。",
+        "kk": "ٴبىراق دەنساۋلىعىڭدا وتە ماڭىزدى.",
+        "id": "trans-d_kk_46",
+        "en": "But your health is also very important."
+    },
+    {
+        "zh": "不客气。",
+        "kk": "وقاسى جوق.",
+        "id": "trans-d_kk_224",
+        "en": "You're welcome."
+    },
+    {
+        "zh": "现在正好9点半，恐怕我得走了。",
+        "kk": "قازىر ٴدال ساعات 9 جارىم بولدى،  مەن كەتۋىم كەرەك.",
+        "id": "trans-d_kk_149",
+        "en": "It's exactly 9:30 now, I'm afraid I have to leave."
+    },
+    {
+        "zh": "多什么呀，没有一双不破的。还买了个帽子，好看吗?",
+        "kk": "قايدان كوپ، ءبىر جاقسىسى جوق. باس كيىم ساتىپ الدىم، ادەمى مە ەكەن؟",
+        "id": "trans-d_kk_741",
+        "en": "Plenty? You don't have a single pair that's not torn. I also bought a hat. Does it look nice?"
+    },
+    {
+        "zh": "知道了，我们从办公楼向南走就是图书馆。",
+        "kk": "قىزمەت عيماراتىنان وڭتۇستىككە قاراي جۇرگەندە كىتاپحانا سول جەردە .",
+        "id": "trans-d_kk_729",
+        "en": "Got it, we'll head south from the office building to get to the library."
+    },
+    {
+        "zh": "新闻说，下个月我市要增加300辆公共汽车。",
+        "kk": "حاباردا مىناداي ايتىلدى،كەلەر ايدا قالامىزدا 300 كوشە اۆتوبۋزى كوبەيتىلەدى ەكەن.",
+        "id": "trans-d_kk_436",
+        "en": "The news said that next month our city will have 300 more buses."
+    },
+    {
+        "zh": "我渴了，来一瓶矿泉水就行。",
+        "kk": "شولدەپ تۇر ەدىم، ٴبىر قۇمىرا مينەرال  سۋ بولسا بولدى.",
+        "id": "trans-d_kk_697",
+        "en": "I'm thirsty. A bottle of mineral water will do."
+    },
+    {
+        "zh": "我会照顾好自己的，您就放心吧!",
+        "kk": "مەن وزىمە جاقسى قارايمىن، الاڭسىز بولىڭىز!",
+        "id": "trans-d_kk_174",
+        "en": "I'll take good care of myself, you can rest assured!"
+    },
+    {
+        "zh": "这件颜色挺好的，但是有点儿瘦，有没有大一号的?",
+        "kk": "مىنانىڭ رەڭى جاقسى ەكەن، ٴبىراق ٴسال كىشىلەۋ ەكەن، 1-ٴنومىر ۇلكەنى  بار ما؟",
+        "id": "trans-d_kk_380",
+        "en": "This color is nice, but it's a bit tight. Do you have a larger size?"
+    },
+    {
+        "zh": "小李怎么这么说话呀，真让人生气!",
+        "kk": "شياۋلي قالاي سويلەيدى،ادامنىڭ اشۋىن كەلتىرىپ.",
+        "id": "trans-d_kk_225",
+        "en": "Why does Xiao Li talk like that? It really makes people angry!"
+    },
+    {
+        "zh": "跟周末没关系，我们9月28号才开学呢。",
+        "kk": "سەنبى جەكسەنبىنىڭ بىزدىڭ دەمالىس پەن قاتىسى جوق،ٴبىز 9- ايدىڭ 28- كۇنى وقۋ باستايمىز.",
+        "id": "trans-d_kk_119",
+        "en": "It's not related to the weekend, we start school on September 28th."
+    },
+    {
+        "zh": "那就坐火车吧，不过你可别嫌火车人多。",
+        "kk": "وندا پويەزعا وتىرىڭىز، ٴبىراق پويەزعا ادام كوپ دەپ كۇماندانباڭىز .",
+        "id": "trans-d_kk_277",
+        "en": "Then take the train, but don't complain about the crowds on the train."
+    },
+    {
+        "zh": "说真的，我很同情你，现在的确是工作越来越难找了。",
+        "kk": "شىنىمدى ايتسام، قازىر قىزمەت تابۋ راسىندا وڭاي ەمەس، مەن ابدەن تۇسىنەمىن.",
+        "id": "trans-d_kk_16",
+        "en": "To be honest, I really sympathize with you, it's indeed getting harder to find a job now."
+    },
+    {
+        "zh": "马上就到山顶了，再坚持一会儿，到了山顶我们再休息。",
+        "kk": "تاۋ باسىنا تاياپ قالدىق، ەندى ٴبىراز شىداپ، تاۋ باسىنا بارعاندا  عانا دەمالايىق .",
+        "id": "trans-d_kk_248",
+        "en": "We're almost at the top. Just hold on a little longer; we can rest when we reach the summit."
+    },
+    {
+        "zh": "下周就有优惠活动，你可以去看看。",
+        "kk": "كەلەسى اپتادا ٴتيىمدى قيمىلدار بولادى، بارىپ كورۋىڭىزگە بولادى.",
+        "id": "trans-d_kk_194",
+        "en": "There's a promotion next week, you can go and have a look."
+    },
+    {
+        "zh": "春天来了，天气一下子就变热了。",
+        "kk": "كوكتەم كەلدى، اۋا رايى بىردەن جىلىندى.",
+        "id": "trans-d_kk_343",
+        "en": "Spring has arrived, and the weather has suddenly turned hot."
+    },
+    {
+        "zh": "是，听长辈们说，这些房子都是十九世纪初修建的。",
+        "kk": "ۇلكەندەردىڭ ايتۋىنشا، بۇل ۇيلەردىڭ بارلىعى 19-عاسىردىڭ باسىندا سالىنعان ەكەن.",
+        "id": "trans-d_kk_645",
+        "en": "Yes, according to the elders, these houses were all built in the early 19th century."
+    },
+    {
+        "zh": "那个对你来说可能有点儿难。",
+        "kk": "ول سەن ٴۇشىن ازىراق قيىن بولۋى مۇمكىن.",
+        "id": "trans-d_kk_692",
+        "en": "That might be a bit difficult for you."
+    },
+    {
+        "zh": "八点零五，已经起飞了。",
+        "kk": "ساعات 8 دەن5 مينۋت وتكەندە ۇشادى.",
+        "id": "trans-d_kk_498",
+        "en": "8:05, it has already taken off."
+    },
+    {
+        "zh": "哦，我忘了今天是周末了。",
+        "kk": "ە، بۇگىن اپتا سوڭى ەكەنىن ۇمىتىپ قالدىم.",
+        "id": "trans-d_kk_118",
+        "en": "Oh, I forgot today is the weekend."
+    },
+    {
+        "zh": "明天就考试了，你还在玩!",
+        "kk": "ەرتەڭ ەمتيحان بەرىلدى، سەن ٴالى ويناپ وتىرسىڭ!",
+        "id": "trans-d_kk_678",
+        "en": "The exam is tomorrow, and you're still playing!"
+    },
+    {
+        "zh": "话说得容易，这可是我新买的车，怎么能不生气?",
+        "kk": "ايتقانعا وڭاي، مەن  بۇل ماشينانى جاڭادان ساتىپ العامىن، اشۋلانباي قايتەم؟",
+        "id": "trans-d_kk_332",
+        "en": "It's easy to say, but this is my newly bought car. How can I not be angry?"
+    },
+    {
+        "zh": "王教授您好，路上辛苦了。",
+        "kk": "ۋاڭ پروفەسسور سالەمەتسىزبە، جولدا جاپا شەكتىڭىز.",
+        "id": "trans-d_kk_84",
+        "en": "Professor Wang, hello. You must be tired from the journey."
+    },
+    {
+        "zh": "先生可以上菜了吗?",
+        "kk": "مىرزا قۋىرماشتى شىعارساق بولا ما؟",
+        "id": "trans-d_kk_365",
+        "en": "Sir, can we start serving the dishes?"
+    },
+    {
+        "zh": "我们小区在11月要举办戏剧小品大赛。你要不要去报个名?",
+        "kk": "شاعىن رايون قاراشادا تەاتر، كومەديا جارىسىن وتكىزەدى. سەن تىزىمدەلدىڭبە؟",
+        "id": "trans-d_kk_504",
+        "en": "Our residential community is going to hold a short play competition in November. Do you want to sign up?"
+    },
+    {
+        "zh": "刚刚想起来，下午去超市忘记给你买帽子了。",
+        "kk": "ەندى عانا ويلاپ كورسەم، تۇستەن كەيىن ەرەن بازارعا بارىپ ساعان قالپاق ساتىپ العاندى ۇمىتىپ قالىپپن.",
+        "id": "trans-d_kk_461",
+        "en": "I just remembered, I forgot to buy you a hat when I went to the supermarket this afternoon."
+    },
+    {
+        "zh": "是吗，有机会我也要去看一看。不过，小玲是谁啊?",
+        "kk": "راس پا، وراي بولسا بايقاپ كورۋىم كەرەك. ٴبىراق، شياۋليڭ كىم؟",
+        "id": "trans-d_kk_281",
+        "en": "Really, I want to go and see it when I have the chance. But, who is Xiaoling?"
+    },
+    {
+        "zh": "看看钱包，会不会在里面?",
+        "kk": "اقشا قاپشىعىڭدى قارا، سوندا بولۋى مۇمكىن.",
+        "id": "trans-d_kk_593",
+        "en": "Check your wallet, could they be in there?"
+    },
+    {
+        "zh": "我想看看长江都经过了哪些省市，你知道吗？",
+        "kk": "مەن چاڭجياڭ وزەنىنىڭ قايسى ولكە، قالالاردان وتكەنىن كورگىم كەلەدى، سىز بىلەسىز بە؟",
+        "id": "trans-d_kk_429",
+        "en": "I want to see which provinces and cities the Yangtze River passes through. Do you know?"
+    },
+    {
+        "zh": "为什么?",
+        "kk": "نە ٴۇشىن؟",
+        "id": "trans-d_kk_603",
+        "en": "Why?"
+    },
+    {
+        "zh": "这款羽绒服深色的都卖完了，那你再让他试试这件吧。",
+        "kk": "مىنا ۇلگىدەگى مامىق شاپاننىڭ قانىق رەڭى تۇگەل ساتىلىپ كەتتى. مىنانى سىناپ كورسىنشى.",
+        "id": "trans-d_kk_220",
+        "en": "All the dark-colored down jackets are sold out, please let him try this one instead."
+    },
+    {
+        "zh": "小李换号了吗?怎么手机总是打不通?",
+        "kk": "شياۋلي ٴنومىر الماستىردما؟ تەلەفونى ۇنەمى جالعانبايدى عوي؟",
+        "id": "trans-d_kk_241",
+        "en": "Did Xiao Li change his number? Why can't I ever reach his phone?"
+    },
+    {
+        "zh": "还可以，坐出租车二十分钟就能到。",
+        "kk": "كىرە اۆتوموبيلعا وتىرىپ 20 مينوتتا بارۋعا بولادى.",
+        "id": "trans-d_kk_534",
+        "en": "It's okay, you can get there in twenty minutes by taxi."
+    },
+    {
+        "zh": "就是那天和我在火锅店吃饭的那个女孩。",
+        "kk": "سول كۇنى مەنىمەن ساماۋىرىن سورپاساسى تاماعىن جەگەن  قىز ەدى .",
+        "id": "trans-d_kk_282",
+        "en": "It's the girl who was eating with me at the hot pot restaurant that day."
+    },
+    {
+        "zh": "你看起来瘦多了。",
+        "kk": "ارىقىقتاپ كەتىپسىڭ.",
+        "id": "trans-d_kk_537",
+        "en": "You look much thinner."
+    },
+    {
+        "zh": "你如果能买，就给我200块钱吧!",
+        "kk": "ساتىپ العىڭىز كەلسە 200 يۋانعا بەرەيىن!",
+        "id": "trans-d_kk_400",
+        "en": "If you buy them, just give me 200 yuan."
+    },
+    {
+        "zh": "我要一杯咖啡。你喝什么?果汁怎么样?我记得你喜欢甜的。",
+        "kk": "مەن ٴبىر ستاكان كوفە الامىن.سەن نە ىشەسىڭ؟ جەمىس شىرىنى قانداي؟ ەسىمدە قالۋىنشا، سەن ٴتاتتىنىى ۇناتاسىڭ.",
+        "id": "trans-d_kk_696",
+        "en": "I want a cup of coffee. What would you like to drink? How about some juice? I remember you like sweet things."
+    },
+    {
+        "zh": "这部电影让我想起了我第一次牵你手时的情景。",
+        "kk": "بۇل كينو  مەنىڭ العاش رەت سەنىڭ قولىڭنان ۇستاعان كەزىمدى ەسىمە تۇسىردى.",
+        "id": "trans-d_kk_707",
+        "en": "This movie reminds me of the time when I first held your hand."
+    },
+    {
+        "zh": "哈哈。很久之前就听过这两个地方了，好期待啊。",
+        "kk": "حا حا. بۇل ەكى جەردى كوپ ەستىگەنىمدە، ءۇمىت كۇتۋگە بولادى عوي.",
+        "id": "trans-d_kk_39",
+        "en": "Haha, I've heard about these two places a long time ago, I'm really looking forward to it."
+    },
+    {
+        "zh": "欢迎光临，请问您是剪发还是烫发?",
+        "kk": "سىزدى قارسى الامىز، شاشىڭىزدى قيدىراسىزبا، جوق الدە بۇيرالاتاسىز با؟",
+        "id": "trans-d_kk_153",
+        "en": "Welcome, would you like a haircut or a perm?"
+    },
+    {
+        "zh": "大夫您好，我妻子的情况怎么样？",
+        "kk": "شيپاگەر سالەمەتسىز بە، ايەلىمنىڭ جاعدايى قانداي؟",
+        "id": "trans-d_kk_133",
+        "en": "Doctor, how is my wife doing?"
+    },
+    {
+        "zh": "那就放大这张吧，放在我们客厅里。",
+        "kk": "ەندەشە،بۇنى ۇلكەيتىپ شىعارىپ، قوناق بولمەگە ٴىلىپ قويايىق.",
+        "id": "trans-d_kk_91",
+        "en": "Then let's enlarge this one and put it in our living room."
+    },
+    {
+        "zh": "我在网上买了一个简易书柜，可是怎么都装不好。",
+        "kk": "مەن ينتەرنەتتەن قاراپايىم كىتاپ ىشكابىن ساتىپ الدىم، ٴبىراق جاقسى قۇراستىرا الماياق قويدىم.",
+        "id": "trans-d_kk_70",
+        "en": "I bought a simple bookshelf online, but I can't assemble it properly."
+    },
+    {
+        "zh": "我喜欢游泳、滑冰，还喜欢跑步。你呢?",
+        "kk": "مەن مالتاۋدى، مۇزدا سىرعاناۋدى جاقسى كورەمىن، سونداي ـ اق جۇگىرۋدى دە جاقسى كورەمىن . سەن شى؟",
+        "id": "trans-d_kk_487",
+        "en": "I like swimming, ice skating, and also like running. How about you?"
+    },
+    {
+        "zh": "放假了，你怎么没回家?",
+        "kk": "دەمالىس بولسا، ۇيگە قايتپايسىڭ با؟",
+        "id": "trans-d_kk_730",
+        "en": "The holiday is here, why haven't you gone home?"
+    },
+    {
+        "zh": "小明，你能帮我开一下门吗?我买了很多东西，开门不方便。",
+        "kk": "شياۋميڭ، سەن ماعان كومەكتەسىپ ەسىك اشۋىڭا بولا ما؟ مەن كوپتەگەن نارسە ساتىپ الدىم، ەسىك اشۋ قولايسىز.",
+        "id": "trans-d_kk_672",
+        "en": "Xiao Ming, can you help me open the door? I've bought a lot of things, and it's inconvenient for me to open it."
+    },
+    {
+        "zh": "你昨天晚上没睡好吗?",
+        "kk": "سەن كەشە كەشتە جاقسى ۇيىقتامادىڭ با؟",
+        "id": "trans-d_kk_627",
+        "en": "Didn't you sleep well last night?"
+    },
+    {
+        "zh": "真的啊，你太棒了，我毕业后就直接找了份工作呢，现在是来长沙出差。",
+        "kk": "راس، سەن وتە كەرەمەت ەكەنسىڭ، مەن وقۋ تاۋىسقاننان كەيىن تىكەلەي قىزمەت تاپتىم، قازىر چاڭشاعا ٴىسساپارعا كەلدىم.",
+        "id": "trans-d_kk_33",
+        "en": "Really? That's great! I found a job right after graduation. I'm in Changsha on a business trip now."
+    },
+    {
+        "zh": "商场里的太贵了，买不起啊。",
+        "kk": "ساۋدا سارايىنداعى وتە قىمبات، ساتىپ الا المايمىن عوي.",
+        "id": "trans-d_kk_191",
+        "en": "The ones at the mall are too expensive, I can't afford them."
+    },
+    {
+        "zh": "一般什么时候打折呀?",
+        "kk": "ادەتتە قاشان ارزانداتىلادى؟",
+        "id": "trans-d_kk_193",
+        "en": "When do they usually have sales?"
+    },
+    {
+        "zh": "因为只有这首我不用看歌词就能唱。",
+        "kk": "ۇيتكەنى بۇل ٴاندى تەكسىنە قاراماي جاتقا ايتا الامىن.",
+        "id": "trans-d_kk_188",
+        "en": "Because this is the only song I can sing without looking at the lyrics."
+    },
+    {
+        "zh": "好的，看来今天这个会议很重要呀。",
+        "kk": "جارايدى، مەنىڭشە، بۇگىنگى ٴماجىلىس وتە ماڭىزدى عوي.",
+        "id": "trans-d_kk_297",
+        "en": "Okay, it seems this meeting is very important today."
+    },
+    {
+        "zh": "孩子好像有点儿累了，咱们先休息一下再继续爬吧。",
+        "kk": "بالا ازداپ شارشاعانداي، الدىمەن دەمالىپ، ونان سوڭ ورمەلەيىك.",
+        "id": "trans-d_kk_247",
+        "en": "The child seems a bit tired. Let's take a break before we continue climbing."
+    },
+    {
+        "zh": "东西都收拾好了吗?",
+        "kk": "جيىستىرىپ پولدىڭدارما؟",
+        "id": "trans-d_kk_589",
+        "en": "Have you packed everything?"
+    },
+    {
+        "zh": "这么远啊，北京真大。",
+        "kk": "سونشا الىسپا، بەيجيڭ وتە ۇلكەن ەكەن .",
+        "id": "trans-d_kk_324",
+        "en": "It's so far, Beijing is really big."
+    },
+    {
+        "zh": "谢谢，我想问问，小王今天来上班了吗?",
+        "kk": "راقىمەت، شياۋ ۋاڭ بۇگىن قىزمەتكە كەلدى مە؟",
+        "id": "trans-d_kk_772",
+        "en": "Thank you, I want to ask, did Xiao Wang come to work today?"
+    },
+    {
+        "zh": "那你可以坐出租车，虽然有一点儿贵，但是二十分钟就到了。",
+        "kk": "وندا تاكسيگە وتىرساڭ  بولادى، از بولعاندا قىمبات بولعانىمەن جىيرما مينۋتتا جەتە سىڭ.",
+        "id": "trans-d_kk_610",
+        "en": "Then you can take a taxi. Although it's a bit expensive, it only takes twenty minutes."
+    },
+    {
+        "zh": "是啊，电影拍得很真实，把我带回了那个年代。",
+        "kk": "سولاي، كينو وتە شىنايى  تۇسىرلىپتى، مەنى دە سول داۋىرگە الىپ كەلدى.",
+        "id": "trans-d_kk_708",
+        "en": "Yes, the movie is very realistic and takes me back to that era."
+    },
+    {
+        "zh": "最近大盘波动比较大，你那几支股票怎么样了啊?",
+        "kk": "جۋىقتان بەرى ۇلكەن تولقۋ ءبىرشاما زور بولىپ وتىر،  بىرنەشە جارنا بەلەتىڭ قانداي بولدى؟",
+        "id": "trans-d_kk_455",
+        "en": "The stock market has been quite volatile recently. How are those stocks of yours doing?"
+    },
+    {
+        "zh": "本来是下午四点，但是因为校长有事，所以就推迟了一小时。",
+        "kk": "ٴاسىلى تۇستەن كەيىن ساعات 4 تە ەدى، ٴبىراق مەكتەپ باستىعىنىڭ جۇمىسى بولعاندىقتان، ٴبىر ساعات كەشىكتىرىلدى.",
+        "id": "trans-d_kk_294",
+        "en": "It was originally at four, but because the principal has something to attend to, it has been postponed by an hour."
+    },
+    {
+        "zh": "你很喜欢吃巧克力吗?",
+        "kk": "شوكالاتتى ۇناتىپ جەيسىڭ بە؟",
+        "id": "trans-d_kk_601",
+        "en": "Do you like eating chocolate?"
+    },
+    {
+        "zh": "你今晚有什么安排?",
+        "kk": "بۇگىن كەشتە قانداي ورنالاستىرۋلار بار؟",
+        "id": "trans-d_kk_698",
+        "en": "What plans do you have for tonight?"
+    },
+    {
+        "zh": "妈，明天六点一刻叫我起床。",
+        "kk": "شەشە، ەرتەڭ ساعات 6 دا مەنى وياتىپ جىبەرىڭىز.",
+        "id": "trans-d_kk_617",
+        "en": "Mom, wake me up at 6:15 tomorrow."
+    },
+    {
+        "zh": "你看这里有各种各样的灯，多漂亮啊!",
+        "kk": "قاراشى، بۇل جەردە الۋان ٴتۇرلى شىراقتار بار ەكەن، وتە ادەمى!",
+        "id": "trans-d_kk_208",
+        "en": "Look, there are all kinds of lamps here, how beautiful!"
+    },
+    {
+        "zh": "小金，我们都觉得你还没恢复过来，所以这次志愿者活动就没通知你。",
+        "kk": "شياۋجين، ٴبىز سەنىڭ  دەنساۋلىعىڭ قالپىنا كەلمەدى دەپ بۇل رەتكى ەرىكتىلەر قيمىلىن ساعان ۇقتىرمادىق.",
+        "id": "trans-d_kk_553",
+        "en": "Xiao Jin, we all think you haven't recovered yet, so we didn't inform you about this volunteer activity."
+    },
+    {
+        "zh": "在郊外。上周末我们去郊区玩儿，路过一大片桔园，就在那儿买了一箱。",
+        "kk": "قالا ماڭىندا. الدىڭعى اپتانىڭ سوڭىندا قالا ماڭى رايونىنا بارىپ ويىن ويناپ، ٴبىر ۇلكەن ماندارين باقشاسىنان ٴوتىپ، الگى ادامنان ٴبىر جاشىك ساتىپ الدىق.",
+        "id": "trans-d_kk_340",
+        "en": "In the suburbs. We went to the countryside last weekend and passed by a large orange orchard, where we bought a box."
+    },
+    {
+        "zh": "我的男朋友喜欢看足球比赛，是他影响了我。",
+        "kk": "مەنىڭ جىگىتىم فۋتبول جارىسىن كورۋدى ۇناتادى، بۇل ماعان ىقپال جاسادى.",
+        "id": "trans-d_kk_560",
+        "en": "My boyfriend likes to watch football matches, he influenced me."
+    },
+    {
+        "zh": "北海公园？我听说那里非常漂亮。",
+        "kk": "بيحاي باقشاسى؟ ەستۋىمشە، ول جەر وتە ادەمى ەكەن.",
+        "id": "trans-d_kk_127",
+        "en": "Beihai Park? I've heard it's very beautiful there."
+    },
+    {
+        "zh": "嗯，会议要讨论我们学校扩建的问题，当然很重要。",
+        "kk": "يا، ٴماجىلىس مەكتەبىمىزدى كەڭەيتۋ ماسەلەسىن تالقىلاۋ كەرەك، ارينە وتە ماڭىزدى.",
+        "id": "trans-d_kk_298",
+        "en": "Yes, the meeting is to discuss the expansion of our school, so it's very important."
+    },
+    {
+        "zh": "昨天下班经过那家新开的店，进去看了看，觉得不错，就买了。",
+        "kk": "كەشە جۇمىستان تۇسكەننەن كەيىن جاڭادان اشىلعان الگى دۇكەننەن ٴوتىپ بارا جاتىپ، كىرىپ كورىپ، جاقسى سەزىلىپ، ساتىپ الدىم.",
+        "id": "trans-d_kk_564",
+        "en": "After work yesterday, I passed by that newly opened store, went in to take a look, thought they were nice, and bought them."
+    },
+    {
+        "zh": "我明天下午去你们公司附近开会，要不要接你下班？",
+        "kk": "مەن ەرتەڭ تۇستەن كەيىن سەرىكتىگتەرىڭىزدىڭ ماڭىنا بارىپ جيىن اشامىن، سەنى قايتارما؟",
+        "id": "trans-d_kk_308",
+        "en": "I'm going to a meeting near your company tomorrow afternoon. Do you want a ride after work?"
+    },
+    {
+        "zh": "就是要看小孩儿看的动画片，才能保持年轻嘛!",
+        "kk": "بالا كورەتىن كارتون فيلىمدى كورگەندە عانا جاستىق شاعىڭدى ساقتاپ قالۋعا بولادى.",
+        "id": "trans-d_kk_111",
+        "en": "You have to watch kids' cartoons to stay young!"
+    },
+    {
+        "zh": "没关系，我要一张。",
+        "kk": "وقاسى جوق، مەن ٴبىر بەلەت الامىن.",
+        "id": "trans-d_kk_501",
+        "en": "No problem, I would like one."
+    },
+    {
+        "zh": "现在几点了?",
+        "kk": "قازىر قانشا بولدى؟",
+        "id": "trans-d_kk_520",
+        "en": "What time is it now?"
+    },
+    {
+        "zh": "不去，你顺便给我买点儿水果。",
+        "kk": "بارمايمىن، سەن ماعان جەمىس-جيدەك ساتىپ الا كەل.",
+        "id": "trans-d_kk_327",
+        "en": "No, please buy some fruit for me while you're there."
+    },
+    {
+        "zh": "离规定时间只有一个星期了，我们来得及吗?",
+        "kk": "بەلگىلەنگەن ۋاقىتقا ٴبىر اپتا عانا قالدى، ۇلگىرە الامىز با؟",
+        "id": "trans-d_kk_82",
+        "en": "There's only one week left before the deadline. Can we make it?"
+    },
+    {
+        "zh": "看你说的，不知道看过多少遍了。",
+        "kk": "سەندە ايتتىڭ عوي، قانشا رەت كورگەنىمدى بىلمەيدىم.",
+        "id": "trans-d_kk_93",
+        "en": "As you say, I don't know how many times I've watched it."
+    },
+    {
+        "zh": "我朋友上次给我的包很不错，我昨天又去买了一个。",
+        "kk": "دوسىم الدىڭعى جولى ماعان بەرگەن سومكاسى قيىن جاقسى، كەشە تاعى بىرەۋىن ساتىپ الدىم.",
+        "id": "trans-d_kk_458",
+        "en": "The bag my friend gave me last time was really nice, so I went and bought one yesterday."
+    },
+    {
+        "zh": "不用寄，传真给我就可以。",
+        "kk": "پوچتادان سالۋدىڭ قاجەتى جوق، چۋانجىن مەن جىبەرىپ بەرڭىز.",
+        "id": "trans-d_kk_556",
+        "en": "No need to mail it, just fax it to me."
+    },
+    {
+        "zh": "张老师，我有几个问题想问您一下。",
+        "kk": "جاڭ مۇعالىم، سىزدەن بىرنەشە سۇراق سۇرايىن دەگەمىن.",
+        "id": "trans-d_kk_145",
+        "en": "Teacher Zhang, I have a few questions I'd like to ask you."
+    },
+    {
+        "zh": "急什么，离飞机起飞还有一个小时呢。",
+        "kk": "نەمەنەگە اسىعاسىڭ، ايروپلان ۇشۋعا ٴالى بىر ساعات ۋاقىت بار .",
+        "id": "trans-d_kk_244",
+        "en": "Why rush, there is still an hour before the flight takes off."
+    },
+    {
+        "zh": "你怎么还没回来?忘了今天是爷爷的生日了?",
+        "kk": "ٴالى ۇيگە كەلمەدىڭ عوي؟ بۇگىن اتاڭنىڭ تۋىلعان كۇنى ەكەنىن ۇمىتىپ قالدىڭ با؟",
+        "id": "trans-d_kk_227",
+        "en": "Why haven't you come back yet? Did you forget that today is Grandpa's birthday?"
+    },
+    {
+        "zh": "听说你在上王教授的课，感觉怎么样?",
+        "kk": "سەن ۋاڭ پروفەسسوردىڭ ساباعىنا قاتىناسىپسىڭ عوي، قانداي ەكەن؟",
+        "id": "trans-d_kk_581",
+        "en": "I heard you're taking Professor Wang's class, how do you feel about it?"
+    },
+    {
+        "zh": "好的，下周你有时间吗，可以陪我一起去不?",
+        "kk": "جارايدى، كەلەسى اپتادا ۋاقىتىڭىز بار ما، مەنىمەن بىرگە بارساڭىز بولاما؟",
+        "id": "trans-d_kk_195",
+        "en": "Okay, do you have time next week? Can you come with me?"
+    },
+    {
+        "zh": "我们坐公交车去吧，要不就先走一段再坐地铁过去。",
+        "kk": "ٴبىز الەۋمەتتىك اۆتوبۋزعا وتىرىپ بارايىق، ايتپەسە ٴبىر تالاي جول جۇرىپ بارىپ مەتروعا وتىرۋعا تۋرا كەلەدى.",
+        "id": "trans-d_kk_64",
+        "en": "Let's take the bus, or we could walk a bit and then take the subway."
+    },
+    {
+        "zh": "真对不起，我一定会合理赔偿的。",
+        "kk": "شىنىندا كەشىرىڭىز، مەن ٴسوزسىز ۇيلەسىدمى تۇردە تولەم بەرەمىن.",
+        "id": "trans-d_kk_333",
+        "en": "I'm truly sorry. I will definitely provide reasonable compensation."
+    },
+    {
+        "zh": "对不起，让您久等了，我们刚才聊到哪儿了?",
+        "kk": "كەشىرىڭىز، ءسىزدى ۇزاق توستىرپ قويدىم، الگىندە اڭگمەمىز قايدا كەلىپ ەدى؟",
+        "id": "trans-d_kk_249",
+        "en": "Sorry to keep you waiting, where were we in our conversation?"
+    },
+    {
+        "zh": "你有没有觉得街道两边的树突然就绿了?",
+        "kk": "كوشەنىڭ ەكى جاعىنداعى اعاشتاردىڭ اياق استىنان جاپ – جاسىل بولعانىن بايقا دىڭ  با؟",
+        "id": "trans-d_kk_341",
+        "en": "Do you think the trees on both sides of the street have suddenly turned green?"
+    },
+    {
+        "zh": "就我这水平还是算了吧。",
+        "kk": "مەنىك ورەم جەتپەيدى، قويشى دەدىم.",
+        "id": "trans-d_kk_505",
+        "en": "I'll pass, considering my level."
+    },
+    {
+        "zh": "好的，请你本周四下午来我们公司，我们见面再谈。",
+        "kk": "جارايدى، وسى اپتانىڭ 4-كۇنى تۇستەن كەيىن سەرىكتىككە كەلىڭىز، ٴبىز كەزدەسىپ سويلەسەيىك.",
+        "id": "trans-d_kk_626",
+        "en": "Okay, please come to our company this Thursday afternoon, and we will discuss it further in person."
+    },
+    {
+        "zh": "是啊，离开学校后就没见过了。我还记得离开学校时，你还哭了呢。",
+        "kk": "سولاي، مەكتەپتەن كەتكەننەن كەيىن كورمەگەن ەدىم. مەن مەكتەپتەن اتتاناردا سەن جىلاعان ەدىڭ.",
+        "id": "trans-d_kk_1",
+        "en": "Yeah, we haven't seen each other since leaving school. I still remember you cried when we left school."
+    },
+    {
+        "zh": "好啊，我很喜欢看演出。都有些什么节目呢?",
+        "kk": "جارايدى، مەن كونسەرت كورۋدى وتە ۇناتامىن. قانداي نومىرلەر بار؟",
+        "id": "trans-d_kk_640",
+        "en": "Sure, I really enjoy watching performances. What kind of programs do they have?"
+    },
+    {
+        "zh": "请问，你们游泳馆存包的地方在哪儿?",
+        "kk": "مالتاۋ سارايىنداعى سومكا ساقتاۋ ورنى قاي جەردە؟",
+        "id": "trans-d_kk_684",
+        "en": "Excuse me, where is the place to store bags in your swimming pool?"
+    },
+    {
+        "zh": "您约好了吗，王先生?",
+        "kk": "الدىن الا كەلىسىپ قويعان با ەدىڭىز، ۋاڭ مىرزا؟",
+        "id": "trans-d_kk_408",
+        "en": "Do you have an appointment, Mr. Wang?"
+    },
+    {
+        "zh": "再等两分钟，我还有个朋友没到。",
+        "kk": "تاعى ەكى مينۋت توسام،مەنىڭ تاعى ٴبىر دوسىم كەلمەدى..",
+        "id": "trans-d_kk_95",
+        "en": "Let's wait for another two minutes, I'm still waiting for a friend."
+    },
+    {
+        "zh": "最近有好几场招聘会，你去投投简历应聘一下吧。",
+        "kk": "تاياۋدا بىرنەشە ورىن جۇمىسشى قابىلداۋ قۇلاقتاندىرۋى شىعىپتى، قىسقاشا تاريحىڭدى بەرىپ قويمادىڭبا؟",
+        "id": "trans-d_kk_14",
+        "en": "There are several job fairs recently, why don't you submit your resume and apply?"
+    },
+    {
+        "zh": "你这条裤子什么时候买的?",
+        "kk": "مىنا سىمىڭدى قاشان ساتىپ الدىڭ؟",
+        "id": "trans-d_kk_561",
+        "en": "When did you buy these pants?"
+    },
+    {
+        "zh": "马上就好。对了，我们怎么过去啊?",
+        "kk": "بولايىن دەپ قالدىم،ايتپاقشى قالاي بارامىز؟",
+        "id": "trans-d_kk_63",
+        "en": "I'll be ready soon. By the way, how are we getting there?"
+    },
+    {
+        "zh": "这几道题真难，你给我讲讲吧。",
+        "kk": "بىرنەشە ساۋالدار وتە قيىن ەكەن، ماعان ايتىپ بەرەسىڭبە .",
+        "id": "trans-d_kk_266",
+        "en": "These questions are really difficult, can you explain them to me?"
+    },
+    {
+        "zh": "火车站离这儿远吗?",
+        "kk": "پويەز بەكەتى بۇل ارادان الىس پا؟",
+        "id": "trans-d_kk_533",
+        "en": "Is the train station far from here?"
+    },
+    {
+        "zh": "听说你决定在地铁附近买房了。",
+        "kk": "ەستۋىمشە، مەترونىڭ ماڭىنان ٴۇي ساتىپ الۋعا بەكىنىپسز.",
+        "id": "trans-d_kk_453",
+        "en": "I heard you decided to buy a house near the subway."
+    },
+    {
+        "zh": "是的，吃得多又不锻炼，而且天天也没什么事情做，你说能不胖吗？",
+        "kk": "سولاي، تاماقتى كوپ جەيمىن جانە دەنە شىنىقتىرمايمىن، ونىڭ ۇستىنە ٴار كۇنى ەشقانداي ٴىس ىستەمەيىم، سەمىرمەگەندە؟",
+        "id": "trans-d_kk_764",
+        "en": "Yes, eating a lot without exercising, and having nothing much to do every day. Do you think I wouldn't gain weight?"
+    },
+    {
+        "zh": "一个编辑需要有耐心，她的个性倒是挺符合。",
+        "kk": "رەداكتوردا سابىرلى بولۋ قاجەت، ونىڭ مىنەزى وتە ۇيلەسەدى.",
+        "id": "trans-d_kk_565",
+        "en": "An editor needs to be patient, and her personality fits quite well."
+    },
+    {
+        "zh": "就是贵了一些，否则我们就买一个了。",
+        "kk": "قىمبات ەكەن، ويتپەگەندە، ٴبىز بىرەۋىن ساتىپ الساق بولادى ەكەن.",
+        "id": "trans-d_kk_209",
+        "en": "They're just a little expensive, otherwise we would have bought one."
+    },
+    {
+        "zh": "行，没问题。",
+        "kk": "ەر:،بولادى، ماسەلە جوق.",
+        "id": "trans-d_kk_655",
+        "en": "Sure, no problem."
+    },
+    {
+        "zh": "售货员。",
+        "kk": "ساتۋشى.",
+        "id": "trans-d_kk_625",
+        "en": "Salesperson."
+    },
+    {
+        "zh": "五站。",
+        "kk": "5 ايالداما.",
+        "id": "trans-d_kk_323",
+        "en": "Five stops."
+    },
+    {
+        "zh": "你呀，干什么能坚持到底啊。",
+        "kk": "سەن نە ىستەسەڭ سوڭىنا دەيىن تاباندىلىق كورسەتەسىڭ عوي.",
+        "id": "trans-d_kk_444",
+        "en": "You, huh, what can you stick with until the end?"
+    },
+    {
+        "zh": "花那么多钱买的，还没戴半年就坏了。",
+        "kk": "سونشا كوپ اقشا جۇمساپ ساتىپ العاندا جارىم جىل تاقپاي-اق بۇزىلدى.",
+        "id": "trans-d_kk_362",
+        "en": "I spent so much money on them, and they broke in less than half a year."
+    },
+    {
+        "zh": "多亏大家这么热心地照顾我，否则我这条命就捡不回来了啊。",
+        "kk": "كوپشىلىكتىڭ قامقورلىعىنىڭ ارقاسى عوي، ايتپەگەندە باياعىدا جانىمنان جۇدا بولاتىن ەدىم.",
+        "id": "trans-d_kk_103",
+        "en": "Thanks to everyone's enthusiastic care, otherwise I wouldn't have survived."
+    },
+    {
+        "zh": "明天要在总结会上发言，我还是觉得自己准备得不够。",
+        "kk": "ەرتەڭ قورتىندى جيىنىندا ٴسوز سويلەيمىن، مەن ٴالى دە ٴوزىمنىڭ دايىندىعىم جەتكىلىكسىز دەپ ويلايمىن.",
+        "id": "trans-d_kk_573",
+        "en": "I have to speak at the summary meeting tomorrow, and I still feel like I'm not prepared enough."
+    },
+    {
+        "zh": "田姐心灵手巧，人长得也秀气，工作还不错，她还愁什么?",
+        "kk": "تيان اپەكە ەپتى دە قاعىلەز، ادەمى، قىزمەتى دە جاقسى، ونىڭ نە ارمانى بار؟",
+        "id": "trans-d_kk_483",
+        "en": "Sister Tian is both clever and skillful, she is also pretty, and her job is not bad. What is she worried about?"
+    },
+    {
+        "zh": "请让我看一下你的简历、毕业证书和推荐信。",
+        "kk": "مەن ٴسىزدىڭ قىسقاشا تاريحىڭىزدى، وقۋ تاۋىسۋ كۋالىكتەرىڭىزدى جانە تانىستىرۋ حاتتارىڭىزدى تەكسەرىپ كورەيىن.",
+        "id": "trans-d_kk_338",
+        "en": "Please let me see your resume, diploma, and recommendation letter."
+    },
+    {
+        "zh": "我听说公园里今天晚上有一场演出，我正好有两张票，你有兴趣吗?",
+        "kk": "باقشادا بۇگىن كەشتە ويىن قويىلادى ەكەن، مەندە ەكى بەلەت بار، قىزىعاسىڭ با؟",
+        "id": "trans-d_kk_700",
+        "en": "I heard there's a performance in the park tonight, and I happen to have two tickets. Are you interested?"
+    },
+    {
+        "zh": "你要等到什么时候呀?还是早做打算吧。",
+        "kk": "قاشانعا دەيىن توسامىز، ودانشا ەرتەرەك جوسپار جاسايىق؟",
+        "id": "trans-d_kk_75",
+        "en": "How long are you going to wait? You should plan ahead."
+    },
+    {
+        "zh": "楼上的小李真不像话，老婆不在家就带别的女人回家。",
+        "kk": "عيماراتتاعى شياۋلي قىزىق ەكەن، ايەلى ۇيدە بولماي-اق باسقا قىز-كەلىنشەكتەردى ەرتىپ ۇيىنە قايتادى.",
+        "id": "trans-d_kk_747",
+        "en": "That Xiao Li upstairs is really inappropriate, bringing another woman home when his wife is not around."
+    },
+    {
+        "zh": "最近我还要去趟黄山，听说黄山的风景也很美。",
+        "kk": "تاياۋدا مەن حۋاڭشانعا بارامىن، حۋاڭشاننىڭ كورىنىسى دە وتە كوركەم ەكەنىن ەستىدىم.",
+        "id": "trans-d_kk_101",
+        "en": "I’m also planning to go to Huangshan soon. I heard the scenery there is beautiful."
+    },
+    {
+        "zh": "我担心我的水平还是不够专业。",
+        "kk": "مەنىڭ ورەم ءالى دە جەتپەيمە دەپ الاڭدايمىن.",
+        "id": "trans-d_kk_317",
+        "en": "I'm afraid my level is still not professional enough."
+    },
+    {
+        "zh": "急什么呀，离飞机起飞时间还有2个多小时呢!",
+        "kk": "نەگە اسىعاسىڭ، ۇشاقتىڭ ۇشۋ ۋاقىتىنا ٴالى ەكى ساعات ۋاقىت بار.",
+        "id": "trans-d_kk_150",
+        "en": "What's the rush? There are still more than two hours until the flight takes off!"
+    },
+    {
+        "zh": "没问题，我做出口生意这么多年，找几个外国人还不容易!",
+        "kk": "ماسەلە جوق، مەن ەكسپورت ساۋداسىن ىستەگەنىمە تالاي جىل بولدى، بىرنەشە شەتەلدىكتەردى ىزدەۋ وڭاي!",
+        "id": "trans-d_kk_616",
+        "en": "No problem, I've been in the export business for so many years, finding a few foreigners is not difficult at all!"
+    },
+    {
+        "zh": "老公，明天陪我去买衣服吧。",
+        "kk": "سۇيىكتىم، ەرتەڭ ماعان سەرىك بولىپ كيىم ساتىپ الايىق.",
+        "id": "trans-d_kk_722",
+        "en": "Honey, come with me to buy clothes tomorrow."
+    },
+    {
+        "zh": "晚上公司有事情，我可能晚点儿回来，你做饭吧。",
+        "kk": "كەشتە سەرىكتىكتە جۇمىس بولسا، مەن كەشىگىپ قايتىپ كەلۋىم مۇمكىن، سەن تاماق ىستەي بەر .",
+        "id": "trans-d_kk_545",
+        "en": "There's something at the company tonight, so I might come back late. You cook dinner."
+    },
+    {
+        "zh": "那你最喜欢哪一种?",
+        "kk": "وندا سەن قايسى قۋىرماشتى ۇناتىپ جەيسىڭ؟",
+        "id": "trans-d_kk_256",
+        "en": "Then which one do you like the most?"
+    },
+    {
+        "zh": "考试结束已经两个月了，怎么还不告诉我们成绩?",
+        "kk": "ەمتيحان اياقتالعانىنا ەكى اي بولدى، نەلىكتەن بىزگە ناتيجەنى ايتپادى؟",
+        "id": "trans-d_kk_633",
+        "en": "It's been two months since the exam ended, why haven't we been told the results?"
+    },
+    {
+        "zh": "他能发生什么事情呀。",
+        "kk": "نە جۇمىستىڭ تۋىلۋىنا بولاد.",
+        "id": "trans-d_kk_97",
+        "en": "What could possibly happen to him?"
+    },
+    {
+        "zh": "你今天都去了哪些地方?",
+        "kk": "سەن بۇگىن قاي جەرلەرگە باردىڭ؟",
+        "id": "trans-d_kk_143",
+        "en": "Which places did you go to today?"
+    },
+    {
+        "zh": "我每星期总有六七天不想上班。",
+        "kk": "ٴار اپتادا ۇنەمى 6،7 كۇن قىزمەتكە بارعىم كەلمەيدى.",
+        "id": "trans-d_kk_288",
+        "en": "There are six or seven days every week that I don't want to go to work."
+    },
+    {
+        "zh": "我知道，你得让我先把病人扶下车吧?",
+        "kk": "ونى بىلەمىن، الدىمەن ناۋقاستى اۆتوموبيلدەن سۇيەپ تۇسىرىپ السام بولاتىن شىعار؟",
+        "id": "trans-d_kk_142",
+        "en": "I know, but could you let me help the patient out of the car first?"
+    },
+    {
+        "zh": "谢谢!请让我进去一下，好吗?",
+        "kk": "راقىمەت! مەن كىرىپ كەتسەم بولاما؟",
+        "id": "trans-d_kk_516",
+        "en": "Thank you! May I go in for a moment?"
+    },
+    {
+        "zh": "好的，谢谢。",
+        "kk": "ماقۇل، راحىمەت،",
+        "id": "trans-d_kk_223",
+        "en": "Okay, thank you."
+    },
+    {
+        "zh": "快，好好找找，出租车司机还在楼下等着我们呢!",
+        "kk": "تەز، جاقسىلاپ ىزدە، تاكسي شوفەرى عيمارات استىندا ٴبىزدى كۇتىپ تۇر!",
+        "id": "trans-d_kk_597",
+        "en": "Hurry, look carefully, the taxi driver is still waiting for us downstairs!"
+    },
+    {
+        "zh": "再等等，人还没到齐呢。",
+        "kk": "توسا تۇرىڭىز، ادامدار تولىك كەلمەدى.",
+        "id": "trans-d_kk_366",
+        "en": "Let's wait a bit longer, not everyone has arrived yet."
+    },
+    {
+        "zh": "你喜欢的运动中除了滑冰以外，其他的我都喜欢。",
+        "kk": "سەن جاقسى كورەتىن سپورتتا مۇزدا سىرعاناۋدان سىرت، باسقا مەن دە ۇناتامىن.",
+        "id": "trans-d_kk_488",
+        "en": "I like all the sports you mentioned except for ice skating."
+    },
+    {
+        "zh": "今天早上吃什么啊?",
+        "kk": "بۇگىن تاڭەرتەڭ نە جەيسىز؟",
+        "id": "trans-d_kk_310",
+        "en": "What are we having for breakfast this morning?"
+    },
+    {
+        "zh": "等等，王先生，你等等……",
+        "kk": "توسا تۇرىڭىز، ۋاڭ مىرزا، ........",
+        "id": "trans-d_kk_414",
+        "en": "Wait, Mr. Wang, wait..."
+    },
+    {
+        "zh": "你好，请问今天飞往上海最早的航班是几点?",
+        "kk": "سالەمەتسىز بە؟بۇگىن شاڭحايعا ەڭ ەرتە ۇشاتىن كەزەكشى ايروپلان قانشادا ۇشادى؟",
+        "id": "trans-d_kk_497",
+        "en": "Hello, may I ask what time is the earliest flight to Shanghai today?"
+    },
+    {
+        "zh": "昨晚的风刮得确实挺大的，冬天就要到了。",
+        "kk": "كەشە كەشتە جەل قاتتى سوقتى، قىس تا كەلدى.",
+        "id": "trans-d_kk_523",
+        "en": "The wind was really strong last night, winter is coming."
+    },
+    {
+        "zh": "做完了，怎么啦?",
+        "kk": "ايەل:جازىپ بولدىم،  نە بولدى؟",
+        "id": "trans-d_kk_265",
+        "en": "Yes, I have. What's up?"
+    },
+    {
+        "zh": "什么班花啊，老得不成样子了，那后天在哪见面比较好呢?",
+        "kk": "كىممەن قانشا جۇمىس ىستەسە دە، قارتايعاندا مىنەزى شىقپاسا، وندا كۇندەردىڭ قاي جەردە كورىسۋى ٴبىرشاما جاقسى؟",
+        "id": "trans-d_kk_41",
+        "en": "What class beauty? I've aged badly. Where would be a good place to meet the day after tomorrow?"
+    },
+    {
+        "zh": "真笨！上网一查不就知道了吗？",
+        "kk": "ميىڭدى ىستەتسەڭشى! توراپقا شىعىپ تەكسەرە سالمايسىڭبا؟",
+        "id": "trans-d_kk_430",
+        "en": "How silly! Why don't you just look it up online?"
+    },
+    {
+        "zh": "今天晚上你有时间吗?学校旁边有一家新饭馆，你有兴趣吗?",
+        "kk": "بۇگىن كەشتە  ۋاقىتىڭ بارما؟ مەكتەپتىڭ جانىندا ٴبىر جاڭا اسحانا بار، بارعىڭ كەلەمە؟",
+        "id": "trans-d_kk_394",
+        "en": "Do you have time tonight? There's a new restaurant next to the school, are you interested?"
+    }
+]

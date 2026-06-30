@@ -1,0 +1,466 @@
+[
+    {
+        "id": "rc_bo_60",
+        "zh_trans": {
+            "id": "c3_1954",
+            "dialogue": [
+                "女：啊，下雪了。你看，真漂亮。",
+                "男：这是今年北京第三次下雪了。你以前没见过雪吗?",
+                "女：没有啊，我们国家一年四季都很热。所以看到雪我太高兴了。",
+                "男：那我们到外面去玩儿吧。"
+            ],
+            "query": "现在北京最可能是什么季节?",
+            "choices": [
+                "秋天",
+                "夏天",
+                "冬天"
+            ],
+            "gold": "冬天"
+        },
+        "options": [
+            "སྟོན་ཁ་",
+            "དབྱར་ཁ།",
+            "དགུན་ཁ"
+        ],
+        "question": "ད་ལྟ་པེ་ཅིན་གྱི་ཆེས་སྲིད་པའི་དུས་ཚིགས་ནི་ཅི་ཞིག་ཡིན་ནམ",
+        "answer": "C",
+        "context": [
+            "བུད་མེད།ཨ།་ཁ་བ་བབས་བྱུང་།ཁྱོད་ཀྱིས་ལྟོས་དང་།་ངོ་མ་ཡག་གི",
+            "སྐྱེས་པ།འདི་ནི་ད་ལོར་པེ་ཅིན་དུ་ཐེངས་གསུམ་པར་ཁ་བ་བབས་པ་རེད།ཁྱོད་ཀྱིས་སྔོན་ཆད་ཁ་བ་མཐོང་མ་མྱོང་ངམ་།",
+            "བུད་མེད།ང་ཚོའི་རྒྱལ་ཁབ་ལོ་གཅིག་གི་དུས་ཚིགས་བཞི་བོར་ཚ་བ་ཆེ།དེའི་ཕྱིར་ཁ་བ་མཐོང་བས་ང་ཧ་ཅང་དགའ་ཡོད།",
+            "སྐྱེས་པ།་དེ་ན་ང་ཚོ་ཕྱི་ལ་རྩེ་རུ་འགྲོ།"
+        ],
+        "en_trans": {
+            "dialogue": [
+                "Woman: Ah, it's snowing. Look, it's really beautiful.",
+                "Man: This is the third time it has snowed in Beijing this year. Haven't you seen snow before?",
+                "Woman: No, in our country, it's hot all year round. So I'm very happy to see snow.",
+                "Man: Then let's go outside and have fun."
+            ],
+            "query": "What season is it most likely in Beijing now?",
+            "choices": [
+                "Autumn",
+                "Summer",
+                "Winter"
+            ],
+            "gold": "Winter"
+        }
+    },
+    {
+        "id": "rc_bo_128",
+        "zh_trans": {
+            "id": "c3_2871",
+            "dialogue": [
+                "女：在中国，结婚以前一定要去检查身体，这是真的吗？",
+                "男：以前是这样，现在不需要了。",
+                "女：那中国人结婚以后，是和丈夫的爸爸妈妈一起住吗？",
+                "男：不一定，现在越来越多的年轻人选择自己住。"
+            ],
+            "query": "关于中国人结婚，可以知道什么？",
+            "choices": [
+                "要检查身体",
+                "要住在丈夫的家",
+                "很多人自己住"
+            ],
+            "gold": "很多人自己住"
+        },
+        "options": [
+            "གཟུགས་པོར་བརྟག་དཔྱད་བྱེད་དགོས་།",
+            "ཁྱོ་གའི་ཁྱིམ་དུ་སྡོད་དགོས་།",
+            "མི་མང་པོ་ཞིག་རང་ཉིད་བསྡད་ཡོད་།"
+        ],
+        "question": "ཀྲུང་གོའི་མི་གཉེན་སྒྲིག་བྱེད་པའི་སྐོར་ལ་ཅི་ཞིག་ཤེས་སམ་།",
+        "answer": "C",
+        "context": [
+            "བུད་མེད་：ཀྲུང་གོར་གཉེན་སྒྲིག་མ་བྱས་གོང་ངེས་པར་དུ་གཟུགས་པོར་བརྟག་དཔྱད་བྱེད་པར་འགྲོ་དགོས་པ་དེ་ནི་ངོ་མ་ཡིན་ནམ།",
+            "སྐྱེས་པ།：སྔོན་ཆད་འདི་འདྲ་རེད།་ད་ལྟ་མི་དགོ",
+            "བུད་མེད།：དེ་ན་ཀྲུང་གོ་བ་གཉེན་སྒྲིག་རྗེས།་ཁྱོ་གའི་ཕ་མ་གཉིས་དང་མཉམ་དུ་བསྡད་པ་ཡིན་ནམ།",
+            "སྐྱེས་པ།：ངེས་པ་མེད།་ད་ལྟ་ན་གཞོན་མང་པོ་ཞིག་གིས་རང་ཉིད་འདུག་རྒྱུ་འདེམས་བཞིན་ཡོད།"
+        ],
+        "en_trans": {
+            "dialogue": [
+                "Woman: In China, is it true that you must get a health check before getting married?",
+                "Man: It used to be like that, but it's not necessary anymore.",
+                "Woman: Do Chinese people live with their husband's parents after getting married?",
+                "Man: Not necessarily, more and more young people are choosing to live on their own."
+            ],
+            "query": "What can be known about Chinese people getting married?",
+            "choices": [
+                "Must get a health check",
+                "Must live at the husband's home",
+                "Many people live on their own"
+            ],
+            "gold": "Many people live on their own"
+        }
+    },
+    {
+        "id": "rc_bo_58",
+        "zh_trans": {
+            "id": "c3_151",
+            "dialogue": [
+                "女：你和公司签劳动合同了吗?",
+                "男：签了。其实签不签都无所谓，我也就准备临时在那儿干两天。"
+            ],
+            "query": "男的是什么意思?",
+            "choices": [
+                "没有签合同",
+                "合同不重要",
+                "刚上两天班",
+                "还没有上班"
+            ],
+            "gold": "合同不重要"
+        },
+        "options": [
+            "གན་རྒྱ་བཞག་མེད་།",
+            "གན་རྒྱ་གཙོ་བོ་མ་རེད་།",
+            "ད་སོ་མ་ཉིན་གཉིས་ལ་ལས་ཚོགས་ལ་ཞུགས་།",
+            "ད་རུང་ལས་ཚོགས་ལ་ཞུགས་མེད་།"
+        ],
+        "question": "སྐྱེས་པ་ནི་ཅི་ཞིག་གི་ནང་དོན་རེད།",
+        "answer": "B",
+        "context": [
+            "བུད་མེད།་ཁྱོད་དང་ཀུང་སིས་ངལ་རྩོལ་གན་རྒྱ་བཞག་ཡོད་དམ།",
+            "སྐྱེས་པ།་མིང་རྟགས་བཀོད་ཟིན།དོན་དངོས་སུ་མིང་རྟགས་འགོད་མི་འགོད་ལ་ཁྱད་མེད།་ངས་ཀྱང་གནས་སྐབས་སུ་དེ་ནས་ཉིན་གཉིས་ལ་ལས་རྩིས་ཡོད།"
+        ],
+        "en_trans": {
+            "dialogue": [
+                "Woman: Did you sign a labor contract with the company?",
+                "Man: I signed it. Actually, it doesn't matter whether I sign it or not, I'm just planning to work there temporarily for a couple of days."
+            ],
+            "query": "What does the man mean?",
+            "choices": [
+                "Did not sign the contract",
+                "The contract is not important",
+                "Just started working for two days",
+                "Has not started working yet"
+            ],
+            "gold": "The contract is not important"
+        }
+    },
+    {
+        "id": "rc_bo_233",
+        "zh_trans": {
+            "id": "c3_894",
+            "dialogue": [
+                "男：最近工作找得怎么样了?",
+                "女：别提了，现在真是最不缺的就是人啊。",
+                "男：不顺利吗?不行再想想别的办法吧。",
+                "女：总是碰壁，真有点儿不想找了。",
+                "男：别灰心，慢慢来吧。总会找到的。"
+            ],
+            "query": "通过对话，可以知道什么?",
+            "choices": [
+                "女的撞到墙壁了",
+                "女的找到工作了",
+                "女的不喜欢找工作",
+                "女的还没找到工作"
+            ],
+            "gold": "女的还没找到工作"
+        },
+        "options": [
+            "བུ་མོ་གྱང་ལ་བརྡབས་སོང་།",
+            "བུད་མེད་ཀྱིས་བྱ་བ་རྙེད་སོང་།",
+            "བུད་མེད་ལས་ཀ་འཚོལ་བར་མི་དགའ་།",
+            "བུད་མེད་ཀྱིས་ད་དུང་བྱ་བ་རྙེད་མེད་།"
+        ],
+        "question": "ཁ་བརྡ་བྱས་པ་བརྒྱུད་ནས་ཅི་ཞིག་ཤེས་ཐུབ།",
+        "answer": "D",
+        "context": [
+            "སྐྱེས་པ།་ཉེ་ལམ་བྱ་བ་བཙལ་བ་ཅི་འདྲ་རེད།",
+            "བུད་མེད།་མ་གླེང་།་ད་ལྟ་ངོ་མ་ཆེས་མི་ཆད་པ་ནི་མི་རེད།",
+            "སྐྱེས་པ།་བདེ་བླག་མ་རེད་དམ།མི་ཆོག་ན་ད་རུང་ཐབས་གཞན་པ་འཚོལ།",
+            "བུད་མེད།་རྒྱུན་དུ་སྣ་ཁུག་བརྡབས་ནས་ངོ་མ་བཙལ་ན་མི་འདོད།",
+            "སྐྱེས་པ།་སེམས་མ་ཕམ།་དལ་མོར་ཤོགགང་ལྟར་རྙེད་ངེས་རེད།"
+        ],
+        "en_trans": {
+            "dialogue": [
+                "Man: How is the job search going recently?",
+                "Woman: Don't mention it, there really is no shortage of people right now.",
+                "Man: Is it not going well? If not, try to think of other ways.",
+                "Woman: I keep hitting walls, I really feel like giving up on the job search.",
+                "Man: Don't lose heart, take it slow. You will find one eventually."
+            ],
+            "query": "What can be inferred from the conversation?",
+            "choices": [
+                "The woman ran into a wall",
+                "The woman found a job",
+                "The woman does not like job hunting",
+                "The woman has not found a job yet"
+            ],
+            "gold": "The woman has not found a job yet"
+        }
+    },
+    {
+        "id": "rc_bo_113",
+        "zh_trans": {
+            "id": "c3_3264",
+            "dialogue": [
+                "男：现在越来越多的大学生有心理问题了。",
+                "女：那也难怪，经济不景气，毕业生多，就业压力太大了。"
+            ],
+            "query": "大学生有心理问题的直接原因是什么?",
+            "choices": [
+                "没钱",
+                "工作难找",
+                "毕业生少",
+                "学历不够"
+            ],
+            "gold": "工作难找"
+        },
+        "options": [
+            "དངུལ་མེད།",
+            "ལས་ཀ་འཚོལ་དཀའ་།",
+            "མཐར་ཕྱིན་སློབ་མ་ཉུང་།",
+            "བསླབ་གནས་མི་འདང་།"
+        ],
+        "question": "སློབ་ཆེན་སློབ་མར་སེམས་ཁམས་གནད་དོན་ཡོད་པའི་ཐད་ཀའི་རྒྱུ་རྐྱེན་ནི་ཅི་ཞིག་ཡིན།",
+        "answer": "B",
+        "context": [
+            "བུ་།:ད་ལྟ་སློབ་ཆེན་སློབ་མ་མང་པོ་ཞིག་ལ་སེམས་ཁམས་ཀྱི་གནད་དོན་ཡོད་པ་རེད།",
+            "བུ་མོ:དེ་ཡང་ཁག་མི་འདུག་དཔལ་འབྱོར་མི་བཟང་།་མཐར་ཕྱིན་སློབ་མ་མང་།་ལས་ཞུགས་གནོན་ཤུགས་ཧ་ཅང་ཆེ།"
+        ],
+        "en_trans": {
+            "dialogue": [
+                "Man: More and more college students are having mental health issues now.",
+                "Woman: It's not surprising, the economy is sluggish, there are many graduates, and the pressure to find jobs is too high."
+            ],
+            "query": "What is the direct reason for college students having mental health issues?",
+            "choices": [
+                "No money",
+                "Hard to find a job",
+                "Few graduates",
+                "Low educational qualifications"
+            ],
+            "gold": "Hard to find a job"
+        }
+    },
+    {
+        "id": "rc_bo_160",
+        "zh_trans": {
+            "id": "c3_2599",
+            "dialogue": [
+                "男：这边的面包是免费的。",
+                "女：那边的包子也是吗?",
+                "男：是的，除了烤鸭。",
+                "女：看来这次聚会浪费了不少粮食啊!"
+            ],
+            "query": "他们可能在什么地方?",
+            "choices": [
+                "超市",
+                "餐厅",
+                "健身房",
+                "办公室"
+            ],
+            "gold": "餐厅"
+        },
+        "options": [
+            "སྒོ་རྩིས་ཚོང་ཁང་",
+            "ཟ་ཁང་",
+            "ལུས་སྦྱོང་ཁང་།",
+            "གཞུང་ལས་ཁང"
+        ],
+        "question": "ཁོ་ཚོ་ཕལ་ཆེར་ས་ཆ་གང་ན་ཡོད།",
+        "answer": "B",
+        "context": [
+            "སྐྱེས་པ།་འདི་ཕྱོགས་ཀྱི་བག་ལེབ་ནི་རིན་མེད་ཡིན།",
+            "བུད་མེད།་ཕ་གིའི་མོག་མོག་ཡང་ཡིན་ནམ།",
+            "སྐྱེས་པ།་རེད།་ངང་ཤ་བསྲེགས་མ་ཕུད་གཞན་རེད་",
+            "བུད་མེད།་བལྟས་ཡོང་ན་ཐེངས་འདིའི་འདུ་འཛོམས་ཀྱིས་འབྲུ་རིགས་མི་ཉུང་བ་ཞིག་འཕྲོ་བརླག་བཏང་འདུག"
+        ],
+        "en_trans": {
+            "dialogue": [
+                "Man: The bread here is free.",
+                "Woman: Are the buns over there also free?",
+                "Man: Yes, except for the roast duck.",
+                "Woman: It seems that this gathering wasted quite a bit of food!"
+            ],
+            "query": "Where might they be?",
+            "choices": [
+                "Supermarket",
+                "Restaurant",
+                "Gym",
+                "Office"
+            ],
+            "gold": "Restaurant"
+        }
+    },
+    {
+        "id": "rc_bo_117",
+        "zh_trans": {
+            "id": "c3_3090",
+            "dialogue": [
+                "男：您好，我是来应聘软件开发工程师的。",
+                "女：请在这里签个字，一会儿我带你过去面试。"
+            ],
+            "query": "关于男的，下列哪项正确?",
+            "choices": [
+                "打算辞职",
+                "被录取了",
+                "正在找工作",
+                "忘带证件了"
+            ],
+            "gold": "正在找工作"
+        },
+        "options": [
+            "ལས་ཁུར་དགོངས་ཞུ་བྱེད་རྩིས་ཡོད་།",
+            "བསྡུ་ལེན་བྱས་སོང་།",
+            "ལས་ཀ་འཚོལ་བཞིན་ཡོད་།",
+            "ལག་ཁྱེར་འཁྱེར་རྒྱུ་བརྗེད་སོང་།"
+        ],
+        "question": "སྐྱེས་པའི་སྐོར་ལ་གཤམ་གསལ་གྱི་རྣམ་གྲངས་གང་ཡང་དག་པ་ཡིན་ནམ་།",
+        "answer": "C",
+        "context": [
+            "བུ་།:སྐུ་ཁམས་བཟང་ང་ནི་མཉེན་ཆས་གསར་སྤེལ་བཟོ་བཀོད་པ་གདན་ཞུ་བྱེད་དུ་ཡོང་བ་ཡིན།",
+            "བུ་མོ:འདི་ནས་མིང་རྟགས་འགོད་རོགས།་ཅུང་ཙམ་འགོར་རྗེས་ངས་ཁྱོད་ཁྲིད་ནས་ངོ་རྒྱུགས་ལེན་དུ་འགྲོ།"
+        ],
+        "en_trans": {
+            "dialogue": [
+                "Man: Hello, I'm here to apply for the software development engineer position.",
+                "Woman: Please sign here, and I'll take you to the interview in a moment."
+            ],
+            "query": "Which of the following is correct about the man?",
+            "choices": [
+                "Planning to resign",
+                "Has been hired",
+                "Looking for a job",
+                "Forgot to bring his documents"
+            ],
+            "gold": "Looking for a job"
+        }
+    },
+    {
+        "id": "rc_bo_111",
+        "zh_trans": {
+            "id": "c3_3287",
+            "dialogue": [
+                "男：你有没有觉得街道两边的树突然就绿了?",
+                "女：是，前几天地上的草还没有绿呢。",
+                "男：春天来了，天气一下子就变热了。",
+                "女：我看我应该把裙子找出来了。"
+            ],
+            "query": "女的为什么要找裙子?",
+            "choices": [
+                "天热了",
+                "要去动物园",
+                "要举行舞会"
+            ],
+            "gold": "天热了"
+        },
+        "options": [
+            "གནམ་གཤིས་ཚ་བ་ཆེ་།",
+            "སྲོག་ཆགས་གླིང་གར་འགྲོ་དགོས་།",
+            "བྲོ་ཚོགས་འཚོགས་དགོས་།"
+        ],
+        "question": "བུད་མེད་ཀྱིས་ཅིའི་ཕྱིར་སྨད་གཡོགས་བཙལ་དགོས་པ་རེད།",
+        "answer": "A",
+        "context": [
+            "བུ་།:ཁྱོད་ཀྱིས་བལྟས་ན་་སྲང་ལམ་འགྲམ་གཉིས་ཀྱི་སྡོང་བོ་གློ་བུར་དུ་ལྗང་མདོག་ཏུ་གྱུར་ཡོད་དམ་།",
+            "བུ་མོ：རེད།་ཉིན་འགའ་ཤས་སྔོན་ལ་རྩྭ་ད་དུང་ལྗང་ཁུ་རེད་མི་འདུག་།",
+            "བུ་།:་དཔྱིད་ཀ་སླེབས་བྱུང་།་གནམ་གཤིས་གློ་བུར་དུ་ཇེ་དྲོ་ལ་སོང",
+            "བུ་མོ:བལྟས་ན་ངས་སྨད་གཡོགས་བཙལ་ནས་ཡོང་ན་འགྲིག"
+        ],
+        "en_trans": {
+            "dialogue": [
+                "Man: Do you think the trees on both sides of the street have suddenly turned green?",
+                "Woman: Yes, just a few days ago the grass on the ground wasn't green yet.",
+                "Man: Spring has arrived, and the weather has suddenly turned hot.",
+                "Woman: I think I should find my skirt."
+            ],
+            "query": "Why does the woman want to find her skirt?",
+            "choices": [
+                "It's hot",
+                "Going to the zoo",
+                "Having a ball"
+            ],
+            "gold": "It's hot"
+        }
+    },
+    {
+        "id": "rc_bo_158",
+        "zh_trans": {
+            "id": "c3_784",
+            "dialogue": [
+                "男：饭还没好吗?",
+                "女：我每天从早忙到晚，你可倒好，整天不是打麻将，就是看电视。"
+            ],
+            "query": "女的是什么意思?",
+            "choices": [
+                "羡慕对方",
+                "责怪对方太懒",
+                "责备对方打麻将",
+                "责备对方看电视"
+            ],
+            "gold": "责怪对方太懒"
+        },
+        "options": [
+            "ཕ་རོལ་བར་ཡིད་སྨོན་སྐྱེས་།",
+            "ཕ་རོལ་བར་ལེ་ལོ་ཆེ་བ་",
+            "ཕར་ཕྱོགས་མཱ་ཅང་རྩེད་ནསལེ་བདའ་བྱས།",
+            "ཕ་རོལ་བས་བརྙན་འཕྲིན་ལ་བལྟ་བར་ལེ་བདའ་བྱས།"
+        ],
+        "question": "བུད་མེད་ཀྱི་ནང་དོན་ཅི་ཞིག་རེད།",
+        "answer": "B",
+        "context": [
+            "སྐྱེས་པ།་ཟ་མ་ད་དུང་འགྲུབམེད་དམ།",
+            "བུད་མེད།་ང་ཉིན་གང་ཞོགས་པ་ནས་དགོང་མོའི་བར་དུ་བྲེལ་བ་ཆེ།་ཁྱོད་ཧ་ཅང་བཟང་།་ཉིན་གང་བོར་མཱ་ཅང་རྩེ་བ་མིན་ན་བརྙན་འཕྲིན་ལ་བལྟ་བ་རེད་།།"
+        ],
+        "en_trans": {
+            "dialogue": [
+                "Man: Isn't the meal ready yet?",
+                "Woman: I'm busy from morning till night every day, and there you are, either playing mahjong or watching TV all day."
+            ],
+            "query": "What does the woman mean?",
+            "choices": [
+                "Jealous of the other person",
+                "Blaming the other person for being too lazy",
+                "Blaming the other person for playing mahjong",
+                "Blaming the other person for watching TV"
+            ],
+            "gold": "Blaming the other person for being too lazy"
+        }
+    },
+    {
+        "id": "rc_bo_231",
+        "zh_trans": {
+            "id": "c3_637",
+            "dialogue": [
+                "男：这些衣服大的大小的小，没有一件我穿着合适的!",
+                "女：谁说不是呢!"
+            ],
+            "query": "女的是什么意思?",
+            "choices": [
+                "有一些你可以穿",
+                "所有的你都能穿",
+                "这些你都不能穿",
+                "你的衣服太多了"
+            ],
+            "gold": "这些你都不能穿"
+        },
+        "options": [
+            "ཁ་ཤས་ཁྱོད་ཀྱིས་གྱོན་ཆོག་",
+            "ཚང་མ་ཁྱོད་ཀྱིས་གྱོན་ཐུབ་།",
+            "འདི་དག་ཁྱོད་ཀྱིས་གྱོན་མི་རུང་།",
+            "ཁྱོད་ཀྱི་ལྭ་བ་ཧ་ཅང་མང་།"
+        ],
+        "question": "བུད་མེད་ཀྱི་ནང་དོན་ཅི་ཞིག་རེད།",
+        "answer": "C",
+        "context": [
+            "སྐྱེས་པ།་ལྭ་བ་འདི་དག་ཆེ་ཆུང་ཆུང་།་ངས་གོན་ན་འཚམ་པ་གཅིག་ཀྱང་མེད།",
+            "བུད་མེད།་སུ་ཞིག་གིས་མ་རེད་ཟེར།"
+        ],
+        "en_trans": {
+            "dialogue": [
+                "Man: These clothes, whether large or small, not a single one fits me well!",
+                "Woman: Exactly!"
+            ],
+            "query": "What does the woman mean?",
+            "choices": [
+                "There are some that you can wear",
+                "You can wear all of them",
+                "You can't wear any of these",
+                "You have too many clothes"
+            ],
+            "gold": "You can't wear any of these"
+        }
+    }
+]

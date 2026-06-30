@@ -1,0 +1,796 @@
+[
+    {
+        "context": [
+            "ཐོག་ཁང་གི་ཞའོ་ལིས་ངོ་མ་གནས་ལུགས་དང་མི་མཐུན།་ཆུང་མ་ཁྱིམ་ན་མེད་ན་བུད་མེད་གཞན་པ་ཁྲིད་ནས་ནང་ལ་སོང་།"
+        ],
+        "options": [
+            "ཁྱོད་ཀྱིས་ཅི་ཞིག་ལ་རྒྱུན་འཁྱོངས་བྱེད་ཐུབ་བམ།",
+            "ཆོག་གི་དེ་ན་ཁྱོད་ཀྱིས་མྱུར་དུ་ངོ་བཀྲུས་ནས་གཉིད།",
+            "ཁྱོད་ཀྱིས་ཉོག་གཏམ་ཅི་ཞིག་བཤད་བཞིན་ཡོད།་དེ་ནི་ཁོའི་ཨ་མ་རེད།",
+            "ད་དུང་བར་ཆད་ཡོག་རེད་དམ།དཱ་ནམ་ཞིག་ལ་མཇུག་སྒྲིལ་ལམ།"
+        ],
+        "answer": "C",
+        "zh_trans": {
+            "context": [
+                "楼上的小李真不像话，老婆不在家就带别的女人回家。"
+            ],
+            "options": [
+                "你呀，干什么能坚持到底啊。",
+                "好，那你快洗洗脸睡吧。",
+                "你胡说什么呀，那是他妈!",
+                "还磨呢，什么时候是个头呀!"
+            ],
+            "answer": "你胡说什么呀，那是他妈!"
+        },
+        "id": "response_bo_493",
+        "en_trans": {
+            "context": [
+                "That Xiao Li upstairs is really inappropriate, bringing another woman home when his wife is not around."
+            ],
+            "options": [
+                "You, huh, what can you stick with until the end?",
+                "Okay, then quickly wash your face and go to sleep.",
+                "What nonsense are you talking about? That's his mother!",
+                "Still taking time, when will this end?"
+            ],
+            "answer": "What nonsense are you talking about? That's his mother!"
+        }
+    },
+    {
+        "context": [
+            "ཐེན་ཧྥང་།་ཁྱོད་ཀྱིས་ལས་བྱ་བྲིས་ཚར་སོང་ངམ།"
+        ],
+        "options": [
+            "སྐུ་ཁམས་བཟང་ཅི་ཞིག་ཉོ་རྒྱུ་ཡིན།",
+            "སྒྲུབ་ཚར་སོང་།་ཅི་ཞིག་བྱུང་སོང་།",
+            "ཝེའི།ཁྱེད་རང་སུན་ལིའི་ཡིན་ནམ།",
+            "ཁྱོད་ཀྱིས་དཔེ་ཆ་ཅི་ཞིག་གཡར་རྒྱུ་ཡིན།"
+        ],
+        "answer": "B",
+        "zh_trans": {
+            "context": [
+                "田芳，你作业做完了吗?"
+            ],
+            "options": [
+                "您好，买点儿什么?",
+                "做完了，怎么啦?",
+                "喂，请问是孙丽吗?",
+                "请问你借什么书?"
+            ],
+            "answer": "做完了，怎么啦?"
+        },
+        "id": "response_bo_176",
+        "en_trans": {
+            "context": [
+                "Tian Fang, have you finished your homework?"
+            ],
+            "options": [
+                "Hello, what would you like to buy?",
+                "Yes, I have. What's up?",
+                "Hello, is this Sun Li?",
+                "May I ask what book you're borrowing?"
+            ],
+            "answer": "Yes, I have. What's up?"
+        }
+    },
+    {
+        "context": [
+            "བཤད་པ་ནི།་འོན་ཀྱང་ཁྱོད་ཀྱིས་རིན་གོང་ཕབ་གཅོག་བྱེད་པའི་སྐབས་སུ་ཉོས་ན་རིན་གོང་སླ་མོ་ཡིན།",
+            "སྤྱིར་བཏང་དུ་ནམ་ཞིག་ལ་ཕབ་གཅོག་བྱེད་དམ།",
+            "གཟའ་འཁོར་རྗེས་མར་གཟིགས་སྐྱོང་བྱ་འགུལ་ཡོད།་ཁྱོད་སོང་ནས་བལྟས་ཆོག"
+        ],
+        "options": [
+            "སུས་བཤད་པ་རེད།་ཐ་ན་ང་ཡང་ཁོ་ལས་འབབ་ཐུབ་པ་རེད།",
+            "དགེ་རྒན་ཀྲང་།་ང་ལ་དྲི་བ་འགའ་ཁྱོད་ལ་འདྲི་རྒྱུ་ཡོད།",
+            "ཆོག་གི་གཟའ་འཁོར་རྗེས་མར་ཁྱོད་ལ་དུས་ཚོད་ཡོད་དམ།་ང་དང་མཉམ་དུ་སོང་ན་ཆོག་གམ།",
+            "གནམ་གྲུ་རྗེས་མ་ནི་ནམ་ཞིག་ཡིན་ནམ།ད་རུང་པ་སེ་ཡོད་དམ་།"
+        ],
+        "answer": "C",
+        "zh_trans": {
+            "context": [
+                "说的是，不过你可以打折的时候去买，会便宜很多。",
+                "一般什么时候打折呀?",
+                "下周就有优惠活动，你可以去看看。"
+            ],
+            "options": [
+                "谁说的，连我都下得过他。",
+                "张老师，我有几个问题想问您一下。",
+                "好的，下周你有时间吗，可以陪我一起去不?",
+                "下一班是什么时候?还有票吗?"
+            ],
+            "answer": "好的，下周你有时间吗，可以陪我一起去不?"
+        },
+        "id": "response_bo_130",
+        "en_trans": {
+            "context": [
+                "That's true, but you can buy them during sales, and it will be much cheaper.",
+                "When do they usually have sales?",
+                "There's a promotion next week, you can go and have a look."
+            ],
+            "options": [
+                "Who says that? Even I can beat him.",
+                "Teacher Zhang, I have a few questions I'd like to ask you.",
+                "Okay, do you have time next week? Can you come with me?",
+                "When is the next flight? Are there any tickets left?"
+            ],
+            "answer": "Okay, do you have time next week? Can you come with me?"
+        }
+    },
+    {
+        "context": [
+            "འདི་ཁོ་ལ་ཚོད་ལྟ་བྱེད་དུ་བཅུག",
+            "ས་ཆ་གཞན་པ་ཚང་མ་འོས་འཚམ་རེད།་ཁ་དོག་ཅུང་སྲབ་པ་རེད།",
+            "བྱ་སྤུའི་ལྭ་བ་འདིའི་མདོག་ཟབ་པ་ཚང་མ་བཙོང་ཚར་སོང་།་དེ་ན་ཁྱོད་ཀྱིས་ཁོ་ལ་འདི་ཚོད་ལྟ་བྱེད་དུ་བཅུག"
+        ],
+        "options": [
+            "མེད།་ཁྱོད་ལ་བསམ་འཆར་བཟང་བོ་ཅི་ཞིག་ཡོད་དམ།",
+            "ཁ་དོག་འདི་ཧ་ཅང་བཟང་།་འོན་ཀྱང་ཅུང་སྐམ་པོ་འདུག་ཨང་གྲངས་གཅིག་ཅན་ཡོད་དམ།",
+            "སྲས་མོ།་ལྭ་བ་འདི་ཅུང་ཆེ་བ་ཡོད་དམ།",
+            "ཁ་དོག་འདི་ཧ་ཅང་བཟང་།་འོན་ཀྱང་ཅུང་སྐམ་པོ་འདུག་ཨང་གྲངས་གཅིག་ཅན་ཡོད་དམ།"
+        ],
+        "answer": "B",
+        "zh_trans": {
+            "context": [
+                "这件让他试试。",
+                "其他地方都合适，就是颜色浅了点儿。",
+                "这款羽绒服深色的都卖完了，那你再让他试试这件吧。"
+            ],
+            "options": [
+                "没有，你有什么好的建议吗?",
+                "这件颜色挺好的，但是有点儿瘦，有没有大一号的?",
+                "小姐，这件衣服有大一点儿的吗？",
+                "这件颜色挺好的，但是有点儿瘦，有没有大一号的?"
+            ],
+            "answer": "这件颜色挺好的，但是有点儿瘦，有没有大一号的?"
+        },
+        "id": "response_bo_150",
+        "en_trans": {
+            "context": [
+                "Let him try this one.",
+                "Everything else is fine, but the color is a bit light.",
+                "All the dark-colored down jackets are sold out, please let him try this one instead."
+            ],
+            "options": [
+                "Nothing, do you have any good suggestions?",
+                "This color is nice, but it's a bit tight. Do you have a larger size?",
+                "Miss, do you have this piece of clothing in a larger size?",
+                "This color is nice, but it's a bit tight. Do you have a larger size?"
+            ],
+            "answer": "This color is nice, but it's a bit tight. Do you have a larger size?"
+        }
+    },
+    {
+        "context": [
+            "སྐུ་ཁམས་བཟང་འདི་ནི་ཁིན་ཏི་ཅེ་ཡི་མྱུར་སྐྱེལ་ཡིན།",
+            "སྐུ་ཁམས་བཟང་ངས་བྱ་སུག་ཁ་ཚ་ཅན་གྱི་ཧན་པའོ་ཟ་མ་ཞིག་བཤད་ན་འདོད།་ད་ལྟ་གཟིགས་སྐྱོང་གི་བྱ་འགུལ་ཅི་ཞིག་ཡོད་དམ།"
+        ],
+        "options": [
+            "ཡོད།་གཟའ་ལྷག་པའི་ཕྱི་དྲོ་ང་གཞུང་སྒྲུབ་ཐོག་ཁང་༡༢༤ན་ཡོད།་ཁྱོད་སྐབས་དེར་ང་བཙལ་དུ་ཡོང་ཆོག",
+            "ཁྱོད་འདི་ནས་སྤྱི་སྤྱོད་རླངས་འཁོར་གཅིག་ལ་བསྡད་ནས་སོང་ན་ཆོག་དུས་ཚོད་གཅིག་གི་རྗེས་ནས་ཐོན་ཐུབ།",
+            "ཡོད།་ད་ལྟ་དགུ་སྒྲོན་སིལ་ཁུ་ཞིག་ཉོས་ན་གཉིས་ཐོབ་ཐུབ།་སྤྱི་ལེ་གསུམ་གྱི་ནང་དུ་ཟས་རིན་སྒོར་8་དང་ཕྱེད་ཀ་སྟེར་ཐུབ།",
+            "ཆོག་གི་ཁྱོད་གཟའ་འཁོར་འདིའི་གཟའ་ཕུར་བུའི་ཕྱི་དྲོ་ང་ཚོའི་ཀུང་སིར་ཤོག་ང་ཚོ་ངོ་ཐུག་ནས་ཁ་བརྡ་བྱེད།"
+        ],
+        "answer": "C",
+        "zh_trans": {
+            "context": [
+                "你好!这里是肯德基宅急送。",
+                "你好，我想点一份香辣鸡腿汉堡套餐，现在有什么优惠活动吗?"
+            ],
+            "options": [
+                "有，周三下午我在办公楼124房间，你可以到时候来找我。",
+                "你可以从这儿坐1路公共汽车去，一小时就到了。",
+                "有，现在买一份九珍果汁可以得两份，三公里内送餐费8元减半。",
+                "好的，请你本周四下午来我们公司，我们见面再谈。"
+            ],
+            "answer": "有，现在买一份九珍果汁可以得两份，三公里内送餐费8元减半。"
+        },
+        "id": "response_bo_375",
+        "en_trans": {
+            "context": [
+                "Hello! This is KFC delivery service.",
+                "Hello, I would like to order a spicy chicken burger meal. Are there any promotions right now?"
+            ],
+            "options": [
+                "Yes, on Wednesday afternoon I am in room 124 of the office building, you can come find me then.",
+                "You can take the No. 1 bus from here, it takes an hour to get there.",
+                "Yes, if you buy one Jiu Zhen juice, you can get two, and the delivery fee within three kilometers is half off from 8 yuan.",
+                "Okay, please come to our company this Thursday afternoon, and we will discuss it further in person."
+            ],
+            "answer": "Yes, if you buy one Jiu Zhen juice, you can get two, and the delivery fee within three kilometers is half off from 8 yuan."
+        }
+    },
+    {
+        "context": [
+            "ང་འདིར་ཞིབ་འཇུག་སློབ་མའི་ཡིག་རྒྱུགས་བཏང་བ་ཡིན།ད་ལྟ་འདིར་ཞིབ་འཇུག་སློབ་གཉེར་བྱེད་བཞིན་ཡོད།",
+            "དངོས་ནས་ཨས།ཁྱེད་རང་འདི་འདྲིའི་གྱོང་བ་ལ།ང་སློབ་ཐོན་བྱས་རྗེས་ལམ་སེང་ལས་བཞུགས་བྱས་པ་ཡིན།ད་ལྟ་ཁྲང་ཧྲའ་ལ་གཞུང་དོན་སྒྲུབ་པར་ཡོང་བ་ཡིན།",
+            "ཁྱེད་རང་ཁྲང་ཧྲའ་ལ་ཉིན་ག་ཚོད་བསྡོད་གམ།"
+        ],
+        "options": [
+            "ང་ཁ་སང་སླེབས་པ་ཡིན།གཟའ་འཁོར་གཅིག་བསྡོད་རྩིས་ཡོད།",
+            "དགོངས་པ་མ་ཚོམ་།་ཁོས་དེ་རིང་ངལ་གསོ་བྱས་།ངས་ཁྱོད་ལ་སྐྲ་བཞར་མཁན་གཞན་པ་ཞིག་ངོ་སྤྲོད་བྱེད།",
+            "ཨོ།་ངས་དེ་རིང་ནི་གཟའ་མཇུག་ཡིན་པ་བརྗེད་སོང་།",
+            "དགའ་ན་གཅིག་འདེམས།་ང་ལ་དེ་རིང་ཟླ་ཕོགས་བྱིན་པ་ཡིན།"
+        ],
+        "answer": "A",
+        "zh_trans": {
+            "context": [
+                "我考了研究生，现在在这边读研呢。",
+                "真的啊，你太棒了，我毕业后就直接找了份工作呢，现在是来长沙出差。",
+                "你要在长沙待几天?"
+            ],
+            "options": [
+                "我昨天才到，估计在这待一个星期吧。",
+                "抱歉，他今天休息。我给您推荐另一位发型师吧。",
+                "哦，我忘了今天是周末了。",
+                "喜欢就选一个吧，我今天刚发工资。"
+            ],
+            "answer": "我昨天才到，估计在这待一个星期吧。"
+        },
+        "id": "response_bo_26",
+        "en_trans": {
+            "context": [
+                "I got into graduate school and I am studying here now.",
+                "Really? That's great! I found a job right after graduation. I'm in Changsha on a business trip now.",
+                "How many days will you be staying in Changsha?"
+            ],
+            "options": [
+                "I just arrived yesterday. I estimate I'll be here for a week.",
+                "Sorry, he is off today. I can recommend another hairstylist for you.",
+                "Oh, I forgot today is the weekend.",
+                "If you like one, just choose one. I just got my salary today."
+            ],
+            "answer": "I just arrived yesterday. I estimate I'll be here for a week."
+        }
+    },
+    {
+        "context": [
+            "ལའོ་ལུའུ།་ཁྱོད་འདི་འདྲ་དགའ་ཡོད་པ་མཐོང་ན།་དོན་བཟང་ཞིག་ལ་འཕྲད་པ་ཡིན་ནམ།"
+        ],
+        "options": [
+            "ཁྱོད་ཉིན་རྒྱུན་ཅི་ལྟར་སློབ་གྲྭར་འགྲོ་བཞིན་ཡོད།",
+            "གོ་ཐོས་ལྟར་ན་ཁྱོད་སློབ་འབྲིང་ལ་འགྲོ་བའི་སྐབས་སུ།་ལྡེ་མིག་ཁྱེར་མེད་རུང་སྒོ་ཕྱེ་ནས་ནང་ལ་འགྲོ་ཐུབ།",
+            "ངའི་མོས་སློབ་ཆེན་ལ་རྒྱུགས་འཕྲོད་སོང་།་དེ་རིང་གི་གུང་ཟས་ངས་མགྲོན་བྱས་ཡོད།",
+            "ཁྱོད་ཧྲང་ཧེ་ལ་སློབ་གྲྭར་འགྲོ་ན།་ལུས་ཕུང་ལ་བདག་སྐྱོང་བྱེད་དགོས།་ཁྱིམ་ལ་ཁ་པར་མང་ཙམ་གཏོང་།་ང་ལ་ཁྱོད་ཀྱི་ཨ་མ་ལ་སེམས་ཕྲལ་་བྱེད་དུ་མ་འཇུག།"
+        ],
+        "answer": "C",
+        "zh_trans": {
+            "context": [
+                "老刘，看你这么高兴，是不是遇到了什么喜事啊?"
+            ],
+            "options": [
+                "你每天怎么去上学？",
+                "听说你上中学时，就算没带钥匙，也能开门进去。",
+                "我女儿考上大学了，今天的午饭我请了。",
+                "你去上海上学，要注意身体，多给家里打电话，别让我跟你妈担心。"
+            ],
+            "answer": "我女儿考上大学了，今天的午饭我请了。"
+        },
+        "id": "response_bo_497",
+        "en_trans": {
+            "context": [
+                "Old Liu, you look so happy, did something good happen?"
+            ],
+            "options": [
+                "How do you go to school every day?",
+                "I heard that when you were in middle school, you could get in even if you forgot your keys.",
+                "My daughter got into college, today's lunch is on me.",
+                "You're going to study in Shanghai, take care of yourself, call home often, don't make your mom and me worry."
+            ],
+            "answer": "My daughter got into college, today's lunch is on me."
+        }
+    },
+    {
+        "context": [
+            "ཁྱོད་ཀྱིས་བཤད་ན་ཞའོ་ཝང་ཡ་མཚན་ཞིག་མ་རེད།་གཞན་གྱིས་ཁོ་ལ་ཟ་མ་མགྲོན་བྱས་ཀྱང་མི་ཡོང་།"
+        ],
+        "options": [
+            "དེ་རིང་དངོས་པོ་ཉོ་རུ་སོང་ནས་ཅི་ཞིག་ཉོས་སོང་།",
+            "ད་དུང་ཁྱོད་མི་ཡོང་བར་འདོད།་ངས་ཁྱོད་ལ་ཉིན་ཕྱེད་ལ་སྒུག་པ་ཡིན།",
+            "མིང་རྟགས་བཀོད་ཟིན།དོན་དངོས་སུ་མིང་རྟགས་འགོད་མི་འགོད་ལ་ཁྱད་མེད།་ངས་ཀྱང་གནས་སྐབས་སུ་དེ་ནས་ཉིན་གཉིས་ལ་ལས་རྩིས་ཡོད།",
+            "ད་སོ་མ་ཁོའི་དེ་དང་ལབ་རྒྱབ་སོང་།་ཉིན་འདི་དག་ལ་སུ་མཐོང་ཡང་སུན་སྣང་སྐྱེས"
+        ],
+        "answer": "D",
+        "zh_trans": {
+            "context": [
+                "你说小王怪不怪，人家请他吃饭都不来。"
+            ],
+            "options": [
+                "今天去购物都买什么了?",
+                "还以为你不来了，我都等你半天了。",
+                "签了。其实签不签都无所谓，我也就准备临时在那儿干两天。",
+                "刚和他那位吹了，这几天看见谁都烦。"
+            ],
+            "answer": "刚和他那位吹了，这几天看见谁都烦。"
+        },
+        "id": "response_bo_56",
+        "en_trans": {
+            "context": [
+                "Don't you think Xiao Wang is strange? He doesn't come even when people invite him for dinner."
+            ],
+            "options": [
+                "What did you buy when you went shopping today?",
+                "I thought you weren't coming. I've been waiting for you for a long time.",
+                "I signed it. Actually, it doesn't matter whether I sign it or not, I'm just planning to work there temporarily for a couple of days.",
+                "He just broke up with his girlfriend, so he's annoyed with everyone these days."
+            ],
+            "answer": "He just broke up with his girlfriend, so he's annoyed with everyone these days."
+        }
+    },
+    {
+        "context": [
+            "ཡེ་ཤུའི་འཁྲུངས་སྐར་གྱི་དགོང་མོར་ཁྱོད་ཀྱིས་ཅི་ཞིག་བྱེད་རྩིས་ཡོད།"
+        ],
+        "options": [
+            "སེར་པོ།་བལྟས་ཡོང་ན་དེ་ལས་སྙིང་རྗེ་བོ་འདུག",
+            "ཅུང་ཙམ་སྒུག་དང་།་ང་མྱུར་དུ་ཡོང་།",
+            "དགོངས་དག་ཞུ།་ངས་མྱུར་དུ་གླུ་དབྱངས་ཀྱི་སྒོ་རྒྱག་རྒྱུ་ཡིན།",
+            "རྒྱུན་ལྡན་དང་འདྲ་བར།་དཔེ་ཆ་ལ་ལྟོས་དང་།་དྲ་ཐོག་ལ་ཞུགས།"
+        ],
+        "answer": "D",
+        "zh_trans": {
+            "context": [
+                "圣诞节晚上你打算做什么?"
+            ],
+            "options": [
+                "黄色的，看上去更可爱一些。",
+                "稍等，我马上就来。",
+                "抱歉啊，我马上把音乐关了。",
+                "和平常一样，看看书，上上网。"
+            ],
+            "answer": "和平常一样，看看书，上上网。"
+        },
+        "id": "response_bo_279",
+        "en_trans": {
+            "context": [
+                "What do you plan to do on Christmas Eve?"
+            ],
+            "options": [
+                "The yellow one, it looks cuter.",
+                "Hold on, I'll be right there.",
+                "Sorry, I'll turn off the music right away.",
+                "Same as usual, read some books and browse the internet."
+            ],
+            "answer": "Same as usual, read some books and browse the internet."
+        }
+    },
+    {
+        "context": [
+            "ཁྱོད་ཀྱིས་ད་དུང་མི་གཞན་དང་རྡུང་རེས་བྱས་ནས་སྨན་ཁང་དུ་འགྲོ་སྲིད་དམ།དེ་ནི་ནམ་ཞིག་རེད་།",
+            "སློབ་གྲྭ་ཆུང་བར་འགྲོ་སྐབས་།",
+            "གོ་ཐོས་ལྟར་ན་ཁྱོད་སློབ་འབྲིང་ལ་འགྲོ་བའི་སྐབས་སུ།་ལྡེ་མིག་ཁྱེར་མེད་རུང་སྒོ་ཕྱེ་ནས་ནང་ལ་འགྲོ་ཐུབ།"
+        ],
+        "options": [
+            "ཨ་ཞིན་གྱིས་ང་ལ་ཉིན་ཕྱེད་་རོགས་བྱས་པའི་ངས་ཁོ་ལ་སྒོར་སྟོང་གཅིག་བྱིན་ན་ཅི་འདྲ་འདུག",
+            "གཏན་ནས་འདི་ལྟར་མ་བཤད།་ད་ལྟ་ང་ལ་ལག་རྩལ་དེ་མེད།",
+            "ཆོག་གི་ངས་ཁྱོད་ལ་རོགས་བྱས་ནས་བལྟ།",
+            "ཆོག་གི་ཁྱོད་ཀྱིས་ངེས་པར་དུ་རྒྱུ་ཆ་ཚང་མ་ལེགས་སྒྲིག་བྱེད་དགོས"
+        ],
+        "answer": "B",
+        "zh_trans": {
+            "context": [
+                "你还会跟人打架打到医院?那是什么时候的事?",
+                "上小学的时候。",
+                "听说你上中学时，就算没带钥匙，也能开门进去。"
+            ],
+            "options": [
+                "阿新帮了我半天忙，我给他一千块钱怎么样?",
+                "千万别这么说，现在我没那技术了。",
+                "好，我帮你看看。",
+                "可以，你千万要把资料都整理好。"
+            ],
+            "answer": "千万别这么说，现在我没那技术了。"
+        },
+        "id": "response_bo_108",
+        "en_trans": {
+            "context": [
+                "You got into a fight and ended up in the hospital? When did that happen?",
+                "When I was in elementary school.",
+                "I heard that when you were in middle school, you could get in even if you forgot your keys."
+            ],
+            "options": [
+                "Axin helped me for half a day. How about I give him a thousand yuan?",
+                "Don't say that, I don't have that skill anymore.",
+                "Sure, let me help you take a look.",
+                "Sure, you must make sure to get all the materials organized."
+            ],
+            "answer": "Don't say that, I don't have that skill anymore."
+        }
+    },
+    {
+        "context": [
+            "ཞའོ་ཅིན།་ང་ཚོ་ཚང་མས་ཁྱོད་ད་དུང་སླར་གསོ་བྱུང་མེད་པར་འདོད།་དེའི་ཕྱིར་ཐེངས་འདིའི་དང་བླངས་པའི་བྱ་འགུལ་གྱིས་ཁྱོད་ལ་བརྡ་མ་བཏང་།"
+        ],
+        "options": [
+            "དེས་ན་དོན་དག་འདི་སྒྲུབ་སླ་པོ་རེད།",
+            "ཕལ་ཆེར་མོ་ལ་དོན་དག་ཡོད་པས་འགོར་འགྱངས་བྱས་སོང་།",
+            "གླུ་འདི་རེད།་ང་ལ་དོན་དག་མེད་དུས་རྒྱུན་དུ་བླངས་པ་ཡིན།",
+            "སྐྱོན་མེད།་ངའི་ནད་དེ་ཅི་ཡང་མ་རེད།་ང་ལ་བརྡ་རྒྱག་དགོས།"
+        ],
+        "answer": "D",
+        "zh_trans": {
+            "context": [
+                "小金，我们都觉得你还没恢复过来，所以这次志愿者活动就没通知你。"
+            ],
+            "options": [
+                "那这件事就好办了。",
+                "估计她是有事情耽搁了吧。",
+                "就这首吧，我没事时经常唱的。",
+                "没事儿，我那病算不了什么，应该通知我。"
+            ],
+            "answer": "没事儿，我那病算不了什么，应该通知我。"
+        },
+        "id": "response_bo_365",
+        "en_trans": {
+            "context": [
+                "Xiao Jin, we all think you haven't recovered yet, so we didn't inform you about this volunteer activity."
+            ],
+            "options": [
+                "Then this matter will be easy to handle.",
+                "Maybe he was held up by something.",
+                "How about this one? I often sing it when I'm free.",
+                "It's okay, my illness is nothing serious, you should have informed me."
+            ],
+            "answer": "It's okay, my illness is nothing serious, you should have informed me."
+        }
+    },
+    {
+        "context": [
+            "ཁྱོད་བདེ་མོ།་དེ་རིང་ཧྲང་ཧེ་ལ་འཕུར་བའི་ཆེས་སྔ་བའི་གནམ་གྲུ་ནི་དུས་ཚོད་དུའི་སྟེང་ཡིན་ནམ།"
+        ],
+        "options": [
+            "དུས་ཚོད་བརྒྱད་དང་སྐར་མ་ལྔའི་སྟེང་འཕུར་སོང་",
+            "དེ་ཡང་བསྐྱར་སྦྱོང་བྱེད་དགོས།་དེ་རིང་གཟའ་པ་སངས་རེད།",
+            "དུས་ཚོད་ལྔ་དང་ཕྱེད་ཀ་རེད།",
+            "སྐར་མ་བཅུ་དང་སྐར་མ་དྲུག་གིས་མི་འདང་།"
+        ],
+        "answer": "A",
+        "zh_trans": {
+            "context": [
+                "你好，请问今天飞往上海最早的航班是几点?"
+            ],
+            "options": [
+                "八点零五，已经起飞了。",
+                "那也应该复习啊，今天都星期五了。",
+                "五点半吧。",
+                "差十分六点。"
+            ],
+            "answer": "八点零五，已经起飞了。"
+        },
+        "id": "response_bo_331",
+        "en_trans": {
+            "context": [
+                "Hello, may I ask what time is the earliest flight to Shanghai today?"
+            ],
+            "options": [
+                "8:05, it has already taken off.",
+                "You should still review, today is already Friday.",
+                "Around half past five.",
+                "It's ten minutes to six."
+            ],
+            "answer": "8:05, it has already taken off."
+        }
+    },
+    {
+        "context": [
+            "ཨ།་ཁ་བ་བབས་བྱུང་།ཁྱོད་ཀྱིས་ལྟོས་དང་།་ངོ་མ་ཡག་གི"
+        ],
+        "options": [
+            "རེད།་པེ་ཅིན་འདི་ཕྱོགས་ཀྱི་མགྲོན་པོ་མང་པོ་ཞིག་རྗེས་འདེད་དགོས།་ཚང་མ་འགྲོ་མི་ཐུབ་པའི་ང་རང་ཉིད་འགྲོ་རྒྱུ་ལས་མེད།",
+            "ངས་བསམ་ན་འགྲན་ཞུགས་པའི་ལོ་ཚོད་ནི་ལོ་སུམ་ཅུའི་མན་ཡིན་དགོས།",
+            "དེ་ན་པེ་ཅིན་ནས་སྡོད།་ཟླ་དྲུག་པའི་ཟླ་དཀྱིལ་ལ་ཡུལ་ལ་ལོག་ན་མི་དེ་འདྲ་མང་པོ་མེད།",
+            "འདི་ནི་ད་ལོར་པེ་ཅིན་དུ་ཐེངས་གསུམ་པར་ཁ་བ་བབས་པ་རེད།ཁྱོད་ཀྱིས་སྔོན་ཆད་ཁ་བ་མཐོང་མ་མྱོང་ངམ་།"
+        ],
+        "answer": "D",
+        "zh_trans": {
+            "context": [
+                "啊，下雪了。你看，真漂亮。"
+            ],
+            "options": [
+                "对，北京这边好几个客户要跟，大家都走不开，只能我自己去。",
+                "我认为参赛者的年龄应该限制在三十岁以下。",
+                "那就在北京呆着吧，到6月中旬再回家，就没那么多人了。",
+                "这是今年北京第三次下雪了。你以前没见过雪吗?"
+            ],
+            "answer": "这是今年北京第三次下雪了。你以前没见过雪吗?"
+        },
+        "id": "response_bo_118",
+        "en_trans": {
+            "context": [
+                "Ah, it's snowing. Look, it's really beautiful."
+            ],
+            "options": [
+                "Yes, several clients in Beijing need to be attended to, and everyone here is occupied, so I have to go myself.",
+                "I think the participants' age should be limited to under thirty.",
+                "Then stay in Beijing, and go home in mid-June when it won't be as crowded.",
+                "This is the third time it has snowed in Beijing this year. Haven't you seen snow before?"
+            ],
+            "answer": "This is the third time it has snowed in Beijing this year. Haven't you seen snow before?"
+        }
+    },
+    {
+        "context": [
+            "ཨ་ཅེ།་ཁྱེད་ཀྱི་འདི་ན་ཀྲུང་གོའི་ས་ཁྲ་ཡོད་དམ།",
+            "མེད།་ཁྱོད་ལ་ས་ཁྲ་ཡིས་ཅི་ཞིག་བྱེད་དགོས།",
+            "ངས་འབྲི་ཆུ་ཞིང་ཆེན་དང་གྲོང་ཁྱེར་གང་དག་བརྒྱུད་ཡོད་པར་བལྟ་འདོད།་ཁྱོད་ཀྱིས་ཤེས་སམ།"
+        ],
+        "options": [
+            "ངོ་མ་གླེན་པ་རེད།དྲ་ཐོག་ནས་བཙལ་ན་ཤེས་སོང་བ་མིན་ནམ།",
+            "དགོང་མོ་ང་ཚོ་ཞབས་བྲོ་འཁྲབ་ཏུ་འགྲོ།་ཁྱོད་མཉམ་དུ་འགྲོའམ།",
+            "ཚོད་མོག་་འདིའི་བྲོ་བ་ཧ་ཅང་བཟང་།་ཀྲང་ཅི་ཡི་ཡིན་ནམ།",
+            "ཧེ།ཁྱོད་ཀྱིས་ངོ་མ་བོང་ཞོན་ནས་བོང་བུ་བཙལ་བཞིན་འདུག་ལྕགས་སྨྱུག་ཁྱོད་ཀྱི་རྣ་བའི་སྟེང་དུ་བཙིར་ཡོད་པ་མིན་ནམ།"
+        ],
+        "answer": "A",
+        "zh_trans": {
+            "context": [
+                "姐，您这儿有中国地图吗？",
+                "没有，你要地图做什么？",
+                "我想看看长江都经过了哪些省市，你知道吗？"
+            ],
+            "options": [
+                "真笨！上网一查不就知道了吗？",
+                "晚上我们去跳舞，你要不要一起去？",
+                "这菜包的味道真不错，是不是张记的?",
+                "嗨!你真是骑驴找驴，钢笔不是在你耳朵上夹着呢吗!"
+            ],
+            "answer": "真笨！上网一查不就知道了吗？"
+        },
+        "id": "response_bo_288",
+        "en_trans": {
+            "context": [
+                "Sis, do you have a map of China here?",
+                "No, why do you need a map?",
+                "I want to see which provinces and cities the Yangtze River passes through. Do you know?"
+            ],
+            "options": [
+                "How silly! Why don't you just look it up online?",
+                "We're going dancing tonight, do you want to join us?",
+                "These vegetable buns taste really good. Are they from Zhang's?",
+                "Hey! You're looking for something that's right in front of you. Isn't the pen tucked behind your ear!"
+            ],
+            "answer": "How silly! Why don't you just look it up online?"
+        }
+    },
+    {
+        "context": [
+            "ཁྱོད་བདེ་མོ།་ངས་ཉིན་འགའི་སྔོན་ལ་ཚད་ལྡན་གྱི་ཁང་བ་ཞིག་བླངས་ཡོད།་ངའི་རུས་ཀྲང་ཡིན།",
+            "ཅུང་ཙམ་སྒུག་དང་།་ངས་ཁྱོད་ལ་རོགས་བྱས་ནས་ཞིབ་བཤེར་བྱེད།",
+            "རེད།"
+        ],
+        "options": [
+            "གཤགས་བཅོས་ཧ་ཅང་ལེགས་འགྲུབ་བྱུང་ཁོ་མོ་སླར་གསོ་བྱུང་བ་ཧ་ཅང་མགྱོགས།་ཉིན་གཉིས་འགོར་རྗེས།་གཟའ་འཁོར་རྗེས་མའི་གཟའ་ཟླ་བར་སྨན་ཁང་ནས་བུད་ཆོག",
+            "ངའི་ཁ་པར་གང་ལ་བུད་སོང་།",
+            "ཉིན་ཤས་གོང་ལས་ཀ་བྲེལ་བ་ཆེན་པོ་མེད་པ་དང་ཡུལ་སྐོར་དུ་འགྲོ་སྐབས་ལག་ཐོགས་ཁ་པར་བོར་བརླག་སོང་བས་ཁ་པར་ཨང་གྲངས་ཀྱང་རྙེད་མ་བྱུང་།",
+            "ཁྱེད་ཀྱིས་ཐོབ་ཐང་ལག་ཁྱེར་སྟོན་རོགས།་ངས་ད་ལྟ་ཁྱེད་ལ་མི་འདུག་པའི་འགྲོ་ལུགས་སྒྲུབ་ཆོག"
+        ],
+        "answer": "D",
+        "zh_trans": {
+            "context": [
+                "你好，我前几天订了一个标准间，我姓张。",
+                "请稍等，我帮您查一下。张先生，您是从上海来的吗?",
+                "是的。"
+            ],
+            "options": [
+                "手术很成功，她恢复得很快，过两天，下周一二就可以出院了。",
+                "我的手机哪儿去了?",
+                "前一阵子工作不忙，出去旅游的时候把手机丢了，电话号码都找不到了。",
+                "请您出示一下身份证，我这就给您办理人住手续。"
+            ],
+            "answer": "请您出示一下身份证，我这就给您办理人住手续。"
+        },
+        "id": "response_bo_500",
+        "en_trans": {
+            "context": [
+                "Hello, a few days ago I booked a standard room, my surname is Zhang.",
+                "Please wait a moment, I'll check for you. Mr. Zhang, are you coming from Shanghai?",
+                "Yes."
+            ],
+            "options": [
+                "The surgery was very successful, and she is recovering quickly. In a couple of days, she can be discharged next Monday or Tuesday.",
+                "Where did my phone go?",
+                "I wasn't busy with work a while ago, and when I went traveling, I lost my phone and couldn't find any phone numbers.",
+                "Please show your ID, and I will check you in."
+            ],
+            "answer": "Please show your ID, and I will check you in."
+        }
+    },
+    {
+        "context": [
+            "ངོ་མ་དགོངས་པ་མ་ཚོམ།་ང་ཡོང་འཕྱི་སོང་།"
+        ],
+        "options": [
+            "ཁྱོད་རང་ཉིད་སོང་ནས་དགོངས་པ་་ཞུ་རྒྱུ་ཡིན་ནམ་ཞའོ་ཀྲང་ལ་ཁྱོད་ལ་རོགས་བྱེད་དུ་འཇུག་རྒྱུ་ཡིན།",
+            "ཁྱོད་ད་སོ་མ་ཐོན་པ་ཅི་ཡིན་ནམ།ངས་ཁྱོད་དུས་ཚོད་ཕྱེད་ཀ་་སྒུག་པ་ཡིན།",
+            "སྲས་མོ།་ངས་སྲོག་ཆགས་གླིང་གའི་པ་སེ་ཅི་ལྟར་བཙོང་དགོས་པ་འདྲི་འདོད།",
+            "ཅི་ཞིག་ལ་བྲེལ་བཞིན་ཡོད།་གནམ་གྲུ་འཕུར་བའི་དུས་ཚོད་ལ་ད་དུང་དུས་ཚོད་གཉིས་ལྷག་ཡོད།"
+        ],
+        "answer": "B",
+        "zh_trans": {
+            "context": [
+                "真对不起，我来晚了。"
+            ],
+            "options": [
+                "你准备自己去请假还是让小张帮你请?",
+                "你怎么现在才到?我都等了你半个小时了!",
+                "小姐，我想问问动物园的门票怎么卖?",
+                "急什么呀，离飞机起飞时间还有2个多小时呢!"
+            ],
+            "answer": "你怎么现在才到?我都等了你半个小时了!"
+        },
+        "id": "response_bo_315",
+        "en_trans": {
+            "context": [
+                "I'm really sorry, I'm late."
+            ],
+            "options": [
+                "Are you going to request leave yourself or have Xiao Zhang help you?",
+                "Why are you only here now? I've been waiting for you for half an hour!",
+                "Miss, I want to ask how the zoo tickets are sold?",
+                "What's the rush? There are still more than two hours until the flight takes off!"
+            ],
+            "answer": "Why are you only here now? I've been waiting for you for half an hour!"
+        }
+    },
+    {
+        "context": [
+            "ཡིག་ཆ་འདི་བསྐྱར་དཔར་ཞིག་བྱོས་དང་།་ཅུང་ཙམ་འགོར་རྗེས་ཚང་མར་བསྐུར།",
+            "ཆོག་གི་ཚོགས་འདུ་ནི་ཕྱི་དྲོའི་དུས་ཚོད་བཞི་ཡིན་ནམ།"
+        ],
+        "options": [
+            "དགོངས་པ་མ་ཚོམ།་དཔེ་ཆ་དེ་བཙོང་ཚར་སོང་།་ཁྱེད་རང་གཟའ་འཁོར་རྗེས་མར་བལྟ་རུ་ཤོག",
+            "དེ་འདྲ་ཡིན་ནའང་འདྲ།་དེའི་རིང་ལ་ལས་ཀ་འཚོལ་རྒྱུའི་གྲ་སྒྲིག་བྱས་ཆོག",
+            "ཅུང་ཙམ་མིན་ན་ཕམ་སོང་།་འགྲན་བསྡུར་གྱི་སྐབས་སུ་ང་ལ་དོན་དག་ཡོད་པས་བལྟ་རུ་མ་སོང་།་གོ་ཐོས་ལྟར་ན་ཧ་ཅང་ངོ་མཚར་ཆེ།",
+            "མ་གཞི་ཕྱི་དྲོའི་དུས་ཚོད་བཞི་རེད།་འོན་ཀྱང་སློབ་གཙོ་ལ་དོན་དག་ཡོད་པའི་རྐྱེན་གྱིས་དུས་ཚོད་གཅིག་ཕྱིར་འགྱངས་བྱས་པ་རེད།"
+        ],
+        "answer": "D",
+        "zh_trans": {
+            "context": [
+                "把这个文件复印一下，等会儿开会的时候发给大家。",
+                "好的，会议是下午四点吗?"
+            ],
+            "options": [
+                "抱歉，那本书已经卖完了，您下周再过来看看吧。",
+                "这样也好，这期间可以准备一下找工作的事。",
+                "差一点就输了，比赛的时候我正好有事没去看，据说很精彩。",
+                "本来是下午四点，但是因为校长有事，所以就推迟了一小时。"
+            ],
+            "answer": "本来是下午四点，但是因为校长有事，所以就推迟了一小时。"
+        },
+        "id": "response_bo_195",
+        "en_trans": {
+            "context": [
+                "Make a copy of this document and distribute it to everyone during the meeting later.",
+                "Okay, is the meeting at four in the afternoon?"
+            ],
+            "options": [
+                "Sorry, that book is sold out. Please come back next week to check.",
+                "That's fine, I can use this time to prepare for job hunting.",
+                "We almost lost. I happened to have something to do and didn't watch the competition, but I heard it was very exciting.",
+                "It was originally at four, but because the principal has something to attend to, it has been postponed by an hour."
+            ],
+            "answer": "It was originally at four, but because the principal has something to attend to, it has been postponed by an hour."
+        }
+    },
+    {
+        "context": [
+            "རེད།ངས་གྲོགས་པོའི་འགྲམ་ནས་ཁྱེད་རང་ཁྲང་ཧྲའ་ལ་སླེབས་པ་ཧ་གོ་བྱུང་།བྱས་ཙང་རང་ལ་ཁ་པར་རྒྱབ་པ་ཡིན།",
+            "ཁྱེད་རང་ཁྲང་ཧྲའ་ལ་ལས་ཀ་བྱེད་ཀྱི་ཡོད་དམ།ཡང་ན།",
+            "ང་འདིར་ཞིབ་འཇུག་སློབ་མའི་ཡིག་རྒྱུགས་བཏང་བ་ཡིན།ད་ལྟ་འདིར་ཞིབ་འཇུག་སློབ་གཉེར་བྱེད་བཞིན་ཡོད།"
+        ],
+        "options": [
+            "ཁྱོད་ང་དང་མཉམ་དུ་བལྟ་རུ་མ་སོང་བ་ངོ་མ་ཡིད་ཕངས་པ་ཞིག་རེད།",
+            "ངོ་མ་བཟང་གི་ཐེངས་དང་པོར་ཐག་རིང་ལ་ཡུལ་སྐོར་དུ་སོང་དུས་ཁྱོད་ཀྱིས་བྲེལ་འཚུབ་ཀྱི་རྣམ་པ་བཟོས་ཀྱི་འདུག་",
+            "དངོས་ནས་ཨས།ཁྱེད་རང་འདི་འདྲིའི་གྱོང་བ་ལ།ང་སློབ་ཐོན་བྱས་རྗེས་ལམ་སེང་ལས་བཞུགས་བྱས་པ་ཡིན།ད་ལྟ་ཁྲང་ཧྲའ་ལ་གཞུང་དོན་སྒྲུབ་པར་ཡོང་བ་ཡིན།",
+            "ངོ་མ་བྲེལ་བ་ཇི་ལྟར་ཆེ་ན་དེ་ལྟར་ནོར་འཁྲུལ་འབྱུང་།་ང་ལ་ད་དུང་ལས་བྱ་མང་པོ་འབྲི་རྒྱུ་ཡོད།"
+        ],
+        "answer": "C",
+        "zh_trans": {
+            "context": [
+                "是啊，我听朋友说你来长沙了，然后就给你打了电话。",
+                "你在长沙工作还是?",
+                "我考了研究生，现在在这边读研呢。"
+            ],
+            "options": [
+                "你没有和我一起去看真是太可惜了。",
+                "太好了，第一次出远门旅行你就制造紧张气氛。",
+                "真的啊，你太棒了，我毕业后就直接找了份工作呢，现在是来长沙出差。",
+                "真是越忙越出错，我还有很多作业要写呢。"
+            ],
+            "answer": "真的啊，你太棒了，我毕业后就直接找了份工作呢，现在是来长沙出差。"
+        },
+        "id": "response_bo_24",
+        "en_trans": {
+            "context": [
+                "Yes, I heard from a friend that you came to Changsha, so I called you.",
+                "Are you working in Changsha or?",
+                "I got into graduate school and I am studying here now."
+            ],
+            "options": [
+                "It's a pity you couldn't come with me to see it.",
+                "Great, it's your first time traveling far and you created a tense atmosphere.",
+                "Really? That's great! I found a job right after graduation. I'm in Changsha on a business trip now.",
+                "The busier I get, the more mistakes I make. I still have a lot of homework to do."
+            ],
+            "answer": "Really? That's great! I found a job right after graduation. I'm in Changsha on a business trip now."
+        }
+    },
+    {
+        "context": [
+            "ཡུལ་སྐོར་སྣེ་ཤན་སྲས་མོ།་དེ་རིང་ཁྱོད་ཀྱིས་ང་ཚོ་ཁྲིད་ནས་གང་ལ་ལྟ་སྐོར་དུ་འགྲོ།",
+            "དེ་རིང་ང་ཚོ་ལྕགས་རི་རིང་བོར་འགོས་སུ་འགྲོ།",
+            "ངོ་མ་བཟང་གིངས་རྒྱུན་དུ་གོ་ཐོས་ལྟར་ན་ལྕགས་རི་རིང་བོར་མ་ཐོན་ན་ཀྲུང་གོར་མ་ཡོང་བ་དང་འདྲ།"
+        ],
+        "options": [
+            "རེད་ཡ།་ངས་ད་དུང་སང་ཉིན་ཡིན་པར་འདོད།",
+            "སྔ་ཙམ་ངལ་གསོ་རྒྱོབ།སང་ཉིན་མུ་མཐུད་བྲིས།",
+            "སང་ཉིན་རྒྱུགས་ལེན་རྒྱུ་རེད།་ཁྱོད་ད་རུང་རྩེ་བཞིན་ཡོད་དམ།",
+            "བདེན།དེ་རིང་ལྕགས་རི་རིང་བོ་དང་སང་ཉིན་གནའ་བོའི་ཕོ་བྲང་ལ་འགྲོ"
+        ],
+        "answer": "D",
+        "zh_trans": {
+            "context": [
+                "导游小姐，今天你带我们去哪儿观光?",
+                "今天咱们去爬长城。",
+                "太好了!我常听人说，没到过长城就等于没来过中国。"
+            ],
+            "options": [
+                "对呀，我还以为是明天呢。",
+                "早点休息吧，明天再继续写。",
+                "明天就考试了，你还在玩!",
+                "对。今天去长城，明天去故宫。"
+            ],
+            "answer": "对。今天去长城，明天去故宫。"
+        },
+        "id": "response_bo_438",
+        "en_trans": {
+            "context": [
+                "Tour guide, where are you taking us for sightseeing today?",
+                "Today we are going to climb the Great Wall.",
+                "Great! I've often heard people say that if you haven't been to the Great Wall, it's like you haven't been to China."
+            ],
+            "options": [
+                "Yes, I thought it was tomorrow.",
+                "Get some rest early, continue writing tomorrow.",
+                "The exam is tomorrow, and you're still playing!",
+                "Right. Today we go to the Great Wall, tomorrow to the Forbidden City."
+            ],
+            "answer": "Right. Today we go to the Great Wall, tomorrow to the Forbidden City."
+        }
+    },
+    {
+        "context": [
+            "གལ་ཏེ་ཁྱེད་ཀྱིས་སྒོར་མོ་ཚང་མ་མ་རྐང་འཛིན་ཤོག་ཉོས་མེད་ན།ང་ཚོ་ད་ལྟའི་གནས་འབབ་ལ་རྒྱུར་སྲིད་དམ།"
+        ],
+        "options": [
+            "བྱ་སྤུའི་ལྭ་བ་འདིའི་མདོག་ཟབ་པ་ཚང་མ་བཙོང་ཚར་སོང་།་དེ་ན་ཁྱོད་ཀྱིས་ཁོ་ལ་འདི་ཚོད་ལྟ་བྱེད་དུ་བཅུག",
+            "འདི་ང་ལ་ལན་པ་ཡོད་དམ།ཚང་མ་དཔལ་འབྱོར་ཉམས་ཉེན་གྱིས་བཟོས་པ་རེད།",
+            "ཆོག་གི་ངས་ད་ལྟ་བལྟ།",
+            "ཁྱོད་ཀྱིས་ཉེ་ལམ་ང་ལ་ཁ་པར་མི་གཏོང་དོན་ཅི་ཡིན།"
+        ],
+        "answer": "B",
+        "zh_trans": {
+            "context": [
+                "要不是你把钱都买了股票，我们能落到这步田地吗?"
+            ],
+            "options": [
+                "这款羽绒服深色的都卖完了，那你再让他试试这件吧。",
+                "这能赖我吗，都是经济危机闹的。",
+                "好的，我现在就看。",
+                "你最近怎么都没给我打电话啊?"
+            ],
+            "answer": "这能赖我吗，都是经济危机闹的。"
+        },
+        "id": "response_bo_17",
+        "en_trans": {
+            "context": [
+                "If you hadn't spent all the money on stocks, would we be in this predicament?"
+            ],
+            "options": [
+                "All the dark-colored down jackets are sold out, please let him try this one instead.",
+                "Can you blame me? It's all because of the economic crisis.",
+                "Okay, I'll read it now.",
+                "Why haven't you called me lately?"
+            ],
+            "answer": "Can you blame me? It's all because of the economic crisis."
+        }
+    }
+]

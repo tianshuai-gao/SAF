@@ -1,0 +1,122 @@
+[
+    {
+        "zh": "这个办公室是你的，左边是经理办公室，右边是会议室。",
+        "bo": "གཞུང་སྒྲུབ་ཁང་འདི་ནི་ཁྱོད་ཀྱི་རེད།་གཡོན་ཕྱོགས་ནི་སྤྱི་གཉེར་བའི་གཞུང་ལས་ཁང་རེད།་གཡས་ཕྱོགས་ནི་གྲོས་ཚོགས་ཁང་རེད།",
+        "id": "trans-d_bo_652",
+        "en": "This office is yours, the manager's office is on the left, and the meeting room is on the right."
+    },
+    {
+        "zh": "好啊，我很喜欢看演出。都有些什么节目呢?",
+        "bo": "ཆོག་གི་ང་འཁྲབ་སྟོན་ལ་བལྟ་བར་ཧ་ཅང་དགའ།ལེ་ཚན་ཅི་ཞིག་ཡོད་དམ།",
+        "id": "trans-d_bo_701",
+        "en": "Sure, I really enjoy watching performances. What kind of programs do they have?"
+    },
+    {
+        "zh": "你跟经理提出我们的要求时，他怎么说?",
+        "bo": "ཁྱོད་ཀྱིས་སྤྱི་གཉེར་བར་ང་ཚོའི་རེ་བ་འདོན་སྐབས།་ཁོས་ཅི་ལྟར་བཤད་དམ།ཁོ་ལ་ཚོར་བ་མི་འདུགསྤྱི་གཉེར་བས་ཁོ་ཚོའི་རེ་བ་ལ་རྣམ་འགྱུར་ཅི་ཞིག་ཡོད་དམ།ཁོང་ཁྲོ་ཆེན་པོ་ལངས།ངོ་རྒོལ་བྱས་མེད་།མོས་མཐུན་ཆེན་པོ་ཡོད་།སྐད་ཆ་ཅི་ཡང་མ་བཤད་།",
+        "id": "trans-d_bo_304",
+        "en": "What did the manager say when you brought up our request?"
+    },
+    {
+        "zh": "你们的表演非常精彩!",
+        "bo": "ཁྱོད་ཚོའི་འཁྲབ་སྟོན་ཧ་ཅང་ཡག",
+        "id": "trans-d_bo_755",
+        "en": "Your performance was wonderful!"
+    },
+    {
+        "zh": "我昨天才到，估计在这待一个星期吧。",
+        "bo": "ང་ཁ་སང་སླེབས་པ་ཡིན།གཟའ་འཁོར་གཅིག་བསྡོད་རྩིས་ཡོད།",
+        "id": "trans-d_bo_35",
+        "en": "I just arrived yesterday. I estimate I'll be here for a week."
+    },
+    {
+        "zh": "老刘，看你这么高兴，是不是遇到了什么喜事啊?",
+        "bo": "ལའོ་ལུའུ།་ཁྱོད་འདི་འདྲ་དགའ་ཡོད་པ་མཐོང་ན།་དོན་བཟང་ཞིག་ལ་འཕྲད་པ་ཡིན་ནམ།",
+        "id": "trans-d_bo_753",
+        "en": "Old Liu, you look so happy, did something good happen?"
+    },
+    {
+        "zh": "你看过《赤壁》这部电影吗?",
+        "bo": "ཁྱོད་ཀྱིས་<<་ཁྲི་པི་>>་ཞེས་པའི་གློག་བརྙན་འདི་ལ་བལྟས་མྱོང་ངམ།",
+        "id": "trans-d_bo_92",
+        "en": "Have you watched the movie 'Red Cliff'?"
+    },
+    {
+        "zh": "你说说，怎么出差的事儿总是让你去。那什么时候回来?",
+        "bo": "ཁྱོད་ཀྱིས་ཤོད་དང་།་ཅི་ལྟར་གཞུང་དོན་དུ་འགྲོ་བའི་དོན་དག་ནམ་ཡང་ཁྱོད་འགྲོ་རུ་འཇུགདེ་ན་ནམ་ཞིག་ལ་ཕྱིར་ཡོང་རྒྱུ་རེད།",
+        "id": "trans-d_bo_54",
+        "en": "Tell me, why is it that you are always the one going on business trips? When will you be back?"
+    },
+    {
+        "zh": "别修了，索性买一副新的吧。",
+        "bo": "ཞིག་གསོ་མ་བྱེད།་གསར་བ་ཞིག་ཉོས་དང་།",
+        "id": "trans-d_bo_361",
+        "en": "Don't bother repairing it, just go and buy a new pair."
+    },
+    {
+        "zh": "不买不行啊，总不能明年结婚连个住的地方都没有吧?",
+        "bo": "མ་ཉོས་ན་མི་ཆོག་སང་ལོ་གཉེན་སྒྲིག་བྱས་ནས་འདུག་ས་ཞིག་ཀྱང་མེད་ན་མི་ཆོག་གམ།",
+        "id": "trans-d_bo_89",
+        "en": "I must buy one, after all, I can't get married next year without having a place to live, can I?"
+    },
+    {
+        "zh": "寒假一般什么都做不了，只能回家过春节了。",
+        "bo": "དགུན་གནང་ལ་སྤྱིར་བཏང་དུ་ཅི་ཡང་སྒྲུབ་མི་ཐུབ།་ཡུལ་ལ་ལོག་ནས་ལོ་སར་རོལ་རྒྱུ་ལས་མི་འདུག",
+        "id": "trans-d_bo_303",
+        "en": "I usually can't do anything during the winter break, I can only go home for the Spring Festival."
+    },
+    {
+        "zh": "是啊，学生们都着急回家嘛。",
+        "bo": "རེད་ཡ།་སློབ་མ་ཚང་མ་ཡུལ་ལ་ལོག་པར་བྲེལ་བཞིན་ཡོད།",
+        "id": "trans-d_bo_733",
+        "en": "Yes, the students are all eager to go home."
+    },
+    {
+        "zh": "请问这里是十排十四号吗?",
+        "bo": "འདི་ནི་གྲལ་བཅུ་བའི་ཨང་རྟགས་བཅུ་བཞི་བ་ཡིན་ནམ།",
+        "id": "trans-d_bo_514",
+        "en": "Excuse me, is this row ten, seat fourteen?"
+    },
+    {
+        "zh": "其他地方都合适，就是颜色浅了点儿。",
+        "bo": "ས་ཆ་གཞན་པ་ཚང་མ་འོས་འཚམ་རེད།་ཁ་དོག་ཅུང་སྲབ་པ་རེད།",
+        "id": "trans-d_bo_219",
+        "en": "Everything else is fine, but the color is a bit light."
+    },
+    {
+        "zh": "好，你多喝点儿水，好好儿休息。",
+        "bo": "བཟང་གི་ཁྱོད་ཀྱིས་ཆུ་མང་ཙམ་འཐུང་།་ངལ་གསོ་ཡག་པོ་བྱོས།",
+        "id": "trans-d_bo_205",
+        "en": "Alright, drink more water and get plenty of rest."
+    },
+    {
+        "zh": "有歌舞、小品，还有京剧。",
+        "bo": "གླུ་གར་དང་གར་ཆུང་།་ད་དུང་ཅིན་ཅུས་ཟློས་གར་ཡོད།",
+        "id": "trans-d_bo_641",
+        "en": "There are songs and dances, skits, and also Beijing opera."
+    },
+    {
+        "zh": "我那时真不想离开你们这些好朋友。",
+        "bo": "ང་འདི་དུས་དངོས་ནས་གྲོགས་པོ་ཁྱེད་རང་ཚོ་དང་བྲལ་འདོད་མ་བྱུང་།",
+        "id": "trans-d_bo_2",
+        "en": "I really didn't want to leave you all, my good friends, at that time."
+    },
+    {
+        "zh": "出房间左转，一直走，过了柜台右转就是了。",
+        "bo": "ཁང་བའི་ཕྱི་ལ་སོང་ནས་གཡོན་ཕྱོགས་སུ་འཁོར།་མུ་མཐུད་དུ་སོང་།་སྟེགས་བརྒལ་ནས་གཡས་ཕྱོགས་སུ་འཁོར་ན་ཆོག",
+        "id": "trans-d_bo_744",
+        "en": "Turn left when you exit the room, go straight, and after passing the counter, turn right."
+    },
+    {
+        "zh": "你好，张东!现在有时间吗?想和你一起聊聊天儿。",
+        "bo": "ཁྱོད་བདེ་མོ།་ཀྲང་ཏུང་།ད་ལྟ་དུས་ཚོད་ཡོད་དམ་།ཁྱོད་དང་མཉམ་དུ་ཁ་བརྡ་བྱེད་འདོད་།",
+        "id": "trans-d_bo_233",
+        "en": "Hi, Zhang Dong! Do you have time now? I'd like to chat with you."
+    },
+    {
+        "zh": "小王最近都没有来上班，他是不是发生什么事情了?",
+        "bo": "ཞའོ་ཝང་ཉེ་ལམ་ལས་ཚོགས་ལ་མ་ཡོང་།་ཁོ་ལ་དོན་དག་ཅི་ཞིག་བྱུང་སོང་བ་ཡིན་ནམ།",
+        "id": "trans-d_bo_96",
+        "en": "Xiao Wang hasn't come to work recently. Has something happened to him?"
+    }
+]

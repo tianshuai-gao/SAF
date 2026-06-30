@@ -1,0 +1,799 @@
+[
+    {
+        "context": [
+            "ياخشىمۇ، سىز بىر نەرسە سېتىۋالامسىز؟",
+            "بىر جۈپ ئاياغ سېتىۋالغۇم بار ئىدى، قېلىنراق بولسۇن قىشتا كىيىمەن.",
+            "بۇ جۈپ قانداقراق؟ ھازىر مودا بولىۋاتىدۇ."
+        ],
+        "options": [
+            "نەدە جىق بولسۇن،  يىرتىق ئەمەستىن بىرسىمۇ يوق،  يەنە بىر تال شەپكە سېتىۋالدىم،  چىرايلىقمىكەن؟",
+            "بۇ ئىككى شەپكىدىن قايسىنى ياخشى كۆرىسىز؟",
+            "سىزنىڭچە بۇ ئۆي قانداقراق؟ ياخشى كۆردىڭىزمۇ؟",
+            "ھە، يامان ئەمەسكەن رەڭگىمۇ بولىدىكەن، نەچچە پۇل؟"
+        ],
+        "answer": "D",
+        "zh_trans": {
+            "context": [
+                "您好，买点儿什么?",
+                "我想买双鞋，厚一点儿的，冬天穿。",
+                "你看看这双怎么样?这是现在最流行的。"
+            ],
+            "options": [
+                "多什么呀，没有一双不破的。还买了个帽子，好看吗?",
+                "这两个帽子，你喜欢哪个?",
+                "你觉得这个房子怎么样?喜欢吗?",
+                "嗯，这双样子挺好，颜色也不错，多少钱?"
+            ],
+            "answer": "嗯，这双样子挺好，颜色也不错，多少钱?"
+        },
+        "id": "response_ug_264",
+        "en_trans": {
+            "context": [
+                "Hello, what would you like to buy?",
+                "I would like to buy a pair of shoes, a bit thicker, for winter wear.",
+                "How about this pair? These are the most popular right now."
+            ],
+            "options": [
+                "Plenty? You don't have a single pair that's not torn. I also bought a hat. Does it look nice?",
+                "Which of these two hats do you like?",
+                "What do you think of this house? Do you like it?",
+                "Hmm, this pair looks nice, and the color is good too. How much are they?"
+            ],
+            "answer": "Hmm, this pair looks nice, and the color is good too. How much are they?"
+        }
+    },
+    {
+        "context": [
+            "جاڭ مۇئەللىم، سىزدىن سورىغۇم كەلگەن بىر نەچچە تال سوئال بار ئىدى."
+        ],
+        "options": [
+            "ئەۋەتمىسىڭىزمۇ بولىدۇ، ماڭا فاكس يوللاپ بېرىڭ.",
+            "سەت بولدى، مېنىڭ بىردەمدىن كېيىن يەنە ئىككى سائەت دەرسىم بار.",
+            "راستىنلا كەچۈرۈڭ، مەن چوقۇم سىزگە لايىقىدا تۆلەم بېرىمەن.",
+            "كەچۈرۈڭ، كېچىكىپ قالدىم."
+        ],
+        "answer": "B",
+        "zh_trans": {
+            "context": [
+                "张老师，我有几个问题想问您一下。"
+            ],
+            "options": [
+                "不用寄，传真给我就可以。",
+                "真不好意思，我等会儿还有两节课。",
+                "真对不起，我一定会合理赔偿的。",
+                "真对不起，我来晚了。"
+            ],
+            "answer": "真不好意思，我等会儿还有两节课。"
+        },
+        "id": "response_ug_98",
+        "en_trans": {
+            "context": [
+                "Teacher Zhang, I have a few questions I'd like to ask you."
+            ],
+            "options": [
+                "No need to mail it, just fax it to me.",
+                "I'm really sorry, I have two classes later.",
+                "I'm truly sorry. I will definitely provide reasonable compensation.",
+                "I'm really sorry, I'm late."
+            ],
+            "answer": "I'm really sorry, I have two classes later."
+        }
+    },
+    {
+        "context": [
+            "بۇ ھۆججەتنى يىگىرمە پارچە نۇسخىلىسام يېتەمدۇ؟",
+            "بەلكىم يەتمەسلىكى مۇمكىن.،  بۈگۈن  باشقا مەكتەپنىڭ رەھبەرلىرىمۇ كېلىدۇ، شۇڭا ئوتتۇز پارچە نۇسخىلاڭ.",
+            "ماقۇل، قارىغاندا بۈگۈنكى يىغىن بەك مۇھىم ئوخشايدۇ."
+        ],
+        "options": [
+            "مەن ساۋاقدىشىم بىلەن بىللە ۋاسكېتبول ئوينىغىلى بېرىشقا دېيىشىپ قويغان.",
+            "يىغىندا مەكتەپنى كېڭەيتىش مەسىلىسىنى  مەسلىھەت قىلىمىز،  ئەلۋەتتە بەك مۇھىم بولىدۇ دە.",
+            "ئاڭلىسام ئوتتۇرا مەكتەپتە ئوقۇۋاتقان ۋاقتىڭىزدا ئاچقۇچ  بولمىسىمۇ  ئىشىكنى ئېچىپ كىرەلەيدىكەنسىز.",
+            "شۇغۇ،  مەكتەپتىن ئايرىلغاندىن كېيىن كۆرۈشۈپ باقماپتۇق.   مەكتەپتىن ئايرىلغان چاغ ھېلىمۇ ئېسىمدە،  سىز تېخى يىغلىغانتىڭىز."
+        ],
+        "answer": "B",
+        "zh_trans": {
+            "context": [
+                "这个文件复印二十份够吗?",
+                "呃，可能不够，今天有其他学校的领导要来，你复印三十份吧。",
+                "好的，看来今天这个会议很重要呀。"
+            ],
+            "options": [
+                "我和同学说好一起去打篮球。",
+                "嗯，会议要讨论我们学校扩建的问题，当然很重要。",
+                "听说你上中学时，就算没带钥匙，也能开门进去。",
+                "是啊，离开学校后就没见过了。我还记得离开学校时，你还哭了呢。"
+            ],
+            "answer": "嗯，会议要讨论我们学校扩建的问题，当然很重要。"
+        },
+        "id": "response_ug_199",
+        "en_trans": {
+            "context": [
+                "Will twenty copies of this document be enough?",
+                "Uh, probably not enough. There will be leaders from other schools coming today. Make thirty copies.",
+                "Okay, it seems this meeting is very important today."
+            ],
+            "options": [
+                "I agreed with my classmates to go play basketball together.",
+                "Yes, the meeting is to discuss the expansion of our school, so it's very important.",
+                "I heard that when you were in middle school, you could get in even if you forgot your keys.",
+                "Yeah, we haven't seen each other since leaving school. I still remember you cried when we left school."
+            ],
+            "answer": "Yes, the meeting is to discuss the expansion of our school, so it's very important."
+        }
+    },
+    {
+        "context": [
+            "ئىلتىماس جەدۋىلىنى تولدۇرۇپ بولدۇم سىزگە قانداق ئەۋەتىپ بېرىمەن؟  ئەۋەتىپ  بېرىمەنمۇ؟"
+        ],
+        "options": [
+            "دائىم تۇمشۇقۇمغا  يىدىم، راستتىنلا ئزدىگۈم يوق.",
+            "ئۇ چاغدا سىلەردەك يېقىن دوستلىرىمدىن ئايرىلغۇم يوق ئىدى.",
+            "ئەۋەتمىسىڭىزمۇ بولىدۇ، ماڭا فاكس يوللاپ بېرىڭ.",
+            "كەچۈرۈڭ، كېچىكىپ قالدىم."
+        ],
+        "answer": "C",
+        "zh_trans": {
+            "context": [
+                "申请表我已经填好了，怎么给您呢?是寄给您吗?"
+            ],
+            "options": [
+                "总是碰壁，真有点儿不想找了。",
+                "我那时真不想离开你们这些好朋友。",
+                "不用寄，传真给我就可以。",
+                "真对不起，我来晚了。"
+            ],
+            "answer": "不用寄，传真给我就可以。"
+        },
+        "id": "response_ug_366",
+        "en_trans": {
+            "context": [
+                "I have already filled out the application form, how should I send it to you? Should I mail it to you?"
+            ],
+            "options": [
+                "I keep hitting walls, I really feel like giving up on the job search.",
+                "I really didn't want to leave you all, my good friends, at that time.",
+                "No need to mail it, just fax it to me.",
+                "I'm really sorry, I'm late."
+            ],
+            "answer": "No need to mail it, just fax it to me."
+        }
+    },
+    {
+        "context": [
+            "ماقۇل، مەن بۇنداق پائالىيەتكە ئىنتايىن ئامراق، قانداق نومۇرلار بار ئىكەن؟",
+            "ناخشا - ئۇسسۇل، ئىتوت، يەنە جىڭجۈ تىياتىرىمۇ بار.",
+            "شۇنداقمۇ؟ بەك ياخشى بولدى، مەن 5:40  دەرستىن چۈشىمەن، بىز 6 دە مەكتەپنىڭ ئالدىدا كۆرۈشەيلى."
+        ],
+        "options": [
+            "شۇغۇ!",
+            "بولىدۇ، كۆرۈشمىسەك ھېساب ئەمەس.",
+            "بولىدۇ، كۆرۈشمىسەك ھېساب ئەمەس.",
+            "قارىدىم، يوق ئىكەن."
+        ],
+        "answer": "B",
+        "zh_trans": {
+            "context": [
+                "好啊，我很喜欢看演出。都有些什么节目呢?",
+                "有歌舞、小品，还有京剧。",
+                "是吗?太好了!我五点四十下课，我们六点一刻在学校门口见面。"
+            ],
+            "options": [
+                "谁说不是呢!",
+                "好，不见不散!",
+                "好，不见不散!",
+                "看了，不在。"
+            ],
+            "answer": "好，不见不散!"
+        },
+        "id": "response_ug_463",
+        "en_trans": {
+            "context": [
+                "Sure, I really enjoy watching performances. What kind of programs do they have?",
+                "There are songs and dances, skits, and also Beijing opera.",
+                "Really? That's great! I finish class at 5:40, let's meet at the school gate at 6:15."
+            ],
+            "options": [
+                "Exactly!",
+                "Okay, see you there!",
+                "Okay, see you there!",
+                "I checked, they're not there."
+            ],
+            "answer": "Okay, see you there!"
+        }
+    },
+    {
+        "context": [
+            "بىزنىڭ ئۆينىڭ ئۆي جازىلىرى بەك كونىراپ كېتىپتۇ، مەن يېڭىدىن بىرنى ئالماقچى سىزنىڭچە، نەگە بېرىپ ئالساق بولار؟",
+            "سودا سارىيى خېلى يامان ئەمەس. ئۆتكەندە، مەن سودا سارىيىدىن بىر ئۈستەل ئالغان. سۈپىتى خېلى يامان ئەمەس ئىكەن.",
+            "سودا سارىيىدا بەك قىممەت ئىكەن، ئالالمايمەن."
+        ],
+        "options": [
+            "بىردەم ساقلاپ تۇرۇڭ،  مەن پورتمالىمنى تېپىۋالاي.",
+            "ئۇغۇ شۇ،  بىراق سىز ئېتىبار قىلغان چاغدا بېرىپ ئالسىڭىز بولىدۇ، بەك ئەرزانلايدۇ.",
+            "دېگىنىڭ توغرا، مەن بۇ مەسىلىگە توغرا قارايمەن رەھمەت.",
+            "ئۇنتۇپ قالمىدىم، ئازراق ھەل قىلىشقا تېگىشلىك مەسىلىلەر بار، قايتىپ كېتەلمىدىم شۇ."
+        ],
+        "answer": "B",
+        "zh_trans": {
+            "context": [
+                "我家的家具太旧了，我想买套新的，你觉得去哪买好呢?",
+                "商场的挺不错的。前几天我在商场买了餐桌。质量挺不错。",
+                "商场里的太贵了，买不起啊。"
+            ],
+            "options": [
+                "等会儿，我找我的钱包。",
+                "说的是，不过你可以打折的时候去买，会便宜很多。",
+                "您说得对，我会正视这个问题的，谢谢。",
+                "没忘，可是这边的问题还没解决，回不去啊。"
+            ],
+            "answer": "说的是，不过你可以打折的时候去买，会便宜很多。"
+        },
+        "id": "response_ug_127",
+        "en_trans": {
+            "context": [
+                "The furniture in my house is too old, I want to buy a new set. Where do you think is a good place to buy?",
+                "The ones at the mall are pretty good. A few days ago I bought a dining table there. The quality is quite good.",
+                "The ones at the mall are too expensive, I can't afford them."
+            ],
+            "options": [
+                "Wait a moment, I'm looking for my wallet.",
+                "That's true, but you can buy them during sales, and it will be much cheaper.",
+                "You're right, I will face this problem squarely, thank you.",
+                "I haven't forgotten, but the problem here still isn't solved, I can't go back."
+            ],
+            "answer": "That's true, but you can buy them during sales, and it will be much cheaper."
+        }
+    },
+    {
+        "context": [
+            "مۇئەللىم داۋېينى ئىمتىھاندىن ئۆتەلمىدۇ دەيدۇ."
+        ],
+        "options": [
+            "ھازىر بارغانسېرى كۆپ ئالىي مەكتەپ ئوقۇغۇچىلىرى پىسخىكىلىق مەسىلىگە ئۇچراۋاتىدۇ.",
+            "بۇ قانداقمۇ مۇمكىن بولسۇن، گەرچە ئۇ دائىم ئاغرىپ قالسىمۇ، لېكىن بىزنىڭ سىنىپتىكى ئەڭ ياخشى ئوقۇغۇچى تۇرسا.",
+            "ئاڭلىسام ئوتتۇرا مەكتەپتە ئوقۇۋاتقان ۋاقتىڭىزدا ئاچقۇچ  بولمىسىمۇ  ئىشىكنى ئېچىپ كىرەلەيدىكەنسىز.",
+            "مەن ئاسپىرانتلىق ئىمتىھانى بەرگەن، ھازىر بۇ تەرەپتە ئاسپىرانتلىق ئوقۇۋاتىمەن."
+        ],
+        "answer": "B",
+        "zh_trans": {
+            "context": [
+                "老师说大卫考试没通过。"
+            ],
+            "options": [
+                "现在越来越多的大学生有心理问题了。",
+                "怎么可能呢?他虽然常常生病，可是我们班上最好的学生。",
+                "听说你上中学时，就算没带钥匙，也能开门进去。",
+                "我考了研究生，现在在这边读研呢。"
+            ],
+            "answer": "怎么可能呢?他虽然常常生病，可是我们班上最好的学生。"
+        },
+        "id": "response_ug_478",
+        "en_trans": {
+            "context": [
+                "The teacher said David failed the exam."
+            ],
+            "options": [
+                "More and more college students are having mental health issues now.",
+                "How is that possible? Although he often gets sick, he is the best student in our class.",
+                "I heard that when you were in middle school, you could get in even if you forgot your keys.",
+                "I got into graduate school and I am studying here now."
+            ],
+            "answer": "How is that possible? Although he often gets sick, he is the best student in our class."
+        }
+    },
+    {
+        "context": [
+            "سىز قاراشقا بۇرۇنقىدىن سەمىرىپ قاپسىز.",
+            "شۇنداق، كۆپ نەرسە يەپ،چىنىقماي، ئۇنىڭ ئۈستىگە قىلغۇدەك ئىشمۇ يوق،  دەپ بېقىڭ سەمرىمىگىلى بولامدۇ؟"
+        ],
+        "options": [
+            "دائىم تۇمشۇقۇمغا  يىدىم، راستتىنلا ئزدىگۈم يوق.",
+            "ھە، راستىنلا.",
+            "ئۇنداقتا سىز ئورۇقلىمىسىڭىز بولماپتۇ.",
+            "ماقۇل،  خوجايىن سىزدىن راستىنلا نەپ تېگىدىكەن، مۇشۇ جۈپنى ئالدىم."
+        ],
+        "answer": "C",
+        "zh_trans": {
+            "context": [
+                "你看起来比以前胖了些。",
+                "是的，吃得多又不锻炼，而且天天也没什么事情做，你说能不胖吗？"
+            ],
+            "options": [
+                "总是碰壁，真有点儿不想找了。",
+                "啊，还真是。",
+                "那你真该减肥了。",
+                "好的，老板您可真实惠。我就要这双了。"
+            ],
+            "answer": "那你真该减肥了。"
+        },
+        "id": "response_ug_502",
+        "en_trans": {
+            "context": [
+                "You look a bit fatter than before.",
+                "Yes, eating a lot without exercising, and having nothing much to do every day. Do you think I wouldn't gain weight?"
+            ],
+            "options": [
+                "I keep hitting walls, I really feel like giving up on the job search.",
+                "Ah, it really is.",
+                "Then you really should lose weight.",
+                "Okay, boss, you are really giving me a good deal. I'll take this pair."
+            ],
+            "answer": "Then you really should lose weight."
+        }
+    },
+    {
+        "context": [
+            "بۇ سىنالغۇ لېنتىسىنى ئاران ئون بىر يۈئەنگە سېتىۋالدىم، ئەپسۇس كىيىم سېتىۋالغاندىن كېيىن مەندە پەقەت يەتتە يۈئەنلا قالدى."
+        ],
+        "options": [
+            "مەن كىنو بېلىتىنى پورتمالىمغا سېلىپ قويغان.",
+            "مەندە يەنە پۇل بار، سىز ئاپىرىپ ئىشلەتكەچ تۇرۇڭ.",
+            "قاراڭ، بۇ يەردە ھەر خىل چىراغلار بار ئىكەن، نېمىدېگەن چىرايلىق ھە.",
+            "ھەئە، مېنىڭ سومكامدا."
+        ],
+        "answer": "B",
+        "zh_trans": {
+            "context": [
+                "这盘录像带才卖11块钱。可惜买了衣服以后，我只剩7块钱了。"
+            ],
+            "options": [
+                "我把电影票放到钱包里了。",
+                "我这里还有钱呢。你拿去用吧。",
+                "你看这里有各种各样的灯，多漂亮啊!",
+                "是，在我包里呢。"
+            ],
+            "answer": "我这里还有钱呢。你拿去用吧。"
+        },
+        "id": "response_ug_398",
+        "en_trans": {
+            "context": [
+                "This videotape is only sold for 11 yuan. Unfortunately, after buying clothes, I only have 7 yuan left."
+            ],
+            "options": [
+                "I put the movie tickets in my wallet.",
+                "I still have money here. You can take it and use it.",
+                "Look, there are all kinds of lamps here, how beautiful!",
+                "Yes, it is in my bag."
+            ],
+            "answer": "I still have money here. You can take it and use it."
+        }
+    },
+    {
+        "context": [
+            "جۇڭگودا توي قىلىشتىن بۇرۇن چوقۇم بېرىپ بەدەننى تەكشۈرتۈش كېرەك، بۇ راستمۇ؟",
+            "بۇرۇن شۇنداق ئىدى، ھازىر لازىم ئەمەس."
+        ],
+        "options": [
+            "ئۇنداقتا جۇڭگولۇقلار توي قىلغاندىن كېيىن ئېرىنىڭ ئاتا ئانىسى بىلەن بىللە تۇرامدۇ؟",
+            "جۇڭگودا روژدېستۋا بايرىمى ئۆتكۈزىدىغان ئادەت يوق، ھەم دەم ئېلىشقا قويۇپ بەرمەيدۇ،   ئەھمىيىتى يوق.",
+            "جېننى، جۇڭگوغا كېلىپ، نەگە ساياھەتكە باردىڭىز؟",
+            "بۇنى دېيىش كېتەمدۇ،  ئىككىسى دېگەن ئورنىمىزدىكى مۇنەۋۋەر ئەر خوتۇن تۇرسا."
+        ],
+        "answer": "A",
+        "zh_trans": {
+            "context": [
+                "在中国，结婚以前一定要去检查身体，这是真的吗？",
+                "以前是这样，现在不需要了。"
+            ],
+            "options": [
+                "那中国人结婚以后，是和丈夫的爸爸妈妈一起住吗？",
+                "中国没有过圣诞节的习惯，又不放假，真没意思。",
+                "珍妮，来中国后你去哪儿旅游过?",
+                "那还用说，他们可是我们单位的模范夫妻。"
+            ],
+            "answer": "那中国人结婚以后，是和丈夫的爸爸妈妈一起住吗？"
+        },
+        "id": "response_ug_259",
+        "en_trans": {
+            "context": [
+                "In China, is it true that you must get a health check before getting married?",
+                "It used to be like that, but it's not necessary anymore."
+            ],
+            "options": [
+                "Do Chinese people live with their husband's parents after getting married?",
+                "China doesn't have the habit of celebrating Christmas, and there's no holiday, it's really boring.",
+                "Jenny, where have you traveled since coming to China?",
+                "That's for sure, they are the model couple in our unit."
+            ],
+            "answer": "Do Chinese people live with their husband's parents after getting married?"
+        }
+    },
+    {
+        "context": [
+            "شىركەت بىلەن توختام ئىمزالىدىڭىزمۇ؟"
+        ],
+        "options": [
+            "ئىمزالىدىم. ئەمەلىيەتتە ئىمزالىسام لىمىساممۇ بەرىبىر،  مەنمۇ شۇ  ئۇ يەردە ۋاقىتلىق ئىككى كۈن ئىشلەشكە تەييارلىق  قىلدىم.",
+            "سىزنى كەلمەيدىغان ئوخشايدۇ دەپتىمەن،  ئۇزۇن ساقلاپ كەتتىم سىزنى.",
+            "مەن ھەر كۈنى ئەتىگەندىن كەچكىچە ئالدىراشچىلىقتا، سىزغۇ ياخشى،  ماجاڭ ئوينايسىز تېلېۋىزور كۆرىسىز.",
+            "چۈنكى ھاۋارايى ياخشى ئەمەس، نۆۋەتچى ئايروپىلان ئەمەلدىن قالدۇرۇلدى."
+        ],
+        "answer": "A",
+        "zh_trans": {
+            "context": [
+                "你和公司签劳动合同了吗?"
+            ],
+            "options": [
+                "签了。其实签不签都无所谓，我也就准备临时在那儿干两天。",
+                "还以为你不来了，我都等你半天了。",
+                "我每天从早忙到晚，你可倒好，整天不是打麻将，就是看电视。",
+                "因为天气不好，航班取消了。"
+            ],
+            "answer": "签了。其实签不签都无所谓，我也就准备临时在那儿干两天。"
+        },
+        "id": "response_ug_116",
+        "en_trans": {
+            "context": [
+                "Did you sign a labor contract with the company?"
+            ],
+            "options": [
+                "I signed it. Actually, it doesn't matter whether I sign it or not, I'm just planning to work there temporarily for a couple of days.",
+                "I thought you weren't coming. I've been waiting for you for a long time.",
+                "I'm busy from morning till night every day, and there you are, either playing mahjong or watching TV all day.",
+                "Because the weather is bad, the flight was canceled."
+            ],
+            "answer": "I signed it. Actually, it doesn't matter whether I sign it or not, I'm just planning to work there temporarily for a couple of days."
+        }
+    },
+    {
+        "context": [
+            "راستمۇ بەك يامان ئىكەنسىز، مەن ئوقۇش پۈتتۈرۈپلا خىزمەت تاپقان، ھازىر چاڭشاغا كاماندىروپكىغا كەلدىم.",
+            "چاڭشادا قانچىلىك تۇرىسىز؟",
+            "مەن تۈنۈگۈن تېخى كەلگەن، بۇ يەردە بىرەر ھەپتە تۇرارمەنمىكىن."
+        ],
+        "options": [
+            "ئاپا، ئەتە سائەت ئالتىدىن بىر چارەك ئۆتكەندە مېنى ئويغىتىپ قويۇڭ.",
+            "توغرا، مەن تېخى ئەتىغۇ دەپتىمەن.",
+            "ئەتە ۋاقتىڭىز بارمۇ، مەن سىزنى ئوينىتاي.",
+            "مېنىڭ بەك بارغۇم بار، لېكىن ئەتە ئىمتىھان بار، مەن تېخى  تەكرار قىلمىدىم."
+        ],
+        "answer": "C",
+        "zh_trans": {
+            "context": [
+                "真的啊，你太棒了，我毕业后就直接找了份工作呢，现在是来长沙出差。",
+                "你要在长沙待几天?",
+                "我昨天才到，估计在这待一个星期吧。"
+            ],
+            "options": [
+                "妈，明天六点一刻叫我起床。",
+                "对呀，我还以为是明天呢。",
+                "你明天有时间吗，我带你去玩儿。",
+                "我很想去，但是明天就要考试了，我还没复习呢。"
+            ],
+            "answer": "你明天有时间吗，我带你去玩儿。"
+        },
+        "id": "response_ug_27",
+        "en_trans": {
+            "context": [
+                "Really? That's great! I found a job right after graduation. I'm in Changsha on a business trip now.",
+                "How many days will you be staying in Changsha?",
+                "I just arrived yesterday. I estimate I'll be here for a week."
+            ],
+            "options": [
+                "Mom, wake me up at 6:15 tomorrow.",
+                "Yes, I thought it was tomorrow.",
+                "Do you have time tomorrow? I can take you out.",
+                "I'd love to go, but I have an exam tomorrow and I haven't reviewed yet."
+            ],
+            "answer": "Do you have time tomorrow? I can take you out."
+        }
+    },
+    {
+        "context": [
+            "بۇ پاسوندىكى مامۇق كىيىمنىڭ توق رەڭدىكىلەرنىڭ ھەممىنى سېتىپ بولدۇق، بۇ  پاسوندىكىنى سىناپ بېقىڭ.",
+            "بۇنىڭ رەڭگى چىرايلىق ئىكەن، لېكىن كىچىك كەلدى بىر دەرىجە چوڭى بارمۇ يوقمۇ؟",
+            "كەچۈرۈڭ تۈنۈگۈن سېتىپ بولدۇق، ئەتە يەنە مال كىرگۈزمەكچى، ئەتە كېلىپ كۆرۈپ باقامسىز؟"
+        ],
+        "options": [
+            "ماقۇل، رەھمەت.",
+            "شۇنداق، ئۆردەك كاۋىپىدىن باشقا.",
+            "بولىدۇ، چاتاق يوق.",
+            "ماقۇل، رەھمەت."
+        ],
+        "answer": "A",
+        "zh_trans": {
+            "context": [
+                "这款羽绒服深色的都卖完了，那你再让他试试这件吧。",
+                "这件颜色挺好的，但是有点儿瘦，有没有大一号的?",
+                "对不起，昨天刚卖完。明天还要进货，你再来看看吧?"
+            ],
+            "options": [
+                "好的，谢谢。",
+                "是的，除了烤鸭。",
+                "好的，没问题。",
+                "好的，谢谢。"
+            ],
+            "answer": "好的，谢谢。"
+        },
+        "id": "response_ug_254",
+        "en_trans": {
+            "context": [
+                "All the dark-colored down jackets are sold out, please let him try this one instead.",
+                "This color is nice, but it's a bit tight. Do you have a larger size?",
+                "Sorry, they just sold out yesterday. We are getting more stock tomorrow, can you come back to check?"
+            ],
+            "options": [
+                "Okay, thank you.",
+                "Yes, except for the roast duck.",
+                "Okay, no problem.",
+                "Okay, thank you."
+            ],
+            "answer": "Okay, thank you."
+        }
+    },
+    {
+        "context": [
+            "سىز قايسى كىيىمنى كىيىپ ئەتىدىكى يىغىنغا بارماقچى؟"
+        ],
+        "options": [
+            "نېمانداق يېقىن، ماشىنا توسماي مېڭىپ بارايلى.",
+            "بۇنى كىيەي، مېنىڭچە بۇ چىرايلىقراق.",
+            "ئازراق قىممەتىكەن، بولمىسا بىرنى ئالار ئىدۇق.",
+            "كېرەك يوق، مەن بىرنى ئالاي."
+        ],
+        "answer": "B",
+        "zh_trans": {
+            "context": [
+                "你决定穿哪一件衣服去参加明天的会议?"
+            ],
+            "options": [
+                "这么近，我们就走路去吧，别打车了。",
+                "穿这件吧，这件我觉得更漂亮一点儿。",
+                "就是贵了一些，否则我们就买一个了。",
+                "没关系，我要一张。"
+            ],
+            "answer": "穿这件吧，这件我觉得更漂亮一点儿。"
+        },
+        "id": "response_ug_84",
+        "en_trans": {
+            "context": [
+                "Have you decided which outfit to wear to attend tomorrow's meeting?"
+            ],
+            "options": [
+                "It's so close, let's just walk there, no need to take a taxi.",
+                "I'll wear this one. I think this one looks prettier.",
+                "They're just a little expensive, otherwise we would have bought one.",
+                "No problem, I would like one."
+            ],
+            "answer": "I'll wear this one. I think this one looks prettier."
+        }
+    },
+    {
+        "context": [
+            "سوراپ باقسام بانكىغا قانداق ماڭىمىز؟",
+            "ئۇ تەرەپكە قاراپ مېڭىپ ئىككى تال كوچىدىن ئۆتكەندىن كېيىن  ئوڭ تەرەپكە بۇرۇلىسىز،  بانكا كوچىنىڭ بۇلۇڭ تەرىپىدىكى پوچتىخانىنىڭ ئۇدۇل تەرىپىدە."
+        ],
+        "options": [
+            "بۈگۈن سەددىچىن سېپىلىغا چىقايلى.",
+            "رەھمەت. مەن بۇ شەھەرگە كەلگىلى ئاران ئىككى كۈن بولدى. تېخى ئۇ يەر بۇ يەرلەرنى پەرق ئېتىپ بولالمايمەن.",
+            "مەنمۇ ئېنىق بىلمەيمەن ئېيتىشلارغا قارىغاندا ھاۋارايى سەۋەبىدەك قىلىدۇ.",
+            "توغرا، بۈگۈن سەددىچىن سېپىلىغا بارىمىز، ئەتە خان سارىيىغا بارىمىز."
+        ],
+        "answer": "B",
+        "zh_trans": {
+            "context": [
+                "请问银行怎么走?",
+                "往那边走，过两个街区，然后再向右拐。银行就在街角的邮局对面。"
+            ],
+            "options": [
+                "今天咱们去爬长城。",
+                "多谢了，我到这个城市才两天，还弄不清哪儿是哪儿呢。",
+                "我也不清楚，据说好像是天气原因。",
+                "对。今天去长城，明天去故宫。"
+            ],
+            "answer": "多谢了，我到这个城市才两天，还弄不清哪儿是哪儿呢。"
+        },
+        "id": "response_ug_134",
+        "en_trans": {
+            "context": [
+                "Excuse me, how do I get to the bank?",
+                "Go that way, cross two blocks, and then turn right. The bank is across from the post office on the corner."
+            ],
+            "options": [
+                "Today we are going to climb the Great Wall.",
+                "Thank you, I've only been in this city for two days, and I still can't figure out where things are.",
+                "I'm not sure either, but it's said to be due to the weather.",
+                "Right. Today we go to the Great Wall, tomorrow to the Forbidden City."
+            ],
+            "answer": "Thank you, I've only been in this city for two days, and I still can't figure out where things are."
+        }
+    },
+    {
+        "context": [
+            "شىياۋجاڭ جۇڭگو بانكىسىنىڭ قاچان ئىشتىن چۈشىدىغانلىقىنى بىلەمسىز؟",
+            "بەش يېرىمدىمىكىن."
+        ],
+        "options": [
+            "بىز ئىشتىن چۈشكەن يەنە يېرىم سائەت ۋاقىت بار، مەن بېرىپ ئازراق پۇل ئېلىپ كېلەي.",
+            "ئۇنداق بولسا، مەن كېلەر قېتىم سىلەرنى بىللە تاماق يېيىشكە تەكلىپ قىلاي.",
+            "كىچىك ۋاقتىمدا شاھمات ئويناشنى بەك ياخشى كۆرەتتىم، ھازىر چوڭ بولغانسېرى ياخشى كۆرمەس بولۇپ قالدىم.",
+            "ئالدىرىما، بىز تېخى مەنزىرىلەردىن ھۇزۇرلىنالايمىز."
+        ],
+        "answer": "A",
+        "zh_trans": {
+            "context": [
+                "小张，你知道中国银行什么时候下班吗?",
+                "五点半吧。"
+            ],
+            "options": [
+                "正好我们下班还有半个小时的时间，我要去取点儿钱。",
+                "那我约你们下次一起吃饭。",
+                "我很小的时候特别喜欢下象棋，现在大了反而不怎么喜欢了。",
+                "别着急，我们可以欣赏一下儿风景。"
+            ],
+            "answer": "正好我们下班还有半个小时的时间，我要去取点儿钱。"
+        },
+        "id": "response_ug_237",
+        "en_trans": {
+            "context": [
+                "Xiao Zhang, do you know when the Bank of China closes?",
+                "Around half past five."
+            ],
+            "options": [
+                "It's just right, we still have half an hour after work. I want to withdraw some money.",
+                "Then I'll arrange for us to have a meal together next time.",
+                "I really loved playing chess when I was little, but now that I'm older, I don't like it as much.",
+                "Don't worry, we can enjoy the scenery."
+            ],
+            "answer": "It's just right, we still have half an hour after work. I want to withdraw some money."
+        }
+    },
+    {
+        "context": [
+            "قىزچاق، بۇ كىيىمنىڭ چوڭراقىدىن بارمۇ؟"
+        ],
+        "options": [
+            "دائىم تۇمشۇقۇمغا  يىدىم، راستتىنلا ئزدىگۈم يوق.",
+            "كەچۈرۈڭ، كېچىكىپ قالدىم.",
+            "كەچۈرۈڭ، بۇ ئەڭ ئاخىرقىسى.",
+            "ئۇ چاغدا سىلەردەك يېقىن دوستلىرىمدىن ئايرىلغۇم يوق ئىدى."
+        ],
+        "answer": "C",
+        "zh_trans": {
+            "context": [
+                "小姐，这件衣服有大一点儿的吗？"
+            ],
+            "options": [
+                "总是碰壁，真有点儿不想找了。",
+                "真对不起，我来晚了。",
+                "真对不起，这是最后一件了。",
+                "我那时真不想离开你们这些好朋友。"
+            ],
+            "answer": "真对不起，这是最后一件了。"
+        },
+        "id": "response_ug_109",
+        "en_trans": {
+            "context": [
+                "Miss, do you have this piece of clothing in a larger size?"
+            ],
+            "options": [
+                "I keep hitting walls, I really feel like giving up on the job search.",
+                "I'm really sorry, I'm late.",
+                "I'm really sorry, this is the last one.",
+                "I really didn't want to leave you all, my good friends, at that time."
+            ],
+            "answer": "I'm really sorry, this is the last one."
+        }
+    },
+    {
+        "context": [
+            "سىز قايسى پەسىلنى ياخشى كۆرىسىز؟",
+            "قىش بەك سوغۇق، ياز بەك ئىسسىق، باھار يامان ئەمەس شۇ بەكلا قىسقا."
+        ],
+        "options": [
+            "ھە بۈگۈننىڭ يەكشەنبە ئىكەنلىكىنى ئۇنتۇپ قاپتىمەن.",
+            "لېكىن ھازىر قىش ۋاقتى تۇرسا.",
+            "ئۇنداق بولسا پەقەت شۇ كۈز پەسلى.",
+            "تۈنۈگۈن ھاۋا رايىدىن ئالدىن مەلۇماتتا، بۈگۈن ھاۋا ئوچۇق  دېگەنغۇ."
+        ],
+        "answer": "C",
+        "zh_trans": {
+            "context": [
+                "你喜欢哪个季节?",
+                "冬天太冷了，夏天又太热了。春天不错，就是太短了。"
+            ],
+            "options": [
+                "哦，我忘了今天是周末了。",
+                "但是现在是冬天啊。",
+                "那就只有秋天了。",
+                "昨天天气预报说今天是晴天啊!"
+            ],
+            "answer": "那就只有秋天了。"
+        },
+        "id": "response_ug_329",
+        "en_trans": {
+            "context": [
+                "Which season do you like?",
+                "Winter is too cold, and summer is too hot. Spring is nice, but it's too short."
+            ],
+            "options": [
+                "Oh, I forgot today is the weekend.",
+                "But it is winter now.",
+                "Then there's only autumn left.",
+                "The weather forecast said it would be sunny today!"
+            ],
+            "answer": "Then there's only autumn left."
+        }
+    },
+    {
+        "context": [
+            "شاڭۋاڭ يېقىندا خىزمەت كەلمىدى، بىرەر ئىش يۈز بەرگەندىمۇ؟"
+        ],
+        "options": [
+            "ئۇنىڭغا نېمە ئىش چىقاتتى.",
+            "شۇڭا بۇ ئىش ئاسان پۈتىدۇ.",
+            "مەن ئاسپىرانتلىق ئىمتىھانى بەرگەن، ھازىر بۇ تەرەپتە ئاسپىرانتلىق ئوقۇۋاتىمەن.",
+            "ئالدىرىماي ئاستا ئاستا ئىزدەڭ ياخشى ئىشقا كۆپرەك ئىزدىنىش كېرەك ئەمەسمۇ."
+        ],
+        "answer": "A",
+        "zh_trans": {
+            "context": [
+                "小王最近都没有来上班，他是不是发生什么事情了?"
+            ],
+            "options": [
+                "他能发生什么事情呀。",
+                "那这件事就好办了。",
+                "我考了研究生，现在在这边读研呢。",
+                "别着急，慢慢来，好事多磨嘛!"
+            ],
+            "answer": "他能发生什么事情呀。"
+        },
+        "id": "response_ug_67",
+        "en_trans": {
+            "context": [
+                "Xiao Wang hasn't come to work recently. Has something happened to him?"
+            ],
+            "options": [
+                "What could possibly happen to him?",
+                "Then this matter will be easy to handle.",
+                "I got into graduate school and I am studying here now.",
+                "Don't worry, take your time, good things take time!"
+            ],
+            "answer": "What could possibly happen to him?"
+        }
+    },
+    {
+        "context": [
+            "مەن ئاساسلىقى مائاشىمنى مۇشۇ ھېسابات نومۇرىغا ساقلىماقچى ئىدىم.",
+            "ئۇنداقتا سىزگە بىر بانكا كارتىسى بېجىرىپ بېرەي،  سىزنىڭچە قانداق؟",
+            "بولىدۇ، ھېسابات نومۇرى ئاچقۇزۇش ئۈچۈن ئازراق پۇل قويۇش كېرەكمۇ؟"
+        ],
+        "options": [
+            "شۇغۇ!",
+            "قويمىسىڭىزمۇ بولىدۇ.",
+            "قارىدىم، يوق ئىكەن.",
+            "ھه، كەچۈرۈڭ، خاتا ھېسابلاپ قويۇپتىمەن."
+        ],
+        "answer": "B",
+        "zh_trans": {
+            "context": [
+                "我主要是想把工资存入这个账户。",
+                "那给您办张银行卡吧。您认为怎么样?",
+                "行，开账户需要先存一笔钱进去吗?"
+            ],
+            "options": [
+                "谁说不是呢!",
+                "可以不存。",
+                "看了，不在。",
+                "哦，对不起，算错了。"
+            ],
+            "answer": "可以不存。"
+        },
+        "id": "response_ug_314",
+        "en_trans": {
+            "context": [
+                "I mainly want to deposit my salary into this account.",
+                "Then let's get you a bank card. What do you think?",
+                "Okay, do I need to deposit some money into the account first?"
+            ],
+            "options": [
+                "Exactly!",
+                "You don't need to deposit any money.",
+                "I checked, they're not there.",
+                "Oh, sorry, I made a mistake."
+            ],
+            "answer": "You don't need to deposit any money."
+        }
+    }
+]

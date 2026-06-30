@@ -1,0 +1,122 @@
+[
+    {
+        "zh": "老黄，看你恢复得这么好，我们也就放心了。",
+        "bo": "ལའོ་ཧོང་།་ཁྱོད་སླར་གསོ་བྱུང་བ་འདི་འདྲ་བཟང་བ་མཐོང་ན།་ང་ཚོ་ཡང་སེམས་བདེ་སོང་།",
+        "id": "trans-d_bo_102",
+        "en": "Lao Huang, seeing you recover so well, we are relieved."
+    },
+    {
+        "zh": "不，我不经常存钱和取钱。",
+        "bo": "མིན།་ངས་རྒྱུན་དུ་སྒོར་མོ་གསོག་པ་དང་ལེན་པ་མིན།",
+        "id": "trans-d_bo_465",
+        "en": "No, I don't frequently deposit and withdraw money."
+    },
+    {
+        "zh": "怎么这么晚还在公司加班，吃饭了吗?",
+        "bo": "ཅིའི་ཕྱིར་འདི་འདྲ་འགོར་རུང་ད་དུང་ཀུང་སི་ན་ལས་སྣོན་བྱེད་བཞིན་ཡོད།་ཟ་མ་ཟས་ཡོད་དམ།",
+        "id": "trans-d_bo_72",
+        "en": "Why are you still working overtime at the company so late? Have you eaten?"
+    },
+    {
+        "zh": "我想去北京，我女儿想去海南，我们还在商量。",
+        "bo": "ང་པེ་ཅིན་ལ་འགྲོ་འདོད།་ངའི་མོ་ཧའེ་ནན་ལ་འགྲོ་འདོད།་ང་ཚོས་ད་དུང་གྲོས་བསྡུར་བྱེད་བཞིན་ཡོད།",
+        "id": "trans-d_bo_273",
+        "en": "I want to go to Beijing, my daughter wants to go to Hainan, we are still discussing."
+    },
+    {
+        "zh": "是的，除了烤鸭。",
+        "bo": "རེད།་ངང་ཤ་བསྲེགས་མ་ཕུད་གཞན་རེད་",
+        "id": "trans-d_bo_491",
+        "en": "Yes, except for the roast duck."
+    },
+    {
+        "zh": "你是不是吃了什么不干净的东西?",
+        "bo": "ཁྱོད་ཀྱིས་ཟ་མ་མི་གཙང་བ་ཞིག་ཟོས་པ་ཡིན་ནམ།",
+        "id": "trans-d_bo_236",
+        "en": "Did you eat something unclean?"
+    },
+    {
+        "zh": "一个人去吗?",
+        "bo": "མི་གཅིག་པུ་འགྲོའམ།",
+        "id": "trans-d_bo_52",
+        "en": "Are you going alone?"
+    },
+    {
+        "zh": "谈何容易，凭我的经济能力只能是远郊区了。",
+        "bo": "ལས་སླ་མོ་ཞིག་ག་ལ་ཡིན།་ངའི་དཔལ་འབྱོར་ནུས་པ་ལ་བརྟེན་ནས་ཐག་རིང་གི་ཉེ་འཁོར་ཁོ་ན་ཡིན།",
+        "id": "trans-d_bo_454",
+        "en": "Easier said than done, with my financial ability, it can only be in the distant suburbs."
+    },
+    {
+        "zh": "有，现在买一份九珍果汁可以得两份，三公里内送餐费8元减半。",
+        "bo": "ཡོད།་ད་ལྟ་དགུ་སྒྲོན་སིལ་ཁུ་ཞིག་ཉོས་ན་གཉིས་ཐོབ་ཐུབ།་སྤྱི་ལེ་གསུམ་གྱི་ནང་དུ་ཟས་རིན་སྒོར་8་དང་ཕྱེད་ཀ་སྟེར་ཐུབ།",
+        "id": "trans-d_bo_571",
+        "en": "Yes, if you buy one Jiu Zhen juice, you can get two, and the delivery fee within three kilometers is half off from 8 yuan."
+    },
+    {
+        "zh": "申请表我已经填好了，怎么给您呢?是寄给您吗?",
+        "bo": "རེ་ཞུའི་རེའུ་མིག་ངས་སྐོང་ཚར་སོང་།་ཁྱོད་ལ་ཅི་ལྟར་སྟེར་དགོས་ཁྱོད་ལ་བསྐུར་བ་ཡིན་ནམ་།",
+        "id": "trans-d_bo_555",
+        "en": "I have already filled out the application form, how should I send it to you? Should I mail it to you?"
+    },
+    {
+        "zh": "吃巧克力会胖。",
+        "bo": "ཁྲོག་ལེ་ཟས་ན་ཤ་རྒྱག་དུ་་འགྱུར་སྲིད།",
+        "id": "trans-d_bo_604",
+        "en": "Eating chocolate can make you gain weight."
+    },
+    {
+        "zh": "你怎么每次都这样，不迟到不行吗?",
+        "bo": "ཁྱོད་ནམ་རྒྱུན་འདི་འདྲ་ཡིན་པ་ཅི་རེད།་རྗེས་སུ་མ་ལུས་ན་མི་ཆོག་གམ།",
+        "id": "trans-d_bo_151",
+        "en": "Why are you always like this? Can’t you just not be late?"
+    },
+    {
+        "zh": "呃，可能不够，今天有其他学校的领导要来，你复印三十份吧。",
+        "bo": "འུན།་ཕལ་ཆེར་མི་འདང་།་དེ་རིང་སློབ་གྲྭ་གཞན་པའི་འགོ་ཁྲིད་ཡོང་རྒྱུ་རེད།་ཁྱོད་ཀྱིས་བསྐྱར་དཔར་སུམ་ཅུ་བྱོས།",
+        "id": "trans-d_bo_296",
+        "en": "Uh, probably not enough. There will be leaders from other schools coming today. Make thirty copies."
+    },
+    {
+        "zh": "这个计划还是有很多缺点的，需要重新考虑。",
+        "bo": "འཆར་གཞི་འདིར་ད་དུང་སྐྱོན་ཆ་ཧ་ཅང་མང་པོ་ཡོད་པས་བསྐྱར་དུ་བསམ་བློ་གཏོང་དགོས།",
+        "id": "trans-d_bo_530",
+        "en": "This plan still has many shortcomings and needs to be reconsidered."
+    },
+    {
+        "zh": "你干脆别做记者了，来我们出版社做美术编辑吧。",
+        "bo": "མོཁྱོད་གསར་འགོད་པ་མ་བྱེད།་ང་ཚོའི་དཔེ་སྐྲུན་ཁང་དུ་མཛེས་རྩལ་རྩོམ་སྒྲིག་པ་བྱེད་དུ་ཤོག",
+        "id": "trans-d_bo_316",
+        "en": "You might as well not be a journalist anymore and come work as an art editor at our publishing house."
+    },
+    {
+        "zh": "请您出示一下身份证，我这就给您办理人住手续。",
+        "bo": "ཁྱེད་ཀྱིས་ཐོབ་ཐང་ལག་ཁྱེར་སྟོན་རོགས།་ངས་ད་ལྟ་ཁྱེད་ལ་མི་འདུག་པའི་འགྲོ་ལུགས་སྒྲུབ་ཆོག",
+        "id": "trans-d_bo_762",
+        "en": "Please show your ID, and I will check you in."
+    },
+    {
+        "zh": "多谢了，我到这个城市才两天，还弄不清哪儿是哪儿呢。",
+        "bo": "བཀའ་དྲིན་ཆེ།་ང་གྲོང་ཁྱེར་འདི་ལ་ཐོན་ནས་ཉིན་གཉིས་མ་གཏོགས་འགོར་མེད།་ད་རུང་གང་ཡིན་པ་མི་ཤེས།",
+        "id": "trans-d_bo_200",
+        "en": "Thank you, I've only been in this city for two days, and I still can't figure out where things are."
+    },
+    {
+        "zh": "行，开账户需要先存一笔钱进去吗?",
+        "bo": "ཆོག་གི་ཐོ་ཁོངས་ཕྱེ་ན་སྔོན་ལ་སྒོར་མོ་འགའ་གསོག་དགོས་སམ།",
+        "id": "trans-d_bo_469",
+        "en": "Okay, do I need to deposit some money into the account first?"
+    },
+    {
+        "zh": "有。",
+        "bo": "ཡོད།",
+        "id": "trans-d_bo_661",
+        "en": "Yes, there is."
+    },
+    {
+        "zh": "那您别的时间有空儿吗?",
+        "bo": "དེ་ན་ཁྱོད་ལ་དུས་ཚོད་གཞན་པ་ཡོད་དམ།",
+        "id": "trans-d_bo_147",
+        "en": "Then do you have free time at another time?"
+    }
+]

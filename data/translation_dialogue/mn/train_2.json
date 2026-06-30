@@ -1,0 +1,122 @@
+[
+    {
+        "zh": "你说你，这个月你有几天在家?",
+        "mn": "ᠡᠨᠡ ᠰᠠᠷ᠎ᠠ ᠴᠢ ᠬᠡᠳᠦᠨ ᠡᠳᠦᠷ ᠭᠡᠷ ᠲᠡᠬᠡᠨ  ᠪᠠᠢᠬᠤ ᠪᠤᠢ?",
+        "id": "trans-d_mn_56",
+        "en": "Tell me, how many days have you been home this month?"
+    },
+    {
+        "zh": "恭喜啊，听说你买了辆奥迪，什么型号的?",
+        "mn": "ᠪᠠᠶᠠᠷ ᠬᠦᠷᠭᠡᠶ᠎ᠡ᠂ ᠰᠣᠨᠣᠰᠬᠤᠯᠠᠷ ᠴᠢ ᠰᠢᠨ᠎ᠡ ᠠᠦᠳᠢ ᠮᠠᠰᠢᠨ ᠠᠪᠤᠭᠰᠠᠨ ᠭᠡᠨ᠎ᠡ᠃ ᠶᠠᠮᠠᠷ ᠬᠡᠯᠪᠡᠷᠢ ᠶᠢᠨ ᠬᠢ ᠪᠣᠢ ?",
+        "id": "trans-d_mn_543",
+        "en": "Congratulations, I heard you bought an Audi. What model is it?"
+    },
+    {
+        "zh": "我这不也是为了工作、为了这个家吗?",
+        "mn": "ᠮᠢᠨᠦ ᠡᠨᠡ ᠴᠢᠨᠢ ᠮᠥᠨ ᠠᠵᠢᠯ  ᠤᠨ ᠲᠥᠯᠥᠭᠡ ᠪᠢᠰᠢ ᠦᠦ ᠂ ᠡᠨᠡ ᠭᠡᠷ  ᠤᠨ ᠲᠥᠯᠥᠭᠡ ᠪᠢᠰᠢ ᠦᠦ?",
+        "id": "trans-d_mn_57",
+        "en": "Am I not doing this for work, for this family?"
+    },
+    {
+        "zh": "好的，老板您可真实惠。我就要这双了。",
+        "mn": "ᠪᠣᠯᠣᠨ᠎ᠠ᠂ ᠪᠠᠶᠠᠷᠯᠠᠯ᠎ᠠ ᠡᠵᠡᠨᠳᠡᠨ ᠡ᠂ ᠲᠡᠭᠡᠪᠡᠯ ᠪᠢ ᠡᠨᠡ ᠶᠢ ᠠᠪᠤᠶ᠎ᠠ᠃",
+        "id": "trans-d_mn_401",
+        "en": "Okay, boss, you are really giving me a good deal. I'll take this pair."
+    },
+    {
+        "zh": "真对不起，我来晚了。",
+        "mn": "ᠦᠨᠡᠬᠡᠷ ᠡᠪ ᠦᠭᠡᠢ ᠪᠣᠯᠣᠯ᠎ᠠ᠃ ᠪᠢ ᠣᠷᠣᠢᠳᠠᠴᠢᠬᠠᠯ᠎ᠠ᠃",
+        "id": "trans-d_mn_471",
+        "en": "I'm really sorry, I'm late."
+    },
+    {
+        "zh": "不用，我下午送客人去机场，不在公司。",
+        "mn": "ᠬᠡᠷᠡᠭ ᠦᠭᠡᠢ᠂ ᠪᠢ ᠦᠳᠡ ᠶᠢᠨ ᠬᠣᠢᠨ᠎ᠠ ᠵᠣᠴᠢᠨ ᠢ ᠨᠢᠰᠬᠡᠯ ᠦᠨ ᠪᠠᠭᠤᠳᠠᠯ ᠳᠤ ᠬᠦᠷᠭᠡᠨ᠎ᠡ᠂ ᠺᠣᠮᠫᠠᠨᠢ ᠳᠤ ᠪᠠᠨ ᠪᠠᠢᠬᠤ ᠦᠭᠡᠢ᠃",
+        "id": "trans-d_mn_309",
+        "en": "No need, I'm taking a guest to the airport in the afternoon, so I won't be at the company."
+    },
+    {
+        "zh": "图书馆，在这儿，在办公楼的下面。",
+        "mn": "ᠨᠣᠮ  ᠤᠨ ᠰᠠᠩ ᠂ ᠡᠨᠳᠡ ᠪᠤᠢ ᠂ ᠠᠯᠪᠠᠨ ᠠᠰᠠᠷ  ᠤᠨ ᠳᠣᠣᠷ᠎ᠠ ᠪᠤᠢ ᠃",
+        "id": "trans-d_mn_728",
+        "en": "The library is here, below the office building."
+    },
+    {
+        "zh": "你要在长沙待几天?",
+        "mn": "ᠴᠢ ᠴᠠᠩᠱᠠ  ᠳᠦ ᠬᠡᠳᠦᠨ ᠡᠳᠦᠷ ᠰᠠᠭᠤᠬᠤ ᠪᠤᠢ?",
+        "id": "trans-d_mn_34",
+        "en": "How many days will you be staying in Changsha?"
+    },
+    {
+        "zh": "因为天气不好，航班取消了。",
+        "mn": "ᠤᠴᠢᠷ ᠨᠢ ᠲᠡᠭ᠍ᠷᠢ ᠮᠠᠭᠤᠬᠠᠢ᠂ ᠨᠢᠰᠦᠯᠭᠡ ᠶᠢ ᠴᠣᠴᠠᠯᠠᠴᠢᠬᠠᠭᠰᠠᠨ᠃",
+        "id": "trans-d_mn_509",
+        "en": "Because the weather is bad, the flight was canceled."
+    },
+    {
+        "zh": "请问你借什么书?",
+        "mn": "ᠲᠠ ᠶᠠᠮᠠᠷ ᠨᠣᠮ ᠵᠢᠭᠡᠯᠡᠬᠦ ᠪᠤᠢ?",
+        "id": "trans-d_mn_686",
+        "en": "May I ask what book you're borrowing?"
+    },
+    {
+        "zh": "我要去超市买牙刷和毛巾，你去不去？",
+        "mn": "ᠪᠢ ᠳᠡᠯᠭᠡᠭᠦᠷ  ᠠᠴᠠ ᠰᠢᠳᠤᠨ ᠱᠤᠸᠠᠰᠠ ᠪᠣᠯᠣᠨ ᠠᠯᠴᠢᠭᠤᠷ ᠠᠪᠬᠤ ᠪᠠᠷ ᠶᠠᠪᠤᠨ᠎ᠠ᠃ ᠴᠢ ᠶᠠᠪᠤᠨ᠎ᠠ ᠤᠤ ?",
+        "id": "trans-d_mn_326",
+        "en": "I'm going to the supermarket to buy a toothbrush and a towel. Are you coming?"
+    },
+    {
+        "zh": "也看了，不在。",
+        "mn": "ᠦᠵᠡᠭ᠍ᠰᠡᠨ ᠡ᠂ ᠪᠠᠰᠠ ᠪᠠᠢᠬᠤ ᠦᠭᠡᠢ᠃",
+        "id": "trans-d_mn_596",
+        "en": "I checked, not there either."
+    },
+    {
+        "zh": "拿一款保暖性能好点儿的。",
+        "mn": "ᠳᠤᠯᠠᠭᠠᠯᠠᠬᠤ ᠴᠢᠨᠠᠷ  ᠢᠶᠠᠷ  ᠰᠠᠢᠨ  ᠢ ᠨᠢ ᠠᠪᠤᠶ᠎ᠠ ᠃",
+        "id": "trans-d_mn_217",
+        "en": "Show me one with good warmth."
+    },
+    {
+        "zh": "到天安门广场还有几站?",
+        "mn": "ᠲᠢᠶᠠᠨ ᠠᠨ ᠮᠸᠨ ᠲᠠᠯᠠᠪᠠᠢ ᠬᠦᠷᠲᠡᠯ᠎ᠡ ᠪᠠᠰᠠ ᠬᠡᠳᠦᠢ ᠥᠷᠳᠡᠭᠡ ᠪᠠᠢᠬᠤ ᠪᠣᠢ ?",
+        "id": "trans-d_mn_322",
+        "en": "How many stops are there to Tiananmen Square?"
+    },
+    {
+        "zh": "这个周六你休息吗?一起去看电影吧。",
+        "mn": "ᠡᠨᠡ ᠭᠠᠷᠠᠭ ᠤᠨ ᠵᠢᠷᠭᠤᠭᠠᠨ ᠳᠤ ᠴᠢ ᠠᠮᠠᠷᠠᠨ᠎ᠠ ᠤᠤ ?  ᠬᠠᠮᠲᠤ ᠺᠢᠨᠣ᠋ ᠦᠵᠡᠬᠦ ᠤᠤ ?",
+        "id": "trans-d_mn_384",
+        "en": "Are you off this Saturday? Let's go watch a movie together."
+    },
+    {
+        "zh": "杯子换了吗?幸亏你发现得早，不然，还得费很多口舌。",
+        "mn": "ᠴᠣᠮᠣ ᠪᠠᠨ ᠰᠣᠯᠢᠭᠰᠠᠨ ᠦᠦ ? ᠵᠠᠪᠰᠢᠶᠠᠨ  ᠢᠶᠠᠷ ᠴᠢ ᠡᠷᠲᠡ ᠣᠯᠵᠤ ᠮᠡᠳᠡᠭᠰᠡᠨ ᠂  ᠲᠡᠢᠮᠤ ᠪᠢᠰᠢ ᠪᠣᠯ ᠪᠠᠰᠠ ᠶᠡᠬᠡ ᠣᠯᠠᠨ ᠬᠡᠯᠡ ᠠᠮᠠ ᠵᠠᠷᠤᠴᠠᠭᠤᠯᠤᠨ᠎ᠠ ᠃",
+        "id": "trans-d_mn_251",
+        "en": "Did you change the cup? Fortunately, you noticed it early, otherwise, it would have taken a lot of effort to explain."
+    },
+    {
+        "zh": "中国没有过圣诞节的习惯，又不放假，真没意思。",
+        "mn": "ᠳᠤᠮᠳᠠᠳᠤ ᠤᠯᠤᠰ ᠢᠰᠦ᠋ᠰ  ᠤᠨ ᠮᠡᠨᠳᠦᠯᠡᠭᠰᠡᠨ ᠪᠠᠶᠠᠷ  ᠤᠨ ᠡᠳᠦᠷ  ᠦᠩᠭᠡᠷᠡᠭᠡᠬᠦ ᠦᠭᠡᠢ ᠂ ᠪᠠᠰᠠ ᠠᠮᠠᠷᠠᠯᠲᠠ ᠲᠠᠯᠪᠢᠬᠤ ᠦᠭᠡᠢ ᠂ ᠦᠨᠡᠨ ᠤᠳᠬ᠎ᠠ ᠠᠭᠤᠯᠭ᠎ᠠ ᠦᠭᠡᠢ ᠃",
+        "id": "trans-d_mn_306",
+        "en": "China doesn't have the habit of celebrating Christmas, and there's no holiday, it's really boring."
+    },
+    {
+        "zh": "我的新老板不怎么喜欢我，你说我该怎么办呢?",
+        "mn": "ᠮᠢᠨᠤ ᠰᠢᠨ᠎ᠡ ᠡᠵᠡᠮᠨᠲᠡᠨ ᠨᠠᠮ᠎ᠠ ᠶᠢ ᠳᠡᠮᠡᠢ ᠲᠣᠭᠣᠬᠤ ᠦᠭᠡᠢ᠂ ᠴᠢ ᠬᠡᠯᠡᠪᠡᠯ ᠪᠢ ᠶᠠᠭᠠᠬᠢᠪᠠᠯ ᠲᠠᠭᠠᠷᠠᠨ᠎ᠠ ᠪᠣᠢ ?",
+        "id": "trans-d_mn_551",
+        "en": "My new boss doesn’t really like me. What do you think I should do?"
+    },
+    {
+        "zh": "明天又不上学，怎么起那么早?",
+        "mn": "ᠮᠠᠷᠭᠠᠰᠢ ᠪᠠᠰᠠ ᠰᠤᠷᠭᠠᠭᠤᠯᠢ  ᠳᠦ ᠣᠴᠢᠬᠤ ᠦᠭᠡᠢ ᠂ ᠶᠠᠭᠠᠬᠢᠭᠠᠳ ᠲᠡᠶᠢᠮᠦ ᠡᠷᠲᠡ  ᠪᠣᠰᠬᠤ ᠪᠤᠢ?",
+        "id": "trans-d_mn_618",
+        "en": "You don't have school tomorrow, why get up so early?"
+    },
+    {
+        "zh": "爸爸带你去动物园看老虎，好不好?",
+        "mn": "ᠠᠪᠤ ᠨᠢ ᠴᠢᠮᠠᠶ ᠠᠮᠢᠲᠠᠨ  ᠤ ᠬᠦᠷᠢᠶᠡᠯᠡᠩ  ᠳᠦ ᠪᠠᠷᠰ  ᠢ ᠦᠵᠡᠭᠦᠯᠬᠦ ᠪᠡᠷ ᠠᠪᠠᠴᠢᠶ᠎ᠠ ᠂ ᠪᠣᠯᠤᠨ᠎ᠠ  ᠦᠦ?",
+        "id": "trans-d_mn_230",
+        "en": "Dad will take you to the zoo to see tigers, okay?"
+    }
+]

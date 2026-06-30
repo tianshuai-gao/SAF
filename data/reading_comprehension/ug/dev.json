@@ -1,0 +1,927 @@
+[
+    {
+        "id": "rc_ug_72",
+        "zh_trans": {
+            "id": "c3_3193",
+            "dialogue": [
+                "女：爸爸，明天是“六一”儿童节，你带我去哪儿玩儿?",
+                "男：爸爸带你去动物园看老虎，好不好?"
+            ],
+            "query": "明天他们去哪儿?",
+            "choices": [
+                "公园",
+                "动物园",
+                "植物园"
+            ],
+            "gold": "动物园"
+        },
+        "options": [
+            "باغچىغا.",
+            "ھايۋاناتلار باغچىسىغا .",
+            "ئۆسۈملۈكلەر باغچىسىغا ."
+        ],
+        "question": "ئەتە ئۇلار نەگە بارىدۇ ؟",
+        "answer": "B",
+        "context": [
+            "ئايال: دادا، بۈگۈن ئالتىنچى ئاينىڭ بىرىنچى كۈنى بالىلار بايرىمى، مېنى نەگە ئاپىرىپ ئوينىتىسىز؟",
+            "ئەر: مەن سىزنى ھايۋاناتلار باغچىسىغا يولۋاس كۆرۈشكە ئاپارسام قانداق؟"
+        ],
+        "en_trans": {
+            "dialogue": [
+                "Woman: Dad, tomorrow is Children's Day, where will you take me to play?",
+                "Man: Dad will take you to the zoo to see tigers, okay?"
+            ],
+            "query": "Where are they going tomorrow?",
+            "choices": [
+                "Park",
+                "Zoo",
+                "Botanical Garden"
+            ],
+            "gold": "Zoo"
+        }
+    },
+    {
+        "id": "rc_ug_188",
+        "zh_trans": {
+            "id": "c3_4840",
+            "dialogue": [
+                "女：一个编辑需要有耐心，她的个性倒是挺符合。",
+                "男：她办的那个刊物我也看了，虽然不专业，但选的稿件也有出彩的。"
+            ],
+            "query": "对话双方提到的女孩有什么特点?",
+            "choices": [
+                "有个性",
+                "爱撒谎",
+                "有耐心",
+                "喜欢美食"
+            ],
+            "gold": "有耐心"
+        },
+        "options": [
+            "ئۆزگىچە .",
+            "يالغان سۆزلەشكە ئامراق .",
+            "سەۋرچان .",
+            "ئېسىل يېمەكلىكلەرنى ياخشى كۆرىدۇ ."
+        ],
+        "question": "ئۇلار تىلغا ئالغان قىزنىڭ قانداق ئالاھىدىلىكى بار ؟",
+        "answer": "C",
+        "context": [
+            "ئايال: تەھرىر سەۋرچان بولۇشى كېرەك، ئۇنىڭ خاراكتېرى بەكلا ماس كېلىدۇ.",
+            "ئەر: ئۇ ئۇيۇشتۇرغان ھېلىقى ژۇرنالنى مەنمۇ كۆردۈم، گەرچە كەسپى بولمىسىمۇ،   لېكىن تاللىغان ماقالىلىرىنىڭ كۆزگە كۆرۈنگەنلىرىمۇ بار ئىكەن."
+        ],
+        "en_trans": {
+            "dialogue": [
+                "Woman: An editor needs to be patient, and her personality fits quite well.",
+                "Man: I've also read the publication she manages. Although it's not professional, there are some outstanding articles."
+            ],
+            "query": "What characteristics do the two people in the dialogue mention about the girl?",
+            "choices": [
+                "Has personality",
+                "Loves to lie",
+                "Is patient",
+                "Likes gourmet food"
+            ],
+            "gold": "Is patient"
+        }
+    },
+    {
+        "id": "rc_ug_178",
+        "zh_trans": {
+            "id": "c3_2390",
+            "dialogue": [
+                "女：您很久以前就获得律师执照了吧?",
+                "男：大学一毕业我就参加了律师资格考试，通过之后就拿到了。"
+            ],
+            "query": "关于男的，可以知道什么?",
+            "choices": [
+                "已经有律师执照了",
+                "打算参加资格考试",
+                "希望女的通过考试",
+                "大学时学的是法律"
+            ],
+            "gold": "已经有律师执照了"
+        },
+        "options": [
+            "ئاللىقاچان ئادۋوكاتلىق كىنىشكىسى بار بولدى.",
+            "سالاھىيهت ئىمتىھانىغا قاتناشماقچى.",
+            "قىزچاقنىڭ ئىمتىھاندىن ئۆتۈشىنى ئۈمىد قىلىدۇ.",
+            "ئالىي مەكتەپته ئۆگەنگىنى قانۇن."
+        ],
+        "question": "ئەرگە مۇناسىۋەتلىك نېمىنى بىلىۋالالايمىز ؟",
+        "answer": "A",
+        "context": [
+            "ئايال: سەن خېلى بۇرۇنلا ئادۋوكاتلىق كىنىشكىسىگه ئېرىشكەنسەن؟",
+            "ئەر: ئالىي مەكتەپنى پۈتتۈرۈپلا ئادۋوكاتلىق سالاھىيەت ئىمتىھانىغا قاتناشقان، ئۆتكەندىن كېيىنلا ئالدىم."
+        ],
+        "en_trans": {
+            "dialogue": [
+                "Woman: You obtained your lawyer's license a long time ago, didn't you?",
+                "Man: I took the bar exam right after graduating from university, and I got it after passing."
+            ],
+            "query": "What do we know about the man?",
+            "choices": [
+                "He already has a lawyer's license",
+                "He plans to take the bar exam",
+                "He hopes the woman passes the exam",
+                "He studied law in university"
+            ],
+            "gold": "He already has a lawyer's license"
+        }
+    },
+    {
+        "id": "rc_ug_95",
+        "zh_trans": {
+            "id": "c3_3105",
+            "dialogue": [
+                "男：我每星期总有六七天不想上班。",
+                "女：啊?那我们换换吧，你在家里洗衣服做饭，我去上班。",
+                "男：那还不如上班舒服呢。",
+                "女：所以还是再努努力，到了周末好好休息吧。"
+            ],
+            "query": "男的最后决定做什么?",
+            "choices": [
+                "洗衣服",
+                "上班",
+                "做饭"
+            ],
+            "gold": "上班"
+        },
+        "options": [
+            "كىر يۇيماقچى .",
+            "خىزمەتكە بارماقچى .",
+            "تاماق ئەتمەكچى."
+        ],
+        "question": "ئوغۇل ئەڭ ئاخىرىدا نېمە ئىش قىلماقچى ؟",
+        "answer": "B",
+        "context": [
+            "ئەر: مېنىڭ ھەر ھەپتىدە ئالتە يەتتە كۈن ئىشقا بارغۇم كەلمەيدۇ.",
+            "ئايال: ھە؟  ئۇنداقتا بىز ئالمىشايلى،   سىز ئۆيدە كىر يۇيۇپ تاماق ئېتىڭ، مەن ئىشقا باراي.",
+            "ئەر: بۇ يەنىلا  ئىشقا بارغاندەك راھەت ئەمەس ئىكەن.",
+            "ئايال: شۇڭا داۋاملىق تىرىشىڭ،  ھەپتە ئاخىرىدا ياخشىراق ئارام ئالارسىز."
+        ],
+        "en_trans": {
+            "dialogue": [
+                "Man: There are six or seven days every week that I don't want to go to work.",
+                "Woman: Huh? Then let's switch. You stay home to do the laundry and cook, and I'll go to work.",
+                "Man: That would be even less comfortable than going to work.",
+                "Woman: So, just keep working hard, and take a good rest on the weekend."
+            ],
+            "query": "What does the man finally decide to do?",
+            "choices": [
+                "Do the laundry",
+                "Go to work",
+                "Cook"
+            ],
+            "gold": "Go to work"
+        }
+    },
+    {
+        "id": "rc_ug_106",
+        "zh_trans": {
+            "id": "c3_1778",
+            "dialogue": [
+                "女：我要去超市买牙刷和毛巾，你去不去？",
+                "男：不去，你顺便给我买点儿水果。"
+            ],
+            "query": "男的让女的干什么？",
+            "choices": [
+                "去超市",
+                "买水果",
+                "买毛巾",
+                "买牙刷"
+            ],
+            "gold": "买水果"
+        },
+        "options": [
+            "تاللا بازىرىغا قىلدۇرماقچى.",
+            "مېۋە چېۋە ئالدۇرماقچى .",
+            "لۆڭگە ئالدۇرماقچى .",
+            "چىش چوتكىسى ئالدۇرماقچى ."
+        ],
+        "question": "ئوغۇل قىز بالىغا نېمە ئىش قىلدۇرماقچى ؟",
+        "answer": "B",
+        "context": [
+            "ئايال: مەن تاللا بازىرىغا چىش چوتكىسى ۋە لۆڭگە ئالغىلى بارىمەن، سەن بارامسەن ياقمۇ؟",
+            "ئەر: بارمايمەن، ماڭا ئازراق مېۋە-چېۋە ئالغاچ كەلگىن."
+        ],
+        "en_trans": {
+            "dialogue": [
+                "Woman: I'm going to the supermarket to buy a toothbrush and a towel. Are you coming?",
+                "Man: No, please buy some fruit for me while you're there."
+            ],
+            "query": "What did the man ask the woman to do?",
+            "choices": [
+                "Go to the supermarket",
+                "Buy fruit",
+                "Buy a towel",
+                "Buy a toothbrush"
+            ],
+            "gold": "Buy fruit"
+        }
+    },
+    {
+        "id": "rc_ug_47",
+        "zh_trans": {
+            "id": "c3_3639",
+            "dialogue": [
+                "男：现在正好9点半，恐怕我得走了。",
+                "女：急什么呀，离飞机起飞时间还有2个多小时呢!"
+            ],
+            "query": "男的为什么要急着走?",
+            "choices": [
+                "怕再打扰女的",
+                "害怕误了飞机",
+                "害怕天太晚了",
+                "看错时间了"
+            ],
+            "gold": "害怕误了飞机"
+        },
+        "options": [
+            "قىزىنى يەنە ئاۋارە قىلىپ قويۇشتىن ئەنسىرەيدۇ.",
+            "ئايروپىلانغا ئۈلگۈرەلمەسلىكتىن ئەنسىرەيدۇ .",
+            "كۈن كەچ بولۇپ كېتىشتىن ئەنسىرەيدۇ .",
+            "ۋاقىتقا خاتا قاراپ قېلىشتىن ئەنسىرەيدۇ ."
+        ],
+        "question": "ئوغۇل نېمىشقا مېڭىشقا ئالدىرايدۇ ؟",
+        "answer": "B",
+        "context": [
+            "ئەر: ھازىر نەق سائەت توققۇز بوپتۇ، مەن مېڭىشىم كېرەك.",
+            "ئايال: نېمىگە ئالدىرايسىز، ئايروپىلان ئۇچۇشقا يەنە ئىككى سائەتتىن كۆپرەك ۋاقىت بارغۇ."
+        ],
+        "en_trans": {
+            "dialogue": [
+                "Man: It's exactly 9:30 now, I'm afraid I have to leave.",
+                "Woman: What's the rush? There are still more than two hours until the flight takes off!"
+            ],
+            "query": "Why does the man want to leave in a hurry?",
+            "choices": [
+                "Afraid of disturbing the woman further",
+                "Afraid of missing the flight",
+                "Afraid it will be too late",
+                "Miscalculated the time"
+            ],
+            "gold": "Afraid of missing the flight"
+        }
+    },
+    {
+        "id": "rc_ug_223",
+        "zh_trans": {
+            "id": "c3_284",
+            "dialogue": [
+                "女：小明，你能帮我开一下门吗?我买了很多东西，开门不方便。",
+                "男：稍等，我马上就来。"
+            ],
+            "query": "根据对话，可以知道什么?",
+            "choices": [
+                "钥匙丢了",
+                "男的不在家",
+                "他们到家了",
+                "女的买了很多东西"
+            ],
+            "gold": "女的买了很多东西"
+        },
+        "options": [
+            "ئاچقۇچ يۈتۈپ كەتتى.",
+            "ئەر ئۆيدە يوق.",
+            "ئۇلار ئۆيگە كەلدى.",
+            "ئايال كىشى نۇرغۇن نەرسىلەرنى سېتىۋالدى ."
+        ],
+        "question": "دىئالوگقا ئاساسەن  نېمىلەرنى بىلگىلى بولىدۇ ؟",
+        "answer": "D",
+        "context": [
+            "ئايال: شياۋ مىڭ، ئىشىكنى ئېچىپ بېرەلەمسىز؟ مەن نۇرغۇن نەرسەئالغان ئىدىم، ئىشىكنى ئچىش  قولايسىز بوپقالدى.",
+            "ئەر: سەل ساقلاپتۇرۇڭ، مەن ھازىرلا كېلىمەن"
+        ],
+        "en_trans": {
+            "dialogue": [
+                "Woman: Xiao Ming, can you help me open the door? I've bought a lot of things, and it's inconvenient for me to open it.",
+                "Man: Hold on, I'll be right there."
+            ],
+            "query": "According to the dialogue, what can be inferred?",
+            "choices": [
+                "The key is lost",
+                "The man is not at home",
+                "They have arrived home",
+                "The woman bought a lot of things"
+            ],
+            "gold": "The woman bought a lot of things"
+        }
+    },
+    {
+        "id": "rc_ug_192",
+        "zh_trans": {
+            "id": "c3_702",
+            "dialogue": [
+                "女：我们还是坐别的电梯吧，你看电梯门上写着“货梯”。",
+                "男：好吧，去那边吧。"
+            ],
+            "query": "他们为什么不坐这个电梯？",
+            "choices": [
+                "太旧了",
+                "是货梯",
+                "电梯坏了",
+                "他们去二层"
+            ],
+            "gold": "是货梯"
+        },
+        "options": [
+            "بەك كونىراپ كېتىپتۇ .",
+            "مال لىفىتى ئىكەن .",
+            "لىفىت بۇزۇلۇپ قاپتۇ.",
+            "ئۇلار ئىككىنچى قەۋەتكە چىقىدۇ ."
+        ],
+        "question": "ئۇلار نېمىشقا بۇ لىفىتقا ئولتۇرمايدۇ ؟",
+        "answer": "B",
+        "context": [
+            "ئايال: بىز يەنىلا باشقا لېفىتقا ئولتۇرايلى قاراڭ لېفىت ئىشىكىگە« يۈك لېفىتى» دەپ يېزىلىپتۇ.",
+            "ئەر: ماقۇل، ئاۋۇ تەرەپكە بارايلى."
+        ],
+        "en_trans": {
+            "dialogue": [
+                "Woman: Let's take another elevator, you see the elevator door says 'Freight Elevator'.",
+                "Man: Alright, let's go over there."
+            ],
+            "query": "Why don't they take this elevator?",
+            "choices": [
+                "Too old",
+                "It's a freight elevator",
+                "The elevator is broken",
+                "They are going to the second floor"
+            ],
+            "gold": "It's a freight elevator"
+        }
+    },
+    {
+        "id": "rc_ug_40",
+        "zh_trans": {
+            "id": "c3_1375",
+            "dialogue": [
+                "女：这是局长交代的事，你总不能不给面子吧?",
+                "男：什么局长不局长的，我管他是谁呢!"
+            ],
+            "query": "男的是什么态度?",
+            "choices": [
+                "缓和",
+                "委婉",
+                "勉强",
+                "强硬"
+            ],
+            "gold": "强硬"
+        },
+        "options": [
+            "مۇلايىم .",
+            "سىلىق .",
+            "خۇش ياقمىغاندەك.",
+            "قاتتىق ."
+        ],
+        "question": "ئوغۇلنىڭ پوزىتسىيىسى نېمە ؟",
+        "answer": "D",
+        "context": [
+            "ئايال: بۇ ئىدارە باشلىقى تاپشۇرغان ئىش، يۈز بەرمىسىڭىز بولماس؟",
+            "ئەر: ئىدارە باشلىقى بولامدۇ بولمامدۇ، مېنىڭ ئۇنىڭ بىلەن نېمە ئىشىم؟"
+        ],
+        "en_trans": {
+            "dialogue": [
+                "Woman: This is something the director has instructed, you can't just not give him face?",
+                "Man: What director or not, I don't care who he is!"
+            ],
+            "query": "What is the man's attitude?",
+            "choices": [
+                "Conciliatory",
+                "Tactful",
+                "Reluctant",
+                "Tough"
+            ],
+            "gold": "Tough"
+        }
+    },
+    {
+        "id": "rc_ug_135",
+        "zh_trans": {
+            "id": "c3_719",
+            "dialogue": [
+                "男：我喜欢你。",
+                "女：恐怕你不是只喜欢我吧!",
+                "男：你怎么这么说?",
+                "女：这得问你自己，你心里比谁都清楚!"
+            ],
+            "query": "女的什么语气?",
+            "choices": [
+                "怀疑",
+                "高兴",
+                "愤怒",
+                "悲伤"
+            ],
+            "gold": "愤怒"
+        },
+        "options": [
+            "گۇمان قىلىۋاتىدۇ .",
+            "خۇشال بولىۋاتىدۇ .",
+            "ئاچچىق كېلىۋاتىدۇ .",
+            "ئازابلىنىۋاتىدۇ ."
+        ],
+        "question": "قىزچاقنىڭ سۆزىدىن قارىغاندا؟",
+        "answer": "C",
+        "context": [
+            "ئەر: مەن سىزنى ياخشى كۆرىمەن.",
+            "ئايال: مېنىلا ياخشى كۆرمەسسىزمىكىن.",
+            "ئەر: نېمە دېگىنىڭىز؟",
+            "ئايال: بۇنى ئۆزىڭىزدىن سوراڭ، ھەممىدىن ئېنىق بىلىسىز."
+        ],
+        "en_trans": {
+            "dialogue": [
+                "Man: I like you.",
+                "Woman: I'm afraid you don't only like me, right!",
+                "Man: Why do you say that?",
+                "Woman: You should ask yourself, you know better than anyone!"
+            ],
+            "query": "What is the woman's tone?",
+            "choices": [
+                "Suspicious",
+                "Happy",
+                "Angry",
+                "Sad"
+            ],
+            "gold": "Angry"
+        }
+    },
+    {
+        "id": "rc_ug_132",
+        "zh_trans": {
+            "id": "c3_1843",
+            "dialogue": [
+                "男：你好!我是建筑公司的王励。",
+                "女：您好!我能帮您什么忙吗?",
+                "男：哦，我要见你们的主管厂长，结工程款。",
+                "女：您约好了吗，王先生?",
+                "男：没有，他现在可以见我吗?",
+                "女：恐怕不行，厂长正开会呢。",
+                "男：那他什么时候有空儿?",
+                "女：这说不好，他一直很忙。",
+                "男：是吗?那我去找他。",
+                "女：等等，王先生，你等等……"
+            ],
+            "query": "根据对话可知，主管厂长怎么样?",
+            "choices": [
+                "整天都在开会",
+                "不想见王先生",
+                "工作一直很忙",
+                "现在不在厂里"
+            ],
+            "gold": "不想见王先生"
+        },
+        "options": [
+            "ھەر كۈنى يىغىندا .",
+            "ۋاڭ ئەپەندىمنى كۆرگۈسى يوق .",
+            "خىزمىتى بەك ئالدىراش .",
+            "ھازىر زاۋۇت ئەمەس ."
+        ],
+        "question": "دىئالوگقا ئاساسەن  زاۋۇت باشلىقى قانداق ؟",
+        "answer": "B",
+        "context": [
+            "ئەر: ياخشىمۇ سىز، مەن قۇرۇلۇش شىركىتىدىن ۋاڭلى.",
+            "ئايال: ياخشىمۇسىز سىزگە قانداق ياردەم قىلىشىم كېرەك؟",
+            "ئەر: مەن سىلەرنىڭ زاۋۇت باشلىقىڭلار بىلەن كۆرۈشمەكچى ئىدىم،  قۇرۇلۇشنىڭ پۇلىنى ئۈزۈۋېتەيلى.",
+            "ئايال: كېلىشىپ قويغانمىتىڭىز ۋاڭ ئەپەندىم؟",
+            "ئەر: ياق، ئۇ ھازىر مەن بىلەن كۆرۈشسە بولامدۇ؟",
+            "ئايال: بولماسمىكىن، زاۋۇت باشلىقى ھازىر يىغىن ئېچىۋاتىدۇ.",
+            "ئەر: ئۇنداقتا ئۇنىڭ قاچان ۋاقتى بار؟",
+            "ئايال: بۇ ئېنىق ئەمەس، ئۇ ئىزچىل بەكلا ئالدىراش.",
+            "ئەر: شۇنداقمۇ؟ ئۇنداقتا مەن ئۇنى ئۆزۈم ئىزدەپ باراي.",
+            "ئايال: توختاپ تۇرۇڭ، ۋاڭ ئەپەندىم، توختاپ تۇرۇڭ…"
+        ],
+        "en_trans": {
+            "dialogue": [
+                "Man: Hello! I'm Wang Li from the construction company.",
+                "Woman: Hello! How can I help you?",
+                "Man: Oh, I need to see your manager to settle the project payment.",
+                "Woman: Do you have an appointment, Mr. Wang?",
+                "Man: No, can he see me now?",
+                "Woman: I'm afraid not, the manager is in a meeting.",
+                "Man: Then when will he be available?",
+                "Woman: It's hard to say, he's always busy.",
+                "Man: Is that so? Then I'll go find him.",
+                "Woman: Wait, Mr. Wang, wait..."
+            ],
+            "query": "According to the dialogue, how is the manager?",
+            "choices": [
+                "In meetings all day",
+                "Doesn't want to meet Mr. Wang",
+                "Always busy with work",
+                "Not in the factory right now"
+            ],
+            "gold": "Doesn't want to meet Mr. Wang"
+        }
+    },
+    {
+        "id": "rc_ug_14",
+        "zh_trans": {
+            "id": "c3_1012",
+            "dialogue": [
+                "男：谁的广告花钱多，谁的产品就卖得好。",
+                "女：那不一定吧，只有提高产品质量才能得到顾客的信任。"
+            ],
+            "query": "女的认为产品销售最重要的是什么?",
+            "choices": [
+                "广告",
+                "花钱多",
+                "产品质量",
+                "顾客信任"
+            ],
+            "gold": "产品质量"
+        },
+        "options": [
+            "ئېلان .",
+            "پۇلنى كۆپ خەجلەش .",
+            "مەھسۇلاتنىڭ سۈپىتى .",
+            "خېرىدارلارنىڭ ئىشەنچىسى ."
+        ],
+        "question": "قىزچاقچە تاۋارنى سېتىشتا ئەڭ مۇھىمى نېمە ؟",
+        "answer": "C",
+        "context": [
+            "ئەر: كىم ئېلانغا پۇلنى كۆپ خەجلىسە شۇنىڭ مەھسۇلاتى ياخشى سېتىلىدۇ.",
+            "ئايال: ناتايىن. پەقەت مەھسۇلاتنىڭ سۈپىتىنى كۆتۈرگەن ياخشىلىغاندىلا خېرىدارلارنىڭ ئىشەنچىسىگە ئېرىشكىلى بولىدۇ."
+        ],
+        "en_trans": {
+            "dialogue": [
+                "Man: Whoever spends more on advertising will sell more products.",
+                "Woman: That's not necessarily true. Only by improving product quality can you gain customers' trust."
+            ],
+            "query": "What does the woman think is the most important for product sales?",
+            "choices": [
+                "Advertising",
+                "Spending a lot",
+                "Product quality",
+                "Customer trust"
+            ],
+            "gold": "Product quality"
+        }
+    },
+    {
+        "id": "rc_ug_211",
+        "zh_trans": {
+            "id": "c3_4485",
+            "dialogue": [
+                "女：哎?你不是今天要去火车站接朋友吗?",
+                "男：对呀，我还以为是明天呢。"
+            ],
+            "query": "关于男的，我们知道什么?",
+            "choices": [
+                "正在等朋友",
+                "四点送朋友",
+                "得去接朋友",
+                "朋友迟到了"
+            ],
+            "gold": "得去接朋友"
+        },
+        "options": [
+            "دوستۇمنى ساقلاۋاتىدۇ .",
+            "سائەت تۆتتە دوستىنى ئۇزىتىپ قويغىلى بارىدۇ .",
+            "دوستىنى ئالغىلى بېرىش كېرەك .",
+            "دوستى كېچىكىپ قالدى ."
+        ],
+        "question": "ئوغۇلغا مۇناسىۋەتلىك ، بىز نېمىنى بىلىۋالالايمىز؟",
+        "answer": "C",
+        "context": [
+            "ئايال: ھەي، سىز بۈگۈن پويىز ئىستانسىغا دوستىڭىزنى ئالغىلى بارماقچى ئىدىڭىزغۇ؟",
+            "ئەر: توغرا، مەن تېخى ئەتىغۇ دەپتىمەن."
+        ],
+        "en_trans": {
+            "dialogue": [
+                "Woman: Oh? Weren't you supposed to go to the train station to pick up your friend today?",
+                "Man: Yes, I thought it was tomorrow."
+            ],
+            "query": "What do we know about the man?",
+            "choices": [
+                "Waiting for a friend",
+                "Sending a friend at 4 o'clock",
+                "Has to pick up a friend",
+                "The friend is late"
+            ],
+            "gold": "Has to pick up a friend"
+        }
+    },
+    {
+        "id": "rc_ug_238",
+        "zh_trans": {
+            "id": "c3_1524",
+            "dialogue": [
+                "男：放假了，你怎么没回家?",
+                "女：本来想回家的，可是没买到票。",
+                "男：到唐山的火车票都这么难买吗?",
+                "女：是啊，学生们都着急回家嘛。",
+                "男：那就在北京呆着吧，到6月中旬再回家，就没那么多人了。",
+                "女：这样也好，这期间可以准备一下找工作的事。"
+            ],
+            "query": "说话的双方在哪个城市?",
+            "choices": [
+                "深圳",
+                "上海",
+                "唐山",
+                "北京"
+            ],
+            "gold": "北京"
+        },
+        "options": [
+            "شېنجەن .",
+            "شاڭخەي .",
+            "تاڭشەن .",
+            "بېيجىڭ ."
+        ],
+        "question": "پاراڭلاشقان  بۇ ئىككەيلەن ھازىر قايسى شەھەردە ؟",
+        "answer": "D",
+        "context": [
+            "ئەر: دەمئىلىشقا قويۇپ بەردى، نېمىشقا  تېخىچە ئۆيگە قايتمىدىڭ؟",
+            "ئايال: ئەسلى  ئۆيگە قايتماقچى ئىدىم، لېكىن بېلەت ئالالمىدىم.",
+            "ئەر: تاڭشەنگە بارىدىغان پويىز بېلىتىىنى ئېلىشمۇ مۇشۇنداق تەسمۇ؟",
+            "ئايال: شۇنداق، ئوقۇغۇچىلارنىڭ ھەممىسى ئۆيگە قايتىشقا ئالدىرايدۇ ئەمەسمۇ.",
+            "ئەر: ئۇنداقتا بېيجىڭدا تۇرغاچتۇرغىن، ئالتىنچى ئاينىڭ ئوتتۇرلىرىدا ئاندىن ئۆيگە كەت، ئۇ چاغدا ئادەم ئۇنداق جىق ئەمەس.",
+            "ئايال: بۇنداق قىلساممۇ بولىدۇ، ئارلىقتا خىزمەت تېپىشنىڭ ئىشلىرىغا تەييارلىق قىلسام بولغۇدەك."
+        ],
+        "en_trans": {
+            "dialogue": [
+                "Man: The holiday is here, why haven't you gone home?",
+                "Woman: I was planning to go home, but I couldn't get a ticket.",
+                "Man: Are tickets to Tangshan that hard to get?",
+                "Woman: Yes, the students are all eager to go home.",
+                "Man: Then stay in Beijing, and go home in mid-June when it won't be as crowded.",
+                "Woman: That's fine, I can use this time to prepare for job hunting."
+            ],
+            "query": "In which city are the speakers?",
+            "choices": [
+                "Shenzhen",
+                "Shanghai",
+                "Tangshan",
+                "Beijing"
+            ],
+            "gold": "Beijing"
+        }
+    },
+    {
+        "id": "rc_ug_31",
+        "zh_trans": {
+            "id": "c3_1791",
+            "dialogue": [
+                "男：珍妮，来中国后你去哪儿旅游过?",
+                "女：我去过苏州、杭州。",
+                "男：嗯，苏州园林和杭州的西湖很有名。",
+                "女：最近我还要去趟黄山，听说黄山的风景也很美。"
+            ],
+            "query": "女的最近打算去哪儿?",
+            "choices": [
+                "苏州园林",
+                "西湖",
+                "黄山"
+            ],
+            "gold": "黄山"
+        },
+        "options": [
+            "سۇجۇنىڭ باغ ئورمانلىرىغا .",
+            "شىخۇغا .",
+            "خۇئاڭشەنگە ."
+        ],
+        "question": "قىزچاق ، يېقىندا نەگە بارماقچى ؟",
+        "answer": "C",
+        "context": [
+            "ئەر: جېننى، جۇڭگوغا كېلىپ، نەگە ساياھەتكە باردىڭىز؟",
+            "ئايال: سۇجۇغا خاڭجۇغا بېرىپ بولدۇم.",
+            "ئەر: ھە، سۇجۇنىڭ باغ ئورمانلىرى بىلەن شىخۇ بەك داڭلىق.",
+            "ئايال: يېقىندا خۇئاڭ شەنگە بېرىپ كەلمەكچى ئاڭلىسام خۇئاڭشەننىڭ مەنزىرىسىمۇ بەك چىرايلىقمىش."
+        ],
+        "en_trans": {
+            "dialogue": [
+                "Man: Jenny, where have you traveled since coming to China?",
+                "Woman: I've been to Suzhou and Hangzhou.",
+                "Man: Yeah, the gardens of Suzhou and West Lake in Hangzhou are very famous.",
+                "Woman: I’m also planning to go to Huangshan soon. I heard the scenery there is beautiful."
+            ],
+            "query": "Where is the woman planning to go recently?",
+            "choices": [
+                "Suzhou gardens",
+                "West Lake",
+                "Huangshan"
+            ],
+            "gold": "Huangshan"
+        }
+    },
+    {
+        "id": "rc_ug_59",
+        "zh_trans": {
+            "id": "c3_1982",
+            "dialogue": [
+                "女：你看，他们俩个多相爱啊!",
+                "男：那还用说，他们可是我们单位的模范夫妻。"
+            ],
+            "query": "女的是什么意思?",
+            "choices": [
+                "感到气愤",
+                "感到意外",
+                "喜欢他们",
+                "羡慕他们"
+            ],
+            "gold": "羡慕他们"
+        },
+        "options": [
+            "ئاچچىق كېلىۋاتىدۇ.",
+            "ھەيران قېلىۋاتىدۇ.",
+            "ئۇلارنى ياخشى كۆرىدۇ .",
+            "ئۇلارغا ھەۋەس قىلىۋاتىدۇ ."
+        ],
+        "question": "قىزچاق ، نېمە دېمەكچى ؟",
+        "answer": "D",
+        "context": [
+            "ئايال: قارا،  ئىككىسى نېمە دېگەن ياخشى كۆرۈشكەن.",
+            "ئەر: بۇنى دېيىش كېتەمدۇ،  ئىككىسى دېگەن ئورنىمىزدىكى مۇنەۋۋەر ئەر خوتۇن تۇرسا."
+        ],
+        "en_trans": {
+            "dialogue": [
+                "Woman: Look, how much they love each other!",
+                "Man: That's for sure, they are the model couple in our unit."
+            ],
+            "query": "What does the woman mean?",
+            "choices": [
+                "Feeling angry",
+                "Feeling surprised",
+                "Likes them",
+                "Envies them"
+            ],
+            "gold": "Envies them"
+        }
+    },
+    {
+        "id": "rc_ug_191",
+        "zh_trans": {
+            "id": "c3_47",
+            "dialogue": [
+                "女：明天要在总结会上发言，我还是觉得自己准备得不够。",
+                "男：放松点儿，你又不是第一次发言。"
+            ],
+            "query": "男的主要是什么意思？",
+            "choices": [
+                "要认真准备",
+                "不用太紧张",
+                "以后要多练习",
+                "打算不参加会议了"
+            ],
+            "gold": "不用太紧张"
+        },
+        "options": [
+            "ئەستايىدىل تەييارلىق قىلىش كېرەك .",
+            "بەك جىددىيلىشىپ كەتمىسىڭىزمۇ بولىدۇ .",
+            "كېيىن كۆپرەك مەشىق قىلىڭ.",
+            "يىغىنغا قاتناشماسلىقنى ئويلاۋاتىمەن ."
+        ],
+        "question": "ئەر ئاساسلىقى نېمە دېمەكچى؟",
+        "answer": "B",
+        "context": [
+            "ئايال: ئەتە خۇلاسە يىغىندا سۆز قىلىمەن،  يەنىلا تەييارلىقىم يېتەرلىك بولمىغاندەك ھېس قىلىمەن.",
+            "ئەر: ئۆزىڭىزنى ئەركىن قويۇۋېتىڭ سىز ياكى تۇنجى قېتىم سۆز قىلمىسىڭىز."
+        ],
+        "en_trans": {
+            "dialogue": [
+                "Woman: I have to speak at the summary meeting tomorrow, and I still feel like I'm not prepared enough.",
+                "Man: Relax a bit, it's not your first time speaking."
+            ],
+            "query": "What does the man mainly mean?",
+            "choices": [
+                "You need to prepare seriously",
+                "No need to be too nervous",
+                "You need to practice more in the future",
+                "Plan not to attend the meeting"
+            ],
+            "gold": "No need to be too nervous"
+        }
+    },
+    {
+        "id": "rc_ug_66",
+        "zh_trans": {
+            "id": "c3_3336",
+            "dialogue": [
+                "男：你最近怎么都没给我打电话啊?",
+                "女：前一阵子工作不忙，出去旅游的时候把手机丢了，电话号码都找不到了。"
+            ],
+            "query": "关于女的，可以知道什么?",
+            "choices": [
+                "工作很忙",
+                "手机丢了",
+                "想去旅游",
+                "最近没有时间"
+            ],
+            "gold": "手机丢了"
+        },
+        "options": [
+            "خىزمىتى بەك ئالدىراش .",
+            "تېلېفوننى يۈتۈپ كەتتى .",
+            "ساياھەت قىلغۇسى بار .",
+            "يېقىندا ۋاقتى يوق ."
+        ],
+        "question": "قىزچاققا مۇناسىۋەتلىك نېمىلەرنى بىلىۋالالايمىز ؟",
+        "answer": "B",
+        "context": [
+            "ئەر: يېقىندا نېمىشقا ماڭا تېلېفون قىلمايسەن؟",
+            "ئايال: يېقىندا خىزمىتىممۇ ئالدىراش ئەمەس ئىدى، چىقىپ ساياھەت قىلغان چاغدا تېلېفوننى يۈتتۈرۈپ قويدۇم. تېلېفون نومۇرۇمنىمۇ تاپالمىدىم."
+        ],
+        "en_trans": {
+            "dialogue": [
+                "Man: Why haven't you called me lately?",
+                "Woman: I wasn't busy with work a while ago, and when I went traveling, I lost my phone and couldn't find any phone numbers."
+            ],
+            "query": "What can be inferred about the woman?",
+            "choices": [
+                "Very busy at work",
+                "Lost her phone",
+                "Wants to travel",
+                "Has no time lately"
+            ],
+            "gold": "Lost her phone"
+        }
+    },
+    {
+        "id": "rc_ug_209",
+        "zh_trans": {
+            "id": "c3_2342",
+            "dialogue": [
+                "女：伯父，这是我的一点儿心意。",
+                "男：看你这孩子，来就来吧，还带什么东西?"
+            ],
+            "query": "男的是什么语气?",
+            "choices": [
+                "吃惊",
+                "拒绝",
+                "嗔怪",
+                "喜悦"
+            ],
+            "gold": "嗔怪"
+        },
+        "options": [
+            "ھەيران قالدى.",
+            "رەت قىلدى .",
+            "ۋاي ۋۇي .",
+            "خۇشال بولدى ."
+        ],
+        "question": "ئەرنىڭ تەلەپپۇزى قانداق ؟",
+        "answer": "C",
+        "context": [
+            "ئايال: ھامما، بۇ مېنىڭ ئازراق كۆڭلۈم.",
+            "ئەر: بۇ بالىنى كۆرۈڭ، كەلسىڭىزغۇ كېلىڭ، نەرسە ئالغاچ كېلىپ نېمىمۇ قىلارسىز؟"
+        ],
+        "en_trans": {
+            "dialogue": [
+                "Woman: Uncle, this is a small token of my appreciation.",
+                "Man: Look at you, child, just come, why bring anything?"
+            ],
+            "query": "What is the man's tone?",
+            "choices": [
+                "Surprise",
+                "Refusal",
+                "Reproach",
+                "Joy"
+            ],
+            "gold": "Reproach"
+        }
+    },
+    {
+        "id": "rc_ug_45",
+        "zh_trans": {
+            "id": "c3_2075",
+            "dialogue": [
+                "男：你今天都去了哪些地方?",
+                "女：我为什么要告诉你?"
+            ],
+            "query": "女的的意思是：",
+            "choices": [
+                "不知道要不要告诉他",
+                "一定要告诉他",
+                "男的没有必要知道",
+                "女的谁也不告诉"
+            ],
+            "gold": "男的没有必要知道"
+        },
+        "options": [
+            "ئۇنىڭغا دەپ بەرسە بولارمۇ ياقمۇ .",
+            "ئۇنىڭغا چوقۇم دەپ بېرىش كېرەك .",
+            "ئوغۇلنىڭ بىلىشى بىھاجەت .",
+            "قىزى ھېچكىمگە دەپ  بەرمەيدۇ ."
+        ],
+        "question": "قىزچاق نېمە دېمەكچى ؟",
+        "answer": "C",
+        "context": [
+            "ئەر: بۈگۈن نەلەرگە باردىڭ؟",
+            "ئايال: ساڭا نېمىشقا دەپ بەرگۈدەكمەن؟"
+        ],
+        "en_trans": {
+            "dialogue": [
+                "Man: Which places did you go to today?",
+                "Woman: Why should I tell you?"
+            ],
+            "query": "What does the woman mean:",
+            "choices": [
+                "She doesn't know whether to tell him or not",
+                "She definitely has to tell him",
+                "There's no need for the man to know",
+                "She won't tell anyone"
+            ],
+            "gold": "There's no need for the man to know"
+        }
+    }
+]

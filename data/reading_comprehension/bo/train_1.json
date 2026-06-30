@@ -1,0 +1,454 @@
+[
+    {
+        "id": "rc_bo_2",
+        "zh_trans": {
+            "id": "c3_823",
+            "dialogue": [
+                "女：听说考试成绩已经公布了，你们家小丽考上大学了吗?",
+                "男：考是考上了，不过学校不太理想。"
+            ],
+            "query": "男的是什么意思?",
+            "choices": [
+                "小丽没有考上大学",
+                "小丽的学校不太好",
+                "男的喜欢那所学校",
+                "男的很生气"
+            ],
+            "gold": "小丽的学校不太好"
+        },
+        "options": [
+            "ཞའོ་ལིས་སློབ་ཆེན་ལ་ཡིག་རྒྱུགས་མ་ལོན།",
+            "ཞའོ་ལིས་ཀྱི་སློབ་གྲྭ་དེ་འདྲ་མི་བཟང་།",
+            "བུ་འདི་སློབ་གྲྭ་དེ་ལ་དགའ།",
+            "བུ་འདི་ཁོང་ཁྲོ་ཆེན་པོ་ལངས།"
+        ],
+        "question": "བུ་འདིའི་སྐད་ཆའི་ནང་དོན་གང་རེད་དམ།",
+        "answer": "B",
+        "context": [
+            "བུ་མོ།གོ་ཐོས་སུ་ཡིག་རྒྱུགས་སྦྱངས་འབྲས་ཁྱབ་བསྒྲགས་བྱས་ཚར་འདུག་ཟེར།ཁྱེད་ཚོའི་ཁྱིམ་གྱི་ཞའོ་ལི་སློབ་གྲྭ་ཆེན་མོར་ལོན་འདུག་གམ།",
+            "བུ།ཡིག་རྒྱུགས་ལོན་འདུགཡིན་ནའི་སློབ་གྲྭ་འདི་འདྲའི་ཡག་པོ་མིན་འདུག"
+        ],
+        "en_trans": {
+            "dialogue": [
+                "Woman: I heard that the exam results have been announced. Did your daughter Xiaoli get into university?",
+                "Man: She did get in, but the university isn't very ideal."
+            ],
+            "query": "What does the man mean?",
+            "choices": [
+                "Xiaoli did not get into university",
+                "Xiaoli's university isn't very good",
+                "The man likes that university",
+                "The man is very angry"
+            ],
+            "gold": "Xiaoli's university isn't very good"
+        }
+    },
+    {
+        "id": "rc_bo_166",
+        "zh_trans": {
+            "id": "c3_4149",
+            "dialogue": [
+                "男：你怎么又回来了?",
+                "女：因为天气不好，航班取消了。",
+                "男：那太好了。",
+                "女：是呀，又可以在家多待一些时间了。"
+            ],
+            "query": "女的是什么心情?",
+            "choices": [
+                "高兴",
+                "吃惊",
+                "后悔",
+                "担心"
+            ],
+            "gold": "高兴"
+        },
+        "options": [
+            "དགའ་པོ་ཡོད་པ",
+            "ཧ་ལས་པ་།་",
+            "་འགྱོད་པ་།་",
+            "སེམས་ཁྲལ་།"
+        ],
+        "question": "བུད་མེད་ཀྱི་སེམས་ཁམས་ཅི་འདྲ་རེད།",
+        "answer": "A",
+        "context": [
+            "སྐྱེས་པ་ཁྱོད་ཡང་ཕྱིར་ཡོང་དོན་ཅི་ཡིན།",
+            "བུད་མེད།་གནམ་གཤིས་མི་བཟང་བའི་རྐྱེན་གྱིས་གནམ་གྲུ་འགྲོ་ཐུབ་མ་སོང་སོང་།",
+            "སྐྱེས་པ།་དེ་ན་ཧ་ཅང་བཟང་།",
+            "བུད་མེད།་རེད་ཡ།་ཡང་ཁྱིམ་ནས་དུས་ཚོད་མང་ཙམ་་བསྡད་ན་ཆོག"
+        ],
+        "en_trans": {
+            "dialogue": [
+                "Man: Why are you back again?",
+                "Woman: Because the weather is bad, the flight was canceled.",
+                "Man: That's great.",
+                "Woman: Yes, I can stay at home for a bit longer."
+            ],
+            "query": "What is the woman's mood?",
+            "choices": [
+                "Happy",
+                "Surprised",
+                "Regretful",
+                "Worried"
+            ],
+            "gold": "Happy"
+        }
+    },
+    {
+        "id": "rc_bo_44",
+        "zh_trans": {
+            "id": "c3_1915",
+            "dialogue": [
+                "男：对不起，这里不能停车，停车场就在前面不远的地方。",
+                "女：我知道，你得让我先把病人扶下车吧?"
+            ],
+            "query": "对话最有可能发生在哪儿?",
+            "choices": [
+                "饭店门口",
+                "医院门口",
+                "商场门口",
+                "公园门口"
+            ],
+            "gold": "医院门口"
+        },
+        "options": [
+            "ཟ་ཁང་གི་སྒོ་ཁ་།",
+            "སྨན་ཁང་གི་སྒོ་ཁ",
+            "ཚོང་རའི་སྒོ་ཁ་།",
+            "སྤྱི་གླིང་གི་སྒོ་ཁ་།"
+        ],
+        "question": "ཁ་བརྡ་གང་ནས་བྱུང་སྲིད་དམ།",
+        "answer": "B",
+        "context": [
+            "སྐྱེས་པ།་དགོངས་པ་མ་ཚོམ།་འདི་ནས་རླངས་འཁོར་འཇོག་མི་རུང་།་རླངས་འཁོར་འཇོག་ས་མདུན་གྱི་ཐག་མི་རིང་བའི་ས་ན་ཡོད།",
+            "བུད་མེད།་ངས་ཤེས།་ཁྱོད་ཀྱིས་ང་ལ་སྔོན་ལ་ནད་པ་རླངས་འཁོར་ལས་འབབ་ཏུ་འཇུག་དགོས་སམ།"
+        ],
+        "en_trans": {
+            "dialogue": [
+                "Man: I'm sorry, you can't park here. The parking lot is not far ahead.",
+                "Woman: I know, but could you let me help the patient out of the car first?"
+            ],
+            "query": "Where is the conversation most likely taking place?",
+            "choices": [
+                "At the entrance of a restaurant",
+                "At the entrance of a hospital",
+                "At the entrance of a shopping mall",
+                "At the entrance of a park"
+            ],
+            "gold": "At the entrance of a hospital"
+        }
+    },
+    {
+        "id": "rc_bo_70",
+        "zh_trans": {
+            "id": "c3_735",
+            "dialogue": [
+                "男：小李怎么这么说话呀，真让人生气!",
+                "女：其实小李这人哪儿都好，就是有时说话没轻没重，容易得罪人。"
+            ],
+            "query": "小李说话怎么样?",
+            "choices": [
+                "声音太大",
+                "没有重点",
+                "没有声音",
+                "没有分寸"
+            ],
+            "gold": "没有分寸"
+        },
+        "options": [
+            "སྒྲ་ཧ་ཅང་ཆེ་།",
+            "གཙོ་གནད་མེད་།",
+            "སྒྲ་མེད།",
+            "ཚད་མེད་།"
+        ],
+        "question": "ཞའོ་ལིས་ཀྱིས་སྐད་ཆ་བཤད་པ་ཅི་འདྲ་རེད་།",
+        "answer": "D",
+        "context": [
+            "སྐྱེས་པ།་ཞའོ་ལིས་ཀྱིས་འདི་ལྟར་སྐད་ཆ་བཤད་དོན་ཅི།་ངོ་མ་ཁོང་ཁྲོ་ལངས་བྱེད་ཅིག་རེད།",
+            "བུད་མེད།་དོན་དངོས་སུ་ཞའོ་ལི་ནི་གང་ནས་ཀྱང་བཟང་།་སྐབས་འགར་སྐད་ཆ་བཤད་ན་ཡང་ལྕི་མེད་པས་མི་ལ་ཕོག་ཐུག་གཏོང་སླ།"
+        ],
+        "en_trans": {
+            "dialogue": [
+                "Man: Why does Xiao Li talk like that? It really makes people angry!",
+                "Woman: Actually, Xiao Li is a good person in every way, it's just that sometimes he talks without restraint and easily offends people."
+            ],
+            "query": "How does Xiao Li speak?",
+            "choices": [
+                "Too loudly",
+                "Without focus",
+                "Without sound",
+                "Without restraint"
+            ],
+            "gold": "Without restraint"
+        }
+    },
+    {
+        "id": "rc_bo_250",
+        "zh_trans": {
+            "id": "c3_1824",
+            "dialogue": [
+                "女：请问您要买什么?这些衣服和鞋子是新来的，很不错。",
+                "男：谢谢，我想问问，小王今天来上班了吗?"
+            ],
+            "query": "男的要做什么?",
+            "choices": [
+                "买衣服",
+                "买鞋",
+                "找人"
+            ],
+            "gold": "找人"
+        },
+        "options": [
+            "སྟོད་ཐུང་ཉོ་བ།",
+            "ལྷམ་ཉོ་།",
+            "མི་འཚོལ་བ།"
+        ],
+        "question": "སྐྱེས་པས་ཅི་ཞིག་བྱེད་དགོས་སམ།",
+        "answer": "C",
+        "context": [
+            "བུད་མེད།་ཁྱེད་ཀྱིས་ཅི་ཞིག་ཉོ་རྒྱུ་ཡིན།ལྭ་བ་དང་ལྷམ་འདི་དག་ནི་གསར་དུ་ཡོང་བ་རེད།ཧ་ཅང་བཟང་།",
+            "སྐྱེས་པ།་བཀའ་དྲིན་ཆེ།་ངས་འདྲི་འདོད་པ་ནི།་ཞའོ་ཝང་དེ་རིང་ལས་ཚོགས་ལ་ཡོང་ཡོད་དམ།"
+        ],
+        "en_trans": {
+            "dialogue": [
+                "Woman: May I ask what you want to buy? These clothes and shoes just arrived and are very nice.",
+                "Man: Thank you, I want to ask, did Xiao Wang come to work today?"
+            ],
+            "query": "What does the man want to do?",
+            "choices": [
+                "Buy clothes",
+                "Buy shoes",
+                "Find someone"
+            ],
+            "gold": "Find someone"
+        }
+    },
+    {
+        "id": "rc_bo_52",
+        "zh_trans": {
+            "id": "c3_3957",
+            "dialogue": [
+                "男：你怎么了?好像不太高兴，工作遇到问题了吗?",
+                "女：不是，刚才儿子回来了，你看，这次考试他只得了四十分。"
+            ],
+            "query": "女的为什么不高兴?",
+            "choices": [
+                "孩子成绩差",
+                "工作有问题",
+                "丈夫没回家"
+            ],
+            "gold": "孩子成绩差"
+        },
+        "options": [
+            "བྱིས་པའི་རྒྱུགས་འབྲས་མི་བཟང་།",
+            "ལས་ཀར་གནད་དོན་ཡོད་།",
+            "ཁྱོ་ག་ཁྱིམ་ལ་ལོག་མེད་།"
+        ],
+        "question": "བུད་མེད་ཅིའི་ཕྱིར་མི་དགའ་བ་རེད།",
+        "answer": "A",
+        "context": [
+            "སྐྱེས་པ།་ཁྱོད་ལ་ཅི་ཞིག་བྱུང་སོང་།ཕལ་ཆེར་དེ་འདྲ་མི་དགའ་བ་འདྲ།་བྱ་བར་གནད་དོན་ལ་འཕྲད་སོང་ངམ།",
+            "བུད་མེད།་མ་རེད།་ད་སོ་མ་བུ་ཕྱིར་ཐོན་བྱུང་།་ཁྱོད་ཀྱིས་ལྟོས་དང་།་ཐེངས་འདིའི་རྒྱུགས་ལ་ཁོ་ལ་སྐར་མ་བཞི་བཅུ་མ་གཏོགས་མ་ཐོབ།"
+        ],
+        "en_trans": {
+            "dialogue": [
+                "Man: What's wrong? You don't seem very happy. Did you encounter any problems at work?",
+                "Woman: No, my son just came back. Look, he only scored forty on this exam."
+            ],
+            "query": "Why is the woman unhappy?",
+            "choices": [
+                "Her child's poor grades",
+                "Problems at work",
+                "Her husband hasn't come home"
+            ],
+            "gold": "Her child's poor grades"
+        }
+    },
+    {
+        "id": "rc_bo_179",
+        "zh_trans": {
+            "id": "c3_3742",
+            "dialogue": [
+                "女：恭喜啊，听说你买了辆奥迪，什么型号的?",
+                "男：奥迪A6，买完我就后悔了。现在油价涨得真厉害。"
+            ],
+            "query": "根据对话，可以知道什么?",
+            "choices": [
+                "石油价格太贵",
+                "石油价格降低了",
+                "女的买了辆奥迪",
+                "男的买了奥迪A4"
+            ],
+            "gold": "石油价格太贵"
+        },
+        "options": [
+            "རྡོ་སྣུམ་གྱི་རིན་གོང་ཧ་ཅང་མཐོ་།",
+            "རྡོ་སྣུམ་གྱི་རིན་གོང་ཇེ་དམའ་རུ་སོང་།",
+            "བུད་མེད་ཀྱིས་ཨོ་ཏི་རྟགས་ཅན་གྱི་རླངས་འཁོར་ཞིག་ཉོས་།",
+            "སྐྱེས་པས་ཨོ་ཏི་A4ཉོས།"
+        ],
+        "question": "ཁ་བརྡ་གཞིར་བཟུང་ན་ཅི་ཞིག་ཤེས་ཐུབ།",
+        "answer": "A",
+        "context": [
+            "བུད་མེད།་རྟེན་འབྲེལ་ཞུ།་གོ་ཐོས་ལྟར་ན་ཁྱོད་ཀྱིས་ཨོ་ཏི་རྟགས་ཅི་ཞིག་ཉོས་ཡོད་ཟེར།",
+            "སྐྱེས་པ།་ཨོ་ཏི་A6་ཉོས་ཚར་རྗེས་ང་འགྱོད་པ་སྐྱེས་སོང་།ད་ལྟ་སྣུམ་གྱི་རིན་གོང་འཕར་བ་ཧ་ཅང་ཚབས་ཆེ།"
+        ],
+        "en_trans": {
+            "dialogue": [
+                "Woman: Congratulations, I heard you bought an Audi. What model is it?",
+                "Man: Audi A6. As soon as I bought it, I regretted it. The gas prices are really rising sharply."
+            ],
+            "query": "What can we know from the dialogue?",
+            "choices": [
+                "Gas prices are too high",
+                "Gas prices have decreased",
+                "The woman bought an Audi",
+                "The man bought an Audi A4"
+            ],
+            "gold": "Gas prices are too high"
+        }
+    },
+    {
+        "id": "rc_bo_170",
+        "zh_trans": {
+            "id": "c3_4042",
+            "dialogue": [
+                "男：现在几点了?",
+                "女：差十分六点。"
+            ],
+            "query": "现在几点?",
+            "choices": [
+                "六点十分",
+                "七点十分",
+                "五点五十分",
+                "十点十六分"
+            ],
+            "gold": "五点五十分"
+        },
+        "options": [
+            "དུས་ཚོད་དྲུག་དང་སྐར་མ་བཅུ།",
+            "དུས་ཚོད་བདུན་དང་སྐར་མ་བཅུ།",
+            "དུས་ཚོད་ལྔ་དང་སྐར་མ་ལྔ་བཅུ",
+            "ཆུ་ཚོད་བཅུ་དང་སྐར་མ་བཅུ་དྲུག"
+        ],
+        "question": "ད་ལྟ་དུས་ཚོད་དུ་རེད་།",
+        "answer": "C",
+        "context": [
+            "སྐྱེས་པ་།ད་ལྟ་དུས་ཚོད་ག་ཚོད་རེད།",
+            "བུད་མེད།་སྐར་མ་བཅུ་དང་སྐར་མ་དྲུག་གིས་མི་འདང་།"
+        ],
+        "en_trans": {
+            "dialogue": [
+                "Man: What time is it now?",
+                "Woman: It's ten minutes to six."
+            ],
+            "query": "What time is it now?",
+            "choices": [
+                "Six ten",
+                "Seven ten",
+                "Five fifty",
+                "Ten sixteen"
+            ],
+            "gold": "Five fifty"
+        }
+    },
+    {
+        "id": "rc_bo_41",
+        "zh_trans": {
+            "id": "c3_2366",
+            "dialogue": [
+                "男：大夫您好，我妻子的情况怎么样？",
+                "女：手术很成功，她恢复得很快，过两天，下周一二就可以出院了。",
+                "男：太好了！太谢谢您了！",
+                "女：不客气。"
+            ],
+            "query": "他妻子什么时候可以出院？",
+            "choices": [
+                "明天",
+                "下周一二",
+                "两周后",
+                "下个月"
+            ],
+            "gold": "下周一二"
+        },
+        "options": [
+            "སངས་ཉིན།",
+            "གཟའ་འཁོར་རྗེས་མའི་གཟའ་མིག་དམར་།",
+            "གཟའ་འཁོར་གཉིས་ཀྱི་རྗེས་།",
+            "ཟླ་རྗེས་མ་།"
+        ],
+        "question": "ཁོའི་ཆུང་མ་ནམ་ཞིག་ལ་སྨན་ཁང་ནས་ཕྱིར་བུད་ཆོག",
+        "answer": "B",
+        "context": [
+            "སྐྱེས་པ།སྨན་པ་ཁྱོད་བདེ་མོ།་ངའི་ཆུང་མའི་གནས་ཚུལ་ཅི་འདྲ་རེད།",
+            "བུད་མེད།གཤགས་བཅོས་ཧ་ཅང་ལེགས་འགྲུབ་བྱུང་ཁོ་མོ་སླར་གསོ་བྱུང་བ་ཧ་ཅང་མགྱོགས།་ཉིན་གཉིས་འགོར་རྗེས།་གཟའ་འཁོར་རྗེས་མའི་གཟའ་ཟླ་བར་སྨན་ཁང་ནས་བུད་ཆོག",
+            "སྐྱེས་པ།་ངོ་མ་བཟང་གིངོ་མ་ཁྱོད་ལ་བཀའ་དྲིན་ཆེ།",
+            "བུད་མེད།འཛེམ་དོགས་བྱེད་མི་དགོས།"
+        ],
+        "en_trans": {
+            "dialogue": [
+                "Man: Doctor, how is my wife doing?",
+                "Woman: The surgery was very successful, and she is recovering quickly. In a couple of days, she can be discharged next Monday or Tuesday.",
+                "Man: That's great! Thank you so much!",
+                "Woman: You're welcome."
+            ],
+            "query": "When can his wife be discharged from the hospital?",
+            "choices": [
+                "Tomorrow",
+                "Next Monday or Tuesday",
+                "In two weeks",
+                "Next month"
+            ],
+            "gold": "Next Monday or Tuesday"
+        }
+    },
+    {
+        "id": "rc_bo_50",
+        "zh_trans": {
+            "id": "c3_1331",
+            "dialogue": [
+                "女：你还会跟人打架打到医院?那是什么时候的事?",
+                "男：上小学的时候。",
+                "女：听说你上中学时，就算没带钥匙，也能开门进去。",
+                "男：千万别这么说，现在我没那技术了。"
+            ],
+            "query": "男的什么时候和人打架进了医院?",
+            "choices": [
+                "小学时",
+                "中学时",
+                "大学时",
+                "上个月"
+            ],
+            "gold": "小学时"
+        },
+        "options": [
+            "སློབ་ཆུང་སྐབས་།",
+            "སློབ་འབྲིང་སྐབས་།",
+            "སློབ་ཆེན་སྐབས་།",
+            "ཟླ་བ་གོང་མར།"
+        ],
+        "question": "སྐྱེས་པས་ནམ་ཞིག་ལ་མི་གཞན་དང་རྡུང་རེས་བྱས་ནས་སྨན་ཁང་དུ་སོང་བ་རེད།",
+        "answer": "A",
+        "context": [
+            "བུད་མེད།ཁྱོད་ཀྱིས་ད་དུང་མི་གཞན་དང་རྡུང་རེས་བྱས་ནས་སྨན་ཁང་དུ་འགྲོ་སྲིད་དམ།དེ་ནི་ནམ་ཞིག་རེད་།",
+            "སྐྱེས་པ་།་སློབ་གྲྭ་ཆུང་བར་འགྲོ་སྐབས་།",
+            "བུད་མེད།གོ་ཐོས་ལྟར་ན་ཁྱོད་སློབ་འབྲིང་ལ་འགྲོ་བའི་སྐབས་སུ།་ལྡེ་མིག་ཁྱེར་མེད་རུང་སྒོ་ཕྱེ་ནས་ནང་ལ་འགྲོ་ཐུབ།",
+            "སྐྱེས་པ།གཏན་ནས་འདི་ལྟར་མ་བཤད།་ད་ལྟ་ང་ལ་ལག་རྩལ་དེ་མེད།"
+        ],
+        "en_trans": {
+            "dialogue": [
+                "Woman: You got into a fight and ended up in the hospital? When did that happen?",
+                "Man: When I was in elementary school.",
+                "Woman: I heard that when you were in middle school, you could get in even if you forgot your keys.",
+                "Man: Don't say that, I don't have that skill anymore."
+            ],
+            "query": "When did the man get into a fight and end up in the hospital?",
+            "choices": [
+                "In elementary school",
+                "In middle school",
+                "In college",
+                "Last month"
+            ],
+            "gold": "In elementary school"
+        }
+    }
+]

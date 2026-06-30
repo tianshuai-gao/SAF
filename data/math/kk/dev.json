@@ -1,0 +1,142 @@
+[
+    {
+        "id": "math_kk_72",
+        "question": ". ءبىر تال تەمىر ارقانمەن ۇزىندىعى 20 مەتر، كەڭدىگى 16 مەتر كەلەتىن ۇزىن تىك ٴتورتبۇرىش ەتىپ وزگەرسە، ءدال ءپىشىننىڭ جيەگىندەگى ۇزىندىعى قانشا مەتر بولادى؟",
+        "zh_translation": "用一根铁丝围成一个长20米，宽16米的长方形，如果改成正方形，围成正方形的边长是 多少米？",
+        "answer": "18",
+        "en_translation": "If a piece of iron wire is used to form a rectangle with a length of 20 meters and a width of 16 meters, what would be the side length of the square if it is reshaped into a square?"
+    },
+    {
+        "id": "math_kk_188",
+        "question": "8.     -3جىلدىقتاعى وقۋشىلار الەۋمەتتىك اۋماق قيمىلىنا قاتىناسادى. 48 قىز وقۋشى، 52 ۇل وقۋشى 5بالا، ادام ٴبىر گرۋپپاعا بولىنەدى، جيىنى قانشا گرۋپپاعا بولىنسە بولادى؟",
+        "zh_translation": "三年级的学生参加社区活动．女生有48人，男生有52人．5人分成一组，一共可以分成多少组？",
+        "answer": "20",
+        "en_translation": "How many groups can be formed if third-grade students, consisting of 48 girls and 52 boys, participate in a community activity and are divided into groups of 5 people each?"
+    },
+    {
+        "id": "math_kk_178",
+        "question": "8. ەكى پاراحوت ەكى كەمەجايدا سالىستىرمالى فورمامەن ٴجۇرىپ جاتقاندا، العاشقى كەمە 520 مىڭ كيلومەتر جۇردى، ەكىنشى كەمە بىرىنشى كەمە 48 كيلومەتر جۇردى، ەكىنشى پاراحوت قانشا مىڭ كيلومەتر جول جۇردى؟",
+        "zh_translation": "两艘轮船从两个码头相对行驶．相遇时，第一艘轮船行驶了520千米，第二艘比第一艘少行48千米．第二艘轮船行了多少千米？",
+        "answer": "48",
+        "en_translation": "Two ships are traveling towards each other from two docks. When they meet, the first ship has traveled 520 kilometers, and the second ship has traveled 48 kilometers less than the first ship. How many kilometers has the second ship traveled?"
+    },
+    {
+        "id": "math_kk_95",
+        "question": ". شياۋحۋا، شياۋيىڭ جانە شياۋميڭ 5 كۇندە جيىنى 300 ارىپپەن جازىلعان؟",
+        "zh_translation": "小华、小英和小明5天一共写了300个大字，平均每人每天写多少个字？",
+        "answer": "20",
+        "en_translation": "How many characters did Xiaohua, Xiaoying, and Xiaoming write on average per person per day given that they wrote a total of 300 large characters in 5 days?"
+    },
+    {
+        "id": "math_kk_106",
+        "question": "6.ٴبىر ساتىلى فورمالى جەمىس باقشاسىنىڭ ۇستىڭگى تۇگى 54 مەتر، استىڭعى تۇگى 82 مەتر، بيىكتىگى 18 مەتر، ٴار 6 شارشى مەتر جەرگە ٴبىر ٴتۇپ جەمىس اعاشىن ەگەدى، بۇل جەمىس اعاشى قانشا ٴتۇپ؟",
+        "zh_translation": "一个梯形果园，上底是54米，下底是82米，高是18米，每6平方米栽一棵果树，这个果园共栽果树多少棵？",
+        "answer": "204",
+        "en_translation": "A trapezoidal orchard has an upper base of 54 meters, a lower base of 82 meters, and a height of 18 meters. If one fruit tree is planted every 6 square meters, how many fruit trees are planted in the whole orchard?"
+    },
+    {
+        "id": "math_kk_47",
+        "question": ".ٴبىر جاڭا عيمارات، جيىنى 6 بولەك، ٴاربىر بولەكتە 8 وتباسى بار، 39 وتباسى بار، ونىڭ ۇستىنە قانشا وتباسى تۇراتىن ادام جوق؟",
+        "zh_translation": "有一幢新楼房，共有6个单元，每个单元有8户，已经入住了39户，还有多少户没有人住？",
+        "answer": "9",
+        "en_translation": "There is a newly built building with 6 units, each unit has 8 households. 39 households have already moved in. How many households are still unoccupied?"
+    },
+    {
+        "id": "math_kk_223",
+        "question": "3. شەشەم 37.6 مەترلىك كەزدەمەنى ساتىپ الىپ، بالالار كيىمىن مانەرلەۋگە دايىندالدى، ەگەر ءاربىر بالالار كيىمىن 1.5 مەتر كەزدەمەگە ىستەتۋگە تۋرا كەلسە، بۇل كەزدەمەلەر ەڭ كوپ بولعاندا بالالار كيىمىن قانشانى   ىستەۋگە بولادى.؟",
+        "zh_translation": "妈妈买回37.6米花布，准备加工成童装，如果每套童装需要用布1.5米．这些布最多可做童装多少套？",
+        "answer": "25",
+        "en_translation": "Mom bought 37.6 meters of floral fabric, intending to make children's clothing. If each set of children's clothing requires 1.5 meters of fabric, how many sets of children's clothing can be made from this fabric at most?"
+    },
+    {
+        "id": "math_kk_192",
+        "question": "2.450   كيلوگرام كۇرىش كۇنىنە 60 كيلوگرام جەيدى، ەڭ كوپ بولعاندا بىرنەشە كۇن جەۋگە بولادى؟",
+        "zh_translation": "有450千克大米，每天吃60千克，最多能吃几天？",
+        "answer": "7",
+        "en_translation": "There are 450 kilograms of rice. If 60 kilograms are consumed each day, for how many days can it last?"
+    },
+    {
+        "id": "math_kk_40",
+        "question": ". اعام 6 يۋان 5 تيىن بولىپ، ٴبىر ورامال ساتىپ الىپ 3 يۋان 3 تىيىن ، ٴبىر قول پاپا ساتىپ الىپ 8 تىيىن ، قانشا  تىيىن  قالعان؟",
+        "zh_translation": "哥哥有6元5角钱，买一条围巾用了3元3角，买一块手帕用了8角，还剩多少角？",
+        "answer": "24",
+        "en_translation": "The elder brother has 6 yuan and 5 jiao. He spent 3 yuan and 3 jiao on a scarf, and 8 jiao on a handkerchief. How many jiao does he have left?"
+    },
+    {
+        "id": "math_kk_135",
+        "question": "5. بىر  تەس پويىز  جىلدامدىعى 240 كيلومەتر / ساعات، بۇل تەس پويىز  4 ساعاتتا قانشا كيلومەتر جۇرە الادى؟",
+        "zh_translation": "一列动车的速度是240千米/时，这列动车4小时可以行多少千米？",
+        "answer": "960",
+        "en_translation": "What is the distance a high-speed train traveling at 240 km/h can cover in 4 hours?"
+    },
+    {
+        "id": "math_kk_132",
+        "question": "2. التىنچى جىلدىق 3-كلاستاعى 44 ساباقتاس ۆەلوسيپەدپەن قارتتار كۇتىمحاناسىنا بارىپ يگى ىستەر ىستەيدى، بەلگىلەمە بويىنشا ەكى ساباقتاس ٴبىر ۆەلوسيپەد مىنگەندە قانشا ۆەلوسيپەد دايىندايدى؟",
+        "zh_translation": "六年级（3）班的44名同学骑自行车去敬老院做好事，按规定，两个同学合骑一辆自行车，要准备多少辆自行车？",
+        "answer": "22",
+        "en_translation": "How many bicycles need to be prepared for 44 students in Grade 6 (3) who are riding bicycles to the nursing home to do good deeds, with the rule that two students share one bicycle?"
+    },
+    {
+        "id": "math_kk_14",
+        "question": ". اپەكەسى بيىل 10 جاستا، قارىنداسى بيىل 6 جاستا، 5 جىلدان كەيىن اپەكەسى ٴسىڭلىسىنەن الدە قانشا ۇلكەن؟",
+        "zh_translation": "姐姐今年10岁，妹妹今年6岁，5年后姐姐比妹妹大多少岁？",
+        "answer": "4",
+        "en_translation": "The older sister is 10 years old this year, and the younger sister is 6 years old this year. How many years older will the older sister be than the younger sister in 5 years?"
+    },
+    {
+        "id": "math_kk_211",
+        "question": "2. ءبىر ءتۇرلى «قاھارمان » قالام، بۇرىنعى باعاسى 30 يۋان، ءبىر تال، جاڭا جىل كەزىندە باعا جاعىنان جەڭىلدىك بەرىلەدى، بۇرىنبىردى  5 اقشاعا  ساتىپ العان ، قازىر ءبىردى  ارتىق  الۋعا بولادى، قازىر ءاربىر قالام ورتا ەسەپپەن قانشا يۋان؟",
+        "zh_translation": "一种“英雄”钢笔，原价30元一支，新年期间优惠促销，原来买5支的钱现在可以多买1支，现在每只钢笔均价多少元？",
+        "answer": "25",
+        "en_translation": "The original price of a \"Hero\" pen is 30 yuan each. During the New Year promotional sale, the amount originally spent to buy 5 pens can now be used to buy 1 more pen. What is the current average price per pen?"
+    },
+    {
+        "id": "math_kk_238",
+        "question": "8. ٴبىر ۇلكەن كوپىردىڭ ۇزىندىعى 2400 مەتر. ٴبىر پويەز مينۋتىنا 900 مەتر جىلدامدىقپەن كوپىردەن ٴوتىپ، اۆتوموبيلدىڭ باسىنان كوپىرگە دەيىن جيىنى 3 مينۋت ۋاقىت كەتەدى، بۇل پويەزدىڭ ۇزىندىعى قانشا مەتر؟",
+        "zh_translation": "一座大桥长2400米．一列火车以每分钟900米的速度通过大桥，从车头开上桥到车尾离开桥共需要3分钟，这列火车长多少米？",
+        "answer": "300",
+        "en_translation": "A bridge is 2400 meters long. A train passes the bridge at a speed of 900 meters per minute. From the moment the train's head enters the bridge until the tail leaves the bridge, it takes 3 minutes. How long is the train?"
+    },
+    {
+        "id": "math_kk_31",
+        "question": ". 650دەن 320 قانشا ارتىق؟",
+        "zh_translation": "650比320多多少？",
+        "answer": "330",
+        "en_translation": "How much more is 650 than 320?"
+    },
+    {
+        "id": "math_kk_59",
+        "question": ".ءبىر ساندى  8 دەن 7 كە بولەمىز ، بۇل ساندى  4 كە بولسەك ،قانشا قالادى؟",
+        "zh_translation": "一个数除以8余7，这个数除以4余几？",
+        "answer": "3",
+        "en_translation": "A number leaves a remainder of 7 when divided by 8. What is the remainder when this number is divided by 4?"
+    },
+    {
+        "id": "math_kk_191",
+        "question": "1.لي مۇعالىم 38 جاشىك بور ساتىپ الىپ، جيىنى 228 يۋان اقشا، ٴبىر جاشىك بور قانشا يۋان ؟",
+        "zh_translation": "李老师买了38箱粉笔，共花费了228元，粉笔多少元一箱？",
+        "answer": "6",
+        "en_translation": "How much does one box of chalk cost if Teacher Li bought 38 boxes for a total of 228 yuan?"
+    },
+    {
+        "id": "math_kk_66",
+        "question": ". ٴبىر عيمارات 5 ورىن بولىپ، ٴاربىر ورىننىڭ 1-قاباتى مەن 2-قاباتىندا 2 وتباسى، 3-قاباتتان 7-قاباتقا دەيىن 3 وتباسى تۇرادى. بۇل عيماراتتا جيىنى قانشا وتباسى تۇرادى؟",
+        "zh_translation": "一座楼共五个单位，每单位的一层和二层每层住2户三层至七层每层住3户。这座楼一共住了多少户？",
+        "answer": "95",
+        "en_translation": "A building has five units. Each unit has two households on the first and second floors, and three households on each of the third to seventh floors. How many households live in this building altogether?"
+    },
+    {
+        "id": "math_kk_209",
+        "question": "9. بىر اڭگىمە كىتابىن شياۋ چياڭ 12 كۇندە وقىپ بولعان ،الدىنقى  5 كۇندە 90 بەتكوردى ، كەيىنگى 7 كۇندە 20 بەت كوردى . بۇل كىتاپتىڭ جىيىندادا قانشا بەت بار؟",
+        "zh_translation": "一本故事书小强用了12天看完．前5天看了90页，后7天每天看20页．这本书一共有多少页？",
+        "answer": "230",
+        "en_translation": "Xiao Qiang finished reading a storybook in 12 days. He read 90 pages in the first 5 days and 20 pages per day for the next 7 days. How many pages are there in the book in total?"
+    },
+    {
+        "id": "math_kk_45",
+        "question": ". گۋاڭميڭ باستاۋىش مەكتەبىنىڭ 2-جىلدىق 1-كلاسىنداعى وقۋشىلار ورتا ەسەپپەن ٴار ادامعا 9 يۋان جىلۋ اتادى، 7 وقۋشى جيىنى قانشا يۋان جىلۋ اتادى؟",
+        "zh_translation": "光明小学二年级（1）班的同学平均每人捐款9元，7名同学一共捐款多少元？",
+        "answer": "63",
+        "en_translation": "Students in Class 2 (1) at Guangming Primary School donate an average of 9 yuan per person. How much did 7 students donate in total?"
+    }
+]

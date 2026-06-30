@@ -1,0 +1,927 @@
+[
+    {
+        "id": "rc_mn_72",
+        "zh_trans": {
+            "id": "c3_3193",
+            "dialogue": [
+                "女：爸爸，明天是“六一”儿童节，你带我去哪儿玩儿?",
+                "男：爸爸带你去动物园看老虎，好不好?"
+            ],
+            "query": "明天他们去哪儿?",
+            "choices": [
+                "公园",
+                "动物园",
+                "植物园"
+            ],
+            "gold": "动物园"
+        },
+        "options": [
+            "ᠴᠡᠴᠡᠷᠯᠢᠭ",
+            "ᠠᠮᠢᠳᠡᠠ  ᠤ ᠬᠦᠷᠢᠶᠡᠯᠡᠩ",
+            "ᠤᠷᠭᠤᠮᠠᠯ  ᠤᠨ ᠬᠦᠷᠢᠶᠡᠯᠡᠩ"
+        ],
+        "question": "ᠮᠠᠷᠭᠠᠰᠢ ᠲᠡᠳᠡ ᠬᠠᠮᠢᠭ᠎ᠠ ᠣᠴᠢᠬᠤ ᠪᠤᠢ?",
+        "answer": "B",
+        "context": [
+            "ᠡᠮᠡᠭ᠍ᠲᠡᠢ᠄ ᠠᠪᠤ ᠠ ᠂ ᠮᠠᠷᠭᠠᠰᠢ ᠪᠣᠯ 《 ᠵᠢᠷᠭᠤᠭᠠᠨ ᠰᠠᠷ᠎ᠠ ᠶᠢᠨ ᠨᠢᠭᠡᠨ 》  ᠤ ᠬᠡᠦᠬᠡᠳ  ᠤᠨ  ᠪᠠᠶᠠᠷ  ᠤᠨ ᠡᠳᠦᠷ ᠂ ᠲᠠ ᠨᠠᠳᠠ  ᠶᠢ ᠳᠠᠭᠠᠭᠤᠯᠵᠤ ᠬᠠᠮᠢᠭ᠎ᠠ ᠣᠴᠢᠵᠤ ᠨᠠᠭᠠᠳᠬᠤ ᠪᠤᠢ?",
+            "ᠡᠷᠡᠭ᠍ᠲᠡᠢ᠄ ᠠᠪᠤ ᠨᠢ ᠴᠢᠮᠠᠶ ᠠᠮᠢᠲᠠᠨ  ᠤ ᠬᠦᠷᠢᠶᠡᠯᠡᠩ  ᠳᠦ ᠪᠠᠷᠰ  ᠢ ᠦᠵᠡᠭᠦᠯᠬᠦ ᠪᠡᠷ ᠠᠪᠠᠴᠢᠶ᠎ᠠ ᠂ ᠪᠣᠯᠤᠨ᠎ᠠ  ᠦᠦ?"
+        ],
+        "en_trans": {
+            "dialogue": [
+                "Woman: Dad, tomorrow is Children's Day, where will you take me to play?",
+                "Man: Dad will take you to the zoo to see tigers, okay?"
+            ],
+            "query": "Where are they going tomorrow?",
+            "choices": [
+                "Park",
+                "Zoo",
+                "Botanical Garden"
+            ],
+            "gold": "Zoo"
+        }
+    },
+    {
+        "id": "rc_mn_188",
+        "zh_trans": {
+            "id": "c3_4840",
+            "dialogue": [
+                "女：一个编辑需要有耐心，她的个性倒是挺符合。",
+                "男：她办的那个刊物我也看了，虽然不专业，但选的稿件也有出彩的。"
+            ],
+            "query": "对话双方提到的女孩有什么特点?",
+            "choices": [
+                "有个性",
+                "爱撒谎",
+                "有耐心",
+                "喜欢美食"
+            ],
+            "gold": "有耐心"
+        },
+        "options": [
+            "ᠥᠪᠡᠷ ᠦᠨ ᠬᠡᠪ ᠨᠠᠮᠪᠠ ᠲᠠᠢ",
+            "ᠬᠤᠳᠠᠯ ᠬᠡᠯᠡᠳᠡᠭ",
+            "ᠲᠡᠰᠪᠦᠷᠢ ᠲᠡᠢ",
+            "ᠠᠮᠲᠠᠲᠠᠢ ᠢᠳᠡᠭᠡᠨ ᠳᠦ ᠳᠤᠷᠠᠲᠠᠢ"
+        ],
+        "question": "ᠶᠠᠷᠢᠯᠴᠠᠭᠠᠨ ᠠᠴᠠ ᠳᠤᠷᠠᠳᠤᠭᠳᠠᠭᠰᠠᠨ ᠬᠡᠤᠬᠡᠨ ᠤ ᠶᠠᠮᠠᠷ ᠣᠨᠴᠠᠯᠢᠭ ᠢ ᠮᠡᠳᠡᠵᠦ ᠪᠣᠯᠬᠤ ᠪᠣᠢ ?",
+        "answer": "C",
+        "context": [
+            "ᠡᠮᠡᠭ᠍ᠲᠡᠢ᠄ ᠨᠢᠭᠡ ᠨᠠᠢᠢᠷᠠᠭᠤᠯᠤᠭ᠌ᠴᠢ ᠬᠥᠮᠥᠨ ᠪᠣᠯᠣᠭᠰᠠᠨ ᠤ ᠬᠤᠪᠢ ᠳᠤ ᠲᠡᠰᠪᠦᠷᠢ ᠬᠡᠷᠡᠭ᠍ᠲᠡᠢ᠂ ᠲᠡᠭᠦᠨ ᠦ ᠬᠡᠪ ᠨᠠᠮᠪᠠ ᠨᠢ ᠬᠠᠷᠢᠨ ᠶᠡᠬᠡ ᠲᠣᠬᠢᠷᠠᠵᠠᠢ᠃ ",
+            "ᠡᠷᠡᠭ᠍ᠲᠡᠢ᠄  ᠲᠡᠭᠦᠨ ᠦ ᠡᠷᠭᠢᠯᠡᠭ᠍ᠰᠡᠨ ᠲᠡᠷᠡ ᠰᠡᠳᠬᠦᠯ ᠢ ᠪᠢ ᠦᠵᠡᠭ᠍ᠰᠡᠨ ᠡ᠂ ᠬᠡᠳᠦᠢᠪᠡᠷ ᠮᠡᠷᠭᠡᠵᠢᠯ ᠦᠨ ᠪᠢᠰᠢ ᠪᠣᠯᠪᠠᠴᠤ ᠰᠣᠩᠭᠣᠭᠰᠠᠨ ᠵᠣᠬᠢᠶᠠᠯ ᠨᠢ ᠣᠨᠴᠠᠭᠠᠢ ᠪᠠᠢᠭᠰᠠᠨ᠃ "
+        ],
+        "en_trans": {
+            "dialogue": [
+                "Woman: An editor needs to be patient, and her personality fits quite well.",
+                "Man: I've also read the publication she manages. Although it's not professional, there are some outstanding articles."
+            ],
+            "query": "What characteristics do the two people in the dialogue mention about the girl?",
+            "choices": [
+                "Has personality",
+                "Loves to lie",
+                "Is patient",
+                "Likes gourmet food"
+            ],
+            "gold": "Is patient"
+        }
+    },
+    {
+        "id": "rc_mn_178",
+        "zh_trans": {
+            "id": "c3_2390",
+            "dialogue": [
+                "女：您很久以前就获得律师执照了吧?",
+                "男：大学一毕业我就参加了律师资格考试，通过之后就拿到了。"
+            ],
+            "query": "关于男的，可以知道什么?",
+            "choices": [
+                "已经有律师执照了",
+                "打算参加资格考试",
+                "希望女的通过考试",
+                "大学时学的是法律"
+            ],
+            "gold": "已经有律师执照了"
+        },
+        "options": [
+            "ᠨᠢᠭᠡᠨᠲᠡ ᠬᠠᠤᠯᠢᠴᠢ ᠶᠢᠨ ᠦᠨᠡᠮᠯᠡᠯ ᠲᠡᠢ ᠪᠣᠯᠵᠠᠢ",
+            "ᠬᠢᠷᠢ ᠬᠡᠮ ᠦᠨ ᠰᠢᠯᠭᠠᠯᠲᠠᠨ ᠳᠤ ᠣᠷᠣᠯᠴᠠᠬᠤ ᠰᠠᠨᠠᠭ᠎ᠠ ᠲᠠᠢ",
+            "ᠡᠮᠡᠭ᠍ᠲᠡᠢ ᠶᠢ ᠰᠢᠯᠭᠠᠯᠲᠠᠨ ᠳᠤ ᠪᠠᠨ ᠲᠡᠩᠴᠡᠬᠦ ᠶᠢ ᠬᠦᠰᠡᠵᠦ ᠪᠠᠢᠨ᠎ᠠ",
+            "ᠶᠡᠬᠡ ᠰᠤᠷᠭᠠᠭᠤᠯᠢ ᠳᠤ ᠪᠠᠨ ᠬᠠᠤᠯᠢ ᠶᠢᠨ ᠤᠬᠠᠭᠠᠨ ᠰᠤᠷᠴᠠᠢ"
+        ],
+        "question": "ᠡᠷᠡᠭ᠍ᠲᠡᠢ ᠶᠢᠨ ᠲᠤᠬᠠᠢ ᠶᠠᠭᠤ ᠶᠢ ᠮᠡᠳᠡᠵᠦ ᠪᠣᠯᠬᠤ ᠪᠣᠢ ?",
+        "answer": "A",
+        "context": [
+            "ᠡᠮᠡᠭ᠍ᠲᠡᠢ᠄ ᠲᠠ ᠠᠯᠢ ᠡᠷᠲᠡ ᠬᠠᠤᠯᠢᠴᠢ ᠶᠢᠨ ᠦᠨᠡᠮᠯᠡᠯ ᠢᠶᠡᠨ ᠠᠪᠴᠢᠬᠠᠭᠰᠠᠨ ᠪᠢᠵᠡ ?  ",
+            "ᠡᠷᠡᠭ᠍ᠲᠡᠢ᠄ ᠶᠡᠬᠡ ᠰᠤᠷᠭᠠᠭᠤᠯᠢ ᠲᠡᠭᠦᠰᠦᠩᠭᠦᠲᠡ ᠬᠢᠷᠢ ᠬᠡᠮ ᠦᠨ ᠰᠢᠯᠭᠠᠯᠲᠠᠨ ᠳᠤ ᠣᠷᠣᠯᠴᠠᠭᠠᠳ᠂ ᠰᠢᠯᠭᠠᠯᠲᠠᠨ ᠳᠤ ᠪᠠᠨ ᠲᠡᠩᠴᠡᠭᠡᠳ ᠠᠪᠴᠢᠬᠠᠭᠰᠠᠨ ᠡ᠃ "
+        ],
+        "en_trans": {
+            "dialogue": [
+                "Woman: You obtained your lawyer's license a long time ago, didn't you?",
+                "Man: I took the bar exam right after graduating from university, and I got it after passing."
+            ],
+            "query": "What do we know about the man?",
+            "choices": [
+                "He already has a lawyer's license",
+                "He plans to take the bar exam",
+                "He hopes the woman passes the exam",
+                "He studied law in university"
+            ],
+            "gold": "He already has a lawyer's license"
+        }
+    },
+    {
+        "id": "rc_mn_95",
+        "zh_trans": {
+            "id": "c3_3105",
+            "dialogue": [
+                "男：我每星期总有六七天不想上班。",
+                "女：啊?那我们换换吧，你在家里洗衣服做饭，我去上班。",
+                "男：那还不如上班舒服呢。",
+                "女：所以还是再努努力，到了周末好好休息吧。"
+            ],
+            "query": "男的最后决定做什么?",
+            "choices": [
+                "洗衣服",
+                "上班",
+                "做饭"
+            ],
+            "gold": "上班"
+        },
+        "options": [
+            "ᠬᠤᠪᠴᠠᠰᠤ ᠤᠬᠢᠶᠠᠬᠤ",
+            "ᠠᠵᠢᠯ  ᠳᠦ ᠭᠠᠷᠬᠤ",
+            "ᠬᠣᠭᠣᠯᠠ ᠬᠢᠬᠦ"
+        ],
+        "question": "ᠡᠷᠡᠭᠲᠡᠶ ᠨᠢ ᠡᠴᠦᠰ ᠲᠡᠬᠡᠨ ᠶᠠᠭᠤ ᠬᠢᠬᠦ ᠪᠡᠷ ᠰᠢᠶᠳᠦᠭᠰᠡᠨ ᠪᠤᠶ?",
+        "answer": "B",
+        "context": [
+            "ᠡᠷᠡᠭ᠍ᠲᠡᠢ᠄ ᠪᠢ ᠭᠠᠷᠠᠭ ᠪᠦᠷᠢ  ᠶᠢᠨ ᠵᠢᠷᠭᠤᠭ᠎ᠠ ᠳᠣᠯᠣᠭᠠᠨ ᠡᠳᠦᠷ ᠨᠢ ᠠᠵᠢᠯᠯᠠᠬᠤ ᠳᠤᠷ᠎ᠠ ᠦᠭᠡᠢ ᠃",
+            "ᠡᠮᠡᠭ᠍ᠲᠡᠢ᠄ ᠠ? ᠲᠡᠭᠡᠪᠡᠯ ᠪᠢᠳᠡ ᠰᠣᠯᠢᠶ᠎ᠠ ᠂ ᠴᠢ ᠭᠡᠷ ᠲᠡᠬᠡᠨ ᠬᠤᠪᠴᠠᠰᠤ ᠤᠬᠢᠶᠠᠵᠤ ᠬᠣᠭᠣᠯᠠ ᠪᠡᠯᠡᠳᠳᠡ᠂ ᠪᠢ ᠠᠵᠢᠯᠯᠠᠬᠤ ᠪᠠᠷ ᠶᠠᠪᠤᠶ᠎ᠠ ᠃",
+            "ᠡᠷᠡᠭ᠍ᠲᠡᠢ᠄ ᠲᠡᠭᠡᠪᠡᠯ ᠠᠵᠢᠯ  ᠳᠦ ᠭᠠᠷᠬᠤ  ᠶᠢ ᠬᠦᠷᠬᠦ ᠦᠭᠡᠢ  ᠃",
+            "ᠡᠮᠡᠭ᠍ᠲᠡᠢ᠄ ᠡᠶᠢᠮᠦ ᠡᠴᠡ ᠬᠠᠰᠢᠯᠠ ᠴᠢᠷᠮᠠᠢᠵᠤ ᠂ ᠭᠠᠷᠠᠭ  ᠤᠨ ᠰᠡᠭᠦᠯᠴᠢ ᠪᠣᠯᠪᠠᠯ ᠰᠠᠶᠢᠬᠠᠨ ᠠᠮᠠᠷᠠ ᠃"
+        ],
+        "en_trans": {
+            "dialogue": [
+                "Man: There are six or seven days every week that I don't want to go to work.",
+                "Woman: Huh? Then let's switch. You stay home to do the laundry and cook, and I'll go to work.",
+                "Man: That would be even less comfortable than going to work.",
+                "Woman: So, just keep working hard, and take a good rest on the weekend."
+            ],
+            "query": "What does the man finally decide to do?",
+            "choices": [
+                "Do the laundry",
+                "Go to work",
+                "Cook"
+            ],
+            "gold": "Go to work"
+        }
+    },
+    {
+        "id": "rc_mn_106",
+        "zh_trans": {
+            "id": "c3_1778",
+            "dialogue": [
+                "女：我要去超市买牙刷和毛巾，你去不去？",
+                "男：不去，你顺便给我买点儿水果。"
+            ],
+            "query": "男的让女的干什么？",
+            "choices": [
+                "去超市",
+                "买水果",
+                "买毛巾",
+                "买牙刷"
+            ],
+            "gold": "买水果"
+        },
+        "options": [
+            "ᠳᠡᠯᠭᠡᠭᠦᠷ ᠲᠦ ᠶᠠᠪᠤᠭᠤᠯᠤᠨ᠎ᠠ",
+            "ᠵᠢᠮᠢᠰ ᠠᠪᠤᠭᠤᠯᠤᠨ᠎ᠠ",
+            "ᠠᠯᠴᠢᠭᠤᠷ ᠠᠪᠤᠭᠤᠯᠤᠨ᠎ᠠ",
+            "ᠰᠢᠳᠦᠨ ᠱᠤᠸᠠᠰᠠ ᠠᠪᠤᠭᠤᠯᠤᠨ᠎ᠠ"
+        ],
+        "question": "ᠡᠷᠡᠭ᠍ᠲᠡᠢ ᠡᠮᠡᠭ᠍ᠲᠡᠢ ᠪᠡᠷ ᠶᠠᠭᠤ ᠬᠢᠯᠭᠡᠬᠦ ᠭᠡᠵᠦ ᠪᠠᠢᠭ᠎ᠠ ᠪᠣᠢ ?",
+        "answer": "B",
+        "context": [
+            "ᠡᠮᠡᠭ᠍ᠲᠡᠢ᠄ ᠪᠢ ᠳᠡᠯᠭᠡᠭᠦᠷ  ᠠᠴᠠ ᠰᠢᠳᠤᠨ ᠱᠤᠸᠠᠰᠠ ᠪᠣᠯᠣᠨ ᠠᠯᠴᠢᠭᠤᠷ ᠠᠪᠬᠤ ᠪᠠᠷ ᠶᠠᠪᠤᠨ᠎ᠠ᠃ ᠴᠢ ᠶᠠᠪᠤᠨ᠎ᠠ ᠤᠤ ? ",
+            "ᠡᠷᠡᠭ᠍ᠲᠡᠢ᠄ ᠶᠠᠪᠤᠬᠤ ᠦᠭᠡᠢ᠂ ᠴᠢ ᠳᠠᠭᠠᠤ ᠳᠤ ᠨᠢ ᠨᠠᠳᠠ ᠳᠤ ᠪᠠᠭ᠎ᠠ ᠰᠠᠭ᠎ᠠ ᠵᠢᠮᠢᠰ ᠠᠪᠴᠢᠷᠠᠭᠠᠳ ᠥᠭ᠃ "
+        ],
+        "en_trans": {
+            "dialogue": [
+                "Woman: I'm going to the supermarket to buy a toothbrush and a towel. Are you coming?",
+                "Man: No, please buy some fruit for me while you're there."
+            ],
+            "query": "What did the man ask the woman to do?",
+            "choices": [
+                "Go to the supermarket",
+                "Buy fruit",
+                "Buy a towel",
+                "Buy a toothbrush"
+            ],
+            "gold": "Buy fruit"
+        }
+    },
+    {
+        "id": "rc_mn_47",
+        "zh_trans": {
+            "id": "c3_3639",
+            "dialogue": [
+                "男：现在正好9点半，恐怕我得走了。",
+                "女：急什么呀，离飞机起飞时间还有2个多小时呢!"
+            ],
+            "query": "男的为什么要急着走?",
+            "choices": [
+                "怕再打扰女的",
+                "害怕误了飞机",
+                "害怕天太晚了",
+                "看错时间了"
+            ],
+            "gold": "害怕误了飞机"
+        },
+        "options": [
+            "ᠡᠮᠡᠭᠲᠡᠢ  ᠶᠢ ᠳᠠᠬᠢᠨ ᠦᠢᠮᠡᠭᠦᠯᠬᠦ ᠡᠴᠡ ᠠᠶᠤᠨ᠎ᠠ",
+            "ᠨᠢᠰᠬᠡᠯ ᠡᠴᠡ ᠬᠣᠴᠣᠷᠬᠤ  ᠡᠴᠡ ᠠᠶᠤᠨ᠎ᠠ",
+            "ᠳᠡᠩᠳᠡᠭᠦᠦ ᠣᠷᠣᠢ ᠪᠣᠯᠬᠤ  ᠡᠴᠡ  ᠠᠶᠤᠨ᠎ᠠ",
+            "ᠴᠠᠭ  ᠢ ᠪᠤᠷᠤᠭᠤ ᠦᠵᠡᠪᠡ"
+        ],
+        "question": "ᠡᠷᠡᠭᠲᠡᠶ ᠨᠢ ᠶᠠᠭᠤᠨ  ᠳᠦ ᠶᠠᠪᠤᠬᠤ ᠪᠠᠷ ᠶᠠᠭᠠᠷᠠᠵᠤ  ᠪᠠᠢᠬᠤ ᠪᠤᠢ?",
+        "answer": "B",
+        "context": [
+            "ᠡᠷᠡᠭ᠍ᠲᠡᠢ᠄ ᠣᠳᠣ ᠶᠠᠭ ᠶᠢᠰᠦᠨ ᠴᠠᠭ ᠬᠠᠭᠠᠰ ᠪᠣᠯᠵᠤ ᠪᠠᠢ᠌ᠨ᠎ᠠ ᠂ ᠪᠢ ᠣᠳᠣ ᠶᠠᠪᠤᠬᠤ ᠬᠡᠷᠡᠭᠲᠡᠶ ᠪᠣᠯᠤᠭᠰᠠᠨ  ᠪᠠᠢᠨ᠎ᠠ ᠃",
+            "ᠡᠮᠡᠭ᠍ᠲᠡᠢ᠄ ᠶᠠᠭᠤᠨ  ᠳᠦ ᠶᠠᠭᠠᠷᠠᠵᠤ  ᠪᠠᠢᠬᠤ ᠪᠤᠢ ᠂ ᠨᠢᠰᠬᠡᠯ  ᠤᠨ ᠨᠢᠰᠬᠦ ᠴᠠᠭ ᠠᠴᠠ ᠪᠠᠰᠠ ᠬᠣᠶᠠᠷ ᠴᠠᠭ ᠢᠯᠡᠭᠦᠦ  ᠪᠠᠢᠨ᠎ᠠ!"
+        ],
+        "en_trans": {
+            "dialogue": [
+                "Man: It's exactly 9:30 now, I'm afraid I have to leave.",
+                "Woman: What's the rush? There are still more than two hours until the flight takes off!"
+            ],
+            "query": "Why does the man want to leave in a hurry?",
+            "choices": [
+                "Afraid of disturbing the woman further",
+                "Afraid of missing the flight",
+                "Afraid it will be too late",
+                "Miscalculated the time"
+            ],
+            "gold": "Afraid of missing the flight"
+        }
+    },
+    {
+        "id": "rc_mn_223",
+        "zh_trans": {
+            "id": "c3_284",
+            "dialogue": [
+                "女：小明，你能帮我开一下门吗?我买了很多东西，开门不方便。",
+                "男：稍等，我马上就来。"
+            ],
+            "query": "根据对话，可以知道什么?",
+            "choices": [
+                "钥匙丢了",
+                "男的不在家",
+                "他们到家了",
+                "女的买了很多东西"
+            ],
+            "gold": "女的买了很多东西"
+        },
+        "options": [
+            "ᠲᠦᠯᠬᠢᠭᠦᠷ  ᠢᠶᠠᠨ ᠭᠡᠭᠡᠪᠡ",
+            "ᠡᠷᠡᠭᠲᠡᠢ ᠨᠢ ᠭᠡᠷ ᠲᠡᠬᠡᠨ ᠪᠠᠶᠢᠬᠤ ᠦᠭᠡᠢ",
+            "ᠲᠡᠳᠡ ᠭᠡᠷ ᠲᠦ  ᠪᠠᠨ ᠬᠦᠷᠪᠡ",
+            "ᠡᠮᠡᠭᠲᠡᠢ ᠣᠯᠠᠨ ᠶᠠᠭᠤᠮ᠎ᠠ ᠬᠤᠳᠠᠯᠳᠤᠨ ᠠᠪᠴᠠᠢ"
+        ],
+        "question": "ᠶᠠᠷᠢᠯᠴᠠᠭ᠎ᠠ ᠶᠢ ᠦᠨᠳᠦᠰᠦᠯᠡᠪᠡᠯ ᠶᠠᠭᠤ  ᠶᠢ ᠮᠡᠳᠡᠵᠦ  ᠣᠯᠬᠤ ᠪᠤᠢ?",
+        "answer": "D",
+        "context": [
+            "ᠡᠮᠡᠭ᠍ᠲᠡᠢ᠄ ᠰᠢᠶᠣᠤ ᠮᠢᠩ ᠂ ᠴᠢ ᠨᠠᠳᠠ  ᠳᠦ ᠡᠭᠦᠳᠡ  ᠶᠢ ᠨᠡᠭᠡᠭᠡᠭᠡᠳ ᠥᠭᠭᠦᠨ᠎ᠡ  ᠦᠦ? ᠪᠢ ᠮᠠᠰᠢ ᠣᠯᠠᠨ ᠶᠠᠭᠤᠮ᠎ᠠ ᠬᠤᠳᠠᠯᠳᠤᠨ ᠠᠪᠴᠠᠶ ᠂ ᠡᠭᠦᠳᠡ ᠪᠡᠨ ᠨᠡᠭᠡᠭᠡᠬᠦ  ᠳᠦ ᠳᠥᠭᠥᠮ ᠦᠭᠡᠢ ᠃",
+            "ᠡᠷᠡᠭ᠍ᠲᠡᠢ᠄ ᠲᠦᠷ ᠬᠦᠯᠢᠶᠡᠵᠦ ᠪᠠᠶ ᠂ ᠪᠢ ᠣᠳᠣᠬᠠᠨ ᠢᠷᠡᠶ᠎ᠡ ᠃"
+        ],
+        "en_trans": {
+            "dialogue": [
+                "Woman: Xiao Ming, can you help me open the door? I've bought a lot of things, and it's inconvenient for me to open it.",
+                "Man: Hold on, I'll be right there."
+            ],
+            "query": "According to the dialogue, what can be inferred?",
+            "choices": [
+                "The key is lost",
+                "The man is not at home",
+                "They have arrived home",
+                "The woman bought a lot of things"
+            ],
+            "gold": "The woman bought a lot of things"
+        }
+    },
+    {
+        "id": "rc_mn_192",
+        "zh_trans": {
+            "id": "c3_702",
+            "dialogue": [
+                "女：我们还是坐别的电梯吧，你看电梯门上写着“货梯”。",
+                "男：好吧，去那边吧。"
+            ],
+            "query": "他们为什么不坐这个电梯？",
+            "choices": [
+                "太旧了",
+                "是货梯",
+                "电梯坏了",
+                "他们去二层"
+            ],
+            "gold": "是货梯"
+        },
+        "options": [
+            "ᠬᠡᠲᠦᠷᠬᠡᠢ ᠬᠠᠭᠤᠴᠢᠨ",
+            "ᠪᠠᠷᠠᠭᠠᠨ ᠤ ᠱᠠᠲᠤ",
+            "ᠡᠪᠳᠡᠷᠬᠡᠢ",
+            "ᠲᠡᠳᠡ ᠬᠣᠶᠠᠳᠤᠭᠠᠷ ᠳᠠᠪᠬᠤᠷᠭ᠎ᠠ ᠳᠡᠭᠡᠷ᠎ᠡ ᠭᠠᠷᠤᠨ᠎ᠠ"
+        ],
+        "question": "ᠲᠡᠳᠡ ᠶᠠᠭᠤᠨ ᠳᠤ ᠡᠨᠡ ᠱᠠᠲᠤ ᠪᠠᠷ ᠶᠠᠪᠤᠬᠤ ᠦᠭᠡᠢ ᠪᠣᠢ ?",
+        "answer": "B",
+        "context": [
+            "ᠡᠮᠡᠭ᠍ᠲᠡᠢ᠄ ᠪᠢᠳᠡ ᠬᠠᠰᠢᠯᠠ ᠥᠭᠡᠷ᠎ᠡ ᠴᠠᠬᠢᠯᠭᠠᠨ ᠱᠠᠲᠤ ᠪᠠᠷ ᠶᠠᠪᠤᠶ᠎ᠠ᠂ ᠴᠢ ᠡᠨᠡ ᠶᠢ ᠬᠠᠷᠠ ᠳ᠋ᠠ ᠪᠠᠷᠠᠭᠠᠨ ᠤ ᠱᠠᠲᠤ  ᠭᠡᠵᠦ ᠪᠢᠴᠢᠵᠦ ᠪᠠᠢᠨ᠎ᠠ᠃ ",
+            "ᠡᠷᠡᠭ᠍ᠲᠡᠢ᠄ ᠪᠣᠯᠣᠨ᠎ᠠ᠂ ᠲᠡᠢᠰᠢ ᠪᠡᠨ ᠶᠠᠪᠤᠶ᠎ᠠ᠃ "
+        ],
+        "en_trans": {
+            "dialogue": [
+                "Woman: Let's take another elevator, you see the elevator door says 'Freight Elevator'.",
+                "Man: Alright, let's go over there."
+            ],
+            "query": "Why don't they take this elevator?",
+            "choices": [
+                "Too old",
+                "It's a freight elevator",
+                "The elevator is broken",
+                "They are going to the second floor"
+            ],
+            "gold": "It's a freight elevator"
+        }
+    },
+    {
+        "id": "rc_mn_40",
+        "zh_trans": {
+            "id": "c3_1375",
+            "dialogue": [
+                "女：这是局长交代的事，你总不能不给面子吧?",
+                "男：什么局长不局长的，我管他是谁呢!"
+            ],
+            "query": "男的是什么态度?",
+            "choices": [
+                "缓和",
+                "委婉",
+                "勉强",
+                "强硬"
+            ],
+            "gold": "强硬"
+        },
+        "options": [
+            "ᠵᠥᠭᠡᠯᠡᠨ",
+            "ᠡᠪᠯᠢᠭ",
+            "ᠠᠷᠠᠶ ᠴᠢᠷᠠᠶ",
+            "ᠬᠠᠲᠠᠭᠤ ᠰᠢᠷᠦᠭᠦᠨ"
+        ],
+        "question": "ᠡᠷᠡᠭᠲᠡᠶ ᠨᠢ ᠶᠠᠮᠠᠷ ᠣᠪᠣᠷ ᠲᠠᠶ ᠪᠤᠢ?",
+        "answer": "D",
+        "context": [
+            "ᠡᠮᠡᠭ᠍ᠲᠡᠢ᠄ ᠡᠨᠡ ᠪᠣᠯ ᠲᠣᠪᠴᠢᠶᠠᠨ ᠳᠠᠷᠤᠭ᠎ᠠ  ᠶᠢᠨ ᠲᠤᠰᠢᠶᠠᠭᠰᠠᠨ ᠤᠴᠢᠷ ᠂ ᠴᠢ ᠨᠢᠭᠤᠷ ᠥᠭᠬᠦ ᠦᠭᠡᠢ ᠪᠠᠶᠢᠵᠤ ᠪᠣᠯᠬᠤ ᠦᠭᠡᠢ ᠪᠢᠵᠡ?",
+            "ᠡᠷᠡᠭ᠍ᠲᠡᠢ᠄ ᠶᠠᠭᠤᠨ  ᠤ ᠲᠣᠪᠴᠢᠶᠠᠨ ᠳᠠᠷᠤᠭ᠎ᠠ ᠪᠤᠢ ᠂ ᠪᠢ ᠲᠡᠭᠦᠨ  ᠢ ᠬᠡᠨ ᠭᠡᠬᠦ  ᠶᠢ ᠬᠠᠮᠢᠶᠠᠷᠬᠤ  ᠦᠭᠡᠢ!"
+        ],
+        "en_trans": {
+            "dialogue": [
+                "Woman: This is something the director has instructed, you can't just not give him face?",
+                "Man: What director or not, I don't care who he is!"
+            ],
+            "query": "What is the man's attitude?",
+            "choices": [
+                "Conciliatory",
+                "Tactful",
+                "Reluctant",
+                "Tough"
+            ],
+            "gold": "Tough"
+        }
+    },
+    {
+        "id": "rc_mn_135",
+        "zh_trans": {
+            "id": "c3_719",
+            "dialogue": [
+                "男：我喜欢你。",
+                "女：恐怕你不是只喜欢我吧!",
+                "男：你怎么这么说?",
+                "女：这得问你自己，你心里比谁都清楚!"
+            ],
+            "query": "女的什么语气?",
+            "choices": [
+                "怀疑",
+                "高兴",
+                "愤怒",
+                "悲伤"
+            ],
+            "gold": "愤怒"
+        },
+        "options": [
+            "ᠰᠡᠵᠢᠭ᠍ᠯᠡᠭ᠍ᠰᠡᠨ",
+            "ᠪᠠᠶᠠᠷᠯᠠᠭᠰᠠᠨ",
+            "ᠠᠭᠤᠷᠯᠠᠭᠰᠠᠨ",
+            "ᠭᠤᠨᠢᠭ᠌ᠯᠠᠭᠰᠠᠨ"
+        ],
+        "question": "ᠡᠮᠡᠭ᠍ᠲᠡᠢ ᠶᠠᠮᠠᠷ ᠠᠶᠠᠰ ᠢᠶᠠᠷ ᠶᠠᠷᠢᠪᠠ ?",
+        "answer": "C",
+        "context": [
+            "ᠡᠷᠡᠭ᠍ᠲᠡᠢ᠄ ᠪᠢ ᠴᠢᠮ᠎ᠠ ᠶᠢ ᠲᠣᠭᠣᠨ᠎ᠠ᠃ ",
+            "ᠡᠮᠡᠭ᠍ᠲᠡᠢ᠄ ᠪᠢ ᠪᠣᠳᠣᠪᠠᠯ ᠴᠢ ᠵᠥᠪᠬᠡᠨ ᠨᠠᠮ᠎ᠠ ᠶᠢ ᠲᠣᠭᠣᠬᠤ ᠪᠢᠰᠢ ᠪᠠᠢᠬ᠎ᠠ᠃ ",
+            "ᠡᠷᠡᠭ᠍ᠲᠡᠢ᠄ ᠴᠢ ᠶᠠᠭᠠᠬᠢᠭᠠᠳ ᠢᠩᠭᠢᠵᠦ ᠬᠡᠯᠡᠵᠦ ᠪᠠᠢᠬᠤ ᠶᠤᠮ ? ",
+            "ᠡᠮᠡᠭ᠍ᠲᠡᠢ᠄ ᠴᠢ ᠥᠪᠡᠷ ᠡᠴᠡ ᠪᠡᠨ ᠠᠰᠠᠭᠤ᠂ ᠴᠢ ᠬᠡᠨ ᠡᠴᠡ ᠢᠯᠡᠭᠦᠦ ᠳᠣᠲᠣᠷ᠎ᠠ ᠪᠠᠨ ᠲᠣᠭ᠎ᠠ ᠲᠠᠢ !"
+        ],
+        "en_trans": {
+            "dialogue": [
+                "Man: I like you.",
+                "Woman: I'm afraid you don't only like me, right!",
+                "Man: Why do you say that?",
+                "Woman: You should ask yourself, you know better than anyone!"
+            ],
+            "query": "What is the woman's tone?",
+            "choices": [
+                "Suspicious",
+                "Happy",
+                "Angry",
+                "Sad"
+            ],
+            "gold": "Angry"
+        }
+    },
+    {
+        "id": "rc_mn_132",
+        "zh_trans": {
+            "id": "c3_1843",
+            "dialogue": [
+                "男：你好!我是建筑公司的王励。",
+                "女：您好!我能帮您什么忙吗?",
+                "男：哦，我要见你们的主管厂长，结工程款。",
+                "女：您约好了吗，王先生?",
+                "男：没有，他现在可以见我吗?",
+                "女：恐怕不行，厂长正开会呢。",
+                "男：那他什么时候有空儿?",
+                "女：这说不好，他一直很忙。",
+                "男：是吗?那我去找他。",
+                "女：等等，王先生，你等等……"
+            ],
+            "query": "根据对话可知，主管厂长怎么样?",
+            "choices": [
+                "整天都在开会",
+                "不想见王先生",
+                "工作一直很忙",
+                "现在不在厂里"
+            ],
+            "gold": "不想见王先生"
+        },
+        "options": [
+            "ᠡᠳᠦᠷᠵᠢᠨ ᠬᠤᠷᠠᠯ ᠣᠯᠠᠨᠲᠠᠢ",
+            "ᠸᠠᠩ ᠠᠪᠤᠭᠠᠢ ᠲᠠᠢ ᠠᠭᠤᠯᠵᠠᠬᠤ ᠰᠠᠨᠠᠭ᠎ᠠ ᠦᠭᠡᠢ",
+            "ᠠᠵᠢᠯ ᠨᠢ ᠶᠠᠭᠠᠷᠠᠤ",
+            "ᠣᠲᠣ ᠦᠢᠯᠡᠳᠪᠦᠷᠢ ᠳᠦ ᠪᠡᠨ ᠪᠠᠢᠬᠤ ᠦᠭᠡᠢ"
+        ],
+        "question": "ᠲᠣᠰ ᠶᠠᠷᠢᠯᠴᠠᠭᠠᠨ ᠠᠴᠠ ᠮᠡᠳᠡᠵᠦ ᠪᠣᠯᠬᠤ ᠨᠢ᠂ ᠦᠢᠯᠡᠳᠪᠦᠷᠢ ᠶᠢᠨ ᠬᠠᠮᠢᠶᠠᠷᠤᠭ᠌ᠴᠢ ᠶᠠᠭᠠᠬᠢᠭ᠌ᠰᠠᠨ ᠪᠣᠢ ?",
+        "answer": "B",
+        "context": [
+            "ᠡᠷᠡᠭ᠍ᠲᠡᠢ᠄ ᠰᠠᠢᠨ ᠤᠤ !ᠪᠢ ᠪᠣᠯ ᠪᠠᠷᠢᠯᠭ᠎ᠠ ᠶᠢᠨ ᠺᠣᠮᠫᠠᠨᠢ ᠶᠢᠨ ᠸᠠᠩ ᠯᠢ᠃ ",
+            "ᠡᠮᠡᠭ᠍ᠲᠡᠢ᠄ ᠰᠠᠢᠨ ᠤᠤ ! ᠪᠢ ᠲᠠᠨ ᠳᠤ ᠶᠠᠭᠠᠬᠢᠵᠤ ᠲᠤᠰᠠᠯᠠᠬᠤ ᠪᠣᠢ ? ",
+            "ᠡᠷᠡᠭ᠍ᠲᠡᠢ᠄ ᠥ᠂ ᠪᠢ ᠲᠠᠨ ᠤ ᠦᠢᠯᠡᠳᠪᠦᠷᠢ ᠶᠢᠨ ᠭᠣᠣᠯ ᠬᠠᠮᠢᠶᠠᠷᠤᠭ᠌ᠴᠢ ᠲᠠᠢ ᠠᠭᠤᠯᠵᠠᠶ᠎ᠠ᠃ ᠢᠨᠵᠧᠨᠧᠷᠢᠩ ᠦᠨ ᠵᠣᠭᠣᠰ ᠢᠶᠠᠨ ᠳ᠋ᠦᠩᠨᠡᠨ ᠪᠣᠳᠣᠶ᠎ᠠ ",
+            "ᠡᠮᠡᠭ᠍ᠲᠡᠢ᠄ ᠸᠠᠩ ᠠᠪᠤᠭᠠᠢ᠂ ᠲᠠ ᠪᠣᠯᠵᠣᠴᠢᠬᠠᠭᠰᠠᠨ ᠤᠤ ? ",
+            "ᠡᠷᠡᠭ᠍ᠲᠡᠢ᠄ ᠦᠭᠡᠢ᠂ ᠲᠡᠷᠡ ᠣᠳᠣ ᠨᠠᠳᠠ ᠲᠠᠢ ᠠᠭᠤᠯᠵᠠᠵᠤ ᠪᠣᠯᠣᠨ᠎ᠠ ᠤᠤ ? ",
+            "ᠡᠮᠡᠭ᠍ᠲᠡᠢ᠄ ᠪᠣᠯᠬᠤ ᠦᠭᠡᠢ ᠪᠠᠢᠬ᠎ᠠ᠂ ᠦᠢᠯᠡᠳᠪᠦᠷᠢ ᠶᠢᠨ ᠳᠠᠷᠤᠭ᠎ᠠ ᠶᠠᠭ ᠬᠤᠷᠠᠯ ᠬᠢᠵᠦ ᠪᠠᠢᠨ᠎ᠠ᠃ ",
+            "ᠡᠷᠡᠭ᠍ᠲᠡᠢ᠄ ᠲᠡᠭᠡᠪᠡᠯ ᠲᠡᠷᠡ ᠬᠡᠵᠢᠶ᠎ᠡ ᠵᠠᠪ ᠲᠠᠢ ᠪᠣᠢ ? ",
+            "ᠡᠮᠡᠭ᠍ᠲᠡᠢ᠄ ᠡᠨᠡ ᠶᠢ ᠬᠡᠯᠡᠵᠦ ᠮᠡᠳᠡᠬᠦ ᠦᠭᠡᠢ᠂ ᠲᠡᠷᠡ ᠦᠷᠭᠦᠯᠵᠢ ᠶᠠᠭᠠᠷᠠᠤ᠃ ",
+            "ᠡᠷᠡᠭ᠍ᠲᠡᠢ᠄ ᠲᠡᠢᠮᠦ ᠤᠤ ? ᠲᠡᠭᠡᠪᠡᠯ ᠪᠢ ᠲᠡᠭᠦᠨ ᠢ ᠡᠷᠢᠬᠦ ᠪᠡᠷ ᠣᠴᠢᠶ᠎ᠠ᠃ ",
+            "ᠡᠮᠡᠭ᠍ᠲᠡᠢ᠄ ᠬᠦᠯᠢᠶᠡᠵᠦ ᠪᠠᠢᠭᠠᠷᠠᠢ᠂ ᠸᠠᠩ ᠠᠪᠤᠭᠠᠢ᠂ ᠲᠠ ᠬᠦᠯᠢᠶᠡᠵᠦ ᠪᠠᠢ ᠁ "
+        ],
+        "en_trans": {
+            "dialogue": [
+                "Man: Hello! I'm Wang Li from the construction company.",
+                "Woman: Hello! How can I help you?",
+                "Man: Oh, I need to see your manager to settle the project payment.",
+                "Woman: Do you have an appointment, Mr. Wang?",
+                "Man: No, can he see me now?",
+                "Woman: I'm afraid not, the manager is in a meeting.",
+                "Man: Then when will he be available?",
+                "Woman: It's hard to say, he's always busy.",
+                "Man: Is that so? Then I'll go find him.",
+                "Woman: Wait, Mr. Wang, wait..."
+            ],
+            "query": "According to the dialogue, how is the manager?",
+            "choices": [
+                "In meetings all day",
+                "Doesn't want to meet Mr. Wang",
+                "Always busy with work",
+                "Not in the factory right now"
+            ],
+            "gold": "Doesn't want to meet Mr. Wang"
+        }
+    },
+    {
+        "id": "rc_mn_14",
+        "zh_trans": {
+            "id": "c3_1012",
+            "dialogue": [
+                "男：谁的广告花钱多，谁的产品就卖得好。",
+                "女：那不一定吧，只有提高产品质量才能得到顾客的信任。"
+            ],
+            "query": "女的认为产品销售最重要的是什么?",
+            "choices": [
+                "广告",
+                "花钱多",
+                "产品质量",
+                "顾客信任"
+            ],
+            "gold": "产品质量"
+        },
+        "options": [
+            "ᠵᠡᠷ",
+            "ᠵᠣᠭᠣᠰ ᠠᠷᠪᠢᠨ ᠵᠠᠷᠤᠬᠤ",
+            "ᠦᠢᠯᠡᠳᠬᠦᠨ  ᠤ ᠴᠢᠨᠠᠷ",
+            "ᠬᠡᠷᠡᠭᠯᠡᠭᠴᠢᠳ  ᠤᠨ ᠢᠲᠡᠭᠡᠯ"
+        ],
+        "question": "ᠡᠮᠡᠭᠲᠡᠶ ᠬᠥᠮᠦᠨ  ᠤ ᠦᠵᠡᠬᠦ ᠪᠡᠷ ᠦᠢᠯᠡᠳᠬᠦᠨ ᠤ ᠪᠣᠷᠣᠯᠠᠭᠤᠯᠭ᠎ᠠ  ᠶᠢᠨ ᠬᠠᠮᠤᠭ ᠴᠢᠬᠤᠯᠠ ᠨᠢ ᠶᠠᠭᠤ ᠪᠤᠢ?",
+        "answer": "C",
+        "context": [
+            "ᠡᠷᠡᠭ᠍ᠲᠡᠢ᠄ ᠬᠡᠨ  ᠤ ᠬᠢᠨᠢ ᠵᠠᠷ ᠲᠤ ᠵᠣᠭᠣᠰ ᠠᠷᠪᠢᠨ ᠵᠠᠷᠤᠪᠠᠯ ᠂ ᠲᠡᠭᠦᠨ  ᠤ ᠬᠢᠨᠢ ᠦᠢᠯᠡᠳᠬᠦᠨ  ᠢ  ᠰᠠᠢᠨ ᠬᠤᠳᠠᠯᠳᠤᠵᠤ ᠳᠡᠢ᠌ᠯᠦᠨ᠎ᠡ ᠃",
+            "ᠡᠮᠡᠭ᠍ᠲᠡᠢ᠄  ᠲᠡᠢᠮᠤ ᠪᠢᠰᠢ  ᠪᠠᠢᠬ᠎ᠠ ᠂ ᠦᠢᠯᠡᠳᠬᠦᠨ  ᠤ ᠴᠢᠨᠠᠷ  ᠢ  ᠳᠡᠭᠡᠭᠰᠢᠯᠡᠭᠦᠯᠪᠡᠯ  ᠰᠠᠶ᠋ᠢ ᠬᠡᠷᠡᠭᠯᠡᠭᠴᠢᠳ  ᠤᠨ ᠢᠲᠡᠭᠡᠯ ᠢ ᠣᠯᠵᠤ ᠴᠢᠳᠠᠨ᠎ᠠ ᠃"
+        ],
+        "en_trans": {
+            "dialogue": [
+                "Man: Whoever spends more on advertising will sell more products.",
+                "Woman: That's not necessarily true. Only by improving product quality can you gain customers' trust."
+            ],
+            "query": "What does the woman think is the most important for product sales?",
+            "choices": [
+                "Advertising",
+                "Spending a lot",
+                "Product quality",
+                "Customer trust"
+            ],
+            "gold": "Product quality"
+        }
+    },
+    {
+        "id": "rc_mn_211",
+        "zh_trans": {
+            "id": "c3_4485",
+            "dialogue": [
+                "女：哎?你不是今天要去火车站接朋友吗?",
+                "男：对呀，我还以为是明天呢。"
+            ],
+            "query": "关于男的，我们知道什么?",
+            "choices": [
+                "正在等朋友",
+                "四点送朋友",
+                "得去接朋友",
+                "朋友迟到了"
+            ],
+            "gold": "得去接朋友"
+        },
+        "options": [
+            "ᠶᠠᠭ ᠨᠠᠶᠢᠵᠠ ᠪᠠᠨ ᠬᠦᠯᠢᠶᠡᠵᠦ ᠪᠠᠶᠢᠨ᠎ᠠ",
+            "ᠲᠥᠷᠪᠡᠡ ᠴᠠᠭ ᠲᠤ ᠨᠠᠶᠢᠵᠠ  ᠪᠠᠨ ᠬᠦᠷᠭᠡᠨ᠎ᠡ",
+            "ᠨᠠᠶᠢᠵᠠ ᠪᠠᠨ ᠲᠣᠰᠬᠤ ᠪᠠᠷ ᠣᠴᠢᠬᠤ ᠬᠡᠷᠡᠭᠲᠡᠢ",
+            "ᠨᠠᠶᠢᠵᠠ ᠬᠣᠵᠢᠭᠳᠠᠪᠠ"
+        ],
+        "question": "ᠡᠷᠡᠭᠲᠡᠶ  ᠶᠢᠨ ᠲᠤᠬᠠᠶ ᠪᠢᠳᠡ ᠶᠠᠭᠤ ᠮᠡᠳᠡᠬᠦ ᠪᠤᠶ?",
+        "answer": "C",
+        "context": [
+            "ᠡᠮᠡᠭ᠍ᠲᠡᠢ᠄ ᠠᠶ? ᠴᠢ ᠥᠨᠥᠳᠦᠷ ᠭᠠᠯᠲᠤ ᠲᠡᠷᠭᠡᠨ  ᠤ ᠥᠷᠲᠡᠭᠡᠨ  ᠳᠦ ᠨᠠᠶᠢᠵᠠ ᠪᠠᠨ ᠲᠣᠰᠬᠤ ᠪᠠᠷ ᠶᠠᠪᠤᠬᠤ ᠭᠡᠰᠡᠨ ᠪᠢᠰᠢ  ᠦᠦ?",
+            "ᠡᠷᠡᠭ᠍ᠲᠡᠢ᠄  ᠲᠡᠢᠮᠤ ᠡ ᠂ ᠪᠢ ᠬᠠᠷᠢᠨ ᠮᠠᠷᠭᠠᠰᠢ ᠭᠡᠵᠦ ᠪᠣᠳᠣᠭᠰᠠᠨ ᠃"
+        ],
+        "en_trans": {
+            "dialogue": [
+                "Woman: Oh? Weren't you supposed to go to the train station to pick up your friend today?",
+                "Man: Yes, I thought it was tomorrow."
+            ],
+            "query": "What do we know about the man?",
+            "choices": [
+                "Waiting for a friend",
+                "Sending a friend at 4 o'clock",
+                "Has to pick up a friend",
+                "The friend is late"
+            ],
+            "gold": "Has to pick up a friend"
+        }
+    },
+    {
+        "id": "rc_mn_238",
+        "zh_trans": {
+            "id": "c3_1524",
+            "dialogue": [
+                "男：放假了，你怎么没回家?",
+                "女：本来想回家的，可是没买到票。",
+                "男：到唐山的火车票都这么难买吗?",
+                "女：是啊，学生们都着急回家嘛。",
+                "男：那就在北京呆着吧，到6月中旬再回家，就没那么多人了。",
+                "女：这样也好，这期间可以准备一下找工作的事。"
+            ],
+            "query": "说话的双方在哪个城市?",
+            "choices": [
+                "深圳",
+                "上海",
+                "唐山",
+                "北京"
+            ],
+            "gold": "北京"
+        },
+        "options": [
+            "ᠱᠧᠨᠵᠧᠨ",
+            "ᠱᠠᠩᠬᠠᠶ",
+            "ᠲᠠᠩᠱᠠᠨ",
+            "ᠪᠡᠭᠡᠵᠢᠩ"
+        ],
+        "question": "ᠦᠭᠡ ᠬᠡᠯᠡᠵᠦ  ᠪᠠᠢᠭ᠎ᠠ ᠬᠣᠶᠠᠷ ᠡᠲᠡᠭᠡᠳ ᠠᠯᠢ ᠬᠣᠲᠠ  ᠳᠦ ᠪᠠᠶᠬᠤ ᠪᠤᠶ?",
+        "answer": "D",
+        "context": [
+            "ᠡᠷᠡᠭ᠍ᠲᠡᠢ᠄ ᠠᠮᠠᠷᠠᠯᠲᠠ ᠲᠠᠯᠪᠢᠵᠠᠢ ᠂ ᠴᠢ ᠶᠠᠭᠠᠬᠢᠭᠠᠳ ᠭᠡᠷ ᠲᠡᠬᠡᠨ ᠬᠠᠷᠢᠭᠰᠠᠨ ᠦᠭᠡᠢ ᠪᠤᠢ?",
+            "ᠡᠮᠡᠭ᠍ᠲᠡᠢ᠄ ᠤᠤᠯ ᠨᠢ ᠭᠡᠷ ᠲᠡᠬᠡᠨ ᠬᠠᠷᠢᠬᠤ ᠭᠡᠵᠦ ᠪᠣᠳᠣᠵᠤ ᠪᠠᠶᠢᠵᠠᠢ ᠂ ᠭᠡᠪᠡᠴᠦ ᠪᠢᠯᠧᠲ᠋ ᠣᠯᠤᠭᠰᠠᠨ ᠦᠭᠡᠢ ᠃",
+            "ᠡᠷᠡᠭ᠍ᠲᠡᠢ᠄ ᠲᠠᠩᠱᠠᠨ ᠳᠦ ᠬᠦᠷᠬᠦ ᠭᠠᠯᠲᠤ ᠲᠡᠷᠭᠡᠨ ᠤ ᠪᠢᠯᠧᠲ᠋ ᠢ ᠠᠪᠬᠤ  ᠳᠦ ᠡᠢᠮᠦ ᠬᠦᠴᠢᠷ ᠦᠦ?",
+            "ᠡᠮᠡᠭ᠍ᠲᠡᠢ᠄ ᠲᠡᠶᠢᠮᠦ ᠡ ᠂ ᠰᠤᠷᠤᠭᠴᠢᠳ ᠪᠦᠷ ᠭᠡᠷ ᠲᠡᠬᠡᠨ ᠬᠠᠷᠢᠬᠤ ᠭᠡᠵᠦ ᠶᠠᠭᠠᠷᠠᠵᠤ ᠪᠠᠢ᠌ᠨ᠎ᠠ ᠃",
+            "ᠡᠷᠡᠭ᠍ᠲᠡᠢ᠄ ᠲᠡᠭᠡᠪᠡᠯ ᠪᠡᠭᠡᠵᠢᠩ ᠬᠣᠲᠠ ᠳᠦ ᠰᠠᠭᠤᠵᠤ ᠪᠠᠶ ᠂ 6 ᠰᠠᠷ᠎ᠠ  ᠶᠢᠨ ᠳᠤᠮᠳᠠᠴᠢ ᠪᠠᠷ ᠭᠡᠷ ᠲᠡᠬᠡᠨ ᠬᠠᠷᠢᠪᠠᠯ  ᠲᠡᠢᠮᠦ ᠣᠯᠠᠨ ᠬᠥᠮᠦᠨ ᠦᠭᠡᠶ ᠪᠣᠯᠴᠢᠬᠠᠨ᠎ᠠ ᠃",
+            "ᠡᠮᠡᠭ᠍ᠲᠡᠢ᠄ ᠢᠩᠭ᠍ᠢᠪᠡᠯ ᠪᠠᠰᠠ ᠪᠣᠯᠤᠨ᠎ᠠ ᠂ ᠡᠨᠡ ᠬᠤᠭᠤᠴᠠᠭᠠᠨ  ᠳᠦ ᠠᠵᠢᠯ ᠡᠷᠢᠬᠦ ᠤᠴᠢᠷ  ᠢᠶᠠᠨ ᠪᠡᠯᠡᠳᠬᠡᠵᠦ ᠪᠣᠯᠤᠨ᠎ᠠ ᠃"
+        ],
+        "en_trans": {
+            "dialogue": [
+                "Man: The holiday is here, why haven't you gone home?",
+                "Woman: I was planning to go home, but I couldn't get a ticket.",
+                "Man: Are tickets to Tangshan that hard to get?",
+                "Woman: Yes, the students are all eager to go home.",
+                "Man: Then stay in Beijing, and go home in mid-June when it won't be as crowded.",
+                "Woman: That's fine, I can use this time to prepare for job hunting."
+            ],
+            "query": "In which city are the speakers?",
+            "choices": [
+                "Shenzhen",
+                "Shanghai",
+                "Tangshan",
+                "Beijing"
+            ],
+            "gold": "Beijing"
+        }
+    },
+    {
+        "id": "rc_mn_31",
+        "zh_trans": {
+            "id": "c3_1791",
+            "dialogue": [
+                "男：珍妮，来中国后你去哪儿旅游过?",
+                "女：我去过苏州、杭州。",
+                "男：嗯，苏州园林和杭州的西湖很有名。",
+                "女：最近我还要去趟黄山，听说黄山的风景也很美。"
+            ],
+            "query": "女的最近打算去哪儿?",
+            "choices": [
+                "苏州园林",
+                "西湖",
+                "黄山"
+            ],
+            "gold": "黄山"
+        },
+        "options": [
+            "ᠰᠦᠵᠧᠦ ᠴᠡᠴᠡᠷᠯᠢᠭ",
+            "ᠰᠢ ᠬᠤ ᠨᠠᠭᠤᠷ",
+            "ᠬᠤᠸᠠᠩᠱᠠᠨ"
+        ],
+        "question": "ᠡᠮᠡᠭ᠍ᠲᠡᠢ᠌ ᠣᠷᠴᠢᠮ ᠬᠠᠮᠢᠭ᠎ᠠ ᠣᠴᠢᠬᠤ ᠭᠡᠵᠦ ᠪᠠᠶᠬᠤ ᠪᠤᠶ?",
+        "answer": "C",
+        "context": [
+            "ᠡᠷᠡᠭ᠍ᠲᠡᠢ᠄ ᠵᠸᠨ᠋ᠨᠢ᠂ ᠳᠤᠮᠳᠠᠳᠤ ᠤᠯᠤᠰ ᠲᠤ ᠢᠷᠡᠭᠰᠡᠨ  ᠤ ᠳᠠᠷᠠᠭ᠎ᠠ ᠴᠢ ᠬᠠᠮᠢᠭ᠎ᠠ ᠣᠴᠢᠵᠤ ᠵᠤᠭᠠᠴᠠᠵᠤ ᠥᠩᠭᠡᠷᠡᠭᠰᠡᠨ ᠪᠤᠶ?",
+            "ᠡᠮᠡᠭ᠍ᠲᠡᠢ᠄ ᠪᠢ ᠰᠦᠵᠧᠦ ᠂ ᠬᠠᠩᠵᠧᠦ  ᠳᠦ ᠣᠴᠢᠵᠤ ᠥᠩᠭᠡᠷᠡᠪᠡ ᠃",
+            "ᠡᠷᠡᠭ᠍ᠲᠡᠢ᠄ ᠰᠦᠵᠧᠦ  ᠴᠡᠴᠡᠷᠯᠢᠭ ᠪᠣᠯᠤᠨ ᠬᠠᠩᠵᠧᠦ  ᠶᠢᠨ ᠰᠢ ᠬᠤ ᠨᠠᠭᠤᠷ ᠶᠡᠬᠡ ᠨᠡᠷᠡᠲᠡᠢ ᠃",
+            "ᠡᠮᠡᠭ᠍ᠲᠡᠢ᠄ ᠣᠷᠴᠢᠮ ᠪᠢ ᠪᠠᠰᠠ ᠬᠤᠸᠠᠩᠱᠠᠨ ᠠᠭᠤᠯᠠᠨ  ᠳᠦ ᠣᠴᠢᠨ᠎ᠠ ᠂ ᠰᠣᠨᠣᠰᠬᠤᠯᠠᠷ ᠬᠤᠸᠠᠩᠱᠠᠨ ᠠᠭᠤᠯᠠᠨ  ᠤ ᠦᠵᠡᠮᠵᠢ ᠪᠠᠰᠠ ᠲᠤᠩ ᠭᠤᠶᠤ ᠭᠡᠨ᠎ᠡ ᠃"
+        ],
+        "en_trans": {
+            "dialogue": [
+                "Man: Jenny, where have you traveled since coming to China?",
+                "Woman: I've been to Suzhou and Hangzhou.",
+                "Man: Yeah, the gardens of Suzhou and West Lake in Hangzhou are very famous.",
+                "Woman: I’m also planning to go to Huangshan soon. I heard the scenery there is beautiful."
+            ],
+            "query": "Where is the woman planning to go recently?",
+            "choices": [
+                "Suzhou gardens",
+                "West Lake",
+                "Huangshan"
+            ],
+            "gold": "Huangshan"
+        }
+    },
+    {
+        "id": "rc_mn_59",
+        "zh_trans": {
+            "id": "c3_1982",
+            "dialogue": [
+                "女：你看，他们俩个多相爱啊!",
+                "男：那还用说，他们可是我们单位的模范夫妻。"
+            ],
+            "query": "女的是什么意思?",
+            "choices": [
+                "感到气愤",
+                "感到意外",
+                "喜欢他们",
+                "羡慕他们"
+            ],
+            "gold": "羡慕他们"
+        },
+        "options": [
+            "ᠠᠭᠤᠷᠯᠠᠬᠤ",
+            "ᠰᠠᠨᠠᠭᠠᠨ  ᠳᠦ ᠦᠭᠡᠢ ᠰᠠᠨᠠᠭᠳᠠᠬᠤ",
+            "ᠲᠡᠳᠡᠨ  ᠢ ᠲᠣᠭᠣᠨ᠎ᠠ᠃",
+            "ᠲᠡᠳᠡᠨ  ᠢ  ᠪᠠᠬᠠᠷᠬᠠᠨ᠎ᠠ"
+        ],
+        "question": "ᠡᠮᠡᠭᠲᠡᠶ ᠨᠢ ᠶᠠᠮᠠᠷ ᠤᠳᠬ᠎ᠠ ᠲᠠᠶ ᠪᠤᠢ?",
+        "answer": "D",
+        "context": [
+            "ᠡᠮᠡᠭ᠍ᠲᠡᠢ᠄ ᠴᠢ ᠦᠵᠡ ᠂ ᠲᠡᠷᠡ ᠬᠣᠶᠠᠷ ᠬᠡᠳᠦᠢ ᠬᠠᠶᠢᠷᠠᠯᠠᠯᠴᠠᠵᠤ  ᠪᠠᠢᠬᠤ ᠪᠤᠢ!",
+            "ᠡᠷᠡᠭ᠍ᠲᠡᠢ᠄ ᠲᠡᠭᠦᠨ  ᠢ ᠬᠡᠯᠡᠬᠦ ᠬᠡᠷᠡᠭ ᠠᠯᠠᠭ᠎ᠠ ᠂ ᠲᠡᠳᠡ ᠪᠣᠯ ᠮᠠᠨ  ᠤ ᠪᠠᠢ᠌ᠭᠤᠯᠤᠯᠭ᠎ᠠ  ᠶᠢᠨ ᠵᠢᠱᠢᠶᠡᠴᠢ ᠡᠷ᠎ᠡ ᠡᠮ᠎ᠡ  ᠰᠢᠦ ᠃"
+        ],
+        "en_trans": {
+            "dialogue": [
+                "Woman: Look, how much they love each other!",
+                "Man: That's for sure, they are the model couple in our unit."
+            ],
+            "query": "What does the woman mean?",
+            "choices": [
+                "Feeling angry",
+                "Feeling surprised",
+                "Likes them",
+                "Envies them"
+            ],
+            "gold": "Envies them"
+        }
+    },
+    {
+        "id": "rc_mn_191",
+        "zh_trans": {
+            "id": "c3_47",
+            "dialogue": [
+                "女：明天要在总结会上发言，我还是觉得自己准备得不够。",
+                "男：放松点儿，你又不是第一次发言。"
+            ],
+            "query": "男的主要是什么意思？",
+            "choices": [
+                "要认真准备",
+                "不用太紧张",
+                "以后要多练习",
+                "打算不参加会议了"
+            ],
+            "gold": "不用太紧张"
+        },
+        "options": [
+            "ᠰᠡᠳᠬᠢᠯ ᠲᠠᠯᠪᠢᠵᠤ ᠪᠡᠯᠡᠳᠬᠡᠨ᠎ᠡ",
+            "ᠰᠠᠨᠳᠤᠷᠬᠤ ᠴᠢᠬᠤᠯᠠ ᠦᠭᠡᠢ",
+            "ᠰᠡᠭᠦᠯᠡᠷ ᠢᠯᠡᠭᠦᠬᠡᠨ ᠪᠣᠯᠪᠠᠰᠤᠷᠠ",
+            "ᠬᠤᠷᠠᠯ ᠳᠤ ᠣᠷᠣᠯᠴᠠᠬᠤ ᠦᠭᠡᠢ ᠪᠡᠷ ᠲᠥᠯᠥᠪᠯᠡᠵᠦ ᠪᠠᠢᠨ᠎ᠠ"
+        ],
+        "question": "ᠡᠷᠡᠭ᠍ᠲᠡᠢ ᠶᠠᠮᠠᠷ ᠰᠠᠨᠠᠭ᠎ᠠ ᠲᠠᠢ ᠪᠣᠢ ?",
+        "answer": "B",
+        "context": [
+            "ᠡᠮᠡᠭ᠍ᠲᠡᠢ᠄ ᠮᠠᠷᠭᠠᠰᠢ ᠳ᠋ᠦᠩᠨᠡᠯᠲᠡ ᠶᠢᠨ ᠬᠤᠷᠠᠯ ᠳᠡᠭᠡᠷ᠎ᠡ ᠶᠠᠷᠢᠶ᠎ᠠ ᠲᠠᠯᠪᠢᠨ᠎ᠠ᠂ ᠪᠢ ᠥᠪᠡᠷ ᠢ ᠪᠡᠨ ᠪᠠᠰᠠ ᠰᠠᠢᠨ ᠪᠡᠯᠡᠳᠬᠡᠵᠦ ᠳᠠᠭᠤᠰᠤᠭᠠᠳᠤᠢ ᠭᠡᠵᠦ ᠪᠣᠳᠣᠵᠤ ᠪᠠᠢᠨ᠎ᠠ᠃ ",
+            "ᠡᠷᠡᠭ᠍ᠲᠡᠢ᠄ ᠪᠡᠶ᠎ᠡ ᠪᠡᠨ ᠰᠤᠯᠠ ᠲᠠᠯᠪᠢ᠃ ᠴᠢ ᠶᠠᠮᠠᠷ ᠠᠩᠬᠠᠳᠤᠭᠠᠷ ᠤᠳᠠᠭ᠎ᠠ ᠭᠠᠷᠴᠤ ᠪᠠᠢᠭ᠎ᠠ ᠴᠤ ᠪᠢᠰᠢ ᠳ᠋ᠠ᠃ "
+        ],
+        "en_trans": {
+            "dialogue": [
+                "Woman: I have to speak at the summary meeting tomorrow, and I still feel like I'm not prepared enough.",
+                "Man: Relax a bit, it's not your first time speaking."
+            ],
+            "query": "What does the man mainly mean?",
+            "choices": [
+                "You need to prepare seriously",
+                "No need to be too nervous",
+                "You need to practice more in the future",
+                "Plan not to attend the meeting"
+            ],
+            "gold": "No need to be too nervous"
+        }
+    },
+    {
+        "id": "rc_mn_66",
+        "zh_trans": {
+            "id": "c3_3336",
+            "dialogue": [
+                "男：你最近怎么都没给我打电话啊?",
+                "女：前一阵子工作不忙，出去旅游的时候把手机丢了，电话号码都找不到了。"
+            ],
+            "query": "关于女的，可以知道什么?",
+            "choices": [
+                "工作很忙",
+                "手机丢了",
+                "想去旅游",
+                "最近没有时间"
+            ],
+            "gold": "手机丢了"
+        },
+        "options": [
+            "ᠠᠵᠢᠯ ᠮᠠᠰᠢ ᠶᠠᠭᠠᠷᠠᠤ᠃",
+            "ᠭᠠᠷ ᠤᠲᠠᠰᠤ ᠪᠠᠨ ᠭᠡᠭᠡᠪᠡ",
+            "ᠵᠤᠭᠠᠴᠠᠬᠤ ᠪᠠᠷ ᠶᠠᠪᠤᠬᠤ ᠰᠠᠨᠠᠭ᠎ᠠ ᠲᠠᠶ᠃",
+            "ᠣᠷᠴᠢᠮ  ᠳᠦ ᠴᠠᠭ ᠪᠠᠶᠢᠬᠤ ᠦᠭᠡᠢ"
+        ],
+        "question": "ᠡᠮᠡᠭᠲᠡᠶ  ᠶᠢᠨ ᠲᠤᠬᠠᠶ ᠶᠠᠭᠤ ᠮᠡᠳᠡᠬᠦ ᠪᠤᠢ?",
+        "answer": "B",
+        "context": [
+            "ᠡᠷᠡᠭ᠍ᠲᠡᠢ᠄ ᠴᠢ ᠣᠷᠴᠢᠮ ᠶᠠᠭᠠᠬᠢᠭᠠᠳ ᠨᠠᠳᠠ  ᠳᠦ ᠤᠲᠠᠰᠤᠳᠠᠭᠰᠠᠨ ᠦᠭᠡᠢ ᠪᠤᠢ?",
+            "ᠡᠮᠡᠭ᠍ᠲᠡᠢ᠄ ᠡᠮᠦᠨ᠎ᠡ ᠬᠡᠰᠡᠭ ᠬᠤᠭᠤᠴᠠᠭᠠᠨ  ᠳᠦ ᠠᠵᠢᠯ ᠶᠠᠭᠠᠷᠠᠤ ᠦᠭᠡᠢ ᠂ ᠵᠤᠭᠠᠴᠠᠬᠤ ᠪᠠᠷ ᠭᠠᠷᠬᠤ ᠳᠠᠭᠠᠨ ᠭᠠᠷ ᠤᠲᠠᠰᠤ ᠪᠠᠨ ᠭᠡᠭᠡᠴᠢᠬᠡᠵᠡᠢ ᠂ ᠤᠲᠠᠰᠤᠨ ᠨᠣᠮᠧᠷ  ᠢᠶᠠᠨ ᠴᠦ ᠡᠷᠢᠵᠦ ᠣᠯᠬᠤ ᠦᠭᠡᠢ ᠪᠣᠯᠵᠠᠢ ᠃"
+        ],
+        "en_trans": {
+            "dialogue": [
+                "Man: Why haven't you called me lately?",
+                "Woman: I wasn't busy with work a while ago, and when I went traveling, I lost my phone and couldn't find any phone numbers."
+            ],
+            "query": "What can be inferred about the woman?",
+            "choices": [
+                "Very busy at work",
+                "Lost her phone",
+                "Wants to travel",
+                "Has no time lately"
+            ],
+            "gold": "Lost her phone"
+        }
+    },
+    {
+        "id": "rc_mn_209",
+        "zh_trans": {
+            "id": "c3_2342",
+            "dialogue": [
+                "女：伯父，这是我的一点儿心意。",
+                "男：看你这孩子，来就来吧，还带什么东西?"
+            ],
+            "query": "男的是什么语气?",
+            "choices": [
+                "吃惊",
+                "拒绝",
+                "嗔怪",
+                "喜悦"
+            ],
+            "gold": "嗔怪"
+        },
+        "options": [
+            "ᠰᠣᠴᠢᠬᠤ",
+            "ᠲᠡᠪᠴᠢᠬᠦ",
+            "ᠵᠢᠮᠡᠯᠡᠬᠦ",
+            "ᠪᠠᠶᠠᠷᠯᠠᠬᠤ"
+        ],
+        "question": "ᠡᠷᠡᠭᠲᠡᠶ ᠨᠢ ᠶᠠᠮᠠᠷ ᠦᠭᠡᠨ ᠤ ᠠᠶᠠᠰ ᠲᠠᠶ ᠪᠤᠶ?",
+        "answer": "C",
+        "context": [
+            "ᠡᠮᠡᠭ᠍ᠲᠡᠢ᠄ ᠶᠡᠬᠡ ᠠᠪᠠᠭ᠎ᠠ ᠠ ᠂ ᠡᠨᠡ ᠪᠣᠯ ᠮᠢᠨᠦ ᠥᠴᠦᠬᠡᠨ ᠰᠡᠳᠬᠢᠯ ᠃",
+            "ᠡᠷᠡᠭ᠍ᠲᠡᠢ᠄ ᠴᠢᠨᠦ ᠡᠨᠡ ᠬᠡᠦᠬᠡᠳ  ᠢ ᠦᠵᠡ ᠂ ᠢᠷᠡᠪᠡᠯ ᠢᠷᠡᠴᠢᠬᠡ ᠂  ᠶᠠᠭᠤᠨ  ᠤ ᠶᠠᠭᠤᠮ᠎ᠠ  ᠠᠪᠤᠭᠰᠠᠨ ᠪᠤᠶ?"
+        ],
+        "en_trans": {
+            "dialogue": [
+                "Woman: Uncle, this is a small token of my appreciation.",
+                "Man: Look at you, child, just come, why bring anything?"
+            ],
+            "query": "What is the man's tone?",
+            "choices": [
+                "Surprise",
+                "Refusal",
+                "Reproach",
+                "Joy"
+            ],
+            "gold": "Reproach"
+        }
+    },
+    {
+        "id": "rc_mn_45",
+        "zh_trans": {
+            "id": "c3_2075",
+            "dialogue": [
+                "男：你今天都去了哪些地方?",
+                "女：我为什么要告诉你?"
+            ],
+            "query": "女的的意思是：",
+            "choices": [
+                "不知道要不要告诉他",
+                "一定要告诉他",
+                "男的没有必要知道",
+                "女的谁也不告诉"
+            ],
+            "gold": "男的没有必要知道"
+        },
+        "options": [
+            "ᠲᠡᠭᠦᠨ  ᠳᠦ ᠬᠡᠯᠡᠬᠦ ᠡᠰᠡᠬᠦ  ᠶᠢ ᠮᠡᠳᠡᠬᠦ ᠦᠭᠡᠢ",
+            "ᠲᠡᠭᠦᠨ  ᠳᠦ ᠵᠠᠪᠠᠯ  ᠬᠡᠯᠡᠨ᠎ᠡ",
+            "ᠡᠷᠡᠭᠲᠡᠢ ᠬᠥᠮᠦᠨ ᠮᠡᠳᠡᠬᠦ ᠴᠢᠬᠤᠯᠠ ᠦᠭᠡᠢ",
+            "ᠡᠮᠡᠭᠲᠡᠢ ᠬᠥᠮᠦᠨ ᠬᠡᠨ  ᠳᠦ ᠴᠦ ᠬᠡᠯᠡᠬᠦ ᠦᠭᠡᠢ"
+        ],
+        "question": "ᠡᠮᠡᠭᠲᠡᠶ ᠬᠥᠮᠦᠨ  ᠤ  ᠬᠡᠯᠡᠭ᠍ᠰᠡᠨ  ᠦᠭᠡ ᠶᠢᠨ  ᠤᠳᠬ᠎ᠠ ᠪᠣᠯ ᠄",
+        "answer": "C",
+        "context": [
+            "ᠡᠷᠡᠭ᠍ᠲᠡᠢ᠄ ᠴᠢ ᠥᠨᠥᠳᠦᠷ ᠶᠠᠮᠠᠷ ᠶᠠᠮᠠᠷ ᠭᠠᠵᠠᠷ ᠣᠴᠢᠭᠰᠠᠨ ᠪᠤᠢ?",
+            "ᠡᠮᠡᠭ᠍ᠲᠡᠢ᠄ ᠪᠢ ᠶᠠᠭᠤᠨ  ᠳᠦ  ᠴᠢᠮ᠎ᠠ  ᠳᠦ ᠬᠡᠯᠡᠵᠦ ᠥᠭᠬᠦ ᠪᠤᠢ?"
+        ],
+        "en_trans": {
+            "dialogue": [
+                "Man: Which places did you go to today?",
+                "Woman: Why should I tell you?"
+            ],
+            "query": "What does the woman mean:",
+            "choices": [
+                "She doesn't know whether to tell him or not",
+                "She definitely has to tell him",
+                "There's no need for the man to know",
+                "She won't tell anyone"
+            ],
+            "gold": "There's no need for the man to know"
+        }
+    }
+]

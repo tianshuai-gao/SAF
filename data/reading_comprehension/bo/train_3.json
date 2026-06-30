@@ -1,0 +1,451 @@
+[
+    {
+        "id": "rc_bo_64",
+        "zh_trans": {
+            "id": "c3_4389",
+            "dialogue": [
+                "男：请问银行怎么走?",
+                "女：往那边走，过两个街区，然后再向右拐。银行就在街角的邮局对面。",
+                "男：多谢了，我到这个城市才两天，还弄不清哪儿是哪儿呢。",
+                "女：噢，我知道你的感受，我到这里都一年多了，有时还迷路呢。"
+            ],
+            "query": "从对话中我们可以知道什么?",
+            "choices": [
+                "他们都迷路了",
+                "他们是老朋友",
+                "他们不是本地人",
+                "他们都在问路"
+            ],
+            "gold": "他们不是本地人"
+        },
+        "options": [
+            "ཁོ་ཚོ་ཚང་མ་ལམ་ནོར་སོང་།",
+            "ཁོ་ཚོ་ནི་གྲོགས་པོ་རྙིང་བ་རེད་།",
+            "ཁོ་ཚོ་ས་གནས་འདིའི་མི་མ་རེད་།",
+            "ཁོ་ཚོ་ཚང་མས་ལམ་འདྲི་བཞིན་འདུག"
+        ],
+        "question": "ཁ་བརྡའི་ཁྲོད་ནས་ང་ཚོས་ཅི་ཞིག་ཤེས་ཐུབ།",
+        "answer": "C",
+        "context": [
+            "སྐྱེས་པ།་དངུལ་ཁང་ལ་ཅི་ལྟར་འགྲོ་དགོས།",
+            "བུད་མེད།་དེ་རུ་སོང་།་སྲང་ལམ་གཉིས་བརྒྱུད་རྗེས་གཡས་ཕྱོགས་སུ་འཁོར།དངུལ་ཁང་ནི་སྲང་ཟུར་གྱི་སྦྲགས་སྲིད་ཁང་གི་ཁ་གཏད་ན་ཡོད།",
+            "སྐྱེས་པ།་བཀའ་དྲིན་ཆེ།་ང་གྲོང་ཁྱེར་འདི་ལ་ཐོན་ནས་ཉིན་གཉིས་མ་གཏོགས་འགོར་མེད།་ད་རུང་གང་ཡིན་པ་མི་ཤེས།",
+            "བུད་མེད།་འོ།་ངས་ཁྱོད་ཀྱི་ཚོར་བ་ཤེས།་ང་འདི་ལ་ཐོན་ནས་ལོ་གཅིག་ལྷག་འགོར་སོང་།་སྐབས་ལ་ལར་ད་རུང་ལམ་ནོར་སོང་།"
+        ],
+        "en_trans": {
+            "dialogue": [
+                "Man: Excuse me, how do I get to the bank?",
+                "Woman: Go that way, cross two blocks, and then turn right. The bank is across from the post office on the corner.",
+                "Man: Thank you, I've only been in this city for two days, and I still can't figure out where things are.",
+                "Woman: Oh, I know how you feel, I've been here for over a year and sometimes I still get lost."
+            ],
+            "query": "What can we infer from the dialogue?",
+            "choices": [
+                "They both got lost",
+                "They are old friends",
+                "They are not locals",
+                "They are both asking for directions"
+            ],
+            "gold": "They are not locals"
+        }
+    },
+    {
+        "id": "rc_bo_54",
+        "zh_trans": {
+            "id": "c3_3699",
+            "dialogue": [
+                "男：今天小张来我办公室，他的工作已经基本完成了。",
+                "女：请您放心，我会尽快完成，不会延长时间的。"
+            ],
+            "query": "男的主要想表达什么?",
+            "choices": [
+                "建议女的延长工作时间",
+                "提醒女的加快工作速度",
+                "告诉女的小张来过办公室",
+                "告诉女的小张的工作完成了"
+            ],
+            "gold": "提醒女的加快工作速度"
+        },
+        "options": [
+            "བུད་མེད་ཀྱི་བྱ་བའི་དུས་ཚོད་ཇེ་རིང་དུ་གཏོང་བའི་བསམ་འཆར་བཏོན།",
+            "བུད་མེད་ཀྱི་བྱ་བའི་མྱུར་ཚད་ཇེ་མགྱོགས་སུ་གཏོང་བར་གསལ་འདེབས་བྱས།",
+            "བུ་མོ་ཞའོ་ཀྲང་ལ་གཞུང་ལས་ཁང་དུ་ཡོང་མྱོང་ཞེས་ཤོད་།",
+            "བུད་མེད་ཞའོ་ཀྲང་གི་བྱ་བ་ལེགས་འགྲུབ་བྱུང་སོང་ཞེས་ཤོད་།"
+        ],
+        "question": "སྐྱེས་པས་གཙོ་བོ་ཅི་ཞིག་བཤད་འདོད་པ་རེད།",
+        "answer": "B",
+        "context": [
+            "སྐྱེས་པ།་དེ་རིང་ཞའོ་ཀྲང་ངའི་གཞུང་སྒྲུབ་ཁང་དུ་ཡོང་།་ཁོའི་བྱ་བ་ཕལ་ཆེར་འགྲུབ་སོང་།",
+            "བུད་མེད།་ཁྱེད་ཀྱིས་སེམས་བདེ་མོ་བྱོས།་ངས་མྱུར་དུ་འགྲུབ་ངེས་ཡིན།་དུས་ཚོད་ཇེ་རིང་དུ་གཏོང་མི་སྲིད།"
+        ],
+        "en_trans": {
+            "dialogue": [
+                "Man: Xiao Zhang came to my office today, his work is basically complete.",
+                "Woman: Please rest assured, I will finish it as soon as possible and won't take more time."
+            ],
+            "query": "What is the main thing the man wants to express?",
+            "choices": [
+                "Suggest the woman extend her working hours",
+                "Remind the woman to speed up her work",
+                "Tell the woman that Xiao Zhang came to the office",
+                "Tell the woman that Xiao Zhang's work is complete"
+            ],
+            "gold": "Remind the woman to speed up her work"
+        }
+    },
+    {
+        "id": "rc_bo_169",
+        "zh_trans": {
+            "id": "c3_3237",
+            "dialogue": [
+                "男：李阿姨，天气这么冷，您怎么还出来?可别感冒了!",
+                "女：天气再冷也得去买菜啊，要不晚上吃什么?"
+            ],
+            "query": "女的最可能去哪儿?",
+            "choices": [
+                "超市",
+                "医院",
+                "电影院",
+                "健身房"
+            ],
+            "gold": "超市"
+        },
+        "options": [
+            "སྒོ་རྩིས་ཚོང་ཁང་།",
+            "སྨན་ཁང",
+            "གློག་བརྙན་ཁང་།",
+            "ལུས་སྦྱོང་ཁང་།"
+        ],
+        "question": "བུད་མེད་ཕལ་ཆེར་གང་ལ་འགྲོ་སྲིད།",
+        "answer": "A",
+        "context": [
+            "སྐྱེས་པ།་ཨ་ནེ་ལིས།་གནམ་གཤིས་འདི་འདྲ་གྲང་བས་ཁྱོད་ད་རུང་སྒོར་ཡོང་དོན་ཅི་ཡིན།ཆམ་པ་ཕོག་ཏུ་མ་འཇུག་།",
+            "བུད་མེད།་གནམ་གཤིས་ཇི་འདྲ་གྲང་རུང་ཚོད་མ་ཉོ་རུ་འགྲོ་དགོས།་དགོང་མོ་ཅི་ཞིག་ཟ་དགོས་སམ།"
+        ],
+        "en_trans": {
+            "dialogue": [
+                "Man: Auntie Li, it's so cold. Why are you still going out? Don't catch a cold!",
+                "Woman: No matter how cold it is, I have to go buy groceries. Otherwise, what will we eat for dinner?"
+            ],
+            "query": "Where is the woman most likely going?",
+            "choices": [
+                "Supermarket",
+                "Hospital",
+                "Cinema",
+                "Gym"
+            ],
+            "gold": "Supermarket"
+        }
+    },
+    {
+        "id": "rc_bo_143",
+        "zh_trans": {
+            "id": "c3_3033",
+            "dialogue": [
+                "女：你怎么又换工作了?",
+                "男：我有什么办法，待遇太差了，工资交完房租就没剩多少了。"
+            ],
+            "query": "男的为什么换工作?",
+            "choices": [
+                "工资太低",
+                "公司太远",
+                "压力太大",
+                "公司办不下去了"
+            ],
+            "gold": "工资太低"
+        },
+        "options": [
+            "གླ་ཕོགས་ཧ་ཅང་དམའ་།",
+            "ཀུང་སི་ཐག་ཧ་ཅང་རིང་།",
+            "གནོན་ཤུགས་ཧ་ཅང་ཆེ་།",
+            "ཀུང་སིས་སྒྲུབ་མི་ཐུབ་།"
+        ],
+        "question": "སྐྱེས་པས་ཅིའི་ཕྱིར་བྱ་བ་བརྗེ་དགོས་པ་རེད།",
+        "answer": "A",
+        "context": [
+            "བུད་མེད།་ཁྱོད་ཀྱིས་ཡང་བྱ་བ་བརྗེ་དོན་ཅི་ཡིན།",
+            "སྐྱེས་པ།་ང་ལ་ཐབས་ཤེས་ཅི་ཞིག་ཡོད།་གླ་ཕོགས་ཧ་ཅང་ཞན།་གླ་ཕོགས་སྤྲད་ཚར་རྗེས་ཁང་གླ་མང་པོ་ལྷག་མེད།"
+        ],
+        "en_trans": {
+            "dialogue": [
+                "Woman: Why did you change jobs again?",
+                "Man: What choice do I have? The benefits were too poor. There wasn’t much left after paying rent."
+            ],
+            "query": "Why did the man change jobs?",
+            "choices": [
+                "The salary was too low",
+                "The company was too far away",
+                "The pressure was too high",
+                "The company couldn't continue operations"
+            ],
+            "gold": "The salary was too low"
+        }
+    },
+    {
+        "id": "rc_bo_136",
+        "zh_trans": {
+            "id": "c3_1688",
+            "dialogue": [
+                "男：明天有一个会，我今晚要加班了，你自己先去吃饭吧。",
+                "女：可以，你千万要把资料都整理好。"
+            ],
+            "query": "女的认为明天的会怎么样?",
+            "choices": [
+                "很重要",
+                "很不重要",
+                "一般般",
+                "很特别"
+            ],
+            "gold": "很重要"
+        },
+        "options": [
+            "ཧ་ཅང་གལ་ཆེ་།",
+            "གལ་མི་ཆེ",
+            "སྤྱིར་བཏང་ཙམ།",
+            "ཁྱད་པར་བ་ཞིག་རེད་།"
+        ],
+        "question": "བུད་མེད་ཀྱིས་བལྟས་ན་སང་ཉིན་གྱི་དེ་ཅི་འདྲ་རེད།",
+        "answer": "A",
+        "context": [
+            "སྐྱེས་པ།་སང་ཉིན་ཚོགས་འདུ་ཞིག་ཡོད།་ངས་དོ་དགོང་ལས་སྣོན་བྱེད་དགོས།་ཁྱོད་རང་ཉིད་སྔོན་ལ་ཟ་མ་ཟ་རུ་སོང་།",
+            "བུད་མེད།་ཆོག་གི་ཁྱོད་ཀྱིས་ངེས་པར་དུ་རྒྱུ་ཆ་ཚང་མ་ལེགས་སྒྲིག་བྱེད་དགོས"
+        ],
+        "en_trans": {
+            "dialogue": [
+                "Man: There is a meeting tomorrow, so I have to work overtime tonight. You go ahead and have dinner by yourself.",
+                "Woman: Sure, you must make sure to get all the materials organized."
+            ],
+            "query": "What does the woman think about tomorrow's meeting?",
+            "choices": [
+                "Very important",
+                "Not very important",
+                "So-so",
+                "Very special"
+            ],
+            "gold": "Very important"
+        }
+    },
+    {
+        "id": "rc_bo_89",
+        "zh_trans": {
+            "id": "c3_3715",
+            "dialogue": [
+                "男：放假打算去哪玩啊?",
+                "女：我想去北京，我女儿想去海南，我们还在商量。"
+            ],
+            "query": "女的放假要去哪?",
+            "choices": [
+                "去北京",
+                "去海南",
+                "还没决定",
+                "待家里"
+            ],
+            "gold": "还没决定"
+        },
+        "options": [
+            "པེ་ཅིན་ལ་འགྲོ་།",
+            "ཧའེ་ནན་ལ་འགྲོ་།",
+            "ད་དུང་ཐག་བཅད་མེད་།",
+            "ཁྱིམ་ནས་སྡོད་།"
+        ],
+        "question": "བུད་མེད་གུང་གསེང་ལ་གང་ལ་འགྲོ་དགོས།",
+        "answer": "C",
+        "context": [
+            "སྐྱེས་པ།་གུང་གསེང་ལ་གང་ལ་རྩེ་རུ་འགྲོ་རྩིས་ཡོད།",
+            "བུད་མེད།་ང་པེ་ཅིན་ལ་འགྲོ་འདོད།་ངའི་བུ་མོ་ཧའེ་ནན་ལ་འགྲོ་འདོད།་ང་ཚོས་ད་དུང་གྲོས་བསྡུར་བྱེད་བཞིན་ཡོད།"
+        ],
+        "en_trans": {
+            "dialogue": [
+                "Man: Where do you plan to go for vacation?",
+                "Woman: I want to go to Beijing, my daughter wants to go to Hainan, we are still discussing."
+            ],
+            "query": "Where does the woman want to go for vacation?",
+            "choices": [
+                "Go to Beijing",
+                "Go to Hainan",
+                "Not decided yet",
+                "Stay at home"
+            ],
+            "gold": "Not decided yet"
+        }
+    },
+    {
+        "id": "rc_bo_247",
+        "zh_trans": {
+            "id": "c3_2384",
+            "dialogue": [
+                "男：你好，我前几天订了一个标准间，我姓张。",
+                "女：请稍等，我帮您查一下。张先生，您是从上海来的吗?",
+                "男：是的。",
+                "女：请您出示一下身份证，我这就给您办理人住手续。"
+            ],
+            "query": "说话人现在在哪里?",
+            "choices": [
+                "宾馆",
+                "学校",
+                "银行",
+                "机场"
+            ],
+            "gold": "宾馆"
+        },
+        "options": [
+            "མགྲོན་ཁང་།",
+            "སློབ་གྲྭ་",
+            "དངུལ་ཁང་",
+            "གནམ་གྲུའི་འབབ་ཐང་།"
+        ],
+        "question": "སྐད་ཆ་བཤད་མཁན་ད་ལྟ་གང་ན་ཡོད་།",
+        "answer": "A",
+        "context": [
+            "སྐྱེས་པ།་ཁྱོད་བདེ་མོ།་ངས་ཉིན་འགའི་སྔོན་ལ་ཚད་ལྡན་གྱི་ཁང་བ་ཞིག་བླངས་ཡོད།་ངའི་རུས་ཀྲང་ཡིན།",
+            "བུད་མེད།་ཅུང་ཙམ་སྒུག་དང་།་ངས་ཁྱོད་ལ་རོགས་བྱས་ནས་ཞིབ་བཤེར་བྱེད།",
+            "སྐྱེས་པ།་རེད།",
+            "བུད་མེད།་ཁྱེད་ཀྱིས་ཐོབ་ཐང་ལག་ཁྱེར་སྟོན་རོགས།་ངས་ད་ལྟ་ཁྱེད་ལ་མི་འདུག་པའི་འགྲོ་ལུགས་སྒྲུབ་ཆོག"
+        ],
+        "en_trans": {
+            "dialogue": [
+                "Man: Hello, a few days ago I booked a standard room, my surname is Zhang.",
+                "Woman: Please wait a moment, I'll check for you. Mr. Zhang, are you coming from Shanghai?",
+                "Man: Yes.",
+                "Woman: Please show your ID, and I will check you in."
+            ],
+            "query": "Where is the speaker now?",
+            "choices": [
+                "Hotel",
+                "School",
+                "Bank",
+                "Airport"
+            ],
+            "gold": "Hotel"
+        }
+    },
+    {
+        "id": "rc_bo_97",
+        "zh_trans": {
+            "id": "c3_3248",
+            "dialogue": [
+                "女：晚上我们去跳舞，你要不要一起去？",
+                "男：我很想去，但是明天就要考试了，我还没复习呢。"
+            ],
+            "query": "男的晚上做什么？",
+            "choices": [
+                "跳舞",
+                "考试",
+                "复习"
+            ],
+            "gold": "复习"
+        },
+        "options": [
+            "ཞབས་བྲོ་འཁྲབ།",
+            "ཡིག་རྒྱུགས་",
+            "བསྐྱར་སྦྱོང་།"
+        ],
+        "question": "སྐྱེས་པས་དགོང་མོ་ཅི་ཞིག་ལས་བཞིན་ཡོད་།",
+        "answer": "C",
+        "context": [
+            "བུད་མེད།་དགོང་མོ་ང་ཚོ་ཞབས་བྲོ་འཁྲབ་ཏུ་འགྲོ།་ཁྱོད་མཉམ་དུ་འགྲོའམ།",
+            "སྐྱེས་པ།་ང་ཧ་ཅང་འགྲོ་འདོད།་འོན་ཀྱང་སང་ཉིན་རྒྱུགས་ལེན་དགོས།་ངས་ད་དུང་བསྐྱར་སྦྱོང་བྱས་མེད།"
+        ],
+        "en_trans": {
+            "dialogue": [
+                "Woman: We're going dancing tonight, do you want to join us?",
+                "Man: I'd love to go, but I have an exam tomorrow and I haven't reviewed yet."
+            ],
+            "query": "What is the man doing tonight?",
+            "choices": [
+                "Dancing",
+                "Exam",
+                "Reviewing"
+            ],
+            "gold": "Reviewing"
+        }
+    },
+    {
+        "id": "rc_bo_133",
+        "zh_trans": {
+            "id": "c3_119",
+            "dialogue": [
+                "男：你在找什么?把抽屉弄得这么乱!",
+                "女：王丽的电话号码不知道让我记在哪儿了。"
+            ],
+            "query": "女的在找什么?",
+            "choices": [
+                "电话",
+                "电话号码",
+                "本子",
+                "钥匙"
+            ],
+            "gold": "电话号码"
+        },
+        "options": [
+            "ཁ་པར།",
+            "ཁ་པར་ཨང་གྲངས།",
+            "འབྲི་དེབ།",
+            "ལྡེ་མིག"
+        ],
+        "question": "བུད་མེད་ཀྱིས་ཅི་ཞིག་བཙལ་བཞིན་ཡོད།",
+        "answer": "B",
+        "context": [
+            "སྐྱེས་པ།་ཁྱོད་ཀྱིས་ཅི་ཞིག་བཙལ་བཞིན་ཡོད།འཐེན་སྒམ་འདི་འདྲའི་ཉོག་པོར་བཟོས་འདུག",
+            "བུད་མེད།་ཝང་ལིས་ཀྱི་ཁ་པར་ཨང་གྲངས་ང་ལ་གང་དུ་ཡིད་ལ་འཛིན་དུ་བཅུག་པ་མི་ཤེས"
+        ],
+        "en_trans": {
+            "dialogue": [
+                "Man: What are you looking for? You've made such a mess of the drawer!",
+                "Woman: I don't know where I noted down Wang Li's phone number."
+            ],
+            "query": "What is the woman looking for?",
+            "choices": [
+                "Phone",
+                "Phone number",
+                "Notebook",
+                "Keys"
+            ],
+            "gold": "Phone number"
+        }
+    },
+    {
+        "id": "rc_bo_218",
+        "zh_trans": {
+            "id": "c3_4633",
+            "dialogue": [
+                "男：你好，我昨天在你们这儿订了一个位子，我姓赵。",
+                "女：赵先生……有您的登记信息，三号桌，我带您过去。"
+            ],
+            "query": "关于赵先生，可以知道什么?",
+            "choices": [
+                "正在结账",
+                "是餐厅经理",
+                "预订了位子",
+                "填错信息了"
+            ],
+            "gold": "预订了位子"
+        },
+        "options": [
+            "རྩིས་རྒྱག་བཞིན་པའི་སྒང་ཡིན་།",
+            "ཟ་ཁང་རེད་།",
+            "སྤྱི་གཉེར་བས་འདུག་ས་མངག་ཉོ་བྱས་།",
+            "ཆ་འཕྲིན་སྐོང་བ་ནོར་སོང་།"
+        ],
+        "question": "སྐུ་ཞབས་ཀྲའོ་དང་འབྲེལ་ཡོད་ཀྱི།་ཅི་ཞིག་ཤེས་སམ།",
+        "answer": "C",
+        "context": [
+            "སྐྱེས་པ།སྐུ་ཁམས་བཟང་ངས་ཁ་སང་ཁྱོད་ཚོའི་འདི་ནས་འདུག་ས་ཞིག་བླངས་ཡོད།་ངའི་རུས་ཀྲའོ་ཡིན།",
+            "བུད་མེད།་སྐུ་ཞབས་ཀྲའོ་ལགས།ཁྱོད་ཀྱི་ཐོ་འགོད་ཆ་འཕྲིན་ཡོད།་ཅོག་ཙེ་གསུམ་པ།་ངས་ཁྱོད་ཁྲིད་ནས་འགྲོ།"
+        ],
+        "en_trans": {
+            "dialogue": [
+                "Man: Hello, I booked a table here yesterday. My last name is Zhao.",
+                "Woman: Mr. Zhao... I have your registration information. Table number three, I'll take you there."
+            ],
+            "query": "What do we know about Mr. Zhao?",
+            "choices": [
+                "Checking out",
+                "Is the restaurant manager",
+                "Booked a table",
+                "Filled in the wrong information"
+            ],
+            "gold": "Booked a table"
+        }
+    }
+]

@@ -1,0 +1,122 @@
+[
+    {
+        "zh": "你说你，这个月你有几天在家?",
+        "kk": "سەنى وسى ايدا قانشا كۇن ۇيدە بولعانىڭدى بىلەسىڭ بە؟",
+        "id": "trans-d_kk_56",
+        "en": "Tell me, how many days have you been home this month?"
+    },
+    {
+        "zh": "恭喜啊，听说你买了辆奥迪，什么型号的?",
+        "kk": ": قۇتتىقتايمىن، ٴسىز اۋدي ساتىپ الدىڭىز با،قالاي سەكىلدى؟",
+        "id": "trans-d_kk_543",
+        "en": "Congratulations, I heard you bought an Audi. What model is it?"
+    },
+    {
+        "zh": "我这不也是为了工作、为了这个家吗?",
+        "kk": "تەك قىزمەت ٴۇشىن جۇرگەمىن جوق، وسى سەميا ٴۇشىن جۇگىرىپ جاتىرمىن عوي",
+        "id": "trans-d_kk_57",
+        "en": "Am I not doing this for work, for this family?"
+    },
+    {
+        "zh": "好的，老板您可真实惠。我就要这双了。",
+        "kk": "جارايدى، ٴسىز شنشىل ەكەنسىز، مەن وسىنى ساتىپ الايىن.",
+        "id": "trans-d_kk_401",
+        "en": "Okay, boss, you are really giving me a good deal. I'll take this pair."
+    },
+    {
+        "zh": "真对不起，我来晚了。",
+        "kk": "كەشىرىڭىز، مەن كەشىگىپ قالدىم.",
+        "id": "trans-d_kk_471",
+        "en": "I'm really sorry, I'm late."
+    },
+    {
+        "zh": "不用，我下午送客人去机场，不在公司。",
+        "kk": "قاجەتى جوق، مەن تۇستەن كەيىن قوناقتى اۋەجايعا جەتكىزەمىن، سەرىكتىكتە  جوقپىن.",
+        "id": "trans-d_kk_309",
+        "en": "No need, I'm taking a guest to the airport in the afternoon, so I won't be at the company."
+    },
+    {
+        "zh": "图书馆，在这儿，在办公楼的下面。",
+        "kk": "كىتاپحانا، بۇل جەردە كەڭسە عيماراتىنىڭ استىندا.",
+        "id": "trans-d_kk_728",
+        "en": "The library is here, below the office building."
+    },
+    {
+        "zh": "你要在长沙待几天?",
+        "kk": "سەن چاڭشادا بىرنەشە كۇن تۇراسىڭ؟",
+        "id": "trans-d_kk_34",
+        "en": "How many days will you be staying in Changsha?"
+    },
+    {
+        "zh": "因为天气不好，航班取消了。",
+        "kk": "اۋا رايى جاقسى بولماعاندىقتان كەزەكشى ايروپلان كۇشىنەن قالدىرىلدى.",
+        "id": "trans-d_kk_509",
+        "en": "Because the weather is bad, the flight was canceled."
+    },
+    {
+        "zh": "请问你借什么书?",
+        "kk": "ءسىزقايسى  كىتاپتى قارىزعا الاسىز؟",
+        "id": "trans-d_kk_686",
+        "en": "May I ask what book you're borrowing?"
+    },
+    {
+        "zh": "我要去超市买牙刷和毛巾，你去不去？",
+        "kk": "مەن ەرەن بازارعا بارىپ ٴتىس شوتكىسى مەن ورامال ساتىپ الامىن، بارمايسىڭ با؟",
+        "id": "trans-d_kk_326",
+        "en": "I'm going to the supermarket to buy a toothbrush and a towel. Are you coming?"
+    },
+    {
+        "zh": "也看了，不在。",
+        "kk": "ونىدا كوردىم، جوق.",
+        "id": "trans-d_kk_596",
+        "en": "I checked, not there either."
+    },
+    {
+        "zh": "拿一款保暖性能好点儿的。",
+        "kk": "جىلىراق بىرەۋىن الايىن.",
+        "id": "trans-d_kk_217",
+        "en": "Show me one with good warmth."
+    },
+    {
+        "zh": "到天安门广场还有几站?",
+        "kk": "تيان-انمىن الاڭىنا بارعانعا تاعى قانشا بەكەت بار؟",
+        "id": "trans-d_kk_322",
+        "en": "How many stops are there to Tiananmen Square?"
+    },
+    {
+        "zh": "这个周六你休息吗?一起去看电影吧。",
+        "kk": "وسى سەنبى كۇنى دەمالاسىڭ با؟ بىرگە بارىپ كينو كورەيىك.",
+        "id": "trans-d_kk_384",
+        "en": "Are you off this Saturday? Let's go watch a movie together."
+    },
+    {
+        "zh": "杯子换了吗?幸亏你发现得早，不然，还得费很多口舌。",
+        "kk": "ستاكاندى الماستىرىپ بەردى مە؟ باقىتقا جاراي، ەرتە بايقاپسىڭ، ويتپەگەندە، تاعى اۋىرە بولادى ەكەنسىڭ.",
+        "id": "trans-d_kk_251",
+        "en": "Did you change the cup? Fortunately, you noticed it early, otherwise, it would have taken a lot of effort to explain."
+    },
+    {
+        "zh": "中国没有过圣诞节的习惯，又不放假，真没意思。",
+        "kk": "جۇڭگودا روجدەستۆو مەرەكەسى وتىلەتىن ادەت جوق، دەمالىس بەرىلمەيدى، بۇل شىنىندا ماعىناسىز.",
+        "id": "trans-d_kk_306",
+        "en": "China doesn't have the habit of celebrating Christmas, and there's no holiday, it's really boring."
+    },
+    {
+        "zh": "我的新老板不怎么喜欢我，你说我该怎么办呢?",
+        "kk": "جاڭا قوجايىن مەنى ونشا جاقسى كورمەيدى، مەن قايتۋىم كەرەك؟",
+        "id": "trans-d_kk_551",
+        "en": "My new boss doesn’t really like me. What do you think I should do?"
+    },
+    {
+        "zh": "明天又不上学，怎么起那么早?",
+        "kk": "ەرتەڭ وقۋعا بارمايسىڭ، نەگە سونشاما ەرتە تۇراسىڭ؟",
+        "id": "trans-d_kk_618",
+        "en": "You don't have school tomorrow, why get up so early?"
+    },
+    {
+        "zh": "爸爸带你去动物园看老虎，好不好?",
+        "kk": "اكەڭ سەنى حايۋاناتتار باقشاسىنا ەرتىپ بارىپ جولبارىستى كورسەتەدى، بولاما ما؟",
+        "id": "trans-d_kk_230",
+        "en": "Dad will take you to the zoo to see tigers, okay?"
+    }
+]

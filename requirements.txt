@@ -1,0 +1,13 @@
+# Core runtime dependencies for SAF-W.
+# Versions pinned to match the TriMix/DExperts fork the decoder is built on.
+# transformers 4.47.0 is required: the cached generation loop uses the
+# _supports_cache_class hack and prepare_inputs_for_generation interface from
+# this version. Newer transformers (4.50+) change these and break KV caching.
+torch==2.5.1
+transformers==4.47.0
+accelerate>=0.30
+sentencepiece>=0.1.99
+numpy>=1.24
+sacrebleu>=2.4
+rouge-score>=0.1.2
+tqdm>=4.65

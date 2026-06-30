@@ -1,0 +1,793 @@
+[
+    {
+        "context": [
+            "ᠥᠨᠥ᠍ ᠦᠳᠡ ᠶᠢᠨ ᠬᠣᠢᠨ᠎ᠠ ᠶᠢᠨ ᠤᠷᠤᠯᠳᠤᠭᠠᠨ ᠢ ᠲᠦᠷ ᠴᠠᠭ ᠴᠣᠴᠠᠯᠠᠵᠠᠢ᠃",
+            "ᠶᠠᠭᠠᠬᠢᠭᠠᠳ ? ᠡᠨᠡ ᠤᠷᠤᠯᠳᠤᠭᠠᠨ ᠢ ᠪᠢ ᠬᠦᠯᠢᠶᠡᠭᠡᠳ ᠤᠳᠠᠭᠰᠠᠨ ᠰᠢᠤ᠃"
+        ],
+        "options": [
+            "ᠶᠡᠬᠡ ᠪᠠᠶᠠᠷᠯᠠᠯ᠎ᠠ ᠂ ᠪᠢ ᠡᠨᠡ ᠬᠣᠲᠠ  ᠳᠦ ᠢᠷᠡᠭᠡᠳ ᠬᠣᠶᠠᠷᠬᠠᠨ ᠡᠳᠦᠷ ᠪᠣᠯᠵᠤ ᠪᠠᠢ᠌ᠨ᠎ᠠ ᠂ ᠬᠠᠮᠢᠭ᠎ᠠ ᠨᠢ  ᠶᠠᠭᠤ  ᠪᠠᠢᠬᠤ  ᠶᠢ ᠮᠡᠳᠡᠬᠦ ᠦᠭᠡᠶ  ᠪᠠᠢᠭᠰᠠᠭᠠᠷ ᠃",
+            "ᠪᠢ ᠪᠠᠰᠠ ᠲᠣᠳᠣᠷᠬᠠᠢ ᠮᠡᠳᠡᠬᠦ ᠦᠭᠡᠢ᠂ ᠰᠣᠨᠣᠰᠬᠤᠯᠠᠷ ᠴᠠᠭ ᠠᠭᠠᠷ ᠤᠨ ᠪᠠᠢᠳᠠᠯ ᠳᠦ ᠨᠥᠯᠥᠭᠡᠯᠡᠭ᠍ᠳᠡᠭ᠍ᠰᠡᠨ ᠭᠡᠨ᠎ᠡ᠃",
+            "ᠴᠢᠮ᠎ᠠ  ᠶᠢ ᠢᠷᠡᠬᠦ ᠦᠭᠡᠢ ᠭᠡᠵᠦ ᠪᠣᠳᠣᠭᠰᠠᠨ ᠂ ᠪᠢ ᠴᠢᠮᠠᠶ  ᠬᠦᠯᠢᠶᠡᠭᠡᠭᠡᠳ  ᠤᠳᠠᠯ᠎ᠠ  ᠃",
+            "ᠭᠠᠷ  ᠤᠨ ᠦᠰᠦᠭ ᠵᠢᠷᠤᠵᠠᠶ ᠃ ᠦᠨᠡᠨ ᠳᠡᠭᠡᠨ ᠭᠠᠷ  ᠤᠨ ᠦᠰᠦᠭ ᠵᠢᠷᠤᠬᠤ ᠡᠰᠡᠬᠦ ᠨᠢ ᠪᠦᠷ ᠬᠠᠮᠢᠶ᠎ᠠ ᠦᠭᠡᠢ᠂ ᠪᠢ ᠪᠠᠰᠠ ᠲᠦᠷ ᠴᠠᠭ ᠲᠡᠨᠳᠡ ᠬᠣᠶᠠᠷ ᠡᠳᠦᠷ ᠠᠵᠢᠯᠯᠠᠬᠤ ᠪᠠᠷ ᠪᠡᠯᠡᠳᠬᠡᠵᠦ ᠪᠠᠶᠢᠨ᠎ᠠ᠃"
+        ],
+        "answer": "B",
+        "zh_trans": {
+            "context": [
+                "今天下午的比赛临时取消了。",
+                "为什么?这场比赛我已经盼望很久了。"
+            ],
+            "options": [
+                "多谢了，我到这个城市才两天，还弄不清哪儿是哪儿呢。",
+                "我也不清楚，据说好像是天气原因。",
+                "还以为你不来了，我都等你半天了。",
+                "签了。其实签不签都无所谓，我也就准备临时在那儿干两天。"
+            ],
+            "answer": "我也不清楚，据说好像是天气原因。"
+        },
+        "id": "response_mn_348",
+        "en_trans": {
+            "context": [
+                "This afternoon's match has been canceled at the last minute.",
+                "Why? I've been looking forward to this match for a long time."
+            ],
+            "options": [
+                "Thank you, I've only been in this city for two days, and I still can't figure out where things are.",
+                "I'm not sure either, but it's said to be due to the weather.",
+                "I thought you weren't coming. I've been waiting for you for a long time.",
+                "I signed it. Actually, it doesn't matter whether I sign it or not, I'm just planning to work there temporarily for a couple of days."
+            ],
+            "answer": "I'm not sure either, but it's said to be due to the weather."
+        }
+    },
+    {
+        "context": [
+            "ᠥᠨᠥᠳᠦᠷ ᠶᠠᠭᠤᠮ᠎ᠠ ᠬᠤᠳᠠᠯᠳᠤᠨ ᠠᠪᠬᠤ ᠪᠠᠷ ᠶᠠᠪᠤᠬᠤ ᠳᠦ ᠪᠦᠷ ᠶᠠᠭᠤ ᠠᠪᠤᠭᠰᠠᠨ ᠪᠤᠶ?",
+            "ᠨᠢᠭᠡ ᠪᠠᠩᠵᠠᠯ ᠂ ᠨᠢᠭᠡ ᠰᠡᠷᠢᠭᠦᠨ ᠱᠠᠬᠠᠢ ᠠᠪᠴᠤ ᠂ ᠴᠢᠮ᠎ᠠ  ᠳᠦ ᠨᠢᠭᠡ ᠣᠬᠣᠷ ᠥᠮᠥᠳᠥ ᠂ ᠬᠣᠶᠠᠷ ᠵᠦᠢᠷᠡᠢ ᠣᠶᠢᠮᠣᠰᠤ ᠠᠪᠴᠤ ᠥᠭᠴᠡᠢ ᠃"
+        ],
+        "options": [
+            "ᠲᠡᠷᠡ ᠲᠠᠯ᠎ᠠ ᠶᠢᠨ ᠪᠤᠤᠰᠠ ᠪᠠᠰᠠ ᠲᠡᠢᠮᠦ ᠤᠤ ?",
+            "ᠴᠢᠨᠦ ᠡᠨᠡ ᠥᠮᠥᠳᠦ ᠴᠢᠨᠢ ᠬᠡᠵᠢᠶ᠎ᠡ ᠠᠪᠤᠭᠰᠠᠨ ᠪᠣᠢ ?",
+            "ᠮᠢᠨᠦ ᠣᠶᠢᠮᠣᠰᠤ ᠨᠡᠯᠢᠶᠡᠳ ᠠᠷᠪᠢᠨ ᠪᠢᠰᠢ  ᠦᠦ?",
+            "ᠪᠣᠯᠣᠨ᠎ᠠ᠂ ᠡᠨᠡ ᠱᠠᠬᠠᠢ ᠶᠢᠨ ᠶᠠᠩᠵᠤ ᠨᠢ ᠡᠪᠲᠡᠢ᠂ ᠥᠩᠭᠡ ᠨᠢ ᠪᠠᠰᠠ ᠰᠦᠷ ᠵᠦᠭᠡᠷ᠃ ᠬᠡᠳᠦᠢ ᠵᠣᠭᠣᠰ ᠪᠣᠢ ?"
+        ],
+        "answer": "C",
+        "zh_trans": {
+            "context": [
+                "今天去购物都买什么了?",
+                "买了一条裙子，一双凉鞋，给你买了一条短裤，两双袜子。"
+            ],
+            "options": [
+                "那边的包子也是吗?",
+                "你这条裤子什么时候买的?",
+                "我袜子不是挺多的吗?",
+                "嗯，这双样子挺好，颜色也不错，多少钱?"
+            ],
+            "answer": "我袜子不是挺多的吗?"
+        },
+        "id": "response_mn_489",
+        "en_trans": {
+            "context": [
+                "What did you buy when you went shopping today?",
+                "I bought a dress, a pair of sandals, a pair of shorts for you, and two pairs of socks."
+            ],
+            "options": [
+                "Are the buns over there also free?",
+                "When did you buy these pants?",
+                "Don't I have plenty of socks?",
+                "Hmm, this pair looks nice, and the color is good too. How much are they?"
+            ],
+            "answer": "Don't I have plenty of socks?"
+        }
+    },
+    {
+        "context": [
+            "ᠴᠢ ᠶᠡᠬᠡ ᠲᠤᠷᠠᠵᠠᠢ᠃",
+            "ᠲᠡᠢᠮᠦ ᠡ᠂ ᠪᠠᠷᠤᠭ ᠣᠢᠷ᠎ᠠ ᠳᠤ ᠬᠡᠲᠦᠷᠬᠡᠢ ᠣᠷᠣᠢ ᠤᠨᠲᠠᠭᠰᠠᠨ ᠤ ᠬᠢ ᠪᠠᠢᠬ᠎ᠠ᠃"
+        ],
+        "options": [
+            "ᠲᠡᠷᠡ ᠦᠶ᠎ᠡ ᠳ᠋ᠦ ᠪᠢ ᠦᠨᠡᠬᠡᠷ ᠡᠳᠡᠭᠡᠷ ᠰᠠᠢᠨ ᠨᠠᠢᠢᠵᠠ ᠡᠴᠡ ᠪᠡᠨ ᠰᠠᠯᠬᠤ ᠳᠤᠷ᠎ᠠ ᠦᠭᠡᠢ ᠪᠠᠢᠢᠭᠰᠠᠨ᠃",
+            "ᠭᠤᠪᠢᠭᠤᠯᠬᠤ ᠬᠡᠷᠡᠭ ᠦᠭᠡᠢ᠂ ᠹᠠᠺᠰᠳᠠᠭᠠᠳ ᠥᠭ᠍ᠪᠡᠯ ᠪᠣᠯᠴᠢᠬᠠᠨ᠎ᠠ᠃",
+            "ᠦᠨᠡᠬᠡᠷ ᠡᠪ ᠦᠭᠡᠢ ᠪᠣᠯᠣᠯ᠎ᠠ᠃ ᠪᠢ ᠣᠷᠣᠢᠳᠠᠴᠢᠬᠠᠯ᠎ᠠ᠃",
+            "ᠪᠢ ᠪᠠᠰᠠ ᠡ᠂ ᠥᠭᠦᠯᠡᠯ ᠪᠢᠴᠢᠬᠦ ᠦᠨᠡᠨ ᠠᠮᠠᠷ ᠦᠭᠡᠢ᠃"
+        ],
+        "answer": "D",
+        "zh_trans": {
+            "context": [
+                "你看起来瘦多了。",
+                "是的。可能是因为这些天睡得太晚。"
+            ],
+            "options": [
+                "我那时真不想离开你们这些好朋友。",
+                "不用寄，传真给我就可以。",
+                "真对不起，我来晚了。",
+                "我也是。写毕业论文真不容易!"
+            ],
+            "answer": "我也是。写毕业论文真不容易!"
+        },
+        "id": "response_mn_356",
+        "en_trans": {
+            "context": [
+                "You look much thinner.",
+                "Yes. It might be because I've been sleeping too late these days."
+            ],
+            "options": [
+                "I really didn't want to leave you all, my good friends, at that time.",
+                "No need to mail it, just fax it to me.",
+                "I'm really sorry, I'm late.",
+                "Me too. Writing the thesis is really not easy!"
+            ],
+            "answer": "Me too. Writing the thesis is really not easy!"
+        }
+    },
+    {
+        "context": [
+            "ᠲᠡᠢ᠌ᠮᠦ ᠂ ᠪᠡᠭᠡᠵᠢᠩ ᠬᠣᠲᠠ  ᠶᠢᠨ ᠬᠡᠳᠦ ᠬᠡᠳᠦᠨ ᠵᠣᠴᠢᠨ  ᠢ ᠳᠠᠭᠠᠨ᠎ᠠ ᠂ ᠣᠯᠠᠨ  ᠢᠶᠠᠷ  ᠢᠶᠠᠨ ᠶᠠᠪᠤᠵᠤ ᠴᠢᠳᠠᠬᠤ ᠦᠭᠡᠶ ᠂ ᠵᠥᠪᠬᠡᠨ ᠪᠢ ᠥᠪᠡᠷ  ᠢᠶᠠᠨ ᠣᠴᠢᠨ᠎ᠠ ᠃",
+            "ᠴᠢ ᠬᠡᠯᠡᠵᠦ ᠦᠵᠡ ᠂ ᠶᠠᠭᠠᠬᠢᠭᠠᠳ ᠭᠠᠳᠠᠭᠰᠢ ᠭᠠᠷᠬᠤ ᠤᠴᠢᠷ  ᠢ ᠳᠠᠩᠳᠠ ᠴᠢᠮᠠᠶ ᠶᠠᠪᠤᠭᠤᠯᠳᠠᠭ ᠪᠤᠢ ᠃ ᠲᠡᠭᠡᠪᠡᠯ ᠬᠡᠵᠢᠶ᠎ᠡ ᠬᠠᠷᠢᠵᠤ ᠢᠷᠡᠬᠦ ᠪᠤᠢ?",
+            "ᠬᠡᠯᠡᠵᠦ ᠮᠡᠳᠡᠬᠤ ᠦᠭᠡᠢ ᠂ ᠶᠠᠷᠢᠯᠴᠠᠭᠰᠠᠨ ᠪᠠᠶᠢᠳᠠᠯ  ᠢᠶᠠᠷ  ᠪᠣᠯᠣᠨ᠎ᠠ᠃"
+        ],
+        "options": [
+            "ᠰᠠᠷᠠ ᠭᠦᠶᠦᠵᠦ ᠪᠠᠢᠭ᠎ᠠ ᠪᠢᠰᠢ ᠡ᠂ ᠬᠠᠷᠢᠨ ᠲᠡᠭ᠍ᠷᠢ ᠳᠡᠭᠡᠷᠡᠬᠢ ᠡᠭᠦᠯᠡ ᠬᠥᠳᠡᠯᠵᠦ ᠪᠠᠢᠨ᠎ᠠ",
+            "ᠮᠠᠷᠭᠠᠰᠢ ᠪᠣᠯᠣᠶ᠎ᠠ᠂ ᠥᠨᠥᠳᠥᠷ ᠮᠢᠨᠤ ᠡᠵᠢ ᠶᠢᠨ ᠲᠥᠷᠥᠭ᠍ᠰᠡᠨ ᠡᠳᠦᠷ᠂ ᠪᠢ ᠭᠡᠷ ᠲᠦ ᠪᠡᠨ ᠬᠠᠷᠢᠵᠤ ᠬᠣᠭᠣᠯᠠ ᠢᠳᠡᠨ᠎ᠡ᠃",
+            "ᠲᠸᠯᠸᠢᠰ ᠡᠪᠳᠡᠷᠡᠴᠢᠬᠡᠵᠡᠢ᠂ ᠪᠢ ᠦᠵᠡᠪᠡᠯ ᠰᠢᠶᠣᠣ ᠵᠠᠩ ᠡᠳᠦᠷᠵᠢᠨ ᠮᠠᠰᠢᠨ ᠣᠷᠣᠯᠳᠤᠵᠤ ᠪᠠᠢᠨ᠎ᠠ ᠲᠡᠭᠦᠨ ᠢ ᠵᠠᠯᠠᠭᠠᠳ ᠦᠵᠡᠭᠦᠯᠬᠦ ᠤᠤ ?",
+            "ᠡᠨᠡ ᠰᠠᠷ᠎ᠠ ᠴᠢ ᠬᠡᠳᠦᠨ ᠡᠳᠦᠷ ᠭᠡᠷ ᠲᠡᠬᠡᠨ  ᠪᠠᠢᠬᠤ ᠪᠤᠢ?"
+        ],
+        "answer": "D",
+        "zh_trans": {
+            "context": [
+                "对，北京这边好几个客户要跟，大家都走不开，只能我自己去。",
+                "你说说，怎么出差的事儿总是让你去。那什么时候回来?",
+                "没准儿，得看谈的情况。"
+            ],
+            "options": [
+                "月亮不会跑，其实是天上的云在动。",
+                "明天吧，今天是我妈妈的生日，我得回家吃饭。",
+                "响家电视坏了，我看小张整天在弄电器，请他来看看吧?",
+                "你说你，这个月你有几天在家?"
+            ],
+            "answer": "你说你，这个月你有几天在家?"
+        },
+        "id": "response_mn_44",
+        "en_trans": {
+            "context": [
+                "Yes, several clients in Beijing need to be attended to, and everyone here is occupied, so I have to go myself.",
+                "Tell me, why is it that you are always the one going on business trips? When will you be back?",
+                "Not sure, it depends on how the negotiations go."
+            ],
+            "options": [
+                "The moon isn't moving, actually it's the clouds in the sky that are moving.",
+                "How about tomorrow, today is my mom's birthday and I have to go home for dinner.",
+                "The TV at home is broken. I see that Xiao Zhang is always fiddling with electronics; shall we ask him to take a look?",
+                "Tell me, how many days have you been home this month?"
+            ],
+            "answer": "Tell me, how many days have you been home this month?"
+        }
+    },
+    {
+        "context": [
+            "ᠲᠢᠶᠠᠨ ᠹᠠᠩ ᠂ ᠴᠢ ᠳᠠᠰᠬᠠᠯ  ᠢᠶᠠᠨ ᠬᠢᠵᠦ ᠪᠠᠷᠠᠭᠰᠠᠨ  ᠦᠦ?",
+            "ᠬᠢᠭᠡᠳ ᠪᠠᠷᠠᠴᠢᠬᠠᠭᠰᠠᠨ ᠂ ᠶᠠᠭᠠᠬᠢᠭᠰᠠᠨ ᠪᠤᠢ?"
+        ],
+        "options": [
+            "ᠪᠣᠯᠣᠨ᠎ᠠ᠂ ᠪᠠᠶᠠᠷᠯᠠᠯ᠎ᠠ ᠡᠵᠡᠨᠳᠡᠨ ᠡ᠂ ᠲᠡᠭᠡᠪᠡᠯ ᠪᠢ ᠡᠨᠡ ᠶᠢ ᠠᠪᠤᠶ᠎ᠠ᠃",
+            "ᠪᠣᠯᠣᠨ᠎ᠠ᠂ ᠪᠢᠲᠡᠭᠡᠢ ᠶᠠᠭᠠᠷᠠᠭᠤᠯ᠂ ᠪᠢᠲᠡᠭᠡᠢ ᠶᠠᠭᠠᠷᠠᠭᠤᠯ ! ᠪᠢ ᠣᠳᠣ ᠨᠢᠭᠡ ᠯᠠᠪᠳᠠᠭᠤᠨ ᠡᠷᠢᠭᠡᠳ ᠦᠵᠡᠶ᠎ᠡ᠃ ᠠ᠂ ᠣᠯᠴᠢᠬᠠᠯ᠎ᠠ᠃",
+            "ᠡᠨᠡ ᠬᠡᠳᠦᠨ ᠰᠡᠳᠦᠪ ᠦᠨᠡᠬᠡᠷ ᠬᠦᠴᠢᠷ ᠂ ᠴᠢ ᠨᠠᠳᠠ  ᠳᠦ ᠶᠠᠷᠢᠭᠠᠳ ᠥᠭᠭᠦᠭᠡᠴᠢ ᠃",
+            "ᠪᠣᠯᠵᠠᠶ ᠂ ᠪᠢ ᠮᠡᠳᠡᠯ᠎ᠡ ᠂ ᠴᠢ ᠦᠨᠡᠬᠡᠷ ᠶᠠᠩᠰᠢᠵᠤ ᠪᠠᠢ᠌ᠨ᠎ᠠ ᠃"
+        ],
+        "answer": "C",
+        "zh_trans": {
+            "context": [
+                "田芳，你作业做完了吗?",
+                "做完了，怎么啦?"
+            ],
+            "options": [
+                "好的，老板您可真实惠。我就要这双了。",
+                "好，别催，别催!我再认真找找，啊!找到了。",
+                "这几道题真难，你给我讲讲吧。",
+                "好了，我知道了，你真哕嗦!"
+            ],
+            "answer": "这几道题真难，你给我讲讲吧。"
+        },
+        "id": "response_mn_177",
+        "en_trans": {
+            "context": [
+                "Tian Fang, have you finished your homework?",
+                "Yes, I have. What's up?"
+            ],
+            "options": [
+                "Okay, boss, you are really giving me a good deal. I'll take this pair.",
+                "Okay, stop rushing me! I'll look carefully again. Ah! Found them!",
+                "These questions are really difficult, can you explain them to me?",
+                "Okay, I got it, you're so naggy!"
+            ],
+            "answer": "These questions are really difficult, can you explain them to me?"
+        }
+    },
+    {
+        "context": [
+            "ᠮᠠᠷᠭᠠᠰᠢ ᠦᠳᠡ ᠶᠢᠨ ᠬᠣᠢᠨ᠎ᠠ ᠪᠢ ᠲᠠᠨ ᠤ ᠺᠣᠮᠫᠠᠨᠢ ᠶᠢᠨ ᠬᠠᠪᠢ ᠳᠤ ᠬᠤᠷᠠᠯ ᠲᠠᠢ᠂ ᠴᠢᠮ᠎ᠠ ᠶᠢ ᠠᠵᠢᠯ ᠠᠴᠠ ᠪᠠᠭᠤᠬᠤ ᠪᠠᠷ ᠴᠢᠨᠢ ᠲᠣᠰᠬᠤ  ᠤᠤ ?"
+        ],
+        "options": [
+            "ᠰᠠᠢᠨ ᠤᠤ !ᠪᠢ ᠪᠣᠯ ᠪᠠᠷᠢᠯᠭ᠎ᠠ ᠶᠢᠨ ᠺᠣᠮᠫᠠᠨᠢ ᠶᠢᠨ ᠸᠠᠩ ᠯᠢ᠃",
+            "ᠬᠡᠷᠡᠭ ᠦᠭᠡᠢ᠂ ᠪᠢ ᠦᠳᠡ ᠶᠢᠨ ᠬᠣᠢᠨ᠎ᠠ ᠵᠣᠴᠢᠨ ᠢ ᠨᠢᠰᠬᠡᠯ ᠦᠨ ᠪᠠᠭᠤᠳᠠᠯ ᠳᠤ ᠬᠦᠷᠭᠡᠨ᠎ᠡ᠂ ᠺᠣᠮᠫᠠᠨᠢ ᠳᠤ ᠪᠠᠨ ᠪᠠᠢᠬᠤ ᠦᠭᠡᠢ᠃",
+            "ᠪᠢ ᠬᠣᠯᠠ ᠵᠠᠮ ᠤᠨ ᠮᠠᠰᠢᠨ ᠲᠡᠷᠭᠡᠨ  ᠳᠦ ᠰᠠᠭᠤᠬᠤ ᠳᠤᠷ᠎ᠠ ᠦᠭᠡᠢ ᠂ ᠬᠡᠲᠦᠷᠬᠡᠢ  ᠶᠠᠳᠠᠷᠠᠨ᠎ᠠ ᠃ ᠥᠨᠳᠥᠷ ᠬᠤᠷᠳᠤᠴᠠᠲᠤ ᠵᠠᠰᠠᠮᠠᠯ ᠵᠠᠮ  ᠢᠶᠠᠷ ᠭᠦᠶᠦᠬᠦ  ᠳᠦ ᠴᠦ ᠠᠶᠤᠯ ᠲᠠᠶ ᠃",
+            "ᠣᠷᠣᠢ ᠺᠣᠮᠫᠠᠨᠢ ᠳᠤ ᠤᠴᠢᠷ ᠲᠠᠢ᠂ ᠣᠷᠣᠢᠳᠠᠵᠤ ᠮᠠᠭᠠᠳ ᠦᠭᠡᠢ᠂ ᠴᠢ ᠬᠣᠭᠣᠯᠠ ᠪᠠᠨ ᠬᠢᠭᠡᠴᠢᠬᠡ᠃"
+        ],
+        "answer": "B",
+        "zh_trans": {
+            "context": [
+                "我明天下午去你们公司附近开会，要不要接你下班？"
+            ],
+            "options": [
+                "你好!我是建筑公司的王励。",
+                "不用，我下午送客人去机场，不在公司。",
+                "我可不愿意坐长途汽车，太累了。在高速公路上跑，也不安全。",
+                "晚上公司有事情，我可能晚点儿回来，你做饭吧。"
+            ],
+            "answer": "不用，我下午送客人去机场，不在公司。"
+        },
+        "id": "response_mn_205",
+        "en_trans": {
+            "context": [
+                "I'm going to a meeting near your company tomorrow afternoon. Do you want a ride after work?"
+            ],
+            "options": [
+                "Hello! I'm Wang Li from the construction company.",
+                "No need, I'm taking a guest to the airport in the afternoon, so I won't be at the company.",
+                "I don't want to take a long-distance bus, it's too exhausting. It's not safe to drive on the highway.",
+                "There's something at the company tonight, so I might come back late. You cook dinner."
+            ],
+            "answer": "No need, I'm taking a guest to the airport in the afternoon, so I won't be at the company."
+        }
+    },
+    {
+        "context": [
+            "ᠥᠴᠥᠭᠡᠳᠦᠷ ᠪᠢᠳᠡᠨ ᠲᠡᠶ ᠬᠠᠮᠲᠤ ᠺᠢᠨᠣ᠋ ᠦᠵᠡᠭᠰᠡᠨ ᠲᠡᠷᠡ ᠬᠡᠦᠬᠡᠨ ᠦᠨᠡᠬᠡᠷ ᠭᠤᠶᠤ ᠂ ᠵᠠᠩ ᠠᠭᠠᠰᠢ ᠨᠢ ᠴᠦ ᠲᠤᠩ ᠴᠣᠪᠣᠭᠣ ᠳᠡᠭᠵᠢᠨ ᠃",
+            "ᠲᠡᠷᠡ ᠪᠣᠯ ᠮᠢᠨᠦ ᠬᠠᠮᠲᠤ ᠰᠤᠷᠤᠭᠴᠢ ᠂ ᠴᠢᠮ᠎ᠠ  ᠳᠦ ᠡᠮᠡᠭᠲᠡᠢ ᠨᠠᠶᠢᠵᠠ  ᠪᠡᠷ ᠲᠠᠨᠢᠯᠴᠠᠭᠤᠯᠵᠤ ᠥᠭᠬᠦ  ᠦᠦ!"
+        ],
+        "options": [
+            "ᠭᠡᠪᠡᠴᠦ ᠡᠨᠡ ᠡᠵᠡᠨᠳᠡᠨ  ᠤ ᠦᠭᠡ ᠬᠡᠯᠡᠬᠦ ᠨᠢ ᠳᠠᠩᠴᠤ ᠱᠠᠯ ᠳᠡᠮᠡᠶ ᠂ ᠪᠢᠳᠡ ᠴᠠᠭ  ᠢᠶᠠᠨ  ᠪᠠᠷᠠᠭᠰᠠᠨ  ᠤ ᠬᠡᠷᠡᠭ ᠠᠯᠠᠭ᠎ᠠ ᠃",
+            "ᠦᠨᠡᠨ  ᠦᠦ ᠂ ᠴᠢ ᠦᠨᠡᠬᠡᠷ ᠰᠠᠶᠢᠨ ᠂ ᠪᠢ ᠲᠡᠭᠦᠰᠦᠭᠰᠡᠨ  ᠤ ᠳᠠᠷᠠᠭ᠎ᠠ ᠰᠢᠭᠤᠳ ᠠᠵᠢᠯ ᠡᠷᠢᠭᠰᠡᠨ ᠂ ᠣᠳᠣ ᠴᠠᠩᠱᠠ  ᠳᠦ ᠲᠣᠮᠢᠯᠠᠯᠲᠠ ᠪᠠᠷ ᠢᠷᠡᠵᠡᠢ ᠃",
+            "ᠲᠣᠩ  ᠰᠠᠢᠨ ᠪᠣᠯᠤᠯ᠎ᠠ ᠃ ᠪᠢ  ᠡᠢᠮᠤ ᠬᠡᠦᠬᠡᠨ  ᠢ ᠯᠡ ᠲᠣᠭᠣᠨ᠎ᠠ ᠃",
+            "ᠲᠡᠭᠡᠬᠦ ᠯᠡ ᠪᠠᠢᠯᠭᠦᠢ᠂ ᠠᠵᠤ ᠠᠬᠤᠢ ᠶᠢᠨ ᠬᠦᠨᠳᠦᠷᠡᠯ᠂ ᠲᠡᠭᠦᠰᠬᠦ ᠰᠣᠷᠣᠭ᠌ᠴᠢ ᠣᠯᠠᠨ᠂ ᠠᠵᠢᠯ ᠣᠯᠬᠤ ᠳᠠᠷᠤᠭᠠᠰᠤ ᠪᠠᠰᠠ ᠲᠤᠩ ᠶᠡᠬᠡ᠃"
+        ],
+        "answer": "C",
+        "zh_trans": {
+            "context": [
+                "昨天和我们一起看电影的那个女孩真漂亮，性格也很活泼。",
+                "她是我同学，要不介绍给你当女朋友吧!"
+            ],
+            "options": [
+                "可是这个老板说话太无聊了，我们没必要浪费时间。",
+                "真的啊，你太棒了，我毕业后就直接找了份工作呢，现在是来长沙出差。",
+                "太好了!我就喜欢这样的女生。",
+                "那也难怪，经济不景气，毕业生多，就业压力太大了。"
+            ],
+            "answer": "太好了!我就喜欢这样的女生。"
+        },
+        "id": "response_mn_495",
+        "en_trans": {
+            "context": [
+                "The girl we watched the movie with yesterday was really pretty and very lively.",
+                "She is my classmate. How about I introduce her to you as your girlfriend?"
+            ],
+            "options": [
+                "But this boss is so boring, we don't need to waste our time.",
+                "Really? That's great! I found a job right after graduation. I'm in Changsha on a business trip now.",
+                "That would be great! I like girls like her.",
+                "It's not surprising, the economy is sluggish, there are many graduates, and the pressure to find jobs is too high."
+            ],
+            "answer": "That would be great! I like girls like her."
+        }
+    },
+    {
+        "context": [
+            "ᠡᠪᠦᠯ  ᠤᠨ ᠠᠮᠠᠷᠠᠯᠲᠠ ᠤᠳᠠᠯ ᠦᠭᠡᠶ ᠬᠦᠷᠴᠦ ᠢᠷᠡᠨ᠎ᠡ ᠂ ᠴᠢ ᠶᠠᠮᠠᠷ ᠲᠥᠯᠥᠪᠯᠡᠭᠡ ᠲᠡᠶ ᠪᠤᠶ?"
+        ],
+        "options": [
+            "ᠪᠢ ᠢᠳᠡᠬᠦ ᠦᠭᠡᠢ᠂ ᠪᠢᠳᠡ ᠤᠷᠢᠳ ᠢᠶᠠᠷ ᠬᠠᠰᠢᠯᠠ ᠴᠡᠴᠡᠭ ᠦᠨ ᠦᠵᠡᠰᠬᠦᠯᠡᠩ ᠰᠣᠨᠢᠷᠬᠠᠬᠤ ᠪᠠᠷ ᠶᠠᠪᠤᠶ᠎ᠠ᠃",
+            "ᠡᠪᠦᠯ  ᠤᠨ ᠠᠮᠠᠷᠠᠯᠲᠠ  ᠳᠦ ᠶᠡᠷᠦᠳᠡᠭᠡᠨ ᠶᠠᠭᠤ ᠴᠤ ᠬᠢᠵᠦ ᠴᠢᠳᠠᠬᠤ ᠦᠭᠡᠢ ᠂ ᠭᠡᠷ ᠲᠡᠬᠡᠨ ᠬᠠᠷᠢᠵᠤ ᠰᠢᠨᠡᠯᠡᠬᠦ ᠡᠴᠡ ᠥᠭᠡᠷ᠎ᠡ ᠠᠷᠭ᠎ᠠ ᠦᠭᠡᠢ ᠃",
+            "ᠲᠡᠢᠮᠦ ᠡ᠂ ᠭᠡᠷ ᠲᠦ ᠪᠡᠨ ᠢᠯᠡᠭᠦᠦ ᠬᠡᠳᠦᠨ ᠡᠳᠦᠷ ᠪᠠᠢᠵᠤ ᠪᠣᠯᠣᠨ᠎ᠠ᠃",
+            "ᠳᠤᠮᠳᠠᠳᠤ ᠤᠯᠤᠰ  ᠤᠨ ᠬᠠᠮᠤᠭ  ᠤᠨ ᠴᠢᠬᠤᠯᠠ ᠪᠠᠶᠠᠷ  ᠤᠨ ᠡᠳᠦᠷ ᠪᠣᠯ ᠴᠠᠭᠠᠨ ᠰᠠᠷ᠎ᠠ  ᠂ ᠰᠢᠨᠡᠯᠡᠬᠦ  ᠳᠦ ᠬᠥᠷ ᠨᠠᠷᠭᠢᠶᠠᠨ ᠲᠠᠶ ᠃"
+        ],
+        "answer": "B",
+        "zh_trans": {
+            "context": [
+                "寒假就快到了，你有什么打算吗?"
+            ],
+            "options": [
+                "我不吃，咱们还是先看花展吧。",
+                "寒假一般什么都做不了，只能回家过春节了。",
+                "是呀，又可以在家多待一些时间了。",
+                "那是，中国最重要的节日是春节，过年可热闹了。"
+            ],
+            "answer": "寒假一般什么都做不了，只能回家过春节了。"
+        },
+        "id": "response_mn_202",
+        "en_trans": {
+            "context": [
+                "The winter break is almost here, do you have any plans?"
+            ],
+            "options": [
+                "I'm not eating, let's see the flower exhibition first.",
+                "I usually can't do anything during the winter break, I can only go home for the Spring Festival.",
+                "Yes, I can stay at home for a bit longer.",
+                "That's right, the most important festival in China is the Spring Festival, and it's really lively during the New Year."
+            ],
+            "answer": "I usually can't do anything during the winter break, I can only go home for the Spring Festival."
+        }
+    },
+    {
+        "context": [
+            "ᠳᠤᠮᠳᠠᠳᠤ   ᠶᠢᠨ ᠨᠣᠭᠣᠭ᠎ᠠ  ᠶᠢᠨ ᠣᠨᠴᠠᠯᠢᠭ ᠪᠣᠯ ᠥᠩᠭᠡ ᠠᠩᠬᠢᠯᠤᠮ᠎ᠠ ᠦᠨᠦᠷ ᠪᠦᠷᠢᠨ ᠃"
+        ],
+        "options": [
+            "ᠣᠷᠴᠢᠮ ᠠᠵᠢᠯ ᠡᠷᠢᠭᠡᠳ ᠶᠠᠮᠠᠷ ᠵᠡᠷᠭᠡ ᠪᠣᠯᠵᠤ ᠪᠠᠢ᠌ᠨ᠎ᠠ?",
+            "ᠥᠩᠭᠡ ᠠᠩᠬᠢᠯᠤᠮ᠎ᠠ ᠦᠨᠦᠷ ᠨᠢ ᠪᠦᠷ ᠶᠠᠮᠠᠷ ᠤᠳᠬ᠎ᠠ ᠲᠠᠶ ᠪᠤᠢ?",
+            "ᠶᠠᠭᠠᠬᠢᠭᠠᠳ ᠭᠡᠨᠡᠳᠲᠡ ᠬᠤᠸᠠᠷ ᠬᠤᠳᠠᠯᠳᠤᠨ ᠠᠪᠬᠤ  ᠶᠢ ᠪᠣᠳᠣᠵᠤ ᠣᠯᠤᠭᠰᠠᠨ ᠪᠤᠢ?",
+            "ᠰᠠᠢᠨ ᠤᠤ ? ᠪᠢ ᠨᠢᠭᠡ ᠬᠤᠪᠢ ᠲᠠᠬᠢᠶᠠᠨ ᠭᠤᠶᠠᠨ ᠤ ᠬᠠᠮᠪᠦᠷᠡᠭ ᠦᠨ ᠪᠥᠭᠡᠮ ᠵᠠᠬᠢᠶᠠᠯᠠᠶ᠎ᠠ᠃ ᠣᠳᠣ ᠬᠢᠮᠳᠠᠷᠠᠯ ᠤᠨ ᠬᠥᠳᠡᠯᠭᠡᠭᠡᠨ ᠪᠠᠢᠨ᠎ᠠ ᠤᠤ ?"
+        ],
+        "answer": "B",
+        "zh_trans": {
+            "context": [
+                "中国菜的特点是色香味俱全。"
+            ],
+            "options": [
+                "最近工作找得怎么样了?",
+                "色香味俱全是什么意思?",
+                "怎么忽然想起买花了?",
+                "你好，我想点一份香辣鸡腿汉堡套餐，现在有什么优惠活动吗?"
+            ],
+            "answer": "色香味俱全是什么意思?"
+        },
+        "id": "response_mn_168",
+        "en_trans": {
+            "context": [
+                "The characteristic of Chinese cuisine is that it is a perfect combination of color, aroma, and taste."
+            ],
+            "options": [
+                "How is the job search going recently?",
+                "What does a perfect combination of color, aroma, and taste mean?",
+                "Why did you suddenly think of buying flowers?",
+                "Hello, I would like to order a spicy chicken burger meal. Are there any promotions right now?"
+            ],
+            "answer": "What does a perfect combination of color, aroma, and taste mean?"
+        }
+    },
+    {
+        "context": [
+            "ᠵᠠᠩ ᠪᠠᠭᠰᠢ ᠠ ᠂ ᠪᠢ ᠲᠠᠨ  ᠡᠴᠡ  ᠬᠡᠳᠦᠨ ᠠᠰᠠᠭᠤᠯᠲᠠ ᠠᠰᠠᠭᠤᠶ᠎ᠠ ᠃",
+            "ᠦᠨᠡᠬᠡᠷ ᠡᠪ ᠦᠭᠡᠢ ᠪᠣᠯᠤᠯ᠎ᠠ ᠂ ᠪᠢ ᠵᠢᠭᠠᠬᠠᠨ ᠤᠳᠠᠭᠠᠳ ᠪᠠᠰᠠ ᠬᠣᠶᠠᠷ ᠬᠢᠴᠢᠶᠡᠯ ᠲᠡᠶ ᠃",
+            "ᠲᠡᠭᠡᠪᠡᠯ ᠲᠠ ᠥᠭᠡᠷ᠎ᠡ ᠴᠠᠭ ᠲᠤ ᠵᠠᠪ ᠲᠠᠶ ᠦᠦ?"
+        ],
+        "options": [
+            "ᠪᠠᠢᠨ᠎ᠠ ᠂ ᠭᠠᠷᠠᠭ  ᠤᠨ ᠭᠤᠷᠪᠠᠨ  ᠤ ᠦᠳᠡ   ᠶᠢᠨ  ᠬᠣᠢᠨ᠎ᠠ ᠪᠢ ᠠᠯᠪᠠᠨ ᠠᠰᠠᠷ  ᠤᠨ 124   ᠳ᠋ᠤᠭᠠᠷ ᠥᠷᠥᠭᠡᠨ  ᠳᠦ  ᠪᠠᠢᠨ᠎ᠠ ᠂ ᠲᠠ ᠲᠡᠷᠡ ᠦᠶ᠎ᠡ  ᠳᠦ ᠨᠠᠮᠠᠢ᠌ ᠡᠷᠢᠬᠦ ᠪᠡᠷ ᠢᠷᠡᠵᠦ ᠪᠣᠯᠤᠨ᠎ᠠ ᠃",
+            "ᠪᠠᠢᠨ᠎ᠠ᠂ ᠣᠳᠣ ᠨᠢᠭᠡ ᠬᠤᠪᠢ ᠵᠢᠮᠢᠰ ᠦᠨ ᠰᠢᠭᠦᠰᠦ ᠠᠪᠤᠪᠠᠯ ᠬᠣᠶᠠᠷ ᠢ ᠬᠦᠷᠭᠡᠨ᠎ᠡ᠃ ᠭᠤᠷᠪᠠᠨ ᠭᠠᠵᠠᠷ ᠤᠨ ᠳᠣᠲᠣᠷ᠎ᠠ ᠬᠦᠷᠭᠡᠯᠲᠡ ᠶᠢᠨ 8 ᠲᠥᠭᠥᠷᠢᠭ ᠢ ᠬᠠᠭᠠᠰ ᠢᠶᠠᠷ ᠬᠢᠮᠳᠠᠷᠠᠭᠤᠯᠤᠨ᠎ᠠ᠃",
+            "ᠪᠢ ᠬᠣᠯᠠ ᠵᠠᠮ ᠤᠨ ᠮᠠᠰᠢᠨ ᠲᠡᠷᠭᠡᠨ  ᠳᠦ ᠰᠠᠭᠤᠬᠤ ᠳᠤᠷ᠎ᠠ ᠦᠭᠡᠢ ᠂ ᠬᠡᠲᠦᠷᠬᠡᠢ  ᠶᠠᠳᠠᠷᠠᠨ᠎ᠠ ᠃ ᠥᠨᠳᠥᠷ ᠬᠤᠷᠳᠤᠴᠠᠲᠤ ᠵᠠᠰᠠᠮᠠᠯ ᠵᠠᠮ  ᠢᠶᠠᠷ ᠭᠦᠶᠦᠬᠦ  ᠳᠦ ᠴᠦ ᠠᠶᠤᠯ ᠲᠠᠶ ᠃",
+            "ᠪᠣᠯᠤᠨ᠎ᠠ ᠂ ᠲᠠ ᠡᠨᠡ ᠭᠠᠷᠠᠭ  ᠤᠨ ᠳᠥᠷᠪᠡᠨ ᠤ ᠦᠳᠡ  ᠶᠢᠨ  ᠬᠣᠢᠨ᠎ᠠ ᠮᠠᠨ  ᠤ ᠺᠣᠮᠫᠠᠨᠢ  ᠳᠦ ᠢᠷᠡᠭᠡᠷᠡᠶ ᠂ ᠪᠢᠳᠡ ᠠᠭᠤᠯᠵᠠᠭᠠᠳ ᠶᠠᠷᠢᠯᠴᠠᠶ᠎ᠠ ᠃"
+        ],
+        "answer": "A",
+        "zh_trans": {
+            "context": [
+                "张老师，我有几个问题想问您一下。",
+                "真不好意思，我等会儿还有两节课。",
+                "那您别的时间有空儿吗?"
+            ],
+            "options": [
+                "有，周三下午我在办公楼124房间，你可以到时候来找我。",
+                "有，现在买一份九珍果汁可以得两份，三公里内送餐费8元减半。",
+                "我可不愿意坐长途汽车，太累了。在高速公路上跑，也不安全。",
+                "好的，请你本周四下午来我们公司，我们见面再谈。"
+            ],
+            "answer": "有，周三下午我在办公楼124房间，你可以到时候来找我。"
+        },
+        "id": "response_mn_100",
+        "en_trans": {
+            "context": [
+                "Teacher Zhang, I have a few questions I'd like to ask you.",
+                "I'm really sorry, I have two classes later.",
+                "Then do you have free time at another time?"
+            ],
+            "options": [
+                "Yes, on Wednesday afternoon I am in room 124 of the office building, you can come find me then.",
+                "Yes, if you buy one Jiu Zhen juice, you can get two, and the delivery fee within three kilometers is half off from 8 yuan.",
+                "I don't want to take a long-distance bus, it's too exhausting. It's not safe to drive on the highway.",
+                "Okay, please come to our company this Thursday afternoon, and we will discuss it further in person."
+            ],
+            "answer": "Yes, on Wednesday afternoon I am in room 124 of the office building, you can come find me then."
+        }
+    },
+    {
+        "context": [
+            "ᠰᠢᠶᠣᠤ ᠮᠢᠩ ᠂ ᠴᠢ ᠨᠠᠳᠠ  ᠳᠦ ᠡᠭᠦᠳᠡ  ᠶᠢ ᠨᠡᠭᠡᠭᠡᠭᠡᠳ ᠥᠭᠭᠦᠨ᠎ᠡ  ᠦᠦ? ᠪᠢ ᠮᠠᠰᠢ ᠣᠯᠠᠨ ᠶᠠᠭᠤᠮ᠎ᠠ ᠬᠤᠳᠠᠯᠳᠤᠨ ᠠᠪᠴᠠᠶ ᠂ ᠡᠭᠦᠳᠡ ᠪᠡᠨ ᠨᠡᠭᠡᠭᠡᠬᠦ  ᠳᠦ ᠳᠥᠭᠥᠮ ᠦᠭᠡᠢ ᠃"
+        ],
+        "options": [
+            "ᠲᠦᠷ ᠬᠦᠯᠢᠶᠡᠵᠦ ᠪᠠᠶ ᠂ ᠪᠢ ᠣᠳᠣᠬᠠᠨ ᠢᠷᠡᠶ᠎ᠡ ᠃",
+            "ᠠᠭᠤᠴᠢᠯᠠᠭᠠᠷᠠᠢ ᠂ ᠵᠠᠮ ᠳᠡᠭᠡᠷ᠎ᠡ ᠲᠡᠷᠭᠡ ᠲᠦᠭᠵᠢᠷᠡᠭᠡᠳ ᠪᠢ ᠣᠷᠣᠶᠢᠲᠠᠴᠢᠬᠠᠵᠠᠢ!",
+            "ᠣᠳᠣᠬᠠᠨ ᠪᠣᠯᠤᠯ᠎ᠠ ᠃ ᠪᠢᠳᠡ ᠶᠠᠭᠠᠬᠢᠵᠤ ᠣᠴᠢᠬᠤ ᠪᠤᠶ?",
+            "ᠠᠭᠤᠴᠢᠯᠠᠭᠠᠷᠠᠶ ᠂ ᠪᠢ ᠣᠳᠣ ᠪᠠᠷ  ᠢᠶᠠᠨ ᠬᠥᠭᠵᠢᠮ  ᠢ ᠬᠠᠭᠠᠴᠢᠬᠠᠶ᠎ᠠ ᠃"
+        ],
+        "answer": "A",
+        "zh_trans": {
+            "context": [
+                "小明，你能帮我开一下门吗?我买了很多东西，开门不方便。"
+            ],
+            "options": [
+                "稍等，我马上就来。",
+                "对不起，路上堵车我迟到了!",
+                "马上就好。对了，我们怎么过去啊?",
+                "抱歉啊，我马上把音乐关了。"
+            ],
+            "answer": "稍等，我马上就来。"
+        },
+        "id": "response_mn_439",
+        "en_trans": {
+            "context": [
+                "Xiao Ming, can you help me open the door? I've bought a lot of things, and it's inconvenient for me to open it."
+            ],
+            "options": [
+                "Hold on, I'll be right there.",
+                "Sorry, I was late because of traffic!",
+                "I'll be ready soon. By the way, how are we getting there?",
+                "Sorry, I'll turn off the music right away."
+            ],
+            "answer": "Hold on, I'll be right there."
+        }
+    },
+    {
+        "context": [
+            "ᠠᠮᠠᠷᠠᠯᠲᠠ ᠲᠠᠯᠪᠢᠵᠠᠢ ᠂ ᠴᠢ ᠶᠠᠭᠠᠬᠢᠭᠠᠳ ᠭᠡᠷ ᠲᠡᠬᠡᠨ ᠬᠠᠷᠢᠭᠰᠠᠨ ᠦᠭᠡᠢ ᠪᠤᠢ?",
+            "ᠤᠤᠯ ᠨᠢ ᠭᠡᠷ ᠲᠡᠬᠡᠨ ᠬᠠᠷᠢᠬᠤ ᠭᠡᠵᠦ ᠪᠣᠳᠣᠵᠤ ᠪᠠᠶᠢᠵᠠᠢ ᠂ ᠭᠡᠪᠡᠴᠦ ᠪᠢᠯᠧᠲ᠋ ᠣᠯᠤᠭᠰᠠᠨ ᠦᠭᠡᠢ ᠃"
+        ],
+        "options": [
+            "ᠭᠠᠯᠲᠤ ᠲᠡᠷᠭᠡᠨ ᠥᠷᠳᠡᠭᠡ ᠡᠨᠳᠡ ᠡᠴᠡ ᠬᠣᠯᠠ ᠤᠤ ?",
+            "ᠲᠠ ᠰᠠᠢᠨ ᠤᠤ ᠂ ᠭᠠᠯᠲᠤ ᠲᠡᠷᠭᠡᠨ  ᠤ ᠥᠷᠲᠡᠭᠡᠨ  ᠳᠦ ᠶᠠᠭᠠᠬᠢᠵᠤ ᠶᠠᠪᠤᠬᠤ ᠪᠤᠶ?",
+            "ᠲᠠᠩᠱᠠᠨ ᠳᠦ ᠬᠦᠷᠬᠦ ᠭᠠᠯᠲᠤ ᠲᠡᠷᠭᠡᠨ ᠤ ᠪᠢᠯᠧᠲ᠋ ᠢ ᠠᠪᠬᠤ  ᠳᠦ ᠡᠢᠮᠦ ᠬᠦᠴᠢᠷ ᠦᠦ?",
+            "ᠪᠢᠳᠡ ᠠᠭᠤᠯᠠ ᠠᠪᠠᠷᠢᠬᠤ ᠭᠡᠵᠦ ᠪᠠᠢᠨ᠎ᠠ᠂ ᠴᠢ ᠰᠦᠯᠢᠶᠣᠣ ᠤᠭᠤᠲᠠ ᠠᠪᠤᠭᠠᠳ ᠶᠠᠭᠠᠬᠢᠬᠤ ᠪᠣᠢ ?"
+        ],
+        "answer": "C",
+        "zh_trans": {
+            "context": [
+                "放假了，你怎么没回家?",
+                "本来想回家的，可是没买到票。"
+            ],
+            "options": [
+                "火车站离这儿远吗?",
+                "你好，请问火车站怎么走?",
+                "到唐山的火车票都这么难买吗?",
+                "我们是去爬山，你拿塑料袋干什么啊?"
+            ],
+            "answer": "到唐山的火车票都这么难买吗?"
+        },
+        "id": "response_mn_483",
+        "en_trans": {
+            "context": [
+                "The holiday is here, why haven't you gone home?",
+                "I was planning to go home, but I couldn't get a ticket."
+            ],
+            "options": [
+                "Is the train station far from here?",
+                "Hello, could you tell me how to get to the train station?",
+                "Are tickets to Tangshan that hard to get?",
+                "We're going hiking, why are you bringing a plastic bag?"
+            ],
+            "answer": "Are tickets to Tangshan that hard to get?"
+        }
+    },
+    {
+        "context": [
+            "ᠡᠢᠮᠦ ᠴᠢᠬᠤᠯᠠ ᠶᠠᠭᠤᠮ᠎ᠠ ᠶᠢ ᠴᠢ ᠬᠠᠷᠢᠨ ᠨᠢᠮᠪᠠᠢᠯᠠᠵᠤ ᠬᠠᠳᠠᠭᠠᠯᠠᠬᠤ ᠦᠭᠡᠢ !",
+            "ᠪᠢ ᠬᠡᠭᠡᠭ᠍ᠰᠡᠨ ᠦᠭᠡᠢ᠂ ᠭᠡᠲᠡᠯ᠎ᠡ ᠬᠠᠮᠢᠭ᠎ᠠ ᠲᠠᠯᠪᠢᠭ᠌ᠰᠠᠨ ᠢᠶᠠᠨ ᠰᠠᠨᠠᠬᠤ ᠦᠭᠡᠢ ᠪᠠᠢᠨ᠎ᠠ᠃",
+            "ᠲᠦᠷᠡᠢᠪᠴᠢᠨ ᠳᠦ ᠪᠡᠨ ᠡᠷᠢᠵᠦ ᠦᠵᠡ᠃ ᠲᠡᠷᠡ ᠳᠣᠲᠣᠷ᠎ᠠ ᠪᠠᠢᠵᠤ ᠮᠠᠭᠠᠳ ᠦᠭᠡᠢ᠃"
+        ],
+        "options": [
+            "ᠲᠡᠢᠮᠤ  ᠰᠢᠳᠡ !",
+            "ᠦᠵᠡᠭ᠍ᠰᠡᠨ᠂ ᠪᠠᠢᠬᠤ ᠦᠭᠡᠢ᠃",
+            "ᠬᠠᠳᠠᠭᠠᠯᠠᠬᠤ ᠦᠭᠡᠢ ᠪᠠᠢᠵᠤ ᠪᠣᠯᠣᠨ᠎ᠠ᠃",
+            "ᠠᠭᠤᠴᠢᠯᠠᠭᠠᠷᠠᠢ ᠂ ᠪᠤᠷᠤᠭᠤ ᠪᠣᠳᠣᠴᠢᠬᠠᠵᠠᠢ ᠃"
+        ],
+        "answer": "B",
+        "zh_trans": {
+            "context": [
+                "这么重要的东西你竟然不小心存放!",
+                "我没把它弄丢，但就是不记得放在哪里了。",
+                "看看钱包，会不会在里面?"
+            ],
+            "options": [
+                "谁说不是呢!",
+                "看了，不在。",
+                "可以不存。",
+                "哦，对不起，算错了。"
+            ],
+            "answer": "看了，不在。"
+        },
+        "id": "response_mn_389",
+        "en_trans": {
+            "context": [
+                "How could you carelessly store such important items?",
+                "I didn't lose them, I just don't remember where I put them.",
+                "Check your wallet, could they be in there?"
+            ],
+            "options": [
+                "Exactly!",
+                "I checked, they're not there.",
+                "You don't need to deposit any money.",
+                "Oh, sorry, I made a mistake."
+            ],
+            "answer": "I checked, they're not there."
+        }
+    },
+    {
+        "context": [
+            "ᠸᠠᠩ  ᠫᠡᠷᠥᠹᠰᠰᠥᠷ ᠲᠠ ᠰᠠᠢ᠌ᠨ ᠤᠤ ᠂ ᠵᠠᠮ ᠳᠠᠭᠠᠨ ᠵᠦᠳᠡᠷᠡᠯ᠎ᠡ  ᠪᠢᠵᠠ᠃",
+            "ᠵᠦᠭᠡᠷ ᠵᠦᠭᠡᠷ ᠂ ᠨᠢᠰᠬᠡᠯ  ᠤᠨ ᠪᠠᠭᠤᠳᠠᠯ  ᠳᠦ ᠨᠠᠳᠠ  ᠶᠢ ᠲᠣᠰᠬᠤ ᠪᠠᠷ ᠢᠷᠡᠭᠰᠡᠨ  ᠳᠦ ᠴᠢᠨᠢ ᠪᠠᠶᠠᠷᠯᠠᠯ᠎ᠠ ᠂ ᠤᠳᠠᠭᠠᠨ ᠬᠦᠯᠢᠶᠡᠭᠰᠡᠨ ᠪᠢᠵᠡ?",
+            "ᠦᠭᠡᠢ ᠂ ᠲᠠᠨ  ᠤ ᠡᠭᠡᠯᠵᠢ  ᠶᠢᠨ ᠨᠢᠰᠬᠡᠯ ᠴᠠᠭ ᠲᠠᠭᠠᠨ ᠢᠷᠡᠵᠡᠢ ᠃ ᠲᠡᠷᠭᠡ ᠭᠠᠳᠠᠨ᠎ᠠ ᠪᠠᠢ᠌ᠨ᠎ᠠ ᠂ ᠪᠢ ᠲᠠᠨ  ᠳᠦ ᠠᠴᠢᠶ᠎ᠠ  ᠶᠢ ᠴᠢᠨᠢ ᠠᠪᠴᠤ ᠥᠭᠭᠦᠶ᠎ᠡ ᠃"
+        ],
+        "options": [
+            "ᠦᠭᠡᠢ᠂ ᠪᠢ ᠪᠠᠢᠩᠭᠤ ᠵᠣᠭᠣᠰ ᠬᠠᠳᠠᠭᠠᠯᠠᠵᠤ᠂ ᠵᠣᠭᠣᠰ ᠭᠠᠷᠭᠠᠵᠤ ᠠᠪᠳᠠᠭ ᠦᠭᠡᠢ᠃",
+            "ᠬᠡᠷᠡᠭ ᠦᠭᠡᠢ ᠂ ᠪᠢᠲᠡᠭᠡᠢ ᠡᠷᠡᠭᠡᠯᠡ ᠂ ᠮᠢᠨᠦ ᠪᠣᠭᠴᠣ ᠬᠦᠨᠳᠦ ᠦᠭᠡᠢ ᠂ ᠪᠢ ᠥᠪᠡᠷ  ᠢᠶᠠᠨ ᠠᠪᠤᠶ᠎ᠠ ᠃",
+            "ᠶᠠᠭᠤᠨ  ᠤ ᠲᠣᠪᠴᠢᠶᠠᠨ ᠳᠠᠷᠤᠭ᠎ᠠ ᠪᠤᠢ ᠂ ᠪᠢ ᠲᠡᠭᠦᠨ  ᠢ ᠬᠡᠨ ᠭᠡᠬᠦ  ᠶᠢ ᠬᠠᠮᠢᠶᠠᠷᠬᠤ  ᠦᠭᠡᠢ!",
+            "ᠮᠢᠨᠤ ᠪᠣᠯᠣᠳ ᠡᠷᠢᠵᠦ ᠣᠯᠳᠠᠬᠤ ᠦᠭᠡᠢ ᠪᠣᠯᠴᠢᠬᠠᠵᠠᠢ᠃"
+        ],
+        "answer": "B",
+        "zh_trans": {
+            "context": [
+                "王教授您好，路上辛苦了。",
+                "还好还好，谢谢你来机场接我，等了很长时间吧？",
+                "没有，您的航班很准时。车在外面，我来帮您拿行李。"
+            ],
+            "options": [
+                "不，我不经常存钱和取钱。",
+                "不用，别客气，我的包不重，我自己来。",
+                "什么局长不局长的，我管他是谁呢!",
+                "咦，我的钢笔找不着了。"
+            ],
+            "answer": "不用，别客气，我的包不重，我自己来。"
+        },
+        "id": "response_mn_62",
+        "en_trans": {
+            "context": [
+                "Professor Wang, hello. You must be tired from the journey.",
+                "Not really, not really. Thank you for coming to pick me up at the airport. Have you been waiting long?",
+                "No, your flight was on time. The car is outside. I'll help you with your luggage."
+            ],
+            "options": [
+                "No, I don't frequently deposit and withdraw money.",
+                "There's no need, no need to be polite. My bag is not heavy; I can manage it myself.",
+                "What director or not, I don't care who he is!",
+                "Oh, I can't find my pen."
+            ],
+            "answer": "There's no need, no need to be polite. My bag is not heavy; I can manage it myself."
+        }
+    },
+    {
+        "context": [
+            "ᠬᠤᠷᠳᠤᠨ᠂ ᠰᠠᠢᠨ ᠡᠷᠢᠶ᠎ᠡ᠂ ᠲᠦᠷᠢᠶᠡᠰᠦᠨ ᠲᠡᠷᠭᠡᠨ ᠦ ᠵᠢᠯᠣᠭᠣᠴᠢ ᠠᠰᠠᠷ ᠤᠨ ᠳᠣᠣᠷ᠎ᠠ ᠪᠢᠳᠡᠨ ᠢ ᠬᠦᠯᠢᠶᠡᠵᠦ ᠪᠠᠢᠨ᠎ᠠ ᠰᠢᠤ !",
+            "ᠪᠣᠯᠣᠨ᠎ᠠ᠂ ᠪᠢᠲᠡᠭᠡᠢ ᠶᠠᠭᠠᠷᠠᠭᠤᠯ᠂ ᠪᠢᠲᠡᠭᠡᠢ ᠶᠠᠭᠠᠷᠠᠭᠤᠯ ! ᠪᠢ ᠣᠳᠣ ᠨᠢᠭᠡ ᠯᠠᠪᠳᠠᠭᠤᠨ ᠡᠷᠢᠭᠡᠳ ᠦᠵᠡᠶ᠎ᠡ᠃ ᠠ᠂ ᠣᠯᠴᠢᠬᠠᠯ᠎ᠠ᠃",
+            "ᠰᠠᠢᠨ ᠪᠣᠯᠣᠯ᠎ᠠ᠃ ᠠᠩᠬᠠᠳᠤᠭᠠᠷ ᠤᠳᠠᠭ᠎ᠠ ᠵᠤᠭᠠᠴᠠᠬᠤ ᠪᠠᠷ ᠭᠠᠷᠴᠤ ᠪᠠᠢᠬᠤ ᠳᠤ ᠴᠢ ᠡᠢᠮᠦ ᠪᠠᠴᠢᠮᠳᠠᠭᠤ ᠠᠭᠤᠷ ᠠᠮᠢᠰᠬᠤᠯ ᠪᠣᠢ ᠪᠣᠯᠭᠠᠭᠠᠭ᠌ᠳ ᠁"
+        ],
+        "options": [
+            "ᠲᠡᠷᠡ ᠨᠢ ᠴᠢᠮ᠎ᠠ  ᠳᠦ ᠠᠪᠴᠤ ᠬᠡᠯᠡᠪᠡᠯ ᠵᠢᠭᠠᠬᠠᠨ ᠬᠦᠴᠢᠷ ᠪᠠᠢᠵᠤ ᠮᠡᠳᠡᠨ᠎ᠡ ᠃",
+            "ᠬᠡᠷᠪᠡ ᠴᠠᠭ ᠲᠠᠶ ᠪᠣᠯ ᠰᠠᠶᠢᠨ ᠳ᠋ᠠ ᠂ ᠬᠠᠷᠠᠮᠰᠠᠯᠲᠠᠢ ᠨᠢ ᠣᠷᠴᠢᠮ ᠰᠢᠯᠭᠠᠯᠲᠠ  ᠳᠦ ᠶᠠᠭᠠᠷᠠᠵᠤ ᠪᠠᠶᠢᠨ᠎ᠠ᠃",
+            "ᠰᠠᠶᠢᠨ ᠦᠷ᠎ᠡ ᠳ᠋ᠦᠩ ᠲᠡᠶ ᠪᠣᠯᠬᠤ  ᠶᠢ ᠬᠦᠰᠡᠵᠦ ᠪᠠᠢ᠌ᠨ᠎ᠠ ᠃",
+            "ᠲᠤᠷᠰᠢᠯᠭ᠎ᠠ ᠦᠭᠡᠢ ᠪᠣᠯᠬᠣᠷ ᠯᠠ ᠢᠩᠭᠢᠯ᠎ᠡ᠃ ᠰᠡᠭᠦᠯᠡᠷ ᠬᠠᠮᠢᠶ᠎ᠠ ᠦᠭᠡᠢ ᠪᠣᠯᠴᠢᠬᠠᠨ᠎ᠠ᠃ ᠬᠤᠷᠳᠤᠨ ᠶᠠᠪᠤᠶ᠎ᠠ !"
+        ],
+        "answer": "D",
+        "zh_trans": {
+            "context": [
+                "快，好好找找，出租车司机还在楼下等着我们呢!",
+                "好，别催，别催!我再认真找找，啊!找到了。",
+                "太好了，第一次出远门旅行你就制造紧张气氛。"
+            ],
+            "options": [
+                "那个对你来说可能有点儿难。",
+                "要是有时间就好了，可惜最近忙着考试呢。",
+                "哦，期待能有好结果。",
+                "没有经验嘛，以后就好了。快走吧!"
+            ],
+            "answer": "没有经验嘛，以后就好了。快走吧!"
+        },
+        "id": "response_mn_395",
+        "en_trans": {
+            "context": [
+                "Hurry, look carefully, the taxi driver is still waiting for us downstairs!",
+                "Okay, stop rushing me! I'll look carefully again. Ah! Found them!",
+                "Great, it's your first time traveling far and you created a tense atmosphere."
+            ],
+            "options": [
+                "That might be a bit difficult for you.",
+                "I wish I had time, but unfortunately I'm busy with exams lately.",
+                "Oh, I hope we have a good result.",
+                "I'm inexperienced, it'll get better next time. Let's go!"
+            ],
+            "answer": "I'm inexperienced, it'll get better next time. Let's go!"
+        }
+    },
+    {
+        "context": [
+            "ᠪᠢᠳᠡ ᠴᠢᠨᠦ ᠮᠠᠷᠭᠠᠰᠢ ᠠᠵᠢᠯᠯᠠᠬᠤ ᠪᠠᠷ ᠢᠷᠡᠬᠦ  ᠶᠢ ᠬᠦᠰᠡᠵᠦ ᠪᠠᠢ᠌ᠨ᠎ᠠ ᠃"
+        ],
+        "options": [
+            "ᠲᠡᠢᠮᠦ ᠡ᠂ ᠰᠢᠷᠠᠭᠰᠠᠨ ᠨᠤᠭᠤᠰᠤ ᠠᠴᠠ ᠪᠤᠰᠤᠳ ᠨᠢ᠃",
+            "ᠪᠣᠯᠤᠨ᠎ᠠ ᠂ ᠠᠰᠠᠭᠤᠳᠠᠯ ᠦᠭᠡᠢ ᠃",
+            "ᠪᠣᠯᠤᠨ᠎ᠠ ᠂ ᠲᠡᠷᠡ ᠦᠶ᠎ᠡ  ᠳᠦ ᠠᠭᠤᠯᠵᠠᠶ᠎ᠠ ᠃",
+            "ᠲᠡᠭᠡᠶ᠎ᠡ᠂ ᠪᠠᠶᠠᠷᠯᠠᠯ᠎ᠠ"
+        ],
+        "answer": "B",
+        "zh_trans": {
+            "context": [
+                "我们希望你明天就能来上班。"
+            ],
+            "options": [
+                "是的，除了烤鸭。",
+                "好的，没问题。",
+                "好的，那到时候见。",
+                "好的，谢谢。"
+            ],
+            "answer": "好的，没问题。"
+        },
+        "id": "response_mn_427",
+        "en_trans": {
+            "context": [
+                "We hope you can start working tomorrow."
+            ],
+            "options": [
+                "Yes, except for the roast duck.",
+                "Okay, no problem.",
+                "Okay, see you then.",
+                "Okay, thank you."
+            ],
+            "answer": "Okay, no problem."
+        }
+    },
+    {
+        "context": [
+            "ᠴᠢ ᠦᠵᠡᠪᠡᠯ ᠡᠨᠡ ᠭᠡᠷ ᠶᠠᠮᠠᠷ ᠵᠡᠷᠭᠡ ᠪᠣᠢ ?  ᠲᠠᠭᠠᠯᠠᠭᠳᠠᠵᠤ ᠪᠠᠢᠨ᠎ᠠ ᠤᠤ ?"
+        ],
+        "options": [
+            "ᠰᠠᠢᠨ ᠪᠣᠯᠣᠯ᠎ᠠ᠃ ᠠᠩᠬᠠᠳᠤᠭᠠᠷ ᠤᠳᠠᠭ᠎ᠠ ᠵᠤᠭᠠᠴᠠᠬᠤ ᠪᠠᠷ ᠭᠠᠷᠴᠤ ᠪᠠᠢᠬᠤ ᠳᠤ ᠴᠢ ᠡᠢᠮᠦ ᠪᠠᠴᠢᠮᠳᠠᠭᠤ ᠠᠭᠤᠷ ᠠᠮᠢᠰᠬᠤᠯ ᠪᠣᠢ ᠪᠣᠯᠭᠠᠭᠠᠭ᠌ᠳ ᠁",
+            "ᠦᠨᠡᠨ  ᠦᠦ ᠂ ᠴᠢ ᠦᠨᠡᠬᠡᠷ ᠰᠠᠶᠢᠨ ᠂ ᠪᠢ ᠲᠡᠭᠦᠰᠦᠭᠰᠡᠨ  ᠤ ᠳᠠᠷᠠᠭ᠎ᠠ ᠰᠢᠭᠤᠳ ᠠᠵᠢᠯ ᠡᠷᠢᠭᠰᠡᠨ ᠂ ᠣᠳᠣ ᠴᠠᠩᠱᠠ  ᠳᠦ ᠲᠣᠮᠢᠯᠠᠯᠲᠠ ᠪᠠᠷ ᠢᠷᠡᠵᠡᠢ ᠃",
+            "ᠲᠠᠭᠠᠯᠠᠭᠳᠠᠵᠤ ᠪᠠᠢᠨ᠎ᠠ᠃ ᠡᠭᠦᠳᠡ ᠪᠡᠷ ᠭᠠᠷᠤᠩᠭᠤᠲᠠ ᠳᠠᠯᠠᠢ ᠶᠢ ᠣᠯᠣᠭᠠᠳ ᠬᠠᠷᠠᠴᠢᠬᠠᠨ᠎ᠠ᠃ ᠶᠣᠰᠣᠲᠠᠢ ᠭᠣᠶᠣ ᠡ !",
+            "ᠣᠳᠣ ᠭᠡᠷ  ᠤᠨ ᠦᠨ᠎ᠡ ᠬᠡᠲᠦᠷᠬᠡᠢ ᠦᠨᠡᠲᠡᠢ ᠂ ᠪᠠᠰᠠ ᠵᠢᠭᠠᠬᠠᠨ ᠬᠦᠯᠢᠶᠡᠵᠦ ᠪᠠᠶᠢᠶ᠎ᠠ᠃"
+        ],
+        "answer": "C",
+        "zh_trans": {
+            "context": [
+                "你觉得这个房子怎么样?喜欢吗?"
+            ],
+            "options": [
+                "太好了，第一次出远门旅行你就制造紧张气氛。",
+                "真的啊，你太棒了，我毕业后就直接找了份工作呢，现在是来长沙出差。",
+                "喜欢，一出门就能看见大海，太棒了!",
+                "现在房价太贵，再等等看吧。"
+            ],
+            "answer": "喜欢，一出门就能看见大海，太棒了!"
+        },
+        "id": "response_mn_256",
+        "en_trans": {
+            "context": [
+                "What do you think of this house? Do you like it?"
+            ],
+            "options": [
+                "Great, it's your first time traveling far and you created a tense atmosphere.",
+                "Really? That's great! I found a job right after graduation. I'm in Changsha on a business trip now.",
+                "I like it. As soon as you step out, you can see the sea. It's fantastic!",
+                "The housing prices are too high now, let's wait and see."
+            ],
+            "answer": "I like it. As soon as you step out, you can see the sea. It's fantastic!"
+        }
+    },
+    {
+        "context": [
+            "ᠲᠠ ᠳᠠᠭᠤ ᠪᠠᠨ ᠵᠢᠭᠠᠬᠠᠨ ᠨᠠᠮᠳᠠᠭᠤᠯᠤᠭᠠᠳ ᠥᠭᠭᠦᠨ᠎ᠡ  ᠦᠦ ᠂ ᠪᠢ ᠤᠨᠲᠠᠬᠤ ᠪᠠᠷ ᠪᠡᠯᠡᠳᠬᠡᠵᠦ ᠪᠠᠢ᠌ᠨ᠎ᠠ ᠃"
+        ],
+        "options": [
+            "ᠠᠭᠤᠴᠢᠯᠠᠭᠠᠷᠠᠶ ᠂ ᠪᠢ ᠣᠳᠣ ᠪᠠᠷ  ᠢᠶᠠᠨ ᠬᠥᠭᠵᠢᠮ  ᠢ ᠬᠠᠭᠠᠴᠢᠬᠠᠶ᠎ᠠ ᠃",
+            "ᠲᠦᠷ ᠬᠦᠯᠢᠶᠡᠵᠦ ᠪᠠᠶ ᠂ ᠪᠢ ᠣᠳᠣᠬᠠᠨ ᠢᠷᠡᠶ᠎ᠡ ᠃",
+            "ᠣᠳᠣᠬᠠᠨ ᠪᠣᠯᠤᠯ᠎ᠠ ᠃ ᠪᠢᠳᠡ ᠶᠠᠭᠠᠬᠢᠵᠤ ᠣᠴᠢᠬᠤ ᠪᠤᠶ?",
+            "ᠠᠭᠤᠴᠢᠯᠠᠭᠠᠷᠠᠢ ᠂ ᠵᠠᠮ ᠳᠡᠭᠡᠷ᠎ᠡ ᠲᠡᠷᠭᠡ ᠲᠦᠭᠵᠢᠷᠡᠭᠡᠳ ᠪᠢ ᠣᠷᠣᠶᠢᠲᠠᠴᠢᠬᠠᠵᠠᠢ!"
+        ],
+        "answer": "A",
+        "zh_trans": {
+            "context": [
+                "麻烦你把声音关小一点好吗，我准备睡觉了。"
+            ],
+            "options": [
+                "抱歉啊，我马上把音乐关了。",
+                "稍等，我马上就来。",
+                "马上就好。对了，我们怎么过去啊?",
+                "对不起，路上堵车我迟到了!"
+            ],
+            "answer": "抱歉啊，我马上把音乐关了。"
+        },
+        "id": "response_mn_58",
+        "en_trans": {
+            "context": [
+                "Could you please turn down the volume? I'm getting ready to sleep."
+            ],
+            "options": [
+                "Sorry, I'll turn off the music right away.",
+                "Hold on, I'll be right there.",
+                "I'll be ready soon. By the way, how are we getting there?",
+                "Sorry, I was late because of traffic!"
+            ],
+            "answer": "Sorry, I'll turn off the music right away."
+        }
+    },
+    {
+        "context": [
+            "ᠪᠢ ᠴᠢᠮ᠎ᠠ ᠶᠢ ᠲᠣᠭᠣᠨ᠎ᠠ᠃",
+            "ᠪᠢ ᠪᠣᠳᠣᠪᠠᠯ ᠴᠢ ᠵᠥᠪᠬᠡᠨ ᠨᠠᠮ᠎ᠠ ᠶᠢ ᠲᠣᠭᠣᠬᠤ ᠪᠢᠰᠢ ᠪᠠᠢᠬ᠎ᠠ᠃"
+        ],
+        "options": [
+            "ᠲᠠ ᠶᠠᠮᠠᠷ ᠨᠣᠮ ᠵᠢᠭᠡᠯᠡᠬᠦ ᠪᠤᠢ?",
+            "ᠴᠢ ᠶᠠᠭᠠᠬᠢᠭᠠᠳ ᠪᠠᠰᠠ ᠬᠠᠷᠢᠭᠠᠳ ᠢᠷᠡᠴᠢᠬᠡᠪᠡ ?",
+            "ᠴᠢ ᠶᠠᠮᠠᠷ ᠤᠯᠠᠷᠢᠯ ᠳᠤ ᠳᠤᠷᠠᠲᠠᠢ ᠪᠣᠢ ?",
+            "ᠴᠢ ᠶᠠᠭᠠᠬᠢᠭᠠᠳ ᠢᠩᠭᠢᠵᠦ ᠬᠡᠯᠡᠵᠦ ᠪᠠᠢᠬᠤ ᠶᠤᠮ ?"
+        ],
+        "answer": "D",
+        "zh_trans": {
+            "context": [
+                "我喜欢你。",
+                "恐怕你不是只喜欢我吧!"
+            ],
+            "options": [
+                "请问你借什么书?",
+                "你怎么又回来了?",
+                "你喜欢哪个季节?",
+                "你怎么这么说?"
+            ],
+            "answer": "你怎么这么说?"
+        },
+        "id": "response_mn_283",
+        "en_trans": {
+            "context": [
+                "I like you.",
+                "I'm afraid you don't only like me, right!"
+            ],
+            "options": [
+                "May I ask what book you're borrowing?",
+                "Why are you back again?",
+                "Which season do you like?",
+                "Why do you say that?"
+            ],
+            "answer": "Why do you say that?"
+        }
+    },
+    {
+        "context": [
+            "ᠡᠨᠡ ᠬᠠᠮᠲᠤ  ᠶᠢᠨ ᠰᠡᠭᠦᠳᠡᠷ  ᠤᠨ ᠦᠢᠯᠡᠳᠦᠯ ᠨᠢ ᠬᠠᠮᠤᠭ ᠰᠠᠶᠢᠨ ᠂ ᠠᠷᠤ ᠦᠵᠡᠭᠳᠡᠯ ᠨᠢ ᠰᠠᠶᠢᠨ ᠂ ᠥᠩᠭᠡ ᠪᠤᠳᠤᠭ ᠨᠢ ᠰᠠᠶᠢᠨ ᠂ ᠴᠢᠨᠦ ᠴᠢᠷᠠᠢ  ᠶᠢᠨ ᠢᠯᠡᠷᠡᠯ ᠴᠢᠨᠢ ᠪᠠᠰᠠ ᠰᠠᠶᠢᠨ ᠃"
+        ],
+        "options": [
+            "ᠪᠢ ᠺᠢᠨᠣ᠋  ᠶᠢᠨ ᠪᠢᠯᠧᠲ᠋   ᠢᠶᠠᠨ ᠵᠣᠭᠣᠰᠣᠨ ᠪᠣᠭᠴᠣᠨ ᠳᠠᠭᠠᠨ ᠬᠢᠴᠢᠬᠡᠵᠡᠢ ᠃",
+            "ᠪᠠᠭᠰᠢ ᠠ ᠂ ᠪᠢ ᠵᠣᠭᠣᠰ  ᠤᠨ ᠪᠣᠭᠴᠣ ᠪᠠᠨ ᠰᠠᠶ᠋ᠢ   ᠶᠢᠨ ᠣᠴᠢᠭᠰᠠᠨ ᠳᠡᠯᠭᠡᠭᠦᠷ ᠲᠦ ᠮᠠᠷᠲᠠᠴᠢᠬᠠᠵᠠᠢ ᠂ ᠲᠠ ᠲᠡᠷᠭᠡ ᠪᠡᠨ ᠵᠢᠯᠣᠭᠣᠳᠤᠭᠠᠳ ᠬᠠᠷᠢᠴᠢᠬ᠎ᠠ ᠃",
+            "ᠲᠡᠭᠡᠪᠡᠯ ᠡᠭᠦᠨ  ᠢ ᠶᠡᠬᠡᠰᠬᠡᠴᠢᠬᠡ ᠂ ᠮᠠᠨ  ᠤ ᠵᠣᠴᠢᠨ  ᠤᠨ ᠥᠷᠥᠭᠡᠨ ᠳᠡᠭᠡᠨ ᠲᠠᠯᠪᠢᠴᠢᠬ᠎ᠠ ᠃",
+            "ᠲᠡᠢᠮᠦ ᠡ᠂ ᠮᠢᠨᠤ ᠪᠣᠭᠴᠣᠨ ᠳᠤ ᠪᠠᠢᠨ᠎ᠠ᠃"
+        ],
+        "answer": "C",
+        "zh_trans": {
+            "context": [
+                "这张合影效果最好，背景选得好，色彩好，你的表情也好。"
+            ],
+            "options": [
+                "我把电影票放到钱包里了。",
+                "师傅，我的钱包忘在刚才去的商店里了，麻烦您把车开回去。",
+                "那就放大这张吧，放在我们客厅里。",
+                "是，在我包里呢。"
+            ],
+            "answer": "那就放大这张吧，放在我们客厅里。"
+        },
+        "id": "response_mn_64",
+        "en_trans": {
+            "context": [
+                "This group photo turned out the best, the background is well chosen, the colors are good, and your expression is great."
+            ],
+            "options": [
+                "I put the movie tickets in my wallet.",
+                "Driver, I left my wallet in the store we just visited. Could you please drive back?",
+                "Then let's enlarge this one and put it in our living room.",
+                "Yes, it is in my bag."
+            ],
+            "answer": "Then let's enlarge this one and put it in our living room."
+        }
+    }
+]

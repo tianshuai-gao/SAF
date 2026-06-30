@@ -1,0 +1,1402 @@
+[
+    {
+        "id": "math_mn_7",
+        "question": "ᠨᠢᠭᠡ ᠠᠯᠠᠭᠠᠳᠠᠬᠤ ᠪᠥᠮᠪᠥᠭᠡ 30 ᠲᠥᠭᠥᠷᠢᠭ᠂ ᠨᠢᠭᠡ ᠬᠦᠯ ᠪᠥᠮᠪᠥᠭᠡ 40 ᠲᠥᠭᠥᠷᠢᠭ᠂ ᠨᠢᠭᠡ ᠰᠠᠭᠰᠤᠨ ᠪᠥᠮᠪᠥᠭᠡ 50 ᠲᠥᠭᠥᠷᠢᠭ᠃ ᠨᠢᠭᠡ ᠬᠥᠯ ᠪᠥᠮᠪᠥᠭᠡ ᠪᠠ ᠨᠢᠭᠡ ᠠᠯᠠᠭᠠᠳᠠᠬᠤ ᠪᠥᠮᠪᠥᠭᠡ ᠬᠤᠳᠠᠯᠳᠤᠨ ᠠᠪᠬᠤ  ᠳᠦ ᠂ ᠪᠠᠷᠠᠭ᠎ᠠ ᠬᠤᠳᠠᠯᠳᠤᠭᠴᠢ  ᠳᠦ 100 ᠲᠥᠭᠥᠷᠢᠭ ᠥᠭᠪᠡᠯ ᠂ ᠬᠡᠳᠦᠶ ᠲᠥᠭᠥᠷᠢᠭ  ᠢ  ᠨᠢ  ᠪᠤᠴᠠᠭᠠᠬᠤ ᠪᠤᠶ ︖",
+        "zh_translation": "一个排球30元，一个足球40元，一个篮球50元。 买一个足球和一个排球，付给售货员100元，应找回多少元？",
+        "answer": "30",
+        "en_translation": "A volleyball costs 30 yuan, a football costs 40 yuan, and a basketball costs 50 yuan. If you buy a football and a volleyball and give the seller 100 yuan, how much change should you receive back?"
+    },
+    {
+        "id": "math_mn_138",
+        "question": "ᠤᠳᠠᠯ ᠥᠬᠡᠶ ᠪᠠᠶᠢᠭᠤᠯᠬᠤ ᠭᠡᠵᠦ ᠪᠠᠶᠢᠭ᠎ᠠ ᠵᠣᠯ ᠵᠢᠷᠭᠠᠯᠲᠤ ᠬᠣᠷᠢᠶᠠᠯᠠᠯ  ᠤᠨ ᠡᠵᠡᠯᠡᠬᠦ ᠭᠠᠵᠠᠷ ᠨᠢ ᠣᠷᠳᠣ ᠨᠢ 800 ᠮᠧᠲ᠋ᠷ ᠂ ᠥᠷᠭᠡᠨ ᠨᠢ 500 ᠮᠧᠲ᠋ᠷ  ᠤᠨ ᠣᠷᠳᠣ ᠳᠥᠷᠪᠡᠯᠵᠢᠨ ᠬᠡᠯᠪᠡᠷᠢ ᠲᠡᠶ ᠂ ᠲᠡᠭᠦᠨ  ᠤ ᠡᠵᠡᠯᠡᠬᠦ ᠲᠠᠯᠠᠪᠠᠶ ᠨᠢ ᠬᠡᠳᠦᠨ ᠺᠦᠸᠠᠲ ᠮᠧᠲ᠋ᠷ ᠪᠣᠶ ︖",
+        "zh_translation": "即将建成的幸福小区占地是一个长800米、宽500米的长方形，它的占地面积是多少平方米？",
+        "answer": "400000",
+        "en_translation": "What is the area in square meters of the rectangular land for the soon-to-be-completed Xingfu Community, which is 800 meters long and 500 meters wide?"
+    },
+    {
+        "id": "math_mn_68",
+        "question": "50 ᠰᠠᠨᠲ᠋ᠢᠮᠧᠲ᠋ᠷ  ᠤᠨ ᠤᠷᠳᠤ ᠬᠤᠸᠠᠷ  ᠤᠨ ᠬᠥᠪᠡᠭᠡ ᠪᠡᠷ 10 ᠰᠠᠨᠲ᠋ᠢᠮᠧᠲ᠋ᠷ  ᠤᠨ ᠤᠷᠳᠤ ᠲᠡᠭᠰᠢ ᠳᠥᠷᠪᠡᠯᠵᠢᠨ  ᠢ ᠨᠢᠭᠡ ᠬᠦᠷᠢᠶᠡᠯᠡᠬᠦ  ᠳᠦ᠂ ᠬᠤᠸᠠᠷ  ᠤᠨ ᠬᠥᠪᠡᠭᠡ ᠪᠡᠷ ᠪᠠᠰᠠ ᠬᠡᠳᠦᠶ ᠰᠠᠨᠲ᠋ᠢᠮᠧᠲ᠋ᠷ ᠦᠯᠡᠳᠡᠬᠦ ᠪᠤᠢ?",
+        "zh_translation": "用一根长50厘米的花边将边长10厘米的正方形相框围一圈，花边还剩下多少厘米？",
+        "answer": "10",
+        "en_translation": "How many centimeters of lace are left after using a 50-centimeter piece to go around a square picture frame with a side length of 10 centimeters?"
+    },
+    {
+        "id": "math_mn_30",
+        "question": "ᠡᠭᠡᠴᠢ 6 ᠲᠥᠭᠥᠷᠢᠭ ᠲᠡᠶ᠂ ᠨᠢᠭᠡ ᠬᠦᠵᠦᠭᠦᠨ  ᠤ ᠣᠷᠢᠶᠠᠯᠲᠠ ᠠᠪᠬᠤ  ᠳᠦ 4 ᠲᠥᠭᠥᠷᠢᠭ 30 ᠮᠥᠩᠭᠥ  ᠬᠡᠷᠡᠭ᠍ᠯᠡᠵᠡᠢ ᠂ ᠨᠢᠭᠡ ᠭᠠᠷ ᠠᠯᠴᠢᠭᠤᠷ ᠠᠪᠬᠤ ᠳᠦ 8 ᠮᠥᠩᠭᠥ ᠬᠡᠷᠡᠭ᠍ᠯᠡᠪᠡ᠂ ᠪᠠᠰᠠ ᠬᠡᠳᠦᠨ ᠮᠥᠩᠭᠥ ᠦᠯᠡᠳᠡᠭᠰᠡᠨ ᠪᠤᠢ?",
+        "zh_translation": "姐姐有6元钱，买一条围巾用了4元3角，买一块手帕用了8角，还剩几角钱？",
+        "answer": "9",
+        "en_translation": "Sister has 6 yuan. She spent 4 yuan and 3 jiao on a scarf, and 8 jiao on a handkerchief. How many jiao does she have left?"
+    },
+    {
+        "id": "math_mn_33",
+        "question": "ᠪᠡᠭᠡᠵᠢᠩ ᠬᠤᠳᠠ ᠶᠢᠨ ᠨᠢᠭᠡᠨ ᠳᠤᠮᠳᠠᠳᠤ ᠰᠤᠷᠭᠠᠭᠤᠯᠢ ᠨᠢᠭᠡ ᠪᠦᠯᠦᠭ ᠰᠤᠷᠤᠬᠴᠢ  ᠶᠢ ᠰᠣᠩᠭᠣᠨ ᠲᠣᠮᠢᠯᠠᠵᠤ ᠲᠣᠭᠯᠠᠯᠲᠠ  ᠳᠦ  ᠣᠷᠣᠯᠴᠠᠭᠤᠯᠤᠨ᠎ᠠ ᠂ ᠠᠨᠭᠬᠢ ᠪᠦᠷᠢ  ᠡᠴᠡ 8 ᠬᠥᠮᠦᠨ  ᠢ ᠰᠣᠩᠭᠣᠵᠤ᠂ 6 ᠠᠨᠭᠬᠢ  ᠡᠴᠡ ᠨᠡᠢᠢᠳᠡ ᠬᠡᠳᠦᠶ ᠬᠥᠮᠦᠨ  ᠢ  ᠰᠤᠩᠭᠤᠬᠤ ᠪᠤᠢ?",
+        "zh_translation": "北京市某中学选派一些同学参加表演，每班选上8人，6个班共选上多少人？",
+        "answer": "48",
+        "en_translation": "A certain middle school in Beijing selected some students to participate in a performance. If 8 students are selected from each class, how many students are selected from 6 classes in total?"
+    },
+    {
+        "id": "math_mn_87",
+        "question": "ᠡᠵᠢ ᠨᠢ ᠡᠨᠡ ᠵᠢᠯ 40 ᠨᠠᠰᠤᠲᠠᠶ ᠂ ᠥᠬᠢᠨ ᠨᠢ 14 ᠨᠠᠰᠤᠲᠠᠶ ᠂ ᠥᠬᠢᠨ ᠨᠢ ᠬᠡᠳᠦᠶ ᠨᠠᠰᠤᠲᠠᠶ ᠦᠶ᠎ᠡ  ᠳᠦ ᠡᠵᠢ  ᠶᠢᠨ ᠬᠢᠨᠢ ᠨᠠᠰᠤ ᠨᠢ ᠥᠬᠢᠨ  ᠤ  ᠪᠠᠨ 3 ᠳᠠᠬᠢᠨ ᠪᠣᠯᠳᠠᠭ ᠪᠣᠶ ︖",
+        "zh_translation": "妈妈今年40岁，女儿14岁，女儿多少岁时，妈妈的年龄是女儿的3倍？",
+        "answer": "13",
+        "en_translation": "How old will the daughter be when the mother's age is three times the daughter's age?"
+    },
+    {
+        "id": "math_mn_119",
+        "question": "ᠨᠢᠭᠡ ᠬᠡᠰᠡᠭ ᠭᠤᠷᠪᠠᠯᠵᠢᠨ  ᠬᠡᠯᠪᠡᠷᠢᠲᠠᠢ ᠭᠠᠵᠠᠷ  ᠤᠨ ᠲᠠᠯᠠᠪᠠᠶ ᠨᠢ 3600   ᠺᠦᠸᠠᠲ ᠮᠧᠲ᠋ᠷ ᠂ ᠰᠠᠭᠤᠷᠢ ᠨᠢ 120 ᠮᠧᠲ᠋ᠷ ᠂ ᠥᠨᠳᠥᠷ ᠨᠢ ᠬᠡᠳᠦᠶ ᠮᠧᠲ᠋ᠷ ᠪᠣᠶ ︖",
+        "zh_translation": "一块三角形地面积是3600平方米，底是120米，高是多少米？",
+        "answer": "60",
+        "en_translation": "The area of a triangular plot is 3600 square meters, the base is 120 meters, what is the height in meters?"
+    },
+    {
+        "id": "math_mn_168",
+        "question": "62 ᠴᠣᠮᠣ  ᠶᠢ ᠬᠠᠢ᠌ᠷᠴᠠᠭ ᠲᠤ ᠬᠢᠵᠦ ᠂ ᠬᠠᠢ᠌ᠷᠴᠠᠭ ᠪᠦᠷᠢ  ᠳᠦ 8 ᠬᠢᠨ᠎ᠡ ᠂ ᠬᠠᠮᠤᠭ ᠰᠡᠭᠦᠯ  ᠤᠨ ᠬᠠᠢ᠌ᠷᠴᠠᠭ  ᠲᠦ ᠬᠡᠳᠦ  ᠬᠢᠬᠦ ᠪᠤᠢ?",
+        "zh_translation": "62个水杯装在盒子里，每盒装8个，最后一盒装多少个？",
+        "answer": "6",
+        "en_translation": "How many cups are there in the last box if 62 cups are packed in boxes with 8 cups each?"
+    },
+    {
+        "id": "math_mn_175",
+        "question": "ᠨᠢᠭᠡ ᠵᠠᠬ᠎ᠠ ᠬᠤᠪᠴᠠᠰᠤᠨ  ᠳᠦ ᠵᠢᠷᠭᠤᠭᠠᠨ ᠲᠣᠪᠴᠢ ᠲᠠᠶ ᠂ ᠬᠣᠶᠠᠷ ᠵᠠᠬ᠎ᠠ ᠬᠤᠪᠴᠠᠰᠤᠨ  ᠳᠦ  ᠨᠡᠢᠲᠡ ᠬᠡᠳᠦᠨ ᠲᠣᠪᠴᠢ ᠲᠠᠶ ᠪᠤᠶ?",
+        "zh_translation": "一件衣服有6个扣子，两件衣服共有多少个扣子？",
+        "answer": "12",
+        "en_translation": "If one piece of clothing has 6 buttons, how many buttons do two pieces of clothing have in total?"
+    },
+    {
+        "id": "math_mn_20",
+        "question": "ᠳᠡᠯᠭᠡᠭᠦᠷ ᠲᠦ 98 ᠲᠠᠷᠪᠤᠰ ᠣᠷᠣᠭᠤᠯᠵᠤ ᠂ 9 ᠲᠠᠷᠪᠤᠰ  ᠢ  ᠨᠢ ᠬᠤᠳᠠᠯᠳᠤᠭᠠᠳ ᠪᠠᠰᠠ ᠬᠡᠳᠦᠶ ᠲᠠᠷᠪᠤᠰ ᠦᠯᠡᠳᠡᠭᠰᠡᠨ ᠪᠤᠶ ︖",
+        "zh_translation": "商店进了98个西瓜，卖出去9个，还剩多少个西瓜？",
+        "answer": "89",
+        "en_translation": "The store received 98 watermelons and sold 9. How many watermelons are left?"
+    },
+    {
+        "id": "math_mn_120",
+        "question": "ᠠᠭᠤᠯᠠᠨ  ᠳᠦ ᠭᠠᠷᠬᠤ  ᠳᠦ378 ᠮᠧᠲ᠋ᠷ ᠪᠠᠶᠢᠳᠠᠭ ᠂ ᠠᠭᠤᠯᠠᠨ ᠳᠦ ᠭᠠᠷᠬᠤ  ᠳᠦ 18 ᠮᠢᠨᠦ᠋ᠲ ᠬᠡᠷᠡᠭᠯᠡᠵᠦ ᠂ ᠠᠭᠤᠯᠠᠨ  ᠡᠴᠡ ᠪᠠᠭᠤᠬᠤ  ᠳᠦ 14 ᠮᠢᠨᠦ᠋ᠲ ᠬᠡᠷᠡᠭ᠍ᠯᠡᠨ᠎ᠡ ᠂ ᠠᠭᠤᠯᠠᠨ  ᠳᠦ ᠭᠠᠷᠬᠤ ᠪᠠ ᠪᠠᠭᠤᠬᠤ  ᠳᠦ  ᠬᠤᠷᠳᠤᠴᠠ  ᠨᠢ ᠳᠤᠮᠳᠠᠴᠢ  ᠪᠠᠷ ᠮᠢᠨᠦ᠋ᠲ ᠪᠦᠷᠢ ᠳᠦ ᠬᠡᠳᠦᠶ ᠮᠧᠲ᠋ᠷ ᠪᠠᠶᠢᠳᠠᠭ ᠪᠣᠶ ︖",
+        "zh_translation": "从山下到山顶有378米，上山用了18分钟，下山用了14分钟，上下山的平均速度是多少米/分钟？",
+        "answer": "23.625",
+        "en_translation": "What is the average speed in meters per minute for going up and down the mountain, if the distance from the bottom to the top of the mountain is 378 meters, it took 18 minutes to go up, and 14 minutes to go down?"
+    },
+    {
+        "id": "math_mn_129",
+        "question": "ᠨᠢᠭᠡᠨ ᠨᠡᠷᠡᠲᠦ ᠲᠡᠮᠳᠡᠭᠲᠦ  ᠶᠢᠨ ᠱᠠᠬᠠᠶ  ᠶᠢ ᠪᠣᠷᠣᠯᠠᠭᠤᠯᠭ᠎ᠠ  ᠶᠢ ᠠᠬᠢᠭᠤᠯᠬᠤ ᠠᠵᠢᠯᠯᠠᠭ᠎ᠠ ᠬᠢᠬᠦ  ᠳᠦ᠂ ᠬᠦᠭᠡ ᠬᠤᠳᠠᠯᠳᠤᠭᠠᠨ  ᠤ ᠲᠠᠯᠠᠪᠤᠷ  ᠳᠦ 100 ᠲᠥᠭᠥᠷᠢᠭ ᠡᠴᠡ 30 ᠲᠥᠭᠥᠷᠢᠭ ᠬᠠᠰᠤᠬᠤ ᠠᠷᠭ᠎ᠠ ᠪᠠᠷ ᠪᠣᠷᠣᠯᠠᠭᠤᠯᠤᠨ᠎ᠠ᠂ ᠬᠥᠬᠡᠭᠴᠢᠨ ᠬᠤᠳᠠᠯᠳᠤᠭᠠᠨ  ᠤ ᠲᠠᠯᠠᠪᠤᠷ ᠲᠤ ᠲᠤᠯᠤᠭ᠎ᠠ ᠪᠠᠷ ᠨᠤᠭᠤᠯᠵᠤ ᠬᠤᠳᠠᠯᠳᠤᠨ᠎ᠠ᠂ ᠡᠵᠢ ᠨᠢ 320 ᠲᠥᠭᠥᠷᠢᠭ  ᠤᠨ ᠦᠨ᠎ᠡ ᠲᠡᠶ ᠡᠶᠢᠮᠦ ᠨᠡᠷᠡᠲᠦ ᠲᠡᠮᠳᠡᠭᠲᠦ  ᠶᠢᠨ ᠱᠠᠬᠠᠶ   ᠶᠢ ᠬᠤᠳᠠᠯᠳᠤᠨ ᠠᠪᠬᠤ ᠭᠡᠪᠡᠯ ᠬᠦᠭᠡ ᠬᠤᠳᠠᠯᠳᠤᠭᠠᠨ  ᠤ ᠲᠠᠯᠠᠪᠤᠷ  ᠳᠦ ᠬᠡᠳᠦᠶ ᠲᠥᠭᠥᠷᠢᠭ ᠲᠤᠰᠢᠶᠠᠬᠤ ᠪᠤᠢ?",
+        "zh_translation": "某品牌的鞋子搞促销活动，在甲商场按满100元减30元的方式销售，在乙商场打七折销售，妈妈要买标价320元的这种品牌的鞋子，在甲商场要付多少元？",
+        "answer": "230",
+        "en_translation": "A certain brand of shoes is on a promotional sale; in Store A, it's sold with a discount of 30 yuan for every 100 yuan spent, while in Store B, it's sold at a 30% discount. Mom wants to buy a pair of this brand's shoes, which is marked at 320 yuan. How much does she need to pay in Store A?"
+    },
+    {
+        "id": "math_mn_77",
+        "question": "ᠸᠧᠢ ᠯᠠᠢ ᠪᠠᠭ᠎ᠠ ᠰᠤᠷᠭᠠᠭᠤᠯᠢ   ᠶᠢᠨ ᠬᠢᠨ ᠢᠦᠶ ᠱᠤ   ᠶᠢᠨ ᠭᠠᠮᠰᠢᠭᠳᠠᠭᠰᠠᠨ ᠣᠷᠣᠨ  ᠤ ᠪᠢᠴᠢᠬᠠᠨ ᠨᠠᠶᠢᠵᠠ ᠨᠠᠷ ᠲᠤ ᠨᠣᠮ ᠪᠢᠴᠢᠭ ᠬᠠᠨᠳᠢᠪᠯᠠᠨ᠎ᠠ ᠃ ᠦᠯᠢᠭᠡᠷ   ᠤᠨ ᠨᠣᠮ 300 ᠳᠡᠪᠲᠡᠷ᠂ ᠬᠡᠯᠬᠢᠶ᠎ᠡ ᠵᠢᠷᠤᠭ 178 ᠳᠡᠪᠲᠡᠷ᠃ ᠦᠯᠢᠭᠡᠷ ᠤᠨᠨᠣᠮ ᠨᠢ ᠬᠡᠯᠬᠢᠶ᠎ᠡ ᠵᠢᠷᠤᠭ  ᠡᠴᠡ ᠬᠡᠳᠦᠶ ᠳᠡᠪᠲᠡᠷ ᠢᠯᠡᠭᠦᠦ ᠪᠤᠶ?",
+        "zh_translation": "未来小学为玉树灾区的小朋友捐书。故事书300本，连环画178本。故事书比连环画多多少本？",
+        "answer": "122",
+        "en_translation": "How many more storybooks than comics did Future Elementary School donate to the children in the Yushu disaster area? They donated 300 storybooks and 178 comics."
+    },
+    {
+        "id": "math_mn_210",
+        "question": "ᠨᠢᠭᠡ ᠮᠠᠰᠢᠨ ᠲᠡᠷᠭᠡ ᠬᠦᠭᠡ ᠭᠠᠵᠠᠷ  ᠡᠴᠡ ᠬᠥᠬᠡᠭᠴᠢᠨ ᠭᠠᠵᠠᠷ ᠵᠦᠭ ᠶᠠᠪᠤᠨ᠎ᠠ᠂ ᠴᠠᠭ ᠪᠦᠷᠢ 70 ᠺᠢᠯᠣᠮᠧᠲ᠋ᠷ  ᠠᠶᠠᠯᠠᠵᠦ᠂ 6 ᠴᠠᠭ  ᠤᠨ ᠳᠣᠲᠣᠷ᠎ᠠ ᠬᠦᠷᠳᠡᠭ; ᠬᠥᠬᠡᠭᠴᠢᠨ ᠭᠠᠵᠠᠷ ᠡᠴᠡ ᠵᠠᠮ ᠳᠠᠭᠠᠤ ᠪᠤᠴᠠᠨ   ᠢᠷᠡᠨ᠎ᠡ᠂ ᠴᠠᠭ ᠪᠦᠷᠢ 60 ᠺᠢᠯᠣᠮᠧᠲ᠋ᠷ ᠶᠠᠪᠤᠪᠠᠯ᠂ ᠬᠡᠳᠦᠨ ᠴᠠᠭ  ᠤᠨ ᠳᠣᠲᠣᠷ᠎ᠠ ᠬᠦᠭᠡ ᠭᠠᠵᠠᠷ ᠲᠤ ᠬᠦᠷᠴᠦ ᠳᠡᠶᠢᠯᠬᠦ ᠪᠤᠢ?",
+        "zh_translation": "一辆汽车从甲地开往乙地，每小时行70千米，6小时到达；从乙地沿路返回，每小时行60千米，问几小时能到达甲地？",
+        "answer": "7",
+        "en_translation": "A car travels from location A to location B at a speed of 70 km per hour, taking 6 hours to reach. On the return journey from location B, it travels at a speed of 60 km per hour. How many hours will it take to reach location A?"
+    },
+    {
+        "id": "math_mn_189",
+        "question": "ᠣᠨᠴᠠ ᠬᠤᠷᠳᠤᠨ ᠭᠠᠯᠲᠤ ᠲᠡᠷᠭᠡ 1 ᠮᠢᠨᠦ᠋ᠲ ᠲᠦ ᠪᠠᠷᠤᠭ 160 ᠺᠢᠯᠣᠮᠧᠲ᠋ᠷ  ᠠᠶᠠᠯᠠᠨ᠎ᠠ᠂ 1 ᠴᠠᠭ ᠲᠤ ᠬᠡᠳᠦᠶ ᠺᠢᠯᠣᠮᠧᠲ᠋ᠷ  ᠠᠶᠠᠯᠠᠵᠦ ᠪᠣᠯᠬᠤ ᠪᠣᠶ ︖",
+        "zh_translation": "特快列车1分钟约行160千米，1小时可行多少千米？",
+        "answer": "9600",
+        "en_translation": "The express train travels about 160 kilometers in one minute, how many kilometers can it travel in one hour?"
+    },
+    {
+        "id": "math_mn_98",
+        "question": "ᠨᠢᠭᠡ ᠮᠠᠰᠢᠨ ᠲᠡᠷᠭᠡ ᠪᠡᠷ 3 ᠤᠳᠠᠭ᠎ᠠ  ᠳᠦ 18 ᠲᠣᠨ ᠨᠡᠭᠦᠷᠡᠰᠦ ᠵᠥᠭᠡᠭᠡᠪᠦᠷᠢᠯᠡᠳᠡᠭ ᠂ ᠢᠩᠭᠢᠵᠦ ᠪᠤᠳᠤᠪᠠᠯ ᠂ ᠨᠢᠭᠡ ᠣᠪᠣᠭ᠎ᠠ ᠨᠡᠭᠦᠷᠡᠰᠦ 90 ᠲᠣᠨ  ᠪᠠᠢᠨ᠎ᠠ ᠂ ᠬᠡᠳᠦᠶ ᠮᠠᠰᠢᠨ ᠲᠡᠷᠭᠡ  ᠪᠡᠷ ᠨᠢᠭᠡ ᠯᠡ ᠤᠳᠠᠭ᠎ᠠ  ᠳᠦ ᠲᠡᠭᠡᠭᠡᠪᠦᠷᠢᠯᠡᠵᠦ ᠳᠠᠭᠤᠰᠬᠠᠬᠤ ᠪᠣᠶ ︖",
+        "zh_translation": "一辆汽车3次可运煤18吨，照这样计算，一堆煤90吨，需要多少辆汽车一次运完？",
+        "answer": "15",
+        "en_translation": "If a car can transport 18 tons of coal in 3 trips, how many cars are needed to transport a pile of 90 tons of coal in one trip?"
+    },
+    {
+        "id": "math_mn_100",
+        "question": "ᠳᠥᠷᠪᠡᠳᠦᠭᠡᠷ ᠣᠨ ᠤ 165 ᠰᠤᠷᠤᠭᠴᠢ ᠲᠡᠷᠭᠡᠨ  ᠳᠦ ᠰᠠᠭᠤᠵᠤ ᠲᠡᠭᠦᠷᠭᠡ ᠳᠦ ᠵᠤᠭᠠᠴᠠᠬᠤ ᠪᠠᠷ ᠶᠠᠪᠤᠨ᠎ᠠ ᠂ ᠲᠡᠷᠭᠡ ᠪᠦᠷᠢ  ᠳᠦ 24 ᠬᠥᠮᠦᠨ ᠰᠠᠭᠤᠬᠤ ᠪᠠᠷ ᠬᠢᠵᠠᠭᠠᠷᠯᠠᠨ᠎ᠠ ᠂ ᠲᠡᠳᠡᠨ  ᠳᠦ ᠠᠳᠠᠭ ᠪᠠᠭ᠎ᠠ ᠳᠠᠭᠠᠨ ᠬᠡᠳᠦᠨ ᠡᠶᠢᠮᠦ ᠲᠡᠷᠭᠡ ᠬᠡᠷᠡᠭᠰᠡᠬᠦ ᠪᠤᠶ ︖",
+        "zh_translation": "四年级165名同学乘车去郊游，每辆车限乘24人，他们至少需要几辆这样的车？",
+        "answer": "7",
+        "en_translation": "How many of such buses are needed at least if 165 fourth-grade students, with each bus having a capacity of 24 people, go on a field trip?"
+    },
+    {
+        "id": "math_mn_234",
+        "question": "ᠵᠠᠩ ᠶᠤᠸᠠᠢ ᠲᠥᠷᠥᠭᠰᠡᠨ ᠡᠳᠦᠷ  ᠤᠨ ᠪᠠᠶᠠᠷ  ᠢᠶᠠᠨ  ᠪᠡᠯᠡᠭ᠍ᠯᠡᠨ᠎ᠡ ᠂ 50 ᠰᠠᠨᠲ᠋ᠢᠮᠧᠲ᠋ᠷ ᠣᠷᠳᠣ ᠲᠣᠭᠣᠷᠢᠭ ᠬᠡᠯᠪᠡᠷᠢᠲᠡᠶ ᠥᠨᠳᠡᠭᠡ ᠲᠡᠶ ᠪᠣᠭᠣᠷᠰᠣᠭ ᠬᠤᠳᠠᠯᠳᠤᠨ ᠠᠪᠴᠠᠶ ᠂ ᠲᠡᠭᠦᠨ  ᠤ ᠳᠥᠷᠪᠡᠨ ᠲᠠᠯ᠎ᠠ  ᠳᠦ 5 ᠰᠠᠨᠲ᠋ᠢᠮᠧᠲ᠋ᠷ ᠠᠯᠤᠰᠯᠠᠬᠤ ᠪᠦᠷᠢ ᠨᠢᠭᠡ ᠵᠢᠵᠢᠭ ᠯᠡ ᠬᠠᠳᠬᠤᠬᠤ  ᠳᠦ  ᠬᠡᠳᠦᠨ ᠯᠡ ᠬᠡᠷᠡᠭᠰᠡᠬᠦ ᠪᠣᠶ ︖",
+        "zh_translation": "张悦过生日，买了一个周长为50厘米的圆形蛋糕，在它的四周每隔5厘米插一根小蜡烛，需要多少根蜡烛？",
+        "answer": "10",
+        "en_translation": "Zhang Yue is celebrating a birthday and bought a round cake with a circumference of 50 cm. If a small candle is inserted around it every 5 cm, how many candles are needed?"
+    },
+    {
+        "id": "math_mn_152",
+        "question": "ᠬᠣᠶᠠᠷ ᠬᠥᠮᠦᠨ ᠨᠢᠭᠡ ᠤᠳᠠᠭ᠎ᠠ ᠭᠠᠷ ᠠᠳᠬᠤᠪᠠᠯ᠂ 4 ᠬᠥᠮᠦᠨ ᠨᠡᠢᠲᠡ ᠬᠡᠳᠦ ᠤᠳᠠᠭ᠎ᠠ ᠭᠠᠷ ᠠᠳᠬᠤᠬᠤ ᠪᠤᠢ?",
+        "zh_translation": "每两个人握一次手，4个人一共握多少次手？",
+        "answer": "6",
+        "en_translation": "If every two people shake hands once, how many times do 4 people shake hands in total?"
+    },
+    {
+        "id": "math_mn_27",
+        "question": "ᠢᠤᠶ ᠱᠦ  ᠶᠢᠨ ᠭᠠᠮᠰᠢᠭᠳᠠᠭᠰᠠᠨ ᠣᠷᠣᠨ  ᠳᠤ ᠵᠣᠭᠣᠰ ᠬᠠᠨᠳᠢᠪᠯᠠᠨ᠎ᠠ  ᠃ ᠰᠢᠶᠤᠤ ᠭᠠᠩ 49 ᠲᠥᠭᠥᠷᠢᠭ ᠬᠠᠨᠳᠢᠪᠯᠠᠵᠤ᠂ ᠰᠢᠶᠤᠤ ᠹᠠᠩ 50 ᠲᠥᠭᠥᠷᠢᠭ ᠬᠠᠨᠳᠢᠪᠯᠠᠵᠤ᠂ ᠰᠢᠶᠤᠤ ᠬᠣᠩ 57 ᠲᠥᠭᠥᠷᠢᠭ ᠬᠠᠨᠳᠢᠪᠯᠠᠪᠠ᠃ ᠰᠢᠶᠣᠤ ᠬᠣᠩ ᠨᠢ ᠰᠢᠶᠣᠤ ᠭᠠᠩ  ᠡᠴᠡ ᠬᠡᠳᠦᠶ  ᠲᠥᠭᠥᠷᠢᠭ  ᠢᠯᠡᠭᠦᠦ ᠬᠠᠨᠳᠢᠪᠯᠠᠭᠰᠠᠨ ᠪᠤᠶ?",
+        "zh_translation": "为玉树灾区捐款。小刚捐了49元，小芳捐了50元，小红捐了57元。小红比小刚多捐了多少钱？",
+        "answer": "8",
+        "en_translation": "How much more money did Xiaohong donate than Xiaogang?"
+    },
+    {
+        "id": "math_mn_149",
+        "question": "ᠬᠣᠩ ᠰᠢᠩ ᠪᠥᠭᠡᠮ  ᠢᠶᠠᠷ ᠬᠤᠳᠠᠯᠳᠤᠬᠤ ᠭᠠᠵᠠᠷ ᠳᠤᠮᠳᠠᠴᠢ ᠪᠠᠷ ᠡᠳᠦᠷ ᠲᠦ 37 ᠬᠠᠶᠢᠷᠴᠠᠭ ᠷᠠᠰᠢᠶᠠᠨ ᠤᠰᠤ  ᠶᠢ ᠬᠤᠳᠠᠯᠳᠤᠳᠠᠭ ᠂ ᠬᠠᠶᠢᠷᠴᠠᠭ ᠪᠦᠷᠢ  ᠳᠦ 24 ᠯᠣᠩᠬᠣ ᠷᠠᠰᠢᠶᠠᠨ ᠤᠰᠤ ᠲᠠᠶ ᠂ ᠨᠢᠭᠡ ᠭᠠᠷᠠᠭ ᠲᠤ ᠬᠡᠳᠦᠨ ᠯᠣᠩᠬᠣ ᠷᠠᠰᠢᠶᠠᠨ ᠤᠰᠤ  ᠶᠢ ᠬᠤᠳᠠᠯᠳᠤᠳᠠᠭ ᠪᠣᠶ ︖",
+        "zh_translation": "红星批发部平均一天卖出37箱矿泉水，每箱矿泉水有24瓶，一周可以卖出多少瓶矿泉水？",
+        "answer": "6216",
+        "en_translation": "The Red Star Wholesale Department sells an average of 37 cases of mineral water per day, with each case containing 24 bottles. How many bottles of mineral water can be sold in one week?"
+    },
+    {
+        "id": "math_mn_174",
+        "question": "ᠨᠢᠭᠡ ᠬᠡᠰᠡᠭ ᠤᠷᠲᠤ ᠳᠥᠷᠪᠡᠯᠵᠢᠨ ᠬᠡᠯᠪᠡᠷᠢ ᠲᠡᠶ ᠨᠣᠭᠣᠭ᠎ᠠ  ᠶᠢᠨ ᠲᠠᠷᠢᠶᠠᠨ  ᠳᠦ ᠴᠠᠭᠠᠨ ᠨᠣᠭᠣᠭ᠎ᠠ  ᠶᠢ ᠳᠦᠭᠦᠷᠲᠡᠯ᠎ᠡ ᠳᠠᠷᠢᠵᠠᠶ ᠂ ᠨᠣᠭᠣᠭ᠎ᠠ  ᠶᠢᠨ ᠲᠠᠷᠢᠶᠠᠨ  ᠤ ᠣᠷᠳᠣ ᠨᠢ 13 ᠮᠧᠲ᠋ᠷ ᠂ ᠥᠷᠭᠡᠨ ᠨᠢ 5 ᠮᠧᠲ᠋ᠷ ᠪᠠᠶᠢᠳᠠᠭ ᠃ ᠬᠡᠷᠪᠡ ᠺᠦᠸᠠᠲ ᠮᠧᠲ᠋ᠷ ᠪᠦᠷᠢ ᠡᠴᠡ 6 ᠺᠢᠯᠣᠭ᠍ᠷᠠᠮ ᠴᠠᠭᠠᠨ ᠨᠣᠭᠣᠭ᠎ᠠ ᠬᠤᠷᠢᠶᠠᠪᠠᠯ ᠨᠡᠢᠲᠡ  ᠬᠡᠳᠦᠨ ᠺᠢᠯᠣᠭ᠍ᠷᠠᠮ ᠴᠠᠭᠠᠨ ᠨᠣᠭᠣᠭ᠎ᠠ ᠬᠤᠷᠢᠶᠠᠵᠤ ᠪᠣᠯᠬᠤ ᠪᠤᠢ?",
+        "zh_translation": "一块长方形菜地里种满了白菜，菜地的长为13米，宽为5米。如果每平方米收白菜6千克，一共可以收多少千克白菜？",
+        "answer": "390",
+        "en_translation": "A rectangular vegetable plot is filled with Chinese cabbage. The plot is 13 meters long and 5 meters wide. If 6 kilograms of cabbage are harvested per square meter, how many kilograms of cabbage can be harvested in total?"
+    },
+    {
+        "id": "math_mn_154",
+        "question": "ᠰᠢᠶᠤᠤ ᠯᠢᠩ ᠬᠡᠷ ᠡᠴᠡ ᠪᠡᠨ ᠾᠧ ᠱᠠᠨ ᠴᠡᠴᠡᠷᠯᠢᠭ ᠲᠦ ᠣᠴᠢᠬᠤ ᠳᠠᠭᠠᠨ ᠤᠷᠢᠳ  ᠢᠶᠠᠷ ᠨᠡᠶᠢᠲᠡ  ᠶᠢᠨ ᠮᠠᠰᠢᠨ ᠲᠡᠷᠭᠡᠨ  ᠳᠦ ᠰᠠᠭᠤᠭᠠᠳ 2 ᠺᠢᠯᠣᠮᠧᠲ᠋ᠷ ᠶᠠᠪᠤᠵᠤ ᠂ ᠲᠡᠷᠭᠡᠨ ᠡᠴᠡ ᠪᠡᠨ ᠪᠠᠭᠤᠭᠠᠳ ᠪᠠᠰᠠ 300 ᠮᠧᠲ᠋ᠷ ᠠᠯᠬᠤᠵᠠᠶ ᠂ ᠬᠡᠷ ᠡᠴᠡ ᠪᠡᠨ ᠾᠧ ᠱᠠᠨ ᠴᠡᠴᠡᠷᠯᠢᠭ ᠲᠦ ᠬᠦᠷᠬᠦ  ᠳᠦ ᠬᠡᠳᠦᠨ ᠮᠧᠲ᠋ᠷ ᠪᠠᠶᠢᠬᠤ ᠪᠣᠶ ︖",
+        "zh_translation": "小玲从家去鹤山公园，先乘公共汽车走了2千米，下车又步行了300米，家到鹤山公园有多少米？",
+        "answer": "2300",
+        "en_translation": "How many meters are there from Xiaoling's home to Heshan Park if she first took a bus for 2 kilometers and then walked 300 meters after getting off?"
+    },
+    {
+        "id": "math_mn_183",
+        "question": "ᠬᠣᠶᠠᠷ ᠠᠰᠠᠷ  ᠤᠨ ᠬᠣᠭᠣᠷᠣᠨᠳᠣ 1 ᠮᠧᠲ᠋ᠷ ᠠᠯᠤᠰᠯᠠᠬᠤ ᠪᠦᠷᠢ ᠨᠢᠭᠡ ᠰᠠᠭᠤᠷᠢ ᠮᠣᠳᠣ ᠳᠠᠷᠢᠵᠤ ᠂ ᠨᠡᠶᠢᠲᠡ 8 ᠰᠠᠭᠤᠷᠢ ᠮᠣᠳᠣ ᠳᠠᠷᠢᠵᠠᠶ ᠂ ᠡᠨᠡ ᠬᠣᠶᠠᠷ ᠠᠰᠠᠷ  ᠤᠨ ᠬᠣᠭᠣᠷᠣᠨᠳᠣ ᠪᠠᠨ  ᠬᠡᠳᠦᠨ ᠮᠧᠲ᠋ᠷ ᠵᠠᠶᠢᠲᠠᠶ ᠪᠤᠶ ︖",
+        "zh_translation": "两幢楼之间每隔1米种一棵树，一共种了8棵树，这两幢楼之间相距多少米？",
+        "answer": "27",
+        "en_translation": "Between the two buildings, trees are planted at intervals of 1 meter, with a total of 8 trees planted. What is the distance between the two buildings?"
+    },
+    {
+        "id": "math_mn_110",
+        "question": "1 ᠾᠧᠺᠲ᠋ᠠᠷ ᠭᠠᠵᠠᠷ ᠲᠠᠶ ᠵᠢᠰᠢᠭᠦᠯᠵᠢᠨ ᠵᠤᠯᠵᠠᠭ᠎ᠠ ᠮᠣᠳᠣᠨ  ᠤ ᠬᠦᠷᠢᠶᠡᠯᠡᠩ  ᠤᠨ ᠰᠠᠭᠤᠷᠢ ᠨᠢ 500 ᠮᠧᠲ᠋ᠷ᠂ ᠥᠨᠳᠥᠷ ᠨᠢ ᠬᠡᠳᠦᠶ ᠮᠧᠲ᠋ᠷ ᠪᠤᠢ?",
+        "zh_translation": "占地1公顷的平行四边形苗圃，底是500米，高是多少米？",
+        "answer": "20",
+        "en_translation": "What is the height of a 1-hectare parallelogram nursery with a base of 500 meters?"
+    },
+    {
+        "id": "math_mn_5",
+        "question": "ᠰᠤᠷᠭᠠᠭᠤᠯᠢ ᠶᠢᠨ ᠤᠬᠠᠭᠤᠯᠬᠤ ᠠᠩᠭᠢ  ᠳᠤ ᠨᠡᠢᠢᠳ᠋ᠡ 12 ᠬᠥᠮᠦᠨ ᠲᠡᠶ᠃ ᠳᠠᠭᠤᠤ ᠳᠠᠭᠤᠯᠠᠭᠴᠢ 4 ᠬᠥᠮᠦᠨ ᠪᠠᠶᠢᠨ᠎ᠠ᠂ ᠪᠤᠰᠤᠳ ᠨᠢ  ᠪᠥᠵᠢᠭ᠍ᠯᠡᠨ᠎ᠡ᠂ ᠪᠥᠵᠢᠭᠯᠡᠭᠴᠢ ᠬᠡᠳᠦᠶ ᠬᠥᠮᠦᠨ ᠪᠠᠶᠢᠬᠤ ᠪᠤᠢ?",
+        "zh_translation": "学校宣传队里面一共有12人。唱歌的有4人，其余的跳舞，跳舞的有多少人？",
+        "answer": "8",
+        "en_translation": "In the school's publicity team, there are a total of 12 people. There are 4 people who sing, and the rest dance. How many people dance?"
+    },
+    {
+        "id": "math_mn_107",
+        "question": "ᠰᠤᠷᠭᠠᠭᠤᠯᠢ ᠶᠢᠨ 100 ᠮᠧᠲ᠋ᠷ  ᠤᠨ ᠭᠦᠶᠦᠯᠲᠡ  ᠶᠢᠨ ᠤᠷᠤᠯᠳᠤᠭᠠᠨ  ᠳᠦ᠂ ᠮᠢᠩ ᠮᠢᠩ 12.95 ᠰᠧᠺᠦ᠋ᠨ᠋ᠳ᠋ ᠭᠦᠶᠦᠵᠦ ᠂  ᠯᠢᠶᠠᠩ  ᠯᠢᠶᠠᠩ 13.17 ᠰᠧᠺᠦ᠋ᠨ᠋ᠳ᠋ ᠭᠦᠶᠦᠵᠦ ᠂  ᠵᠢᠶᠦ᠋ᠨ  ᠵᠢᠶᠦ᠋ᠨ 13.02 ᠰᠧᠺᠦ᠋ᠨ᠋ᠳ᠋ ᠭᠦᠶᠦᠪᠡ ᠂ ᠡᠨᠡ ᠤᠳᠠᠭᠠᠨ  ᠤ ᠤᠷᠤᠯᠳᠤᠭᠠᠨ  ᠳᠦ  ᠨᠢᠭᠡᠳᠦᠭᠡᠷ  ᠨᠡᠷᠡᠰ ᠨᠢ ᠭᠤᠷᠪᠠᠳᠤᠭᠠᠷ  ᠨᠡᠷᠡᠰ ᠡᠴᠡ  ᠬᠡᠳᠦᠨ ᠰᠧᠺᠦ᠋ᠨ᠋ᠳ᠋ ᠬᠤᠷᠳᠤᠨ  ᠭᠦᠶᠦᠭ᠍ᠰᠡᠨ ᠪᠤᠶ ︖",
+        "zh_translation": "学校进行100米跑步比赛，明明跑了12.95秒，亮亮跑了13.17秒，军军跑了13.02秒．这次比赛中第一名比第三名快了多少秒？",
+        "answer": "0.22",
+        "en_translation": "In the 100-meter race held by the school, Mingming ran for 12.95 seconds, Liangliang ran for 13.17 seconds, and Junjun ran for 13.02 seconds. How many seconds faster was the first place compared to the third place in this race?"
+    },
+    {
+        "id": "math_mn_241",
+        "question": "ᠨᠢᠭᠡ ᠢᠵᠢ ᠰᠤᠷᠭᠠᠭᠤᠯᠢ  ᠶᠢᠨ ᠬᠤᠪᠴᠠᠰᠤ ᠵᠠᠬᠢᠶᠠᠯᠠᠬᠤ  ᠳᠦ 68.5 ᠲᠥᠭᠥᠷᠢᠭ ᠬᠡᠷᠡᠭᠰᠡᠨ᠎ᠡ ᠂ ᠲᠠᠪᠤ  ᠶᠢᠨ︵ 1 ︶ ᠠᠩᠭᠢ  ᠳᠦ 56 ᠰᠣᠷᠣᠭᠴᠢ ᠪᠠᠶᠢᠨ᠎ᠠ ᠂ ᠰᠤᠷᠭᠠᠭᠤᠯᠢ  ᠶᠢᠨ ᠬᠤᠪᠴᠠᠰᠤ ᠵᠠᠬᠢᠶᠠᠯᠠᠬᠤ  ᠳᠤ ᠨᠡᠶᠢᠲᠡ  ᠬᠡᠳᠦᠨ ᠲᠥᠭᠥᠷᠢᠭ ᠬᠡᠷᠡᠭᠰᠡᠬᠦ ᠪᠣᠶ ︖",
+        "zh_translation": "订做一套校服需68.5元，五（1）班有学生56人，订校服共需多少元钱？",
+        "answer": "3836",
+        "en_translation": "How much money is needed to order school uniforms if one set costs 68.5 yuan and there are 56 students in Class 5(1)?"
+    },
+    {
+        "id": "math_mn_12",
+        "question": "ᠲᠡᠷᠭᠡ ᠵᠠᠰᠠᠬᠤ ᠦᠢᠯᠡᠳᠪᠦᠷᠢ ᠳᠦ 18 ᠮᠠᠰᠢᠨ ᠲᠡᠷᠭᠡ ᠲᠡᠶ᠂ 8 ᠮᠠᠰᠢᠨ ᠲᠡᠷᠭᠡ  ᠶᠢ ᠨᠢ ᠵᠢᠯᠣᠭᠣᠳᠴᠤ ᠶᠠᠪᠤᠪᠠᠯ ᠪᠠᠰᠠ ᠬᠡᠳᠦᠶ ᠮᠠᠰᠢᠨ ᠲᠡᠷᠭᠡ  ᠦᠯᠡᠳᠡᠵᠦ  ᠪᠠᠢᠬᠤ ᠪᠤᠢ?",
+        "zh_translation": "修车厂有汽车18辆，开走8辆，还剩多少辆？",
+        "answer": "10",
+        "en_translation": "The repair shop has 18 cars, 8 cars are driven away, how many are left?"
+    },
+    {
+        "id": "math_mn_51",
+        "question": "ᠨᠢᠭᠡ ᠦᠬᠡᠷ  ᠤᠨ ᠬᠦᠨᠳᠦ ᠨᠢ 500 ᠺᠢᠯᠣᠭ᠍ᠷᠠᠮ ᠂ ᠨᠢᠭᠡ ᠵᠠᠭᠠᠨ  ᠤ ᠪᠡᠶ᠎ᠡ  ᠶᠢᠨ ᠬᠦᠨᠳᠦ ᠨᠢ ᠦᠬᠡᠷ  ᠤᠨ ᠪᠡᠶ᠎ᠡ  ᠶᠢᠨ ᠬᠦᠨᠳᠦ  ᠶᠢᠨ 3 ᠳᠠᠬᠢᠨ  ᠡᠴᠡ 200 ᠺᠢᠯᠣᠭ᠍ᠷᠠᠮ ᠢᠯᠡᠭᠦᠦ ᠂ ᠵᠠᠭᠠᠨ  ᠤ ᠪᠡᠶ᠎ᠡ  ᠶᠢᠨ ᠬᠦᠨᠳᠦ ᠨᠢ ᠬᠡᠳᠦᠶ ᠺᠢᠯᠣᠭ᠍ᠷᠠᠮ ᠪᠠᠶᠢᠳᠠᠭ ᠪᠣᠶ ︖",
+        "zh_translation": "一头牛重500千克，一头大象的体重比牛的3倍多200千克，大象的体重是多少千克？",
+        "answer": "1700",
+        "en_translation": "A cow weighs 500 kg, an elephant weighs 200 kg more than three times the cow's weight, what is the weight of the elephant in kilograms?"
+    },
+    {
+        "id": "math_mn_162",
+        "question": "ᠨᠢᠭᠡ ᠤᠷᠲᠤ ᠳᠥᠷᠪᠡᠯᠵᠢᠨ  ᠤ ᠥᠷᠭᠡᠨ ᠨᠢ 4 ᠰᠠᠨᠲ᠋ᠢᠮᠧᠲ᠋ᠷ ᠂ ᠤᠷᠲᠤ ᠨᠢ ᠥᠷᠭᠡᠨ  ᠤ ᠪᠡᠨ 3 ᠳᠠᠬᠢᠨ ᠂ ᠡᠨᠡ ᠤᠷᠲᠤ ᠳᠥᠷᠪᠡᠯᠵᠢᠨ  ᠤ ᠬᠦᠷᠢᠶᠡᠨ  ᠤ ᠤᠷᠲᠤ ᠨᠢ  ᠬᠡᠳᠦᠨ ᠰᠠᠨᠲ᠋ᠢᠮᠧᠲ᠋ᠷ ᠪᠤᠶ?",
+        "zh_translation": "一个长方形的宽是4厘米，长是宽的3倍．这个长方形的周长是多少厘米？",
+        "answer": "32",
+        "en_translation": "The width of a rectangle is 4 cm, and its length is 3 times the width. What is the perimeter of this rectangle in centimeters?"
+    },
+    {
+        "id": "math_mn_93",
+        "question": "ᠸᠠᠩ ᠪᠠᠭᠰᠢ ᠨᠢᠭᠡ ᠪᠦᠯᠦᠭ ᠲᠤᠨᠤᠭ  ᠢ ᠦᠢᠯᠡᠳᠪᠦᠷᠢᠯᠡᠨ᠎ᠡ᠂ ᠬᠡᠷᠪᠡ ᠡᠳᠦᠷ ᠪᠦᠷᠢ 320 ᠲᠤᠨᠤᠭ  ᠢ ᠦᠢᠯᠡᠳᠪᠦᠷᠢᠯᠡᠵᠦ᠂ 15 ᠡᠳᠦᠷ ᠲᠦ ᠳᠠᠭᠤᠰᠬᠠᠨ᠎ᠠ᠂ ᠬᠡᠷᠪᠡ 12 ᠡᠳᠦᠷ ᠲᠦ ᠳᠠᠭᠤᠰᠬᠠᠶ᠎ᠠ ᠭᠡᠪᠡᠯ ᠡᠳᠦᠷ ᠪᠦᠷᠢ ᠬᠡᠳᠦᠶ ᠲᠤᠨᠤᠭ ᠦᠢᠯᠡᠳᠪᠦᠷᠢᠯᠡᠬᠦ ᠬᠡᠷᠡᠭᠲᠡᠶ ᠪᠤᠢ?",
+        "zh_translation": "王师傅生产一批零件，如果每天生产320个，15天完成．如果要想12天完成，每天要生产多少个？",
+        "answer": "400",
+        "en_translation": "Master Wang produces a batch of parts. If he produces 320 parts per day, it will take 15 days to complete. How many parts per day does he need to produce to complete it in 12 days?"
+    },
+    {
+        "id": "math_mn_96",
+        "question": "ᠨᠢᠭᠡ ᠮᠠᠰᠢᠨ ᠲᠡᠷᠭᠡ ᠬᠦᠭᠡ ᠬᠤᠳᠠ  ᠡᠴᠡ ᠬᠥᠬᠡᠭᠴᠢᠨ ᠬᠤᠳᠠ ᠤᠷᠤᠭᠤ 4 ᠴᠠᠭ ᠲᠤ 300 ᠺᠢᠯᠣᠮᠧᠲ᠋ᠷ  ᠠᠶᠠᠯᠠᠨ᠎ᠠ᠂ ᠳᠤᠮᠳᠠᠴᠢ ᠪᠠᠷ ᠴᠠᠭ ᠪᠦᠷᠢ ᠬᠡᠳᠦᠶ ᠺᠢᠯᠣᠮᠧᠲ᠋ᠷ ᠠᠶᠠᠯᠠᠳᠠᠭ ᠪᠤᠢ?",
+        "zh_translation": "一辆汽车从甲城开往乙城，4小时行驶了300千米，平均每小时行驶多少千米？",
+        "answer": "75",
+        "en_translation": "A car travels from City A to City B, covering 300 kilometers in 4 hours. What is the average speed in kilometers per hour?"
+    },
+    {
+        "id": "math_mn_207",
+        "question": "ᠯᠢ ᠠᠪᠠᠭ᠎ᠠ   ᠶᠢᠨ ᠬᠢᠨ 260 ᠡᠮᠡᠭᠴᠢᠨ ᠲᠠᠬᠢᠶ᠎ᠠ ᠂ 108 ᠡᠷᠡᠭᠴᠢᠨ ᠲᠠᠬᠢᠶ᠎ᠠ ᠲᠡᠵᠢᠭᠡᠵᠦ ᠂ ᠪᠠᠰᠠ 46 ᠭᠠᠯᠠᠭᠤ ᠲᠡᠵᠢᠭᠡᠵᠡᠶ ᠂ ᠲᠠᠬᠢᠶ᠎ᠠ ᠶᠢᠨ ᠲᠣᠭ᠎ᠠ ᠨᠢ ᠭᠠᠯᠠᠭᠤ  ᠶᠢᠨ  ᠲᠣᠭᠠᠨ  ᠤ  ᠬᠡᠳᠤᠨ ᠳᠠᠬᠢᠨ ᠪᠠᠶᠢᠳᠠᠭ ᠪᠣᠶ ︖",
+        "zh_translation": "李大伯家养了260只母鸡，108只公鸡，还养了46只鹅，鸡的只数是鹅的多少倍？",
+        "answer": "8",
+        "en_translation": "How many times the number of chickens is the number of geese, if Uncle Li's family has 260 hens, 108 roosters, and 46 geese?"
+    },
+    {
+        "id": "math_mn_235",
+        "question": "8 ᠮᠧᠲ᠋ᠷ ᠣᠷᠳᠣ ᠂ 6 ᠮᠧᠲ᠋ᠷ ᠥᠷᠭᠡᠨ ᠂ 2.8 ᠮᠧᠲ᠋ᠷ ᠥᠨᠳᠥᠷ ᠨᠢᠭᠡ ᠲᠠᠰᠤᠯᠭ᠎ᠠ ᠠᠯᠪᠠᠨ ᠬᠡᠷ  ᠢ ᠴᠣᠬᠣᠶᠢᠳᠠᠬᠤ ᠴᠢᠬᠤᠯᠠᠲᠠᠶ ᠂ ᠨᠢᠭᠡᠨᠲᠡ ᠮᠡᠳᠡᠭᠰᠡᠨ  ᠨᠢ ᠡᠭᠦᠳᠡ ᠴᠣᠩᠬᠣ ᠨᠢ ᠨᠡᠶᠢᠲᠡ 42 ᠺᠦᠸᠠᠲ ᠮᠧᠲ᠋ᠷ ᠪᠠᠶᠢᠵᠤ ᠂ ᠴᠣᠬᠣᠶᠢᠳᠠᠬᠤ ᠴᠢᠬᠤᠯᠠᠲᠠᠶ ᠲᠠᠯᠠᠪᠠᠶ ᠨᠢ ᠬᠡᠳᠦᠶ ᠺᠦᠸᠠᠲ ᠮᠧᠲ᠋ᠷ︵ ᠭᠠᠵᠠᠷ  ᠤᠨ ᠭᠠᠳᠠᠷᠭᠤ  ᠶᠢ ᠴᠣᠬᠣᠶᠢᠳᠠᠬᠤ ᠥᠬᠡᠶ ︶ ᠪᠠᠶᠢᠬᠤ ᠪᠣᠶ ︖",
+        "zh_translation": "一间长8米、宽6米、高2.8米的办公室需要粉刷，已知门窗共42平方米，需要粉刷的面积有多少平方米（地面不刷）？",
+        "answer": "84.4",
+        "en_translation": "How many square meters of wall space need to be painted in an office measuring 8 meters long, 6 meters wide, and 2.8 meters high, given that the door and windows occupy a total of 42 square meters (the floor is not painted)?"
+    },
+    {
+        "id": "math_mn_197",
+        "question": "ᠯᠢ ᠪᠠᠭᠰᠢ 78 ᠰᠤᠷᠤᠭᠴᠢ  ᠶᠢ ᠳᠠᠭᠠᠭᠤᠯᠤᠨ ᠣᠩᠭᠣᠴᠠ ᠰᠡᠯᠢᠬᠦ ᠪᠡᠷ ᠶᠠᠪᠤᠪᠠ᠂ ᠣᠩᠭᠣᠴᠠ ᠪᠦᠷᠢ ᠳᠦ 12 ᠬᠥᠮᠦᠨ ᠰᠠᠭᠤᠨ᠎ᠠ᠂ ᠨᠠᠭᠠᠳᠤ ᠵᠠᠬ᠎ᠠ  ᠳᠠᠭᠠᠨ  ᠬᠡᠳᠤᠨ  ᠤᠩᠭᠤᠴᠠᠨ  ᠳᠦ ᠰᠠᠭᠤᠪᠠᠯ ᠰᠠᠶ᠋ᠢ ᠪᠠᠭᠲᠠᠬᠤ ᠪᠤᠢ?",
+        "zh_translation": "李老师带78名学生去划船，每条船坐12人，至少要多少条船才能坐完？",
+        "answer": "7",
+        "en_translation": "Teacher Li takes 78 students boating. Each boat holds 12 people. What is the minimum number of boats needed to accommodate everyone?"
+    },
+    {
+        "id": "math_mn_248",
+        "question": "ᠰᠤᠷᠭᠠᠭᠤᠯᠢ ᠬᠢᠴᠢᠶᠡᠯ  ᠤᠨ ᠭᠠᠳᠠᠨᠠᠬᠢ ᠬᠥᠳᠡᠯᠭᠡᠭᠡᠨ ᠥᠷᠨᠢᠭᠦᠯᠬᠦ  ᠳᠦ ᠂ ᠤᠷᠠᠨ ᠪᠢᠴᠢᠯᠭᠡ   ᠶᠢᠨ  ᠠᠩᠭᠢ  ᠳᠦ 54 ᠬᠥᠮᠦᠨ ᠪᠠᠶᠢᠵᠤ ᠂  ᠳᠠᠭᠤᠤ ᠬᠥᠭᠵᠢᠮ  ᠤᠨ  ᠠᠩᠭᠢ   ᠶᠢᠨ ᠬᠥᠮᠦᠨ  ᠤ ᠲᠣᠭᠠᠨ  ᠤ 2 ᠳᠠᠬᠢᠨ   ᠡᠴᠡ 18 ᠬᠥᠮᠦᠨ ᠳᠤᠲᠠᠭᠤ ᠂  ᠳᠠᠭᠤᠤ ᠬᠥᠭᠵᠢᠮ  ᠤᠨ  ᠠᠩᠭᠢ  ᠳᠦ  ᠬᠡᠳᠦᠨ ᠬᠥᠮᠦᠨ ᠪᠠᠶᠢᠬᠤ ᠪᠣᠶ ︖",
+        "zh_translation": "学校开展课外活动，书法班有54人，比音乐班人数的2倍少18人，音乐班有多少人？",
+        "answer": "36",
+        "en_translation": "The school is conducting extracurricular activities. The calligraphy class has 54 students, which is 18 fewer than twice the number of students in the music class. How many students are in the music class?"
+    },
+    {
+        "id": "math_mn_222",
+        "question": "ᠵᠠᠮ ᠵᠠᠰᠠᠬᠤ ᠠᠩᠭᠢ ᠨᠢᠭᠡᠳᠦᠭᠡᠷ ᠡᠳᠦᠷ  ᠲᠦ 450 ᠮᠧᠲ᠋ᠷ ᠵᠠᠮ ᠵᠠᠰᠠᠵᠤ ᠂ ᠬᠣᠶᠠᠳᠤᠭᠠᠷ ᠡᠳᠦᠷ  ᠲᠦ ᠵᠠᠰᠠᠭᠰᠠᠨ  ᠵᠠᠮ  ᠨᠢ ᠨᠢᠭᠡᠳᠦᠭᠡᠷ ᠡᠳᠦᠷ  ᠤᠨ 1.2 ᠳᠠᠬᠢᠨ᠂ ᠬᠣᠶᠠᠷ ᠡᠳᠦᠷ ᠲᠦ ᠨᠡᠶᠢᠲᠡ ᠬᠡᠳᠦᠶ ᠮᠧᠲ᠋ᠷ ᠵᠠᠮ ᠵᠠᠰᠠᠭᠰᠠᠨ ᠪᠤᠶ︖",
+        "zh_translation": "修路队第一天修路450米，第二天修的路是第一天修的1.2倍，两天共修路多少米？",
+        "answer": "990",
+        "en_translation": "How many meters of road did the construction team build in total over the two days if they built 450 meters on the first day and 1.2 times that amount on the second day?"
+    },
+    {
+        "id": "math_mn_88",
+        "question": "5 ᠰᠠᠮᠵᠠ 64 ᠲᠤᠭᠤᠷ  ᠢ ᠨᠢᠭᠡ ᠬᠦᠷᠢᠶ᠎ᠡ ᠪᠠ ᠭᠤᠷᠪᠠᠨ ᠰᠠᠭᠰᠤᠨ  ᠳᠦ ᠬᠢᠵᠦ ᠂ ᠰᠠᠭᠰᠤᠨ  ᠳᠦ28 ᠬᠢᠵᠦ ᠂ ᠪᠤᠰᠤᠳ  ᠢ ᠨᠢ ᠭᠤᠷᠪᠠᠨ ᠰᠠᠭᠰᠤᠨ  ᠳᠦ ᠬᠢᠵᠦ ᠂ ᠲᠡᠭ᠍ᠰᠢᠳᠭᠡᠭᠡᠳ ᠰᠠᠭᠰᠤ ᠪᠦᠷᠢ  ᠳᠦ ᠬᠡᠳᠦᠶ ᠲᠤᠭᠤᠷ ᠪᠠᠶᠢᠬᠤ ᠪᠣᠶ ︖",
+        "zh_translation": "5只猴采了64个桃装在一个框和三个篮子里，筐里装28个，其余放在三个篮子里，平均每个篮子里有多少个桃？",
+        "answer": "12",
+        "en_translation": "Five monkeys picked 64 peaches and placed them in one box and three baskets. The box contains 28 peaches, and the rest are placed in the three baskets. How many peaches are there on average in each basket?"
+    },
+    {
+        "id": "math_mn_167",
+        "question": "ᠳ᠋ᠢᠩ ᠳ᠋ᠢᠩ ᠨᠢᠭᠡ ᠦᠯᠢᠭᠡᠷ  ᠤᠨ ᠨᠣᠮ  ᠤᠩᠰᠢᠨ᠎ᠠ᠂ ᠡᠮᠦᠨ᠎ᠡ 3 ᠡᠳᠦᠷ ᠲᠦ ᠳᠤᠮᠳᠠᠴᠢ ᠪᠠᠷ ᠡᠳᠦᠷ ᠪᠦᠷᠢ 15 ᠨᠢᠭᠤᠷ ᠤᠩᠰᠢᠵᠤ᠂ ᠰᠡᠭᠦᠯᠡᠷ ᠨᠢ ᠡᠳᠦᠷ ᠪᠦᠷᠢ ᠡᠮᠦᠨ᠎ᠡ 3 ᠡᠳᠦᠷ ᠡᠴᠡ ᠢᠯᠡᠭᠦᠦ 5 ᠨᠢᠭᠤᠷ ᠤᠩᠰᠢᠵᠤ᠂ ᠪᠠᠰᠠ 2 ᠡᠳᠦᠷ ᠤᠩᠰᠢᠪᠠᠯ ᠶᠠᠭ ᠰᠠᠶᠢᠬᠠᠨ ᠤᠩᠰᠢᠵᠤ ᠳᠠᠭᠤᠰᠬᠠᠳᠠᠭ᠂ ᠡᠨᠡ ᠦᠯᠢᠭᠡᠷ  ᠤᠨ ᠨᠣᠮ  ᠢ ᠳ᠋ᠢᠩ ᠳ᠋ᠢᠩ ᠳᠤᠮᠳᠠᠴᠢ ᠪᠠᠷ ᠡᠳᠦᠷ ᠪᠦᠷᠢ ᠬᠡᠳᠦᠨ ᠨᠢᠭᠤᠷ ᠤᠩᠰᠢᠭᠰᠠᠨ ᠪᠤᠢ?",
+        "zh_translation": "丁丁读一本故事书，前3天平均每天读15页，以后每天比前3天多读5页，又读2天正好读完，这本故事书丁丁平均每天读了多少页？",
+        "answer": "17",
+        "en_translation": "Dingding reads a storybook. In the first 3 days, he reads an average of 15 pages per day. He then reads 5 more pages each day than in the first 3 days, and finishes the book in 2 more days. On average, how many pages does Dingding read per day?"
+    },
+    {
+        "id": "math_mn_69",
+        "question": "ᠪᠠᠭᠰᠢ ᠱᠠᠪᠢ ᠨᠠᠷ ᠬᠠᠮᠲᠤ ᠪᠠᠷ 680 ᠰᠡᠯᠪᠢᠭ ᠲᠤᠨᠤᠭ ᠢ  ᠪᠣᠯᠪᠠᠰᠤᠷᠠᠭᠤᠯᠤᠨ᠎ᠠ᠂ ᠪᠠᠭᠰᠢ ᠨᠢ ᠴᠠᠭ ᠪᠦᠷᠢ  ᠳᠦ48 ᠰᠡᠯᠪᠢᠭ ᠲᠤᠨᠤᠭ  ᠢ ᠪᠣᠯᠪᠠᠰᠤᠷᠠᠭᠤᠯᠵᠤ᠂ ᠱᠠᠪᠢ ᠨᠢ ᠴᠠᠭ ᠪᠦᠷᠢ  ᠳᠦ 37 ᠰᠡᠯᠪᠢᠭ ᠲᠤᠨᠤᠭ  ᠢ  ᠪᠣᠯᠪᠠᠰᠤᠷᠠᠭᠤᠯᠳᠠᠭ᠃ ᠲᠡᠳᠡ ᠡᠨᠡ ᠪᠦᠯᠦᠭ ᠰᠡᠯᠪᠢᠭ ᠲᠣᠨᠣᠭ ᠢ ᠬᠡᠳᠦᠨ ᠴᠠᠭ  ᠤᠨᠳᠣᠲᠣᠷ᠎ᠠ ᠪᠣᠯᠪᠠᠰᠤᠷᠠᠭᠤᠯᠵᠤ ᠳᠠᠭᠤᠰᠬᠠᠳᠠᠭ ᠪᠤᠶ?",
+        "zh_translation": "师徒共同加工零件680个，师傅每小时可加工48个，徒弟每小时可加工37个。他们几小时可加工完这批零件？",
+        "answer": "8",
+        "en_translation": "The master and apprentice jointly processed 680 parts. The master can process 48 parts per hour, and the apprentice can process 37 parts per hour. How many hours will it take them to finish processing these parts?"
+    },
+    {
+        "id": "math_mn_215",
+        "question": "ᠨᠢᠭᠡ ᠯᠣᠩᠬᠣ ᠵᠦᠷᠵᠢ  ᠶᠢᠨ ᠰᠢᠭᠦᠰᠦ  ᠶᠢ ᠨᠢᠭᠡᠳᠦᠭᠡᠷ ᠤᠳᠠᠭ᠎ᠠ  ᠳᠦ 0.9ᠯᠢᠲ᠋ᠷ᠂ ᠬᠣᠶᠠᠳᠤᠭᠠᠷ ᠤᠳᠠᠭ᠎ᠠ  ᠳᠦ 0.76 ᠯᠢᠲ᠋ᠷ   ᠬᠠᠶᠠᠬᠤ  ᠳᠦ᠂ ᠯᠣᠩᠬᠣᠨ  ᠳᠦ ᠪᠠᠰᠠ 0.34 ᠯᠢᠲ᠋ᠷ ᠪᠠᠢᠨ᠎ᠠ᠂ ᠡᠨᠡ ᠯᠣᠩᠬᠣ ᠵᠦᠷᠵᠢ  ᠶᠢᠨᠰᠢᠭᠦᠰᠦ  ᠤᠤᠯ  ᠳᠦ  ᠪᠠᠨ ᠬᠡᠳᠦᠶ ᠮᠢᠯᠢᠯᠢᠲ᠋ᠷ ᠪᠠᠶᠢᠭᠰᠠᠨ ᠪᠤᠢ?",
+        "zh_translation": "一瓶橙汁第一次倒出0.9升，第二次倒出0.76升，瓶中还有0.34升，这瓶橙汁原有多少毫升？",
+        "answer": "2000",
+        "en_translation": "A bottle of orange juice was poured out 0.9 liters the first time and 0.76 liters the second time, and there is still 0.34 liters in the bottle. How many milliliters of orange juice were originally in the bottle?"
+    },
+    {
+        "id": "math_mn_156",
+        "question": "ᠭᠤᠷᠪᠠ  ᠶᠢᠨ（ ᠨᠢᠭᠡ ） ᠠᠩᠭᠢ  ᠶᠢᠨ ᠰᠤᠷᠤᠭᠴᠢᠳ ᠲᠠᠩᠭᠠᠶᠢᠵᠤ ᠬᠡᠪᠲᠡᠬᠦ   ᠶᠢ  ᠪᠣᠯᠪᠠᠰᠤᠷᠠᠨ᠎ᠠ ᠂ ᠨᠢᠭᠡ ᠮᠢᠨᠦ᠋ᠲ  ᠤᠨ ᠳᠣᠲᠣᠷ᠎ᠠ ᠰᠢᠶᠤᠤ ᠬᠤᠸᠠ 17  ᠶᠢ ᠬᠢᠵᠦ ᠂ ᠰᠢᠶᠤᠤ ᠴᠢᠶᠠᠩ  ᠤᠨ  ᠬᠢᠭ᠍ᠰᠡᠨ ᠲᠣᠭ᠎ᠠ ᠨᠢ ᠶᠠᠭ ᠰᠢᠶᠤᠤ ᠬᠤᠸᠠ  ᠶᠢᠨ 2 ᠳᠠᠬᠢᠨ ᠪᠠᠶᠢᠵᠤ ᠂ ᠰᠢᠶᠤᠤ ᠵᠢᠶᠦ᠋ᠨ  ᠤ ᠬᠢᠭᠰᠡᠨ ᠲᠣᠭ᠎ᠠ ᠨᠢ ᠰᠢᠶᠤᠤ ᠬᠤᠸᠠ  ᠶᠢᠨ 3 ᠳᠠᠬᠢᠨ ᠡᠴᠡ 10ᠳᠤᠲᠠᠭᠤ᠂ ᠰᠢᠶᠤᠤ ᠴᠢᠶᠠᠩ ᠬᠡᠳᠦ ᠬᠢᠭᠰᠡᠨ ᠪᠤᠶ ︖",
+        "zh_translation": "三（1）班学生练习仰卧起坐．在1分钟内，小华做了17个，小强做的个数正好是小华的2倍，小军做的比小华的3倍少10个．小强做了多少个？",
+        "answer": "34",
+        "en_translation": "Class 3(1) students are practicing sit-ups. In one minute, Xiaohua did 17, Xiaoqiang did exactly twice as many as Xiaohua, and Xiaojun did 10 fewer than three times what Xiaohua did. How many did Xiaoqiang do?"
+    },
+    {
+        "id": "math_mn_6",
+        "question": "ᠰᠤᠷᠭᠠᠭᠤᠯᠢ 52 ᠬᠠᠶᠢᠷᠴᠠᠭ ᠪᠤᠳᠤᠭᠲᠤ ᠣ᠋  ᠶᠢᠨ ᠪᠢᠷ ᠬᠤᠳᠠᠯᠳᠤᠨ ᠠᠪᠴᠢᠷᠠᠭᠰᠠᠨ  ᠳᠦ᠂ ᠨᠢᠭᠡ ᠬᠡᠰᠡᠭ  ᠢ ᠨᠢ  ᠬᠡᠷᠡᠭ᠍ᠯᠡᠭ᠍ᠰᠡᠨ  ᠳᠦ ᠪᠠᠰᠠ 20 ᠬᠠᠶᠢᠷᠴᠠᠭ  ᠦᠯᠡᠳᠡᠪᠡ ᠂ ᠬᠡᠳᠦᠶ ᠬᠠᠶᠢᠷᠴᠠᠭ ᠬᠡᠷᠡᠭᠯᠡᠭᠰᠡᠨ ᠪᠤᠶ ︖",
+        "zh_translation": "学校买来52盒彩色粉笔，用去一些还剩下20盒，用去了多少盒？",
+        "answer": "32",
+        "en_translation": "How many boxes were used if the school bought 52 boxes of colored chalk, and after using some, 20 boxes are left?"
+    },
+    {
+        "id": "math_mn_105",
+        "question": "ᠰᠤᠷᠭᠠᠭᠤᠯᠢ ᠠᠴᠠ ᠮᠣᠳᠣ ᠳᠠᠷᠢᠬᠤ ᠠᠵᠢᠯᠯᠠᠭ᠎ᠠ  ᠶᠢ ᠵᠣᠬᠢᠶᠠᠨ ᠪᠠᠶᠢᠭᠤᠯᠵᠤ᠂ ᠰᠤᠷᠤᠭᠴᠢᠳ  ᠢ 18 ᠳᠤᠭᠤᠶᠢᠯᠠᠩ ᠬᠤᠪᠢᠶᠠᠵᠤ᠂ ᠨᠡᠢᠳᠡ 567 ᠰᠠᠭᠤᠷᠢ ᠮᠣᠳᠣ ᠲᠠᠷᠢᠨ᠎ᠠ᠂ ᠳᠤᠭᠤᠶᠢᠯᠠᠩ ᠪᠦᠷᠢ  ᠳᠦ ᠳᠤᠮᠳᠠᠴᠢ ᠪᠠᠷ  ᠬᠡᠳᠤᠨ ᠰᠠᠭᠤᠷᠢ ᠮᠣᠳᠣ ᠳᠠᠷᠢᠬᠤ ᠪᠤᠢ︖",
+        "zh_translation": "学校组织植树活动，把学生分成18个小组，一共要植567棵，平均每组植多少棵树？",
+        "answer": "31.5",
+        "en_translation": "The school organized a tree planting activity, dividing the students into 18 groups. A total of 567 trees need to be planted. How many trees on average does each group need to plant?"
+    },
+    {
+        "id": "math_mn_242",
+        "question": "ᠨᠢᠭᠡᠨ ᠵᠠᠮ ᠵᠠᠰᠠᠬᠤ ᠠᠩᠭᠢ ᠨᠢᠭᠡ ᠵᠤᠷᠪᠤᠰ ᠵᠠᠰᠠᠮᠠᠯ ᠵᠠᠮ  ᠵᠠᠰᠠᠨ᠎ᠠ ᠂ ᠡᠳᠦᠷ ᠪᠦᠷᠢ 2.25 ᠺᠢᠯᠣᠮᠧᠲ᠋ᠷ ᠵᠠᠰᠠᠬᠤ ᠪᠠᠷ ᠲᠥᠯᠥᠪᠯᠡᠵᠦ ᠪᠠᠶᠢᠨ᠎ᠠ ᠂ 30 ᠡᠳᠦᠷ ᠲᠦ ᠡᠭᠦᠷᠭᠡ ᠪᠡᠨ ᠪᠡᠶᠡᠯᠡᠭᠦᠯᠵᠦ ᠪᠣᠯᠤᠨ᠎ᠠ ᠂ ᠦᠨᠡᠨ ᠳᠡᠭᠡᠨ ᠡᠳᠦᠷ ᠪᠦᠷᠢ  ᠶᠢᠨ ᠵᠠᠰᠠᠵᠤ ᠪᠠᠶᠢᠭ᠎ᠠ ᠨᠢ ᠲᠥᠯᠥᠪᠯᠡᠭᠡ  ᠶᠢᠨ1.2 ᠳᠠᠬᠢᠨ ᠪᠠᠶᠢᠵᠤ ᠂ ᠦᠨᠡᠨ ᠳᠡᠭᠡᠨ ᠬᠡᠳᠦᠨ ᠡᠳᠦᠷ ᠲᠦ ᠡᠭᠦᠷᠭᠡ ᠪᠡᠨ ᠪᠡᠶᠡᠯᠡᠭᠦᠯᠵᠦ ᠳᠡᠶᠢᠯᠬᠦ ᠪᠤᠶ︖",
+        "zh_translation": "某修路队要修一条公路，计划每天修2.25千米，30天可以完成任务，实际每天修的是计划的1.2倍，实际几天可以完成任务？",
+        "answer": "36",
+        "en_translation": "A road construction team is planning to build a highway, with a plan to construct 2.25 kilometers per day, completing the task in 30 days. In reality, they are completing 1.2 times the planned amount each day. How many days will it actually take to complete the task?"
+    },
+    {
+        "id": "math_mn_214",
+        "question": "ᠰᠢᠶᠤᠤ ᠭᠠᠩ ᠪᠣᠯᠤᠨ ᠰᠢᠶᠤᠤ ᠮᠢᠩ ᠨᠡᠶᠢᠲᠡ 90 ᠰᠢᠦᠳᠠᠨ ᠲᠡᠮᠳᠡᠭ ᠲᠡᠶ ᠂ ᠰᠢᠶᠤᠤ ᠭᠠᠩ  ᠰᠢᠶᠤᠤ ᠮᠢᠩ  ᠳᠦ 18 ᠰᠢᠦᠳᠠᠨ ᠲᠡᠮᠳᠡᠭ ᠬᠦᠷᠭᠡᠭᠰᠡᠨ  ᠤ ᠳᠠᠷᠠᠭ᠎ᠠ ᠬᠣᠶᠠᠭᠤᠯᠠ  ᠶᠢᠨ ᠰᠢᠦᠳᠠᠨ ᠲᠡᠮᠳᠡᠭ ᠨᠢ ᠠᠳᠠᠯᠢᠬᠠᠨ ᠣᠯᠠᠨ ᠂ ᠰᠢᠶᠤᠤ ᠮᠢᠩ  ᠤᠤᠯ  ᠨᠢ  ᠬᠡᠳᠤᠨ ᠰᠢᠦᠳᠠᠨ ᠲᠡᠮᠳᠡᠭ  ᠲᠠᠢ ᠪᠤᠶ︖",
+        "zh_translation": "小刚和小明共有邮票90张，小刚送给小明18张后两人的邮票同样多，小明原有邮票多少张？",
+        "answer": "27",
+        "en_translation": "How many stamps did Xiao Ming originally have if Xiaogang and Xiaoming together have 90 stamps, and after Xiaogang gives Xiaoming 18 stamps, they have the same number of stamps?"
+    },
+    {
+        "id": "math_mn_13",
+        "question": "ᠶᠠᠭᠤᠮ᠎ᠠ ᠬᠤᠳᠠᠯᠳᠤᠨ ᠠᠪᠬᠤ  ᠳᠦ 8 ᠲᠥᠭᠥᠷᠢᠭ ᠂ 10 ᠲᠥᠭᠥᠷᠢᠭ ᠲᠤᠰᠢᠶᠠᠨ᠎ᠠ ᠂ ᠬᠡᠳᠦᠶ ᠲᠥᠭᠥᠷᠢᠭ  ᠢ  ᠨᠢ ᠪᠤᠴᠠᠭᠠᠵᠤ  ᠥᠭ᠍ᠬᠦ ᠪᠤᠶ?",
+        "zh_translation": "买东西8元，付10元，找回多少元？",
+        "answer": "2",
+        "en_translation": "If you paid 10 yuan for an item that costs 8 yuan, how much change should you receive?"
+    },
+    {
+        "id": "math_mn_8",
+        "question": "ᠰᠢᠶᠤᠤ ᠮᠢᠩ ᠨᠢᠳᠤᠨᠤᠨ 8 ᠨᠠᠰᠤᠲᠠᠶ ᠂ ᠡᠨᠡ ᠵᠢᠯ ᠰᠢᠶᠤᠤ ᠮᠢᠩ ᠬᠡᠳᠦᠶ ᠨᠠᠰᠤᠲᠠᠶ ᠪᠣᠶ ︖",
+        "zh_translation": "小明去年8岁，今年小明多少岁？",
+        "answer": "9",
+        "en_translation": "Last year Xiaoming was 8 years old, how old is Xiaoming this year?"
+    },
+    {
+        "id": "math_mn_55",
+        "question": "ᠨᠢᠭᠡ ᠤᠭᠤᠲᠠ ᠭᠤᠯᠢᠷ  ᠤᠨ ᠬᠦᠨᠳᠦ ᠨᠢ 25 ᠺᠢᠯᠣᠭ᠍ᠷᠠᠮ᠂ ᠬᠡᠳᠦᠶ ᠤᠭᠤᠲᠠ ᠭᠤᠯᠢᠷ  ᠤᠨ ᠬᠦᠨᠳᠦ ᠨᠢ ᠶᠠᠭ ᠰᠠᠶᠢᠬᠠᠨ 1 ᠲᠣᠨ ᠪᠠᠶᠢᠳᠠᠭ ᠪᠤᠢ?",
+        "zh_translation": "一袋面粉重25千克，多少袋袋面粉重正好是1吨？",
+        "answer": "40",
+        "en_translation": "A bag of flour weighs 25 kilograms, how many bags of flour weigh exactly 1 ton?"
+    },
+    {
+        "id": "math_mn_225",
+        "question": "ᠲᠦᠷᠢᠶᠡᠰᠦᠨ ᠮᠠᠰᠢᠨ  ᠤ ᠡᠬᠢᠯᠡᠵᠦ ᠬᠥᠳᠡᠯᠬᠦ ᠦᠨ᠎ᠡ ᠨᠢ 5 ᠲᠥᠭᠥᠷᠢᠭ ᠂ 2 ᠺᠢᠯᠣᠮᠧᠲ᠋ᠷ  ᠤᠨ ᠳᠠᠷᠠᠭ᠎ᠠ ᠺᠢᠯᠣᠮᠧᠲ᠋ᠷ ᠪᠦᠷᠢ ᠡᠴᠡ 1.8 ᠲᠥᠭᠥᠷᠢᠭ ᠬᠤᠷᠢᠶᠠᠨ᠎ᠠ ᠂ ᠰᠢᠶᠤᠤ ᠮᠢᠩ 15 ᠺᠢᠯᠣᠮᠧᠲ᠋ᠷ ᠵᠠᠶᠢᠲᠠᠶ ᠭᠠᠵᠠᠷ ᠲᠤ  ᠬᠦᠷᠬᠦ ᠳᠤ ᠲᠦᠷᠢᠶᠡᠰᠦᠨ ᠮᠠᠰᠢᠨ  ᠤ ᠰᠦᠶᠳᠬᠡᠯ  ᠬᠡᠳᠦᠨ  ᠲᠥᠭᠥᠷᠢᠭ ᠲᠤᠰᠢᠶᠠᠬᠤ ᠪᠣᠶ ︖",
+        "zh_translation": "出租车的起步价是5元，2千米以后每千米收费1.8元，小明要到15千米远的地方，应付出租车费多少元？",
+        "answer": "28.4",
+        "en_translation": "The starting fare of a taxi is 5 yuan, and after 2 kilometers, it charges 1.8 yuan per kilometer. How much should Xiaoming pay for a taxi ride to a place 15 kilometers away?"
+    },
+    {
+        "id": "math_mn_22",
+        "question": "ᠨᠢᠭᠡ ᠬᠡᠰᠡᠭ ᠵᠠᠰᠠᠮᠠᠯ ᠵᠠᠮ  ᠢ ᠵᠠᠰᠠᠬᠤ  ᠳᠤ ᠨᠢᠭᠡᠳᠦᠭᠡᠷ ᠰᠠᠷ᠎ᠠ  ᠳᠦ ᠨᠢ 1200 ᠮᠧᠲ᠋ᠷ ᠵᠠᠰᠠᠵᠤ᠂ ᠬᠣᠶᠠᠳᠤᠭᠠᠷ ᠰᠠᠷ᠎ᠠ  ᠳᠦ ᠨᠢ 1600 ᠮᠧᠲ᠋ᠷ ᠵᠠᠰᠠᠭᠠᠳ ᠪᠠᠰᠠ 800 ᠮᠧᠲ᠋ᠷ ᠦᠯᠡᠳᠡᠵᠡᠶ᠂ ᠡᠨᠡ ᠬᠡᠰᠡᠭ ᠵᠠᠰᠠᠮᠠᠯ ᠵᠠᠮ  ᠤᠨ ᠤᠷᠳᠤ ᠨᠢ ᠬᠡᠳᠦᠶ ᠮᠧᠲ᠋ᠷ ᠪᠤᠢ?",
+        "zh_translation": "修一段公路，第一个月修了1200米，第二个月修了1600米，还剩800米没有修，这段公路长多少米？",
+        "answer": "3600",
+        "en_translation": "To build a stretch of road, 1,200 meters were constructed in the first month, 1,600 meters in the second month, and 800 meters remain unconstructed. How long is this stretch of road in total?"
+    },
+    {
+        "id": "math_mn_239",
+        "question": "ᠨᠢᠭᠡ ᠮᠣᠷᠢᠨ  ᠤ ᠭᠦᠶᠦᠬᠦ ᠬᠤᠷᠳᠤᠴᠠ ᠨᠢ ᠴᠠᠭ ᠲᠤ 62 ᠺᠢᠯᠣᠮᠧᠲ᠋ᠷ ᠂ ᠨᠢᠭᠡ ᠢᠷᠪᠢᠰ  ᠤᠨ ᠭᠦᠶᠦᠬᠦ ᠬᠤᠷᠳᠤᠴᠠ ᠨᠢ ᠮᠣᠷᠢᠨ  ᠤ 1.4 ᠳᠠᠬᠢᠨ ᠂ ᠢᠷᠪᠢᠰ  ᠤᠨ ᠭᠦᠶᠦᠬᠦ ᠬᠤᠷᠳᠤᠴᠠ ᠨᠢ ᠴᠠᠭ ᠲᠤ ᠬᠡᠳᠦᠨ ᠺᠢᠯᠣᠮᠧᠲ᠋ᠷ ᠪᠠᠶᠢᠳᠠᠭ ᠪᠣᠶ ︖",
+        "zh_translation": "一匹马的奔跑的速度每小时是62千米，一只猎豹的速度是马的1.4倍，猎豹的速度每小时是多少千米？",
+        "answer": "86.8",
+        "en_translation": "What is the speed in kilometers per hour of a cheetah if a horse runs at a speed of 62 km/h and the cheetah's speed is 1.4 times that of the horse?"
+    },
+    {
+        "id": "math_mn_145",
+        "question": "ᠨᠢᠭᠡ ᠣᠭᠣᠯᠢ ᠰᠠᠷ᠎ᠠ ᠳᠠᠭᠠᠨ 35 ᠬᠤᠯᠤᠭᠠᠨ᠎ᠠ ᠢᠳᠡᠵᠦ ᠂ ᠵᠢᠯ ᠳᠡᠭᠡᠨ ᠬᠡᠳᠦᠨ ᠬᠤᠯᠤᠭᠠᠨ᠎ᠠ ᠢᠳᠡᠳᠡᠭ ᠪᠣᠶ ︖",
+        "zh_translation": "一只猫头鹰一个月能吃35只老鼠，一年可以吃掉多少只老鼠？",
+        "answer": "420",
+        "en_translation": "How many mice can an owl eat in a year if it can eat 35 mice in a month?"
+    },
+    {
+        "id": "math_mn_29",
+        "question": "36 ᠫᠧᠩᠰᠡ ᠫᠧᠩᠰᠡᠲᠦ ᠦᠵᠡᠮᠵᠢ ᠲᠡᠶ ᠃ ᠡᠳᠡᠭᠡᠷ ᠫᠧᠩᠰᠡᠲᠦ ᠦᠵᠡᠮᠵᠢ  ᠶᠢ 4 ᠮᠥᠷ ᠪᠣᠯᠭᠠᠨ  ᠦᠷᠦᠨ᠎ᠡ ᠂ ᠮᠥᠷ ᠪᠦᠷᠢ  ᠳᠦ  ᠳᠤᠮᠳᠠᠴᠢ  ᠪᠠᠷ ᠬᠡᠳᠦᠨ ᠫᠧᠩᠰᠡ ᠦᠷᠦᠬᠦ ᠪᠤᠢ?",
+        "zh_translation": "有36盆盆景。 把这些盆景摆成4排，平均每排摆几盆？",
+        "answer": "9",
+        "en_translation": "There are 36 pot plants. If these pot plants are arranged in 4 rows, how many pots are there in each row on average?"
+    },
+    {
+        "id": "math_mn_220",
+        "question": "ᠵᠢᠮᠢᠰ  ᠤᠨ ᠬᠦᠷᠢᠶᠡᠯᠡᠩ  ᠳᠦ ᠠᠯᠮᠤᠷᠠᠳ  ᠤᠨ ᠮᠣᠳᠣ 23 ᠂ ᠠᠯᠢᠮ᠎ᠠ  ᠶᠢᠨ ᠮᠣᠳᠣ 77  ᠪᠠᠢᠨ᠎ᠠ᠂ ᠠᠯᠮᠤᠷᠠᠳ  ᠤᠨ ᠮᠣᠳᠣ ᠪᠠ ᠠᠯᠢᠮ᠎ᠠ  ᠶᠢᠨ ᠮᠣᠳᠣᠨ  ᠤ ᠶᠡᠷᠦᠩᠬᠡᠶ ᠲᠣᠭ᠎ᠠ ᠨᠢ ᠢᠩᠲᠣᠣᠷ  ᠤᠨ ᠮᠣᠳᠣᠨ  ᠤ 2 ᠳᠠᠬᠢᠨ ᠂ ᠢᠩᠲᠣᠣᠷ  ᠤᠨ ᠮᠣᠳᠣ ᠬᠡᠳᠦ  ᠪᠠᠢᠬᠤ ᠪᠣᠶ ︖",
+        "zh_translation": "果园里有苹果树23棵，梨树77棵，苹果树和梨树的总数是樱桃树的2倍，樱桃树有多少棵？",
+        "answer": "50",
+        "en_translation": "There are 23 apple trees and 77 pear trees in the orchard, and the total number of apple and pear trees is twice the number of cherry trees. How many cherry trees are there?"
+    },
+    {
+        "id": "math_mn_124",
+        "question": "ᠨᠢᠭᠡ ᠮᠠᠰᠢᠨ ᠲᠡᠷᠭᠡ 2.5 ᠴᠠᠭ ᠲᠤ ᠪᠠᠷᠤᠭ 20 ᠯᠢᠲ᠋ᠷ ᠲᠣᠰᠣ ᠵᠠᠷᠤᠴᠠᠭᠤᠯᠤᠨ᠎ᠠ ᠂ ᠳᠤᠮᠳᠠᠴᠢ ᠪᠠᠷ ᠴᠠᠭ ᠪᠦᠷᠢ  ᠳᠦ ᠬᠡᠳᠦᠶ ᠯᠢᠲ᠋ᠷ ᠲᠣᠰᠣ  ᠵᠠᠷᠤᠴᠠᠭᠤᠯᠬᠤ  ᠪᠣᠢ?",
+        "zh_translation": "一辆汽车2.5小时耗油大约20升，平均每小时耗油多少升？",
+        "answer": "8",
+        "en_translation": "How many liters of fuel does a car consume on average per hour if it consumes about 20 liters in 2.5 hours?"
+    },
+    {
+        "id": "math_mn_35",
+        "question": "ᠰᠦᠨ ᠲᠠᠯᠬ᠎ᠠ ᠪᠦᠷᠢ ᠳᠡᠭᠡᠨ 6 ᠲᠥᠭᠥᠷᠢᠭ᠂2 ᠪᠠᠭᠯᠠᠭ᠎ᠠ ᠰᠦᠨ ᠲᠠᠯᠬ᠎ᠠ ᠬᠡᠳᠦᠶ  ᠲᠥᠭᠥᠷᠢᠭ ᠪᠤᠢ︖",
+        "zh_translation": "每包奶片6元，2包奶片多少钱？",
+        "answer": "12",
+        "en_translation": "Each pack of milk tablets costs 6 yuan. How much for 2 packs of milk tablets?"
+    },
+    {
+        "id": "math_mn_94",
+        "question": "ᠵᠠᠩ ᠪᠠᠭᠰᠢ 9 ᠡᠳᠦᠷ ᠲᠦ 171 ᠪᠢᠷ ᠬᠢᠵᠦ  ᠳᠡᠢᠯᠦᠨ᠎ᠡ 912 ᠪᠢᠷ ᠦᠢᠯᠡᠳᠪᠦᠷᠢᠯᠡᠬᠦ  ᠳᠦ ᠬᠡᠳᠦᠨ ᠡᠳᠦᠷ  ᠤᠨ ᠴᠠᠭ ᠬᠡᠷᠡᠭᠰᠡᠬᠦ ᠪᠤᠢ?",
+        "zh_translation": "张师傅9天可制笔171支，要生产912支笔，需要几天的时间？",
+        "answer": "48",
+        "en_translation": "Master Zhang can make 171 pens in 9 days. How many days are needed to produce 912 pens?"
+    },
+    {
+        "id": "math_mn_3",
+        "question": "12 ᠫᠸᠡᠭᠰᠠ ᠤᠯᠠᠭᠠᠨ ᠰᠠᠷᠠᠨᠠᠶ ᠴᠡᠴᠡᠭ ᠲᠡᠶ ᠂ ᠬᠣᠶᠠᠷ ᠫᠸᠡᠭᠰᠠ ᠪᠦᠷᠢ  ᠶᠢᠨ ᠬᠣᠭᠣᠷᠣᠨᠳᠣ ᠨᠢ ᠨᠢᠭᠡ ᠫᠸᠡᠭᠰᠠ ᠰᠢᠷ᠎ᠠ ᠰᠠᠷᠠᠨᠠᠶ ᠴᠡᠴᠡᠭ  ᠲᠠᠯᠪᠢᠨ᠎ᠠ᠃ ᠨᠠᠢᠢᠳᠠ ᠬᠡᠳᠦᠶ ᠫᠧᠩᠰᠡ ᠰᠢᠷ᠎ᠠ ᠥᠩᠭᠡ ᠲᠡᠶ ᠰᠠᠷᠠᠨᠠᠶ ᠴᠡᠴᠡᠭ ᠬᠡᠷᠡᠭᠰᠡᠬᠦ ᠪᠤᠢ?",
+        "zh_translation": "有12盆红色的月季花，每两盆之间放一盆黄色的月季花。一共需要多少盆黄色的月季花？",
+        "answer": "11",
+        "en_translation": "There are 12 pots of red roses, with one pot of yellow roses placed between every two pots of red roses. How many pots of yellow roses are needed in total?"
+    },
+    {
+        "id": "math_mn_204",
+        "question": "ᠨᠢᠭᠡ ᠲᠡᠷᠭᠡᠨ ᠵᠣᠭᠰᠣᠭᠠᠯ  ᠳᠦ 25 ᠲᠣᠮᠣ ᠮᠠᠶ᠋ᠢᠭ  ᠤᠨᠰᠠᠭᠤᠳᠠᠯ  ᠤᠨ ᠮᠠᠰᠢᠨ ᠲᠠᠶ ᠂ ᠳᠤᠮᠳᠠᠳᠤ  ᠮᠠᠶ᠋ᠢᠭ  ᠤᠨ ᠰᠠᠭᠤᠳᠠᠯ  ᠤᠨ ᠮᠠᠰᠢᠨ  ᠤ ᠲᠣᠭ᠎ᠠ ᠨᠢ  ᠲᠣᠮᠣ ᠮᠠᠶ᠋ᠢᠭ  ᠤᠨᠰᠠᠭᠤᠳᠠᠯ  ᠤᠨ ᠮᠠᠰᠢᠨ  ᠤ  ᠲᠣᠭᠠᠨ  ᠤ ᠬᠣᠶᠠᠷ ᠳᠠᠬᠢᠨ ᠂ ᠵᠢᠵᠢᠭ ᠮᠠᠰᠢᠨ  ᠤ ᠲᠣᠭ᠎ᠠ ᠨᠢ  ᠲᠣᠮᠣ ᠮᠠᠶ᠋ᠢᠭ  ᠤᠨᠰᠠᠭᠤᠳᠠᠯ  ᠤᠨ ᠮᠠᠰᠢᠨ ᠪᠠ ᠲᠣᠮᠣ ᠮᠠᠶ᠋ᠢᠭ  ᠤᠨᠰᠠᠭᠤᠳᠠᠯ  ᠤᠨ ᠮᠠᠰᠢᠨ ᠤ ᠲᠣᠭ᠎ᠠ  ᠶᠢᠨ ᠨᠡᠶᠢᠯᠡᠪᠦᠷᠢ ᠡᠴᠡ ᠪᠠᠰᠠ 13 ᠢᠯᠡᠭᠦᠦ  ᠪᠠᠢᠨ᠎ᠠ ᠂ ᠵᠢᠵᠢᠭ ᠮᠠᠰᠢᠨ ᠬᠡᠳᠦ ᠪᠠᠶᠢᠬᠤ ᠪᠤᠶ ︖",
+        "zh_translation": "一个停车场，有25辆大巴，中巴的辆数是大巴的2倍，小轿车的辆数比大巴和中巴辆数的总和还多13辆．小轿车有多少辆？",
+        "answer": "88",
+        "en_translation": "A parking lot has 25 buses, the number of minibuses is twice that of the buses, and the number of cars exceeds the total number of buses and minibuses by 13. How many cars are there?"
+    },
+    {
+        "id": "math_mn_226",
+        "question": "ᠸᠠᠩ ᠪᠠᠭᠰᠢ ᠥᠨᠥᠳᠦᠷ ᠬᠠᠮᠲᠤ ᠳᠤᠨᠢ ᠰᠠᠷᠠᠨᠠᠶ ᠴᠡᠴᠡᠭ ᠪᠠ ᠬᠢᠯᠭᠡᠨ᠎ᠡ ᠴᠡᠴᠡᠭ  ᠢ ᠤᠰᠤᠯᠠᠨ᠎ᠠ᠂ ᠬᠡᠷᠪᠡ ᠰᠠᠷᠠᠨᠠᠶ ᠴᠡᠴᠡᠭ 3 ᠡᠳᠦᠷ ᠲᠦ ᠨᠢᠭᠡ ᠤᠳᠠᠭ᠎ᠠ ᠤᠰᠤᠯᠠᠪᠠᠯ᠂ ᠬᠢᠯᠭᠡᠨ᠎ᠡ ᠴᠡᠴᠡᠭ 5 ᠡᠳᠦᠷ ᠲᠦ ᠨᠢᠭᠡ ᠤᠳᠠᠭ᠎ᠠ ᠤᠰᠤᠯᠠᠨ᠎ᠠ᠂ ᠨᠠᠭᠠᠳᠤ ᠵᠠᠬ᠎ᠠ ᠳᠠᠭᠠᠨ ᠬᠡᠳᠦᠨ ᠡᠳᠦᠷ  ᠤᠨ ᠳᠠᠷᠠᠭ᠎ᠠ ᠡᠨᠡ ᠬᠣᠶᠠᠷ ᠵᠦᠢᠯ  ᠤᠨ ᠴᠡᠴᠡᠭ  ᠢ ᠬᠠᠮᠲᠤ ᠳᠤᠨᠢ ᠤᠰᠤᠯᠠᠨ᠎ᠠ ᠪᠤᠢ?",
+        "zh_translation": "王老师今天同时给月季和君子兰浇水，如果月季每3天浇一次水，君子兰每5天浇一次水．至少多少天以后给这两种花同时浇水？",
+        "answer": "15",
+        "en_translation": "If Teacher Wang waters both the monthly rose and the clivia today, and the monthly rose is watered every 3 days and the clivia every 5 days, after at least how many days will both flowers be watered at the same time again?"
+    },
+    {
+        "id": "math_mn_109",
+        "question": "ᠨᠢᠭᠡ ᠬᠡᠰᠡᠭ ᠵᠦᠯᠭᠡ ᠶᠢᠨ ᠲᠠᠯᠠᠪᠠᠶ ᠨᠢ 420  ᠺᠦᠸᠠᠲ ᠮᠧᠲ᠋ᠷ ᠂ ᠲᠡᠭᠦᠨ  ᠤ ᠥᠷᠭᠡᠨ ᠨᠢ 8.4 ᠮᠧᠲ᠋ᠷ ᠂ ᠵᠦᠯᠭᠡ  ᠶᠢᠨ ᠣᠷᠳᠣ ᠨᠢ ᠬᠡᠳᠦᠶ ᠮᠧᠲ᠋ᠷ ᠪᠤᠶ?",
+        "zh_translation": "一块草坪的面积是420平方米，它的宽是8.4米．草坪的长是多少米？",
+        "answer": "50",
+        "en_translation": "What is the length of a lawn if its area is 420 square meters and its width is 8.4 meters?"
+    },
+    {
+        "id": "math_mn_43",
+        "question": "6200 ᠺᠢᠯᠣᠭ᠍ᠷᠠᠮ  ᠡᠴᠡ 1000 ᠺᠢᠯᠣᠭ᠍ᠷᠠᠮ ᠢᠯᠡᠭᠦᠦ᠂ ᠬᠡᠳᠦᠶ ᠺᠢᠯᠣᠭ᠍ᠷᠠᠮ ᠪᠠᠶᠢᠪᠠᠯ ᠵᠣᠬᠢᠬᠤ ᠪᠤᠢ?",
+        "zh_translation": "比6200千克多1000千克，应该是多少千克？",
+        "answer": "7200",
+        "en_translation": "How many kilograms are 1000 kilograms more than 6200 kilograms?"
+    },
+    {
+        "id": "math_mn_206",
+        "question": "ᠬᠦᠭᠡ ᠬᠥᠬᠡᠭᠴᠢᠨ ᠬᠣᠶᠠᠷ ᠭᠠᠵᠠᠷ  ᠤᠨ ᠬᠣᠭᠣᠷᠣᠨᠳᠣᠬᠢ ᠵᠠᠶ ᠨᠢ 522 ᠺᠢᠯᠣᠮᠧᠲ᠋ᠷ ᠪᠠᠶᠢᠳᠠᠭ᠂ ᠨᠢᠭᠡ ᠮᠠᠰᠢᠨ ᠲᠡᠷᠭᠡ ᠬᠦᠭᠡ ᠭᠠᠵᠠᠷ  ᠡᠴᠡ ᠬᠥᠬᠡᠭᠴᠢᠨ ᠭᠠᠵᠠᠷ ᠵᠦᠭ  ᠶᠠᠪᠤᠨ᠎ᠠ᠂ ᠴᠠᠭ ᠪᠦᠷᠢ 87 ᠺᠢᠯᠣᠮᠧᠲ᠋ᠷ ᠠᠶᠠᠯᠠᠵᠤ᠂ ᠬᠡᠳᠦᠨ ᠴᠠᠭ  ᠤᠨ ᠳᠣᠲᠣᠷ᠎ᠠ ᠪᠦᠷᠢᠮᠦᠰᠦᠨ ᠠᠶᠠᠯᠠᠵᠤ ᠳᠡᠢᠯᠬᠦ ᠪᠤᠢ?",
+        "zh_translation": "甲乙两地相距522千米，一辆汽车从甲地开往乙地，每小时行驶87千米，几小时能行完全程？",
+        "answer": "6",
+        "en_translation": "What is the total time required for a car to travel from location A to location B, which are 522 kilometers apart, if the car travels at a speed of 87 kilometers per hour?"
+    },
+    {
+        "id": "math_mn_76",
+        "question": "ᠴᠢᠨ ᠪᠠᠭᠰᠢ 8  ᠦᠰᠦᠷᠬᠦ ᠳᠡᠭᠡᠰᠦ  ᠬᠤᠳᠠᠯᠳᠤᠨ ᠠᠪᠴᠤ ᠪᠠᠷᠠᠭ᠎ᠠ ᠬᠤᠳᠠᠯᠳᠤᠭᠴᠢ  ᠳᠦ 100 ᠲᠥᠭᠥᠷᠢᠭ ᠥᠭᠭᠦᠨ᠎ᠡ ᠂ ᠪᠠᠷᠠᠭ᠎ᠠ ᠬᠤᠳᠠᠯᠳᠤᠭᠴᠢ ᠴᠢᠨ ᠪᠠᠭᠰᠢ  ᠳᠦ 4 ᠲᠥᠭᠥᠷᠢᠭ ᠡᠷᠢᠵᠦ ᠥᠭᠭᠦᠨ᠎ᠡ ᠂ ᠳᠤᠮᠳᠠᠴᠢ ᠪᠠᠷ ᠳᠡᠭᠡᠰᠦ  ᠪᠦᠷᠢ  ᠳᠦ  ᠬᠡᠳᠦᠢ ᠲᠥᠭᠥᠷᠢᠭ ᠪᠤᠶ ︖",
+        "zh_translation": "秦老师买8根跳绳给售货员100元，售货员找给秦老师4元，平均每根跳绳多少元？",
+        "answer": "12",
+        "en_translation": "How much did each jump rope cost on average if Teacher Qin bought 8 jump ropes, paid the salesperson 100 yuan, and received 4 yuan in change?"
+    },
+    {
+        "id": "math_mn_184",
+        "question": "ᠬᠦᠬᠡ᠂ ᠬᠥᠬᠡᠭᠴᠢᠨ ᠬᠣᠶᠠᠷ ᠰᠠᠭᠰᠤ ᠠᠯᠮᠤᠷᠠᠳ  ᠤᠨ ᠬᠦᠨᠳᠦ  ᠶᠢᠨ ᠬᠡᠮᠵᠢᠶ᠎ᠡ ᠨᠢ ᠲᠡᠩᠴᠡᠭᠦᠦ ᠪᠠᠶᠢᠵᠤ᠂ ᠤᠳᠦ ᠬᠦᠭᠡ ᠰᠠᠭᠰᠤ  ᠡᠴᠡ 12 ᠺᠢᠯᠣᠭ᠍ᠷᠠᠮ ᠠᠯᠮᠤᠷᠠᠳ  ᠢ ᠬᠥᠬᠡᠭᠴᠢᠨ ᠰᠠᠭᠰᠤᠨ ᠳᠦ ᠬᠢᠵᠦ ᠣᠷᠣᠭᠤᠯᠬᠤ  ᠳᠦ ᠬᠥᠬᠡᠭᠴᠢᠨ ᠰᠠᠭᠰᠤᠨ  ᠤ ᠠᠯᠮᠤᠷᠠᠳ  ᠤᠨ ᠬᠦᠨᠳᠦ  ᠶᠢᠨ ᠬᠡᠮᠵᠢᠶ᠎ᠡ ᠨᠢ ᠬᠦᠭᠡ ᠰᠠᠭᠰᠤ  ᠶᠢᠨ 3 ᠲᠡᠬᠢᠠ  ᠡᠴᠡ 2 ᠺᠢᠯᠣᠭ᠍ᠷᠠᠮ ᠳᠤᠲᠠᠭᠤ᠂ ᠬᠣᠶᠠᠷ ᠰᠠᠭᠰᠤ ᠠᠯᠮᠤᠷᠠᠳ ᠤᠤᠯ ᠨᠢ ᠲᠤᠰ ᠪᠦᠷᠢ  ᠬᠡᠳᠤᠨ ᠺᠢᠯᠣᠭ᠍ᠷᠠᠮ ᠪᠠᠶᠢᠭᠰᠠᠨ ᠪᠤᠢ?",
+        "zh_translation": "甲、乙两筐苹果重量相等．现在从甲筐拿出12千克苹果放入乙筐，结果乙筐苹果的重量就比甲筐的3倍少2千克．两筐苹果原来各有多少千克？",
+        "answer": "25",
+        "en_translation": "The weights of apples in baskets A and B are equal. Now, 12 kilograms of apples are taken from basket A and placed into basket B, resulting in the weight of apples in basket B being 2 kilograms less than three times that of basket A. What was the original weight of apples in each basket?"
+    },
+    {
+        "id": "math_mn_15",
+        "question": "ᠨᠢᠭᠡ ᠦᠯᠢᠭᠡᠷ  ᠤᠨ ᠨᠣᠮ  ᠢ ᠰᠢᠶᠤᠤ ᠮᠢᠩ ᠭᠤᠷᠪᠠᠨ ᠡᠳᠦᠷ ᠲᠦ ᠨᠡᠢᠢᠳᠡ 10 ᠨᠢᠭᠤᠷ ᠦᠵᠡᠪᠡ᠃ ᠲᠡᠷᠡ ᠤᠷᠵᠢᠳᠤᠷ 5 ᠨᠢᠭᠤᠷ ᠦᠵᠡᠪᠡ᠂ ᠥᠴᠥᠭᠡᠳᠦᠷ 4 ᠨᠢᠭᠤᠷ ᠦᠵᠡᠪᠡ᠂ ᠥᠨᠥᠳᠦᠷ ᠬᠡᠳᠦᠨ ᠨᠢᠭᠤᠷ ᠦᠵᠡᠭᠰᠡᠨ ᠪᠤᠢ?",
+        "zh_translation": "一本故事书，小明三天一共看了10页。他前天看了5页，昨天看了4页，今天看了几页？",
+        "answer": "1",
+        "en_translation": "A storybook, Xiaoming read a total of 10 pages in three days. The day before yesterday, he read 5 pages, and yesterday, he read 4 pages. How many pages did he read today?"
+    },
+    {
+        "id": "math_mn_79",
+        "question": "ᠰᠢᠶᠠᠨ ᠲᠤᠤ ᠬᠣᠲᠠ ᠶᠢᠨ  ᠶᠠ  ᠲᠠᠢ ᠢᠳᠡᠭᠡᠨ  ᠤ ᠦᠢᠯᠡᠳᠪᠦᠷᠢ  ᠶᠢᠨ ᠦᠢᠯᠡᠳᠪᠦᠷᠢᠯᠡᠭᠰᠡᠨ ᠰᠢᠶᠠᠨ ᠲᠤᠤ ᠲᠡᠮᠳᠡᠭᠲᠦ ᠠᠮᠲᠠᠨ ᠤᠭᠢ ᠶᠢᠨ6 ᠪᠣᠭᠣᠯᠲᠠ ᠨᠢ ᠶᠠᠭ ᠰᠠᠶᠢᠬᠠᠨ 1200 ᠭᠷᠠᠮ ᠬᠦᠨᠳᠦ ᠂ 10 ᠪᠣᠭᠣᠯᠲᠠ ᠡᠶᠢᠮᠦ ᠠᠮᠲᠠᠨ ᠤᠭᠢ  ᠶᠢᠨ ᠬᠦᠨᠳᠦ ᠨᠢ ᠬᠡᠳᠦᠶ ᠭᠷᠠᠮ ᠪᠤᠶ ︖",
+        "zh_translation": "仙桃市亚太食品厂生产的仙桃牌味精6包刚好重1200克，10包这样的味精重多少克？",
+        "answer": "2000",
+        "en_translation": "How much does 10 packs of Xiantao brand monosodium glutamate, produced by Xiantaoshi Asia-Pacific Food Factory, weigh if 6 packs weigh exactly 1200 grams?"
+    },
+    {
+        "id": "math_mn_42",
+        "question": "ᠨᠢᠭᠡᠳᠦᠭᠡᠷ  ᠬᠠᠢᠷᠴᠠᠭ  ᠲᠤ 27 ᠂ ᠬᠣᠶᠠᠳᠤᠭᠠᠷ ᠬᠠᠢᠷᠴᠠᠭ  ᠲᠤ 39 ᠂ ᠭᠤᠷᠪᠠᠳᠤᠭᠠᠷ ᠬᠠᠢᠷᠴᠠᠭ  ᠲᠤ 15 ᠂ ᠨᠡᠶᠢᠲᠡ ᠬᠡᠳᠦᠶ ᠪᠠᠶᠢᠬᠤ ᠪᠣᠶ ︖",
+        "zh_translation": "第一箱有27个，第二箱有39个，第三箱15个，总共有多少个？ ",
+        "answer": "81",
+        "en_translation": "The first box has 27, the second box has 39, and the third box has 15. How many are there in total?"
+    },
+    {
+        "id": "math_mn_245",
+        "question": "ᠰᠢᠶᠤᠤ ᠮᠢᠩ  ᠳᠦ 38 ᠰᠢᠦᠳᠠᠨ ᠲᠡᠮᠳᠡᠭ ᠲᠡᠶ᠂ ᠰᠢᠶᠤᠤ ᠬᠤᠸᠠ  ᠳᠦ 8 ᠰᠢᠦᠳᠠᠨ  ᠲᠡᠮᠳᠡᠭ ᠬᠦᠷᠭᠡᠭᠰᠡᠨ  ᠤ ᠲᠠᠷᠠᠭ᠎ᠠ᠂ ᠬᠣᠶᠠᠭᠤᠯᠠ  ᠶᠢᠨ ᠰᠢᠦᠳᠠᠨ ᠲᠡᠮᠳᠡᠭ ᠠᠳᠠᠯᠢᠬᠠᠨ ᠣᠯᠠᠨ᠂ ᠰᠢᠶᠤᠤ ᠬᠤᠸᠠ ᠤᠤᠯ  ᠳᠦ  ᠪᠠᠨ  ᠬᠡᠳᠦᠨ ᠰᠢᠦᠳᠠᠨ ᠲᠡᠮᠳᠡᠭ ᠪᠠᠶᠢᠭᠰᠠᠨ ᠪᠤᠢ?",
+        "zh_translation": "小明有38张邮票，送给小华8张后，两人的邮票同样多，小华原有多少张邮票？",
+        "answer": "22",
+        "en_translation": "Xiaoming has 38 stamps, and after giving 8 stamps to Xiaohua, they have the same number of stamps. How many stamps did Xiaohua originally have?"
+    },
+    {
+        "id": "math_mn_46",
+        "question": "ᠨᠡᠢᠢᠳᠠ 32 ᠺᠢᠯᠣᠭ᠍ᠷᠠᠮ ᠠᠯᠮᠤᠷᠠᠳ ᠲᠠᠶ᠂  ᠲᠡᠭ᠍ᠰᠢᠳᠭᠡᠭᠡᠳ 4 ᠬᠥᠮᠦᠨ  ᠳᠦ ᠬᠤᠪᠢᠶᠠᠵᠤ ᠥᠭᠭᠦᠨ᠎ᠡ᠂ ᠳᠤᠮᠳᠠᠴᠢ ᠪᠠᠷ ᠬᠥᠮᠦᠨ ᠪᠦᠷᠢ  ᠳᠤ ᠬᠡᠳᠦᠶ ᠺᠢᠯᠣᠭ᠍ᠷᠠᠮ ᠬᠤᠪᠢᠶᠠᠵᠤ ᠥᠭᠬᠦ ᠪᠤᠢ?",
+        "zh_translation": "一共有32千克苹果，平均分给4个人，平均每人分多少千克?",
+        "answer": "8",
+        "en_translation": "There are a total of 32 kilograms of apples, evenly distributed among 4 people. How many kilograms does each person get on average?"
+    },
+    {
+        "id": "math_mn_102",
+        "question": "ᠡᠵᠢ ᠨᠢ ᠵᠢᠮᠢᠰ  ᠤᠨ ᠬᠡᠲᠦ ᠳᠡᠯᠭᠡᠭᠦᠷ ᠡᠴᠡ 25.60 ᠲᠥᠭᠥᠷᠢᠭ  ᠤᠨ  ᠮᠠᠩᠭᠤᠤᠷ  ᠵᠢᠮᠢᠰ ᠠᠪᠴᠠᠢ ᠂ 18.80 ᠲᠥᠭᠥᠷᠢᠭ  ᠤᠨ  ᠬᠠᠮᠢ ᠬᠡᠮᠬᠡ ᠬᠤᠳᠠᠯᠳᠤᠨ ᠠᠪᠴᠠᠶ ᠂ ᠲᠡᠷᠡ ᠮᠥᠩᠭᠥ ᠬᠤᠷᠢᠶᠠᠭᠴᠢ  ᠳᠦ 50 ᠲᠥᠭᠥᠷᠢᠭ  ᠥᠭ᠍ᠪᠡᠯ ᠂  ᠬᠡᠳᠤᠨ ᠲᠥᠭᠥᠷᠢᠭ ᠢ  ᠨᠢ ᠪᠤᠴᠠᠭᠠᠵᠤ ᠣᠯᠪᠠᠯ ᠵᠣᠬᠢᠬᠤ ᠪᠣᠶ ︖",
+        "zh_translation": "妈妈在水果超市买了25.60元的芒果，18.80元的哈密瓜，她付给收银员50元，应找回多少元钱？",
+        "answer": "5.6",
+        "en_translation": "Mom bought mangoes for 25.60 yuan and cantaloupe for 18.80 yuan at the fruit supermarket. She gave 50 yuan to the cashier. How much change should she receive?"
+    },
+    {
+        "id": "math_mn_118",
+        "question": "10kg ᠲᠤᠲᠤᠷᠭ᠎ᠠ ᠬᠤᠳᠠᠯᠳᠤᠨ ᠠᠪᠬᠤ  ᠳᠦ 56.5 ᠲᠥᠭᠥᠷᠢᠭ ᠲᠤᠰᠢᠶᠠᠬᠤ ᠬᠡᠷᠡᠭᠲᠡᠶ ᠂ 5.4kg ᠠᠳᠠᠯᠢ ᠲᠤᠲᠤᠷᠭ᠎ᠠ ᠬᠤᠳᠠᠯᠳᠤᠨ ᠠᠪᠬᠤ  ᠳᠦ ᠬᠡᠳᠦᠶ ᠲᠥᠭᠥᠷᠢᠭ ᠬᠡᠷᠡᠭᠰᠡᠬᠦ ᠪᠤᠶ ︖",
+        "zh_translation": "买10kg大米需付56.5元，买5.4kg同样的大米需要多少元？",
+        "answer": "30.51",
+        "en_translation": "To buy 10 kg of rice costs 56.5 yuan, how much does it cost to buy 5.4 kg of the same rice?"
+    },
+    {
+        "id": "math_mn_90",
+        "question": "ᠰᠢᠶᠤᠤ ᠮᠢᠩ ᠨᠣᠮ  ᠤᠨ ᠳᠡᠯᠭᠡᠭᠦᠷ ᠲᠦ ᠣᠴᠢᠵᠤ ᠂ ᠨᠢᠭᠡ ᠲᠣᠯᠢ ᠪᠢᠴᠢᠭ ᠬᠤᠳᠠᠯᠳᠤᠨ ᠠᠪᠬᠤ  ᠳᠦ 20.6 ᠲᠥᠭᠥᠷᠢᠭ ᠬᠡᠷᠡᠭᠯᠡᠵᠦ ᠂ ᠪᠠᠰᠠ ᠨᠢᠭᠡ 《 ᠪᠠᠭᠠᠴᠤᠳ  ᠤᠨ ᠨᠡᠪᠲᠡᠷᠬᠡᠶ ᠲᠣᠯᠢ ᠪᠢᠴᠢᠭ 》 ᠬᠤᠳᠠᠯᠳᠤᠨ ᠠᠪᠴᠠᠶ ᠂ 《 ᠪᠠᠭᠠᠴᠤᠳ  ᠤᠨ ᠨᠡᠪᠲᠡᠷᠬᠡᠶ ᠲᠣᠯᠢ ᠪᠢᠴᠢᠭ 》 ᠨᠢ ᠲᠣᠯᠢ ᠪᠢᠴᠢᠭ  ᠤᠨ 3 ᠳᠠᠬᠢᠨ  ᠡᠴᠡ ᠪᠠᠰᠠ 8.15 ᠲᠥᠭᠥᠷᠢᠭ ᠦᠨᠡᠲᠡᠶ ᠂ ᠰᠢᠶᠤᠤ ᠮᠢᠩ ᠨᠣᠮ ᠪᠢᠴᠢᠭ ᠬᠤᠳᠠᠯᠳᠤᠨ ᠠᠪᠬᠤ ᠳᠦ ᠨᠡᠶᠢᠲᠡ ᠬᠡᠳᠦᠶ ᠲᠥᠭᠥᠷᠢᠭ ᠵᠠᠷᠤᠴᠠᠭᠤᠯᠬᠤ ᠪᠤᠶ ︖",
+        "zh_translation": "小明去书店，买了一本字典用20.6元，还买了一本《少年百科全书》，《少年百科全书》比字典的3倍还贵8.15元，小明买书共花多少元？",
+        "answer": "69.95",
+        "en_translation": "Xiaoming went to the bookstore and bought a dictionary for 20.6 yuan, and also bought a \"Junior Encyclopedia,\" which was 8.15 yuan more expensive than three times the price of the dictionary. How much did Xiaoming spend in total on the books?"
+    },
+    {
+        "id": "math_mn_83",
+        "question": "ᠬᠦᠷᠢᠶᠡᠨ  ᠤ ᠤᠷᠳᠤ ᠨᠢ 16cm  ᠤᠨ ᠲᠡᠭᠰᠢ ᠳᠥᠷᠪᠡᠯᠵᠢᠨ᠂ ᠲᠡᠭᠦᠨ  ᠤ ᠲᠠᠯᠠᠪᠠᠢ ᠨᠢ ᠬᠡᠳᠦᠶ  ᠺᠤᠸᠠᠲᠢ ᠰᠠᠨᠲ᠋ᠢᠮᠧᠲ᠋ᠷ ᠪᠤᠢ?",
+        "zh_translation": "周长是16cm的正方形，它的面积多少平方厘米？",
+        "answer": "16",
+        "en_translation": "What is the area in square centimeters of a square with a perimeter of 16 cm?"
+    },
+    {
+        "id": "math_mn_212",
+        "question": "ᠨᠢᠭᠡ ᠮᠠᠰᠢᠨ ᠲᠡᠷᠭᠡ ᠭᠤᠸᠠᠩ ᠬᠤᠸᠠ ᠼᠦᠨ ᠲᠣᠰᠬᠣᠨ  ᠡᠴᠡ   ᠰᠢᠶᠠᠨ  ᠤ  ᠲᠥᠪ  ᠲᠦ  ᠬᠦᠷᠬᠦ  ᠳᠦ ᠴᠠᠭ ᠪᠦᠷᠢ 42 ᠺᠢᠯᠣᠮᠧᠲ᠋ᠷ ᠠᠶᠠᠯᠠᠳᠠᠭ᠂ ᠵᠢᠯᠣᠭᠣᠴᠢ ᠨᠢ ᠵᠠᠮ  ᠢᠶᠠᠨ ᠮᠡᠳᠡᠬᠦ ᠤᠢᠭᠡᠢ ᠡᠴᠡ ᠪᠤᠯᠵᠦ 2 ᠴᠠᠭ ᠠᠶᠠᠯᠠᠭᠠᠳ ᠰᠠᠶ᠋ᠢ ᠰᠢᠶᠠᠨ  ᠤ ᠲᠥᠪ    ᠡᠴᠡ   ᠭᠠᠷᠥᠭᠠᠳ 15 ᠺᠢᠯᠣᠮᠧᠲ᠋ᠷ ᠮᠣᠷᠳᠠᠭᠰᠠᠨ  ᠢ ᠣᠯᠵᠤ ᠮᠡᠳᠡᠪᠡ᠂ ᠭᠤᠸᠠᠩ ᠬᠤᠸᠠ ᠼᠦᠨ ᠲᠣᠰᠬᠣᠨ  ᠡᠴᠡ  ᠰᠢᠶᠠᠨ ᠤ  ᠲᠥᠪ  ᠲᠦ ᠬᠦᠷᠬᠦ ᠵᠠᠰᠠᠮᠠᠯ ᠵᠡᠮ  ᠤᠨ ᠤᠷᠳᠦ ᠨᠢ  ᠬᠡᠳᠦᠨ ᠺᠢᠯᠣᠮᠧᠲ᠋ᠷ ᠪᠠᠶᠢᠳᠠᠭ ᠪᠤᠢ?",
+        "zh_translation": "一辆汽车从光华村开往县城，每小时行42千米，由于司机对路线不悉，开出2小时后才发现已经开出县城15千米．光华村到县城的公路长多少千米？",
+        "answer": "69",
+        "en_translation": "A car travels from Guanghua Village to the county town at a speed of 42 km per hour. After 2 hours, the driver realizes that they have already driven 15 km past the county town due to unfamiliarity with the route. How many kilometers is the highway from Guanghua Village to the county town?"
+    },
+    {
+        "id": "math_mn_186",
+        "question": "ᠨᠢᠭᠡ ᠴᠤᠪᠤᠭ᠎ᠠ ᠭᠠᠯᠲᠤ ᠲᠡᠷᠭᠡ ᠰᠧᠺᠦ᠋ᠨ᠋ᠳ᠋ ᠪᠦᠷᠢ 34 ᠮᠧᠲ᠋ᠷ ᠠᠶᠠᠯᠠᠪᠠᠯ 1 ᠮᠢᠨᠦ᠋ᠲ ᠲᠦ ᠬᠡᠳᠤᠨ ᠮᠧᠲ᠋ᠷ ᠠᠶᠠᠯᠠᠳᠠᠭ ᠪᠣᠶ ︖",
+        "zh_translation": "一列火车每秒行驶34米，1分钟能行驶多少米？",
+        "answer": "2040",
+        "en_translation": "How many meters can a train traveling at 34 meters per second travel in 1 minute?"
+    },
+    {
+        "id": "math_mn_116",
+        "question": "ᠨᠢᠭᠡ ᠲᠣᠭ᠎ᠠ ᠨᠢ 8 ᠵᠢᠨ ᠲᠠᠬᠢᠨ ᠲᠣᠭ᠎ᠠ ᠪᠣᠯᠬᠤ ᠮᠥᠷᠲᠡᠭᠡᠨ ᠪᠠᠰᠠ 40 ᠵᠢᠨ ᠦᠷᠡᠵᠢᠭᠳᠡᠬᠦᠨ ᠪᠣᠯᠤᠨ᠎ᠠ᠂ ᠡᠨᠡ ᠬᠦ ᠲᠣᠭ᠎ᠠ ᠨᠢ ᠬᠠᠮᠤᠭ ᠶᠡᠬᠡ ᠳᠦ  ᠪᠠᠨ  ᠬᠡᠳᠦ ᠪᠣᠯᠬᠤ ᠪᠣᠯᠤᠯᠴᠠᠭ᠎ᠠ ᠲᠠᠶ ᠪᠤᠢ?",
+        "zh_translation": "一个数既是8的倍数，又是40的因数，这个数最大可能是多少？",
+        "answer": "40",
+        "en_translation": "What is the largest possible number that is both a multiple of 8 and a factor of 40?"
+    },
+    {
+        "id": "math_mn_199",
+        "question": "300 ᠮᠧᠲ᠋ᠷ ᠤᠷᠲᠤ ᠵᠠᠰᠠᠮᠠᠯ ᠵᠠᠮ  ᠤᠨ ᠬᠣᠶᠠᠷ ᠬᠠᠵᠠᠭᠤ ᠪᠠᠷ ᠮᠣᠳᠣ ᠵᠠᠶᠢᠯᠠᠨ᠎ᠠ（ᠬᠣᠶᠠᠷ ᠦᠵᠦᠭᠦᠷ  ᠲᠦ ᠨᠢ ᠵᠠᠶᠢᠯᠠᠨ᠎ᠠ）᠂ 4 ᠮᠧᠲ᠋ᠷ ᠠᠯᠤᠰᠯᠠᠬᠤ ᠪᠦᠷᠢ ᠨᠢᠭᠡ ᠰᠠᠭᠤᠷᠢ ᠮᠣᠳᠣ ᠵᠠᠶᠢᠯᠠᠨ᠎ᠠ᠂ ᠢᠩᠭᠢᠪᠡᠯ ᠨᠡᠢᠲᠡ ᠬᠡᠳᠤᠨ ᠰᠠᠭᠤᠷᠢ ᠮᠣᠳᠣ  ᠵᠠᠢᠯᠠᠬᠤ  ᠪᠣᠢ︖",
+        "zh_translation": "在一条长300米的公路两边栽树（两端要栽），每隔4米栽一棵，这样一共要栽多少棵树？",
+        "answer": "152",
+        "en_translation": "On both sides of a 300-meter-long road, trees are planted (including the ends), with one planted every 4 meters. How many trees are needed in total?"
+    },
+    {
+        "id": "math_mn_246",
+        "question": "ᠰᠢᠶᠤᠤ ᠹᠠᠩ ᠬᠤᠳᠠᠯᠳᠤᠭᠠᠨ  ᠤ ᠲᠠᠯᠠᠪᠤᠷ  ᠡᠴᠡ ᠨᠢᠭᠡ ᠹᠦ᠋ ᠸᠠ  ᠶᠢᠨ ᠤᠷᠤᠰᠤᠯ ᠱᠤᠭᠤᠮ  ᠤᠨ ᠬᠡᠯᠪᠡᠷᠢ  ᠶᠢᠨ ᠪᠢᠴᠢᠭ  ᠤᠨ ᠪᠣᠭᠴᠣ ᠬᠤᠳᠠᠯᠳᠤᠨ ᠠᠪᠬᠤ  ᠳᠦ ᠠᠪᠴᠤ ᠶᠠᠪᠤᠭ᠎ᠠ ᠵᠣᠭᠣᠰ  ᠤᠨ  ᠢᠶᠠᠨ ᠬᠠᠭᠠᠰ ᠢ ᠬᠡᠷᠡᠭᠯᠡᠪᠡ᠂ ᠨᠢᠭᠡ ᠹᠦ᠋ ᠸᠠ  ᠶᠢᠨ ᠪᠢᠴᠢᠭ  ᠤᠨᠬᠡᠷᠡᠭᠰᠡᠯ  ᠤᠨ ᠬᠠᠶᠢᠷᠴᠠᠭ ᠬᠤᠳᠠᠯᠳᠤᠨ ᠠᠪᠬᠤ  ᠳᠦ 36 ᠲᠥᠭᠥᠷᠢᠭ  ᠢ ᠬᠡᠷᠡᠭᠯᠡᠪᠡ᠂ ᠡᠨᠡ ᠦᠶ᠎ᠡ  ᠳᠦ ᠪᠠᠰᠠ 92 ᠲᠥᠭᠥᠷᠢᠭ ᠦᠯᠡᠳᠡᠵᠡᠶ᠂ ᠰᠢᠶᠤᠤ ᠹᠠᠩ ᠤᠤᠯ ᠨᠢ  ᠬᠡᠳᠦᠨ ᠲᠥᠭᠥᠷᠢᠭ ᠠᠪᠴᠤ ᠶᠠᠪᠤᠵᠤ ᠪᠠᠶᠢᠭᠰᠠᠨ ᠪᠤᠢ?",
+        "zh_translation": "小芳到商场买了一个福娃流线型书包用去所带钱的一半，买一个福娃文具盒用去36元，这时还剩92元．小芳原来带了多少元钱？",
+        "answer": "256",
+        "en_translation": "Xiaofang went to the mall and bought a Fuwawa streamlined backpack, spending half of the money she had with her. She then bought a Fuwawa pencil case for 36 yuan and had 92 yuan left. How much money did Xiaofang originally have?"
+    },
+    {
+        "id": "math_mn_232",
+        "question": "ᠰᠤᠷᠭᠠᠭᠤᠯᠢ ᠨᠢ ᠬᠣᠶᠠᠷ ᠳᠤᠷ᠎ᠠ ᠰᠣᠨᠢᠷᠬᠠᠯ  ᠤᠨ ᠳᠤᠭᠤᠶᠢᠯᠠᠩ ᠪᠠᠶᠢᠭᠤᠯᠵᠤ ᠂ ᠭᠤᠷᠪᠠ  ᠶᠢᠨ ︵ 2 ︶ ᠠᠩᠭᠢ  ᠶᠢᠨ 39 ᠬᠥᠮᠦᠨ ᠨᠢ ᠪᠦᠷ ᠠᠵᠢᠯᠯᠠᠭ᠎ᠠ  ᠳᠦ ᠣᠷᠣᠯᠴᠠᠵᠠᠶ ᠂ ᠡᠭᠦᠨ  ᠳᠦ 21 ᠬᠥᠮᠦᠨ ᠨᠢ ᠤᠷᠠᠨ ᠪᠢᠴᠢᠯᠭᠡ ᠶᠢᠨ ᠳᠤᠭᠤᠶᠢᠯᠠᠩ  ᠳᠦ ᠣᠷᠣᠯᠴᠠᠵᠤ ᠂ 24 ᠬᠥᠮᠦᠨ ᠨᠢ ᠤᠷᠠᠨ ᠵᠢᠷᠤᠭ  ᠤᠨ ᠳᠤᠭᠤᠶᠢᠯᠠᠩ ᠳᠤ  ᠣᠷᠣᠯᠴᠠᠪᠠ ᠂ ᠬᠣᠶᠠᠷ ᠳᠤᠭᠤᠶᠢᠯᠠᠩ  ᠳᠦ ᠪᠦᠷ ᠣᠷᠣᠯᠴᠠᠭᠰᠠᠨ  ᠬᠡᠳᠦᠨ ᠬᠥᠮᠦᠨ  ᠪᠣᠶ ︖",
+        "zh_translation": "学校开设两个兴趣小组，三（2）班39人都参加了活动，其中21人参加书画小组，24人参加美术小组，两个小组都参加的有多少人？",
+        "answer": "6",
+        "en_translation": "The school has set up two interest groups, and all 39 students from Class 3(2) participated in the activities. Among them, 21 students joined the calligraphy and painting group, and 24 students joined the art group. How many students joined both groups?"
+    },
+    {
+        "id": "math_mn_61",
+        "question": "ᠰᠢᠶᠤᠤ ᠮᠢᠩ  ᠤᠨ ᠬᠢᠨ 11 ᠰᠠᠷ᠎ᠠ  ᠶᠢᠨ 20  ᠤ ᠡᠳᠦᠷ  ᠤᠨ ᠦᠳᠡ  ᠶᠢᠨ ᠬᠣᠶᠢᠨ᠎ᠠ ᠴᠠᠬᠢᠯᠭᠠᠨ  ᠵᠣᠭᠰᠣᠨ᠎ᠠ  ᠂ ᠴᠠᠭ ᠨᠢ 2 ᠄ 45 – 4 ᠄ 30 ᠃ ᠰᠢᠶᠣᠤ ᠮᠢᠩ ᠦᠳᠡ  ᠶᠢᠨ ᠬᠣᠢ᠌ᠨ᠎ᠠ  ᠶᠢᠨ 4: 15  ᠳᠤ ᠰᠤᠷᠭᠠᠭᠤᠯᠢ ᠲᠠᠷᠬᠠᠨ᠎ᠠ ᠂ ᠲᠡᠷᠡ ᠭᠡᠷ ᠲᠡᠬᠡᠨ ᠬᠦᠷᠦᠭᠰᠡᠨ  ᠤ ᠳᠠᠷᠠᠭ᠎ᠠ ᠬᠡᠳᠦᠨ ᠮᠢᠨᠦ᠋ᠲ  ᠶᠢᠨ ᠳᠠᠷᠠᠭ᠎ᠠ ᠰᠠᠶᠢ ᠴᠠᠬᠢᠯᠭᠠᠨ ᠲᠠᠶ ᠪᠣᠯᠳᠠᠭ ᠪᠤᠶ?",
+        "zh_translation": "小明家11月20日下午停电，时间是2：45--4：30。小明下午4：15放学，他到家后过多少分钟才有电？",
+        "answer": "15",
+        "en_translation": "Xiaoming's home experienced a power outage on the afternoon of November 20, from 2:45 to 4:30. Xiaoming finishes school at 4:15 PM. How many minutes after he gets home will the power be back on?"
+    },
+    {
+        "id": "math_mn_71",
+        "question": "ᠨᠢᠭᠡ ᠠᠵᠢᠯᠴᠢᠨ 3 ᠴᠠᠭ ᠲᠤ 120 ᠰᠡᠯᠪᠢᠭ ᠲᠤᠨᠤᠭ  ᠢ ᠦᠢᠯᠡᠳᠪᠦᠷᠢᠯᠡᠵᠦ᠂ ᠳᠤᠮᠳᠠᠴᠢ ᠪᠠᠷ ᠴᠠᠭ ᠪᠦᠷᠢ ᠳᠦ ᠬᠡᠳᠦᠶ ᠰᠡᠯᠪᠢᠭ ᠲᠤᠨᠤᠭ  ᠢ ᠦᠢᠯᠡᠳᠪᠦᠷᠢᠯᠡᠳᠡᠭ ᠪᠤᠢ?",
+        "zh_translation": "一个工人3小时生产零件120个，平均每小时生产零件多少个？",
+        "answer": "40",
+        "en_translation": "If a worker produces 120 parts in 3 hours, how many parts does he produce on average per hour?"
+    },
+    {
+        "id": "math_mn_101",
+        "question": "ᠭᠤᠯᠢᠷ ᠺᠢᠯᠣᠭ᠍ᠷᠠᠮ ᠪᠦᠷᠢ  ᠳᠦ  ᠪᠠᠨ 0.92 ᠲᠥᠭᠥᠷᠢᠭ᠂ ᠲᠤᠲᠤᠷᠭ᠎ᠠ ᠺᠢᠯᠣᠭ᠍ᠷᠠᠮ ᠪᠦᠷᠢ  ᠳᠦ  ᠪᠠᠨ 0.8 ᠲᠥᠭᠥᠷᠢᠭ᠂ ᠭᠤᠯᠢᠷ ᠪᠠ ᠲᠤᠲᠤᠷᠭ᠎ᠠ ᠲᠤᠰ ᠪᠦᠷᠢ 15 ᠺᠢᠯᠣᠭ᠍ᠷᠠᠮ ᠬᠤᠳᠠᠯᠳᠤᠨ ᠠᠪᠬᠤ ᠳᠦ 30 ᠲᠥᠭᠥᠷᠢᠭ ᠵᠠᠷᠤᠴᠠᠭᠤᠯᠪᠠᠯ ᠬᠡᠳᠤᠨ ᠲᠥᠭᠥᠷᠢᠭ  ᠢ ᠨᠢ ᠪᠤᠴᠠᠭᠠᠬᠤ ᠪᠤᠢ?",
+        "zh_translation": "面粉每千克0.92元，大米每千克0.80元．买面粉和大米各15千克，付出30元，应找回多少元？",
+        "answer": "4.2",
+        "en_translation": "Flour costs 0.92 yuan per kilogram, rice costs 0.80 yuan per kilogram. If you buy 15 kilograms each of flour and rice and pay 30 yuan, how much change should you receive?"
+    },
+    {
+        "id": "math_mn_190",
+        "question": "ᠮᠠᠯᠵᠢᠯ  ᠤᠨ ᠲᠠᠯᠠᠪᠠᠢ  ᠳᠠᠬᠢ ᠨᠢᠭᠡ ᠬᠡᠰᠡᠭ ᠡᠪᠡᠰᠦ  ᠶᠢ 27 ᠦᠬᠡᠷ ᠲᠦ 6 ᠭᠠᠷᠠᠭ ᠢᠳᠡᠭᠦᠯᠬᠦ ᠪᠤᠶᠤ 23 ᠦᠬᠡᠷ ᠲᠦ 9 ᠭᠠᠷᠠᠭ ᠢᠳᠡᠭᠦᠯᠦᠨ᠎ᠡ᠃ ᠬᠡᠷᠪᠡ ᠡᠪᠡᠰᠦ ᠨᠢ ᠭᠠᠷᠠᠭ ᠪᠦᠷᠢ ᠵᠢᠭᠳᠡ ᠬᠤᠷᠳᠤᠴᠠ ᠪᠠᠷ ᠤᠷᠭᠤᠪᠠᠯ᠂ 21 ᠦᠬᠡᠷ ᠲᠦ ᠬᠡᠳᠦᠨ ᠭᠠᠷᠠᠭ ᠢᠳᠡᠭᠦᠯᠬᠦ ᠪᠤᠢ?",
+        "zh_translation": "牧场上一片牧草，可供27头牛吃6周，或者供23头牛吃9周．如果牧草每周匀速生长，可供21头牛吃几周？",
+        "answer": "12",
+        "en_translation": "A pasture can feed 27 cows for 6 weeks, or 23 cows for 9 weeks. If the grass grows at a uniform rate each week, how many weeks can it feed 21 cows?"
+    },
+    {
+        "id": "math_mn_10",
+        "question": "ᠰᠢᠶᠤᠤ ᠭᠠᠩ ᠤᠯᠠᠭᠠᠨ ᠴᠡᠴᠡᠭ  ᠬᠢᠵᠦ ᠵᠢᠷᠭᠤᠭᠠᠨ ᠰᠠᠷ᠎ᠠ  ᠶᠢᠨ ᠨᠢᠭᠡᠨ  ᠤ ᠬᠡᠦᠬᠡᠳ  ᠤᠨ ᠪᠠᠶᠠᠷ  ᠢ  ᠪᠡᠯᠡᠭ᠍ᠯᠡᠨ᠎ᠡ᠂  ᠨᠢᠭᠡᠳᠦᠭᠡᠷ ᠡᠳᠦᠷ  ᠲᠦ 10 ᠬᠥᠢᠰ ᠬᠢᠵᠦ᠂ ᠬᠣᠵᠢᠮ ᠨᠢ ᠡᠳᠦᠷ ᠪᠦᠷᠢ ᠲᠦᠷᠦᠭᠦᠦ ᠡᠳᠦᠷ ᠡᠴᠡ ᠪᠡᠨ 10 ᠬᠥᠢᠰ ᠢᠯᠡᠭᠦᠦ ᠬᠢᠵᠦ᠂ 3 ᠡᠳᠦᠷ ᠲᠦ ᠨᠡᠢᠲᠡ ᠬᠡᠳᠦᠶ ᠬᠥᠢᠰ ᠬᠢᠭᠰᠡᠨ ᠪᠤᠢ?",
+        "zh_translation": "小刚做红花庆祝六一儿童节，第一天做了10朵，以后每天都比前一天多做10朵，3天一共做了多少朵？",
+        "answer": "60",
+        "en_translation": "How many flowers did Xiaogang make in total over three days for celebrating Children's Day, if he made 10 flowers on the first day and then made 10 more flowers each subsequent day than the previous day?"
+    },
+    {
+        "id": "math_mn_39",
+        "question": "ᠰᠢᠶᠤᠤ ᠭᠠᠩ  ᠤᠨ ᠬᠡᠷ ᠨᠢ ᠰᠤᠷᠭᠠᠭᠤᠯᠢ  ᠡᠴᠡ ᠠᠰ ᠪᠠᠷᠠᠭᠤᠨᠰᠢ ᠪᠠᠨ 40 ᠮᠧᠲ᠋ᠷ  ᠵᠠᠶᠢᠲᠠᠶ ᠂ ᠰᠢᠶᠤᠤ ᠴᠢᠶᠠᠩ  ᠤᠨ ᠬᠡᠷ ᠨᠢ ᠰᠤᠷᠭᠠᠭᠤᠯᠢ  ᠡᠴᠡ ᠠᠰ ᠵᠡᠭᠦᠨᠰᠢ ᠪᠡᠨ 60 ᠮᠧᠲ᠋ᠷ  ᠵᠠᠶᠢᠲᠠᠶ ᠂ ᠬᠣᠶᠠᠭᠤᠯᠠ   ᠶᠢᠨ ᠬᠡᠷ ᠨᠢ ᠬᠣᠭᠣᠷᠣᠨᠳᠣ ᠪᠠᠨ ᠬᠡᠳᠦᠶ ᠮᠧᠲ᠋ᠷ  ᠵᠠᠶᠢᠲᠠᠶ ᠪᠣᠶ ︖",
+        "zh_translation": "小刚家在学校正西40米处，小强家在学校正东60米处，两家相距多少米？",
+        "answer": "100",
+        "en_translation": "How many meters apart are Xiaogang’s house, which is 40 meters due west of the school, and Xiaoqiang’s house, which is 60 meters due east of the school?"
+    },
+    {
+        "id": "math_mn_34",
+        "question": "ᠰᠢᠶᠤᠤ ᠮᠢᠩ  ᠤᠨ ᠪᠡᠶ᠎ᠡ  ᠶᠢᠨ ᠥᠨᠳᠥᠷ ᠨᠢ 128 ᠰᠠᠨᠲ᠋ᠢᠮᠧᠲ᠋ᠷ ᠂ ᠠᠪᠤ  ᠶᠢᠨ ᠪᠡᠶ᠎ᠡ  ᠶᠢᠨ ᠥᠨᠳᠥᠷ ᠨᠢ ᠰᠢᠶᠤᠤ ᠮᠢᠩ ᠡᠴᠡ 45 ᠰᠠᠨᠲ᠋ᠢᠮᠧᠲ᠋ᠷ ᠥᠨᠳᠥᠷ ᠂ ᠠᠪᠤ  ᠶᠢᠨ ᠪᠡᠶ᠎ᠡ  ᠶᠢᠨ ᠥᠨᠳᠥᠷ ᠨᠢ ᠬᠡᠳᠦᠶ ᠰᠠᠨᠲ᠋ᠢᠮᠧᠲ᠋ᠷ ᠪᠣᠶ ︖",
+        "zh_translation": "小明身高128厘米，爸爸的身高比小明高45厘米，爸爸身高多少厘米？",
+        "answer": "173",
+        "en_translation": "Xiaoming's height is 128 cm, and his father is 45 cm taller than Xiaoming. What is his father's height in centimeters?"
+    },
+    {
+        "id": "math_mn_23",
+        "question": "ᠨᠢᠭᠡ ᠴᠠᠬᠢᠯᠭᠠᠨ ᠤᠲᠠᠰᠤᠨ  ᠤ ᠣᠷᠳᠣ ᠨᠢ 900 ᠮᠧᠲ᠋ᠷ ᠂ ᠦᠳᠡ  ᠶᠢᠨ ᠡᠮᠦᠨ᠎ᠡ 275 ᠮᠧᠲ᠋ᠷ  ᠵᠠᠷᠤᠪᠠ᠂ ᠦᠳᠡ  ᠶᠢᠨ ᠬᠣᠶᠢᠨ᠎ᠠ 345 ᠮᠧᠲ᠋ᠷ  ᠵᠠᠷᠤᠪᠠ᠂ ᠪᠠᠰᠠ ᠬᠡᠳᠦᠶ ᠮᠧᠲ᠋ᠷ ᠦᠯᠡᠳᠡᠵᠦ ᠪᠠᠶᠢᠬᠤ ᠪᠤᠶ ︖",
+        "zh_translation": "有1根电线长900米，上午用去275米，下午用去345米，还剩多少米？",
+        "answer": "280",
+        "en_translation": "There is a wire 900 meters long. In the morning, 275 meters were used, and in the afternoon, 345 meters were used. How many meters are left?"
+    },
+    {
+        "id": "math_mn_18",
+        "question": "ᠨᠢᠭᠡ ᠨᠡᠮᠡᠭ᠍ᠳᠡᠭᠦᠨ ᠨᠢ 35᠂ ᠨᠤᠢᠬᠦᠭᠡ ᠨᠢᠭᠡ ᠨᠡᠮᠡᠭ᠍ᠳᠡᠭᠦᠨ ᠨᠢ ᠲᠡᠭᠦᠨ ᠡᠴᠡ 30 ᠶᠡᠬᠡ᠂ ᠲᠡᠳᠡᠭᠡᠷ  ᠤᠨ ᠨᠡᠶᠢᠯᠡᠪᠦᠷᠢ ᠨᠢ ᠬᠡᠳᠦᠶ ᠪᠤᠢ?",
+        "zh_translation": "一个加数是35，另一个加数比它大30，它们的和是多少？",
+        "answer": "100",
+        "en_translation": "One addend is 35, and the other addend is 30 more than it. What is their sum?"
+    },
+    {
+        "id": "math_mn_122",
+        "question": "ᠨᠢᠭᠡ ᠵᠤᠷᠪᠤᠰ ᠲᠦᠷᠭᠡᠨ ᠬᠤᠷᠳᠤᠴᠠᠲᠤ ᠵᠠᠰᠠᠮᠠᠯ ᠵᠠᠮ  ᠤᠨ ᠣᠷᠳᠣ ᠨᠢ 432 ᠺᠢᠯᠣᠮᠧᠲ᠋ᠷ ᠂ ᠨᠢᠭᠡ ᠠᠶᠠᠨᠴᠢᠨ  ᠤ ᠲᠡᠷᠭᠡ 4.5 ᠴᠠᠭ  ᠤᠨ ᠳᠣᠲᠣᠷ᠎ᠠ ᠪᠦᠷᠢᠮᠦᠰᠦᠨ ᠠᠶᠠᠯᠠᠵᠤ ᠲᠠᠶᠢᠯᠤᠨ᠎ᠠ ︔ᠨᠢᠭᠡ ᠪᠠᠷᠠᠭᠠᠨ   ᠤ ᠲᠡᠷᠭᠡ 5.4 ᠴᠠᠭ  ᠤᠨ ᠳᠣᠲᠣᠷ᠎ᠠ ᠪᠦᠷᠢᠮᠦᠰᠦᠨ ᠠᠶᠠᠯᠠᠵᠤ ᠲᠠᠶᠢᠯᠤᠨ᠎ᠠ᠃ ᠠᠶᠠᠨᠴᠢᠳ  ᠤᠨ ᠲᠡᠷᠭᠡ  ᠶᠢᠨ ᠬᠤᠷᠳᠤᠴᠠ ᠨᠢ ᠪᠠᠷᠠᠭᠠᠨ  ᠤ ᠲᠡᠷᠭᠡ  ᠶᠢᠨ ᠬᠤᠷᠳᠤᠴᠠ  ᠡᠴᠡ ᠴᠠᠭ ᠪᠦᠷᠢ  ᠳᠦ ᠬᠡᠳᠦᠶ ᠺᠢᠯᠣᠮᠧᠲ᠋ᠷ ᠬᠤᠷᠳᠤᠨ ᠪᠠᠢᠳᠠᠭ ᠪᠤᠶ?",
+        "zh_translation": "一条高速公路长432千米，一辆客车4.5小时行完全程；一辆货车5.4小时行完全程．客车的速度比货车快多少千米/时？",
+        "answer": "16",
+        "en_translation": "How many kilometers per hour is the bus faster than the truck, if a highway is 432 kilometers long, a bus travels the entire distance in 4.5 hours, and a truck travels the entire distance in 5.4 hours?"
+    },
+    {
+        "id": "math_mn_198",
+        "question": "ᠵᠢᠮᠢᠰ  ᠤᠨ ᠳᠡᠯᠭᠡᠭᠦᠷ 23 ᠰᠠᠭᠰᠤ ᠠᠯᠮᠤᠷᠠᠳ ᠵᠥᠭᠡᠭᠡᠪᠦᠷᠢᠯᠡᠨ  ᠠᠪᠴᠢᠷᠠᠪᠠ᠂ ᠨᠡᠶᠢᠲᠡ 598 ᠲᠥᠭᠥᠷᠢᠭ  ᠢᠶᠠᠷ ᠬᠤᠳᠠᠯᠳᠤᠪᠠ ᠃ ᠬᠡᠷᠪᠡ ᠰᠠᠭᠰᠤ ᠪᠦᠷᠢ  ᠶᠢᠨ ᠠᠯᠮᠤᠷᠠᠳ  ᠤᠨ ᠦᠨ᠎ᠡ ᠨᠢ ᠤᠤᠯ  ᠤᠨ ᠬᠢ ᠡᠴᠡ ᠪᠡᠨ ᠬᠠᠭᠠᠰ  ᠢᠶᠠᠷ ᠪᠠᠭᠤᠷᠠᠪᠠᠯ ᠂ 598 ᠲᠥᠭᠥᠷᠢᠭ  ᠢᠶᠠᠷ  ᠬᠡᠳᠤᠨᠰᠠᠭᠰᠤ ᠬᠤᠳᠠᠯᠳᠤᠵᠤ ᠪᠣᠯᠬᠤ ᠪᠤᠶ︖",
+        "zh_translation": "水果店运来23筐苹果，一共卖了598元．如果每筐苹果的价格降到了原来的一半，598元可以卖多少筐？",
+        "answer": "46",
+        "en_translation": "A fruit store transported 23 baskets of apples and sold them for a total of 598 yuan. If the price of each basket of apples is reduced to half of the original price, how many baskets can be sold for 598 yuan?"
+    },
+    {
+        "id": "math_mn_9",
+        "question": "ᠪᠢᠴᠢᠬᠠᠨ ᠨᠠᠶᠢᠵᠠ ᠨᠠᠷ ᠮᠥᠷᠯᠡᠬᠦ  ᠳᠦ᠂  ᠮᠢᠩ ᠮᠢᠩ  ᠤᠨ ᠡᠮᠦᠨ᠎ᠡ ᠨᠢ 7 ᠬᠥᠮᠦᠨ  ᠪᠠᠢᠨ᠎ᠠ ᠂ ᠲᠡᠭᠡᠪᠡᠯ  ᠮᠢᠩ  ᠮᠢᠩ ᠬᠡᠳᠦᠳᠦᠭᠡᠷ ᠲᠦ ᠮᠥᠷᠯᠡᠵᠦ ᠪᠠᠶᠢᠬᠤ ᠪᠤᠢ?",
+        "zh_translation": "小朋友们排队，明明前面有7个人，明明排在第几个？",
+        "answer": "8",
+        "en_translation": "Children are standing in line, there are 7 people in front of Mingming, what position is Mingming in line?"
+    },
+    {
+        "id": "math_mn_147",
+        "question": "ᠰᠢᠶᠤᠤ ᠸᠠᠩ 24 ᠲᠥᠭᠥᠷᠢᠭ   ᠢᠶᠠᠷ 6 ᠲᠡᠮᠳᠡᠭᠯᠡᠯ  ᠤᠨ ᠳᠡᠪᠲᠡᠷ ᠬᠤᠳᠠᠯᠳᠤᠨ ᠠᠪᠴᠠᠶ᠂ ᠵᠠᠩ ᠮᠢᠩ ᠪᠠᠰᠠ ᠬᠡᠳᠦᠨ ᠳᠡᠪᠲᠡᠷ ᠬᠤᠳᠠᠯᠳᠤᠨ ᠠᠪᠬᠤ ᠰᠠᠨᠠᠭ᠎ᠠ ᠲᠠᠶ᠂ ᠭᠡᠲᠡᠯ᠎ᠡ ᠲᠡᠭᠦᠨ   ᠤ ᠡᠵᠢ ᠨᠢ ᠲᠡᠭᠦᠨ ᠳᠦ ᠵᠥᠪᠬᠡᠨ 15 ᠲᠥᠭᠥᠷᠢᠭ ᠥᠭᠴᠡᠶ᠂ ᠲᠡᠷᠡ ᠬᠠᠮᠤᠭ ᠠᠷᠪᠢᠨ ᠳᠠᠭᠠᠨ ᠬᠡᠳᠦᠨ ᠲᠡᠮᠳᠡᠭᠯᠡᠯ  ᠤᠨ ᠳᠡᠪᠲᠡᠷ ᠬᠤᠳᠠᠯᠳᠤᠨ ᠠᠪᠴᠤ ᠳᠡᠶᠢᠯᠬᠦ ᠪᠤᠢ?",
+        "zh_translation": "小王用24元买了6个笔记本，张明也想买几本，可是他妈妈只给他15元，他最多可以买到多少个笔记本？",
+        "answer": "3",
+        "en_translation": "Xiao Wang bought 6 notebooks for 24 yuan. Zhang Ming also wants to buy some, but his mother only gave him 15 yuan. How many notebooks can he buy at most?"
+    },
+    {
+        "id": "math_mn_180",
+        "question": "ᠤᠷᠲᠤ ᠳᠥᠷᠪᠡᠯᠵᠢᠨ ᠬᠡᠯᠪᠡᠷᠢ ᠲᠡᠶ ᠪᠡᠶ᠎ᠡ  ᠶᠢᠨ ᠲᠠᠮᠢᠷ ᠤᠨ ᠲᠠᠯᠠᠪᠠᠶ  ᠶᠢᠨ ᠣᠷᠳᠣ ᠨᠢ 55 ᠮᠧᠲ᠋ᠷ ᠂ ᠥᠷᠭᠡᠨ ᠨᠢ 35 ᠮᠧᠲ᠋ᠷ ᠂ ᠰᠢᠶᠤᠤ ᠬᠤᠸᠠ ᠪᠡᠶ᠎ᠡ  ᠶᠢᠨ ᠲᠠᠮᠢᠷ  ᠤᠨ ᠲᠠᠯᠠᠪᠠᠶ  ᠶᠢᠨ ᠬᠠᠵᠠᠭᠤ ᠪᠠᠷ 3 ᠲᠣᠭᠣᠷᠢᠭ ᠭᠦᠶᠦᠭᠡᠳ ᠬᠡᠳᠦᠶ ᠮᠧᠲ᠋ᠷ ᠭᠦᠶᠦᠭᠰᠡᠨ ᠪᠤᠶ ︖",
+        "zh_translation": "长方形操场，长55米，宽35米．小华沿操场的边跑3圈，跑了多少米？",
+        "answer": "540",
+        "en_translation": "A rectangular playground measures 55 meters in length and 35 meters in width. Xiao Hua runs 3 laps along the edges of the playground. How many meters did he run?"
+    },
+    {
+        "id": "math_mn_48",
+        "question": "3 ᠬᠥᠮᠦᠨ ᠫᠢᠩᠫᠠᠩ ᠪᠥᠮᠪᠥᠭᠡ   ᠶᠢᠨ ᠤᠷᠤᠯᠳᠤᠭᠠᠨ  ᠳᠦ ᠣᠷᠣᠯᠴᠠᠨ᠎ᠠ ᠂ 2 ᠬᠥᠮᠦᠨ ᠪᠦᠷᠢ ᠨᠢᠭᠡ ᠤᠳᠠᠭ᠎ᠠ ᠤᠷᠤᠯᠳᠤᠬᠤ ᠬᠡᠷᠡᠭᠲᠡᠶ ᠂ ᠨᠡᠶᠢᠲᠡ ᠬᠡᠳᠦᠶ ᠤᠳᠠᠭ᠎ᠠ ᠤᠷᠤᠯᠳᠤᠬᠤ ᠬᠡᠷᠡᠭᠲᠡᠶ ᠪᠤᠶ ︖",
+        "zh_translation": "有3个人要进行乒乓球比赛，每2人都要对打一场，一共要对打多少场？",
+        "answer": "3",
+        "en_translation": "There are 3 people who want to have a ping pong match. Each pair of people will play against each other once. How many matches will there be in total?"
+    },
+    {
+        "id": "math_mn_165",
+        "question": "ᠬᠡᠷᠪᠡ 1 ᠲᠣᠨ ᠬᠠᠶᠠᠭᠳᠠᠮᠠᠯ ᠴᠠᠭᠠᠰᠤ  ᠶᠢ ᠬᠤᠷᠢᠶᠠᠨ ᠠᠪᠤᠪᠠᠯ 800 ᠺᠢᠯᠣᠭ᠍ᠷᠠᠮ ᠳᠠᠬᠢᠯᠲᠠ ᠴᠠᠭᠠᠰᠤ  ᠶᠢ ᠦᠢᠯᠡᠳᠪᠦᠷᠢᠯᠡᠵᠦ ᠴᠢᠳᠠᠪᠠᠯ᠂ ᠪᠠᠷᠤᠭ 18 ᠰᠠᠭᠤᠷᠢ ᠮᠣᠳᠣ  ᠶᠢ ᠣᠭᠲᠣᠯᠬᠤ  ᠡᠴᠡ ᠬᠡᠯᠲᠦᠷᠢᠭᠦᠯᠵᠦ ᠴᠢᠳᠠᠨ᠎ᠠ᠂ ᠢᠩᠭᠢᠵᠦ ᠪᠤᠳᠤᠪᠠᠯ᠂ ᠰᠤᠷᠭᠠᠭᠤᠯᠢ  ᠡᠴᠡ ᠰᠠᠷ᠎ᠠ ᠪᠦᠷᠢ 500 ᠺᠢᠯᠣᠭ᠍ᠷᠠᠮ ᠬᠠᠶᠠᠭᠳᠠᠮᠠᠯ ᠴᠠᠭᠠᠰᠤ ᠶᠢ ᠬᠤᠷᠢᠶᠠᠨ ᠠᠪᠴᠤ᠂ ᠨᠢᠭᠡ ᠵᠢᠯ  ᠳᠦ ᠨᠡᠢᠲᠡ ᠬᠡᠳᠦᠨ ᠺᠢᠯᠣᠭ᠍ᠷᠠᠮ ᠳᠠᠬᠢᠯᠲᠠ ᠴᠠᠭᠠᠰᠤ ᠦᠢᠯᠡᠳᠪᠦᠷᠢᠯᠡᠵᠦ ᠴᠢᠳᠠᠬᠤ ᠪᠤᠢ?",
+        "zh_translation": "如果回收1吨废纸能生产800千克再生纸，大约能让18棵树免受砍伐．照这样计算，那么学校每月回收废纸500千克，一年共可生产多少千克再生纸？",
+        "answer": "4800",
+        "en_translation": "If recycling 1 ton of waste paper can produce 800 kilograms of recycled paper and save approximately 18 trees from being cut down, then how many kilograms of recycled paper can the school produce in a year if it recycles 500 kilograms of waste paper each month?"
+    },
+    {
+        "id": "math_mn_177",
+        "question": "ᠲᠡᠵᠢᠭᠡᠪᠦᠷᠢ  ᠶᠢᠨ ᠲᠠᠯᠠᠪᠠᠶ  ᠳᠦ 42 ᠡᠮᠡᠭᠴᠢᠨ ᠲᠠᠬᠢᠶ᠎ᠠ ᠂ 6 ᠡᠷᠡᠭᠴᠢᠨ ᠲᠠᠬᠢᠶ᠎ᠠ ᠪᠠᠶᠢᠨ᠎ᠠ ᠃ ᠡᠮᠡᠭᠴᠢᠨ ᠲᠠᠬᠢᠶ᠎ᠠ  ᠶᠢᠨ ᠲᠣᠭ᠎ᠠ ᠨᠢ ᠡᠷᠡᠭᠴᠢᠨ ᠲᠠᠬᠢᠶ᠎ᠠ  ᠶᠢᠨ ᠲᠣᠭ᠎ᠠ  ᠶᠢᠨ ᠬᠡᠳᠦᠶ ᠳᠠᠬᠢᠨ ᠪᠠᠶᠢᠳᠠᠭ ᠪᠣᠶ ︖",
+        "zh_translation": "饲养场有母鸡42只，有公鸡6只．母鸡只数是公鸡只数的多少倍？",
+        "answer": "7",
+        "en_translation": "How many times is the number of hens the number of roosters on the farm, if there are 42 hens and 6 roosters?"
+    },
+    {
+        "id": "math_mn_148",
+        "question": "ᠠᠪᠤ ᠨᠢ ᠲᠡᠷᠭᠡ ᠵᠢᠯᠣᠭᠣᠳᠤᠨ ᠡᠮᠡᠭᠡ  ᠶᠢᠨ  ᠳᠦ ᠣᠴᠢᠬᠤ ᠳᠠᠭᠠᠨ 3 ᠴᠠᠭ ᠬᠡᠷᠡᠭᠰᠡᠵᠦ᠂ ᠬᠠᠷᠢᠵᠤ ᠢᠷᠡᠬᠦ ᠳᠡᠭᠡᠨ 2 ᠴᠠᠭ ᠬᠡᠷᠡᠭᠰᠡᠪᠡ᠃ ᠬᠡᠷᠪᠡ ᠠᠪᠤ  ᠶᠢᠨ ᠣᠴᠢᠬᠤ ᠬᠤᠷᠳᠤᠴᠠ ᠨᠢ 48 ᠺᠢᠯᠣᠮᠧᠲ᠋ᠷ/ ᠴᠠᠭ ᠪᠣᠯ᠂ ᠡᠮᠡᠭᠡ  ᠶᠢᠨ ᠭᠡᠷ ᠡᠴᠡ ᠬᠡᠳᠦᠨ ᠺᠢᠯᠣᠮᠧᠲ᠋ᠷ ᠵᠠᠶᠢᠲᠠᠶ ᠪᠠᠶᠢᠳᠠᠭ ᠪᠤᠢ?",
+        "zh_translation": "爸爸开车去奶奶家，去时用了3小时，回来时用了2小时．如果爸爸去时的速度是48千米/时，那么离奶奶家有多少千米？",
+        "answer": "144",
+        "en_translation": "Dad drove to grandma's house, taking 3 hours, and took 2 hours to come back. If dad's speed was 48 km/h on the way there, how many kilometers away is grandma's house?"
+    },
+    {
+        "id": "math_mn_171",
+        "question": "ᠰᠤᠷᠭᠠᠭᠤᠯᠢ  ᠶᠢᠨ ᠭᠤᠷᠪᠠᠳᠤᠭᠠᠷ ᠣᠨ  ᠤ 9 ᠠᠩᠭᠢ  ᠨᠡᠶᠢᠲᠡ 504 ᠰᠠᠭᠤᠷᠢ ᠮᠣᠳᠣ  ᠵᠠᠢᠯᠠᠵᠠᠢ ᠂ ᠠᠩᠭᠢ ᠪᠦᠷᠢ  ᠬᠡᠳᠦᠨ ᠰᠠᠭᠤᠷᠢ ᠮᠣᠳᠣ ᠵᠠᠶᠢᠯᠠᠭᠰᠠᠨ ᠪᠤᠶ ︖",
+        "zh_translation": "学校三年级9个班共栽了504棵树，每个班栽了多少棵树？",
+        "answer": "56",
+        "en_translation": "How many trees did each of the 9 third-grade classes plant if they planted 504 trees in total?"
+    },
+    {
+        "id": "math_mn_249",
+        "question": "ᠰᠢᠶᠤᠤ ᠭᠠᠩ  ᠤᠨ ᠬᠡᠷ ᠪᠣᠯᠤᠨ ᠰᠢᠶᠤᠤ ᠪᠥᠸᠧ  ᠶᠢᠨ ᠬᠡᠷ ᠲᠣᠰ ᠲᠣᠰ ᠰᠤᠷᠭᠠᠭᠤᠯᠢ  ᠶᠢᠨ ᠵᠡᠭᠦᠨ ᠪᠠᠷᠠᠭᠤᠨ ᠬᠣᠶᠠᠷ ᠲᠠᠯ᠎ᠠ  ᠳᠦ ᠪᠠᠶᠢᠵᠤ ᠂ ᠬᠣᠶᠠᠭᠤᠯᠠ ᠪᠠᠨ ᠬᠠᠮᠲᠤ ᠰᠤᠷᠭᠠᠭᠤᠯᠢ  ᠡᠴᠡ ᠪᠠᠨ ᠰᠠᠯᠵᠤ ᠬᠡᠷ ᠲᠡᠬᠡᠨ ᠬᠠᠷᠢᠵᠠᠶ ᠂ ᠰᠢᠶᠤᠤ ᠭᠠᠩ ᠮᠢᠨᠦ᠋ᠲ ᠪᠦᠷᠢ 70 ᠮᠧᠲ᠋ᠷ ᠶᠠᠪᠤᠵᠤ ᠂ ᠰᠢᠶᠤᠤ ᠪᠥᠸᠧ ᠮᠢᠨᠦ᠋ᠲ ᠪᠦᠷᠢ 75 ᠮᠧᠲ᠋ᠷ ᠶᠠᠪᠤᠳᠠᠭ ᠃ 6 ᠮᠢᠨᠦ᠋ᠲ  ᠶᠢᠨ  ᠳᠠᠷᠠᠭ᠎ᠠ ᠬᠣᠶᠠᠷ ᠬᠥᠮᠦᠨ ᠵᠡᠷᠭᠡ ᠪᠡᠷ ᠭᠡᠷ ᠲᠡᠬᠡᠨ ᠬᠦᠷᠬᠦ  ᠳᠦ ᠬᠣᠶᠠᠷ ᠠᠶᠢᠯ ᠬᠣᠭᠣᠷᠣᠨᠳᠣ ᠪᠠᠨ ᠬᠡᠳᠦᠶ ᠮᠧᠲ᠋ᠷ ᠵᠠᠶᠢᠲᠠᠶ ᠪᠠᠶᠢᠳᠠᠭ ᠪᠤᠢ?",
+        "zh_translation": "小刚家和小波家分别在学校的东、西两面，两人同时离校回家，小刚每分走70米，小波每分走75米。经过6分两人同时到家，两家相距多少米？",
+        "answer": "870",
+        "en_translation": "How far apart are Xiaogang's home and Xiaobo's home if Xiaogang's home is to the east of the school and Xiaobo's home is to the west, and they both leave school at the same time? Xiaogang walks 70 meters per minute, and Xiaobo walks 75 meters per minute. After 6 minutes, they both arrive home at the same time. How far apart are the two homes?"
+    },
+    {
+        "id": "math_mn_153",
+        "question": "ᠪᠡᠶ᠎ᠡ  ᠶᠢᠨ ᠲᠠᠮᠢᠷ  ᠤᠨ ᠰᠢᠯᠭᠠᠯᠲᠠ  ᠳᠦ ᠤᠳᠠᠭ᠎ᠠ ᠪᠦᠷᠢ 6 ᠰᠤᠷᠤᠭᠴᠢ  ᠶᠢ  ᠰᠢᠯᠭᠠᠨ᠎ᠠ᠂ ᠰᠢᠶᠤᠤ ᠮᠢᠩ 35 ᠳ᠋ᠤᠭᠠᠷ ᠲᠤ ᠣᠷᠣᠨ᠎ᠠ᠂ ᠲᠡᠷᠡ ᠬᠡᠳᠦᠳᠦᠭᠡᠷ ᠤᠳᠠᠭᠠᠨ  ᠤ ᠰᠢᠯᠭᠠᠯᠲᠠ  ᠳᠦ ᠣᠷᠣᠯᠴᠠᠬᠤ ᠶᠣᠰᠣᠲᠠᠶ ᠪᠤᠢ?",
+        "zh_translation": "体育测试每次测试6名同学，小明是第35个，他应该在第几次测试？",
+        "answer": "6",
+        "en_translation": "In a physical test, each test involves 6 students. Xiao Ming is the 35th student. In which test should he participate?"
+    },
+    {
+        "id": "math_mn_173",
+        "question": "ᠲᠡᠭᠰᠢ ᠳᠥᠷᠪᠡᠯᠵᠢᠨ ᠬᠡᠯᠪᠡᠷᠢ ᠲᠡᠶ ᠨᠣᠭᠣᠭ᠎ᠠ  ᠶᠢᠨ ᠲᠠᠷᠢᠶᠠᠨ  ᠤ ᠲᠠᠯ᠎ᠠ  ᠶᠢᠨ ᠤᠷᠳᠤ ᠨᠢ 196 ᠮᠧᠲ᠋ᠷ ᠪᠠᠶᠢᠵᠤ᠂ ᠨᠣᠭᠣᠭ᠎ᠠ  ᠶᠢᠨ ᠲᠠᠷᠢᠶᠠᠨ  ᠤ ᠡᠷᠬᠢᠨ ᠲᠣᠭᠣᠷᠢᠨ  ᠢᠶᠠᠷ ᠨᠢᠭᠡ  ᠲᠣᠭᠣᠷᠢᠬᠤ ᠳᠦ᠂ ᠨᠢᠢᠳᠡ ᠬᠡᠳᠦᠶ ᠮᠧᠲ᠋ᠷ ᠶᠠᠪᠤᠭᠰᠠᠨ ᠪᠤᠢ?",
+        "zh_translation": "正方形菜地的边长是196米，沿菜地的四周走一圈，共走了多少米？",
+        "answer": "784",
+        "en_translation": "What is the total distance walked around the perimeter of a square vegetable garden if each side is 196 meters long?"
+    },
+    {
+        "id": "math_mn_200",
+        "question": "ᠯᠢ ᠪᠠᠭᠰᠢ ᠠᠩᠭᠢ  ᠶᠢᠨ  ᠢᠶᠠᠨ 49 ᠰᠤᠷᠤᠭᠴᠢᠳ   ᠢ ᠳᠠᠭᠠᠭᠤᠯᠤᠨ ᠠᠮᠢᠲᠠᠨ  ᠤ ᠬᠦᠷᠢᠶᠡᠯᠡᠩ   ᠢᠶᠠᠷ ᠯᠠᠪᠯᠠᠯᠲᠠ ᠪᠣᠯᠭᠠᠬᠤ ᠪᠠᠷ ᠶᠠᠪᠤᠵᠠᠶ ᠂ ᠵᠠᠮ ᠵᠠᠭᠤᠷ᠎ᠠ ᠪᠠᠨ ᠣᠩᠭᠣᠴᠠᠨ  ᠳᠦ ᠰᠠᠭᠤᠵᠤ  ᠭᠣᠣᠯ  ᠭᠠᠲᠤᠯᠤᠨ᠎ᠠ ᠂ ᠨᠢᠭᠡ ᠵᠢᠵᠢᠭ ᠣᠩᠭᠣᠴᠠᠨ  ᠳᠦ 4 ᠬᠥᠮᠦᠨ ᠰᠠᠭᠤᠵᠤ ᠪᠣᠯᠤᠨ᠎ᠠ ᠂ ᠨᠠᠭᠠᠳᠤ ᠵᠠᠬ᠎ᠠ  ᠳᠠᠭᠠᠨ  ᠬᠡᠳᠤᠨ ᠵᠢᠵᠢᠭ ᠣᠩᠭᠣᠴᠠᠨ ᠳᠦ ᠰᠠᠭᠤᠪᠠᠯ ᠰᠠᠶ᠋ᠢ ᠲᠡᠳᠡᠨ   ᠢ  ᠭᠠᠲᠤᠯᠠᠭᠤᠯᠵᠦ ᠳᠡᠶᠢᠯᠬᠦ ᠪᠣᠶ ︖",
+        "zh_translation": "李老师带班上49名学生去参考动物园，途中要坐船过河，一只小船只能坐4人，至少需要多少只小船才能把他们渡完？",
+        "answer": "13",
+        "en_translation": "Teacher Li is taking 49 students to the zoo, and they need to take a boat across the river. If a small boat can only hold 4 people, what is the minimum number of boats required to get everyone across?"
+    },
+    {
+        "id": "math_mn_74",
+        "question": "5 ᠲᠣᠭ᠎ᠠ  ᠶᠢ ᠪᠠᠭ᠎ᠠ ᠠᠴᠠ ᠶᠡᠬᠡ ᠪᠣᠯᠲᠠᠯ᠎ᠠ ᠵᠢᠭᠰᠠᠭᠠᠪᠠᠯ᠄ 3᠂ 5᠂ 8᠂ 10᠂ 11᠂ ᠡᠨᠡ ᠪᠦᠯᠦᠭ ᠲᠣᠭᠠᠨ  ᠤ ᠳᠤᠮᠳᠠ  ᠪᠠᠢᠷᠢ  ᠶᠢᠨ ᠲᠣᠭ᠎ᠠ ᠨᠢ ᠬᠡᠳᠦᠶ ᠪᠤᠢ?",
+        "zh_translation": "有5个数按从小到大排列为：3、5、8、10、11．这组数的中位数是多少？",
+        "answer": "8",
+        "en_translation": "What is the median of the following set of numbers arranged in ascending order: 3, 5, 8, 10, 11?"
+    },
+    {
+        "id": "math_mn_151",
+        "question": "ᠨᠢᠭᠡ ᠲᠡᠮᠦᠷ ᠤᠲᠠᠰᠤ 65 ᠮᠧᠲ᠋ᠷ ᠤᠷᠲᠤ ᠂ 18 ᠮᠧᠲ᠋ᠷ ᠤᠷᠲᠤ ᠤᠷᠲᠤ ᠳᠥᠷᠪᠡᠯᠵᠢᠨ  ᠢ ᠬᠦᠷᠢᠶᠡᠯᠡᠭᠰᠡᠨ  ᠤ ᠳᠠᠷᠠᠭ᠎ᠠ ᠂ ᠪᠠᠰᠠ 3 ᠮᠧᠲ᠋ᠷ ᠲᠡᠮᠦᠷ ᠤᠲᠠᠰᠤ  ᠦᠯᠡᠳᠡᠪᠡ ᠂ ᠬᠦᠷᠢᠶᠡᠯᠡᠵᠦ ᠠᠪᠤᠭᠰᠠᠨ ᠤᠷᠲᠤ ᠳᠥᠷᠪᠡᠯᠵᠢᠨ  ᠤ ᠥᠷᠭᠡᠨ ᠨᠢ ᠬᠡᠳᠦᠨ ᠮᠧᠲ᠋ᠷ ᠪᠤᠶ?",
+        "zh_translation": "一根铁丝长65米，围成一个长为18米的长方形后，还余下3米铁丝．围成的长方形的宽是多少米？",
+        "answer": "13",
+        "en_translation": "A piece of iron wire is 65 meters long. After forming a rectangle with a length of 18 meters, there are 3 meters of iron wire left. What is the width of the rectangle in meters?"
+    },
+    {
+        "id": "math_mn_163",
+        "question": "ᠨᠢᠭᠡ ᠴᠤᠪᠤᠭ᠎ᠠ ᠭᠠᠯᠲᠤ ᠲᠡᠷᠭᠡᠨ  ᠳᠦ ᠸᠠᠭᠣᠨ ᠪᠦᠷᠢ ᠳᠦ 123 ᠬᠥᠮᠦᠨ ᠰᠠᠭᠤᠨ᠎ᠠ᠂ ᠢᠩᠭᠢᠪᠡᠯ 8 ᠸᠠᠭᠣᠨ  ᠳᠦ ᠬᠡᠳᠦᠨ ᠬᠥᠮᠦᠨ ᠰᠠᠭᠤᠵᠤ ᠪᠣᠯᠬᠤ ᠪᠤᠢ?",
+        "zh_translation": "一列火车每节车厢坐123人，这样8节车厢可以坐多少人？",
+        "answer": "984",
+        "en_translation": "If each train car seats 123 people, how many people can 8 train cars seat?"
+    },
+    {
+        "id": "math_mn_219",
+        "question": "ᠬᠡᠷᠪᠡ 10 ᠺᠢᠯᠣᠭ᠍ᠷᠠᠮ ᠰᠢᠷ᠎ᠠ ᠪᠤᠷᠴᠠᠭ  ᠢᠶᠠᠷ 4.3ᠺᠢᠯᠣᠭ᠍ᠷᠠᠮ ᠲᠤᠰᠤ ᠰᠢᠬᠠᠬᠤ  ᠳᠦ ᠬᠦᠷᠪᠡᠯ᠂ 1 ᠲᠣᠨ ᠰᠢᠷ᠎ᠠ ᠪᠤᠷᠴᠠᠭ  ᠢᠶᠠᠷ  ᠬᠡᠳᠤᠨ ᠺᠢᠯᠣᠭ᠍ᠷᠠᠮ ᠲᠤᠰᠤ ᠰᠢᠬᠠᠬᠤ ᠪᠤᠢ?",
+        "zh_translation": "如果10千克黄豆可以榨油4.3千克，那么1吨黄豆可以榨油多少千克？",
+        "answer": "430",
+        "en_translation": "If 10 kilograms of soybeans can produce 4.3 kilograms of oil, how many kilograms of oil can be produced from 1 ton of soybeans?"
+    },
+    {
+        "id": "math_mn_203",
+        "question": "ᠰᠤᠷᠭᠠᠭᠤᠯᠢ ᠰᠢᠨ᠎ᠡ ᠪᠡᠷ 210 ᠢᠵᠢ ᠰᠢᠨ᠎ᠡ ᠬᠢᠴᠢᠶᠡᠯ  ᠤᠨ ᠰᠢᠷᠡᠭᠡ ᠰᠠᠨᠳᠠᠯᠢ  ᠠᠪᠤᠪᠠ ᠂ ᠰᠢᠷᠡᠭᠡ ᠪᠦᠷᠢ ᠨᠢ 110 ᠲᠥᠭᠥᠷᠢᠭ᠂ ᠰᠠᠨᠳᠠᠯᠢ ᠪᠦᠷᠢ ᠨᠢ 40 ᠲᠥᠭᠥᠷᠢᠭ᠂ ᠡᠨᠡ ᠪᠦᠯᠦᠭ ᠬᠢᠴᠢᠶᠡᠯ  ᠤᠨ ᠰᠢᠷᠡᠭᠡ ᠰᠠᠨᠳᠠᠯᠢ  ᠠᠪᠤᠪᠠᠯ ᠂ᠰᠤᠷᠭᠠᠭᠤᠯᠢ  ᠨᠡᠢᠳᠡ ᠬᠡᠳᠦᠶ ᠵᠣᠭᠣᠰ ᠬᠡᠷᠡᠭᠯᠡᠭᠰᠡᠨ ᠪᠤᠢ?",
+        "zh_translation": "学校新添置了210套新课桌椅，桌子每张110元，椅子每张40元，添置这批课桌椅，学校共用了多少钱？",
+        "answer": "31500",
+        "en_translation": "The school has purchased 210 sets of new desks and chairs, with each desk costing 110 yuan and each chair costing 40 yuan. How much did the school spend in total on these desks and chairs?"
+    },
+    {
+        "id": "math_mn_139",
+        "question": "3 ᠨᠢᠭᠡ᠂ 5 ᠵᠠᠭᠤᠨ  ᠤ ᠨᠢᠭᠡ᠂ 4 ᠮᠢᠩᠭᠠᠨ  ᠤ ᠨᠢᠭᠡ ᠪᠡᠷ ᠪᠦᠷᠢᠯᠳᠦᠭᠰᠡᠨ ᠲᠣᠭ᠎ᠠ ᠨᠢ ᠬᠡᠳᠦ ᠪᠤᠢ?",
+        "zh_translation": "3个一，5个百分之一，4个千分之一组成的数是多少？",
+        "answer": "3.054",
+        "en_translation": "What is the number composed of 3 ones, 5 hundredths, and 4 thousandths?"
+    },
+    {
+        "id": "math_mn_193",
+        "question": "ᠠᠪᠤ ᠨᠢ ᠡᠨᠡ ᠵᠢᠯ 39 ᠨᠠᠰᠤᠲᠠᠶ ᠂  ᠬᠦᠦ  ᠶᠢᠨ  ᠢᠶᠠᠨ ᠨᠠᠰᠤᠨ  ᠤ 3 ᠳᠠᠬᠢᠨ ᠡᠴᠡ 3 ᠨᠠᠰᠤ  ᠢᠯᠡᠭᠦᠦ ᠂  ᠬᠦᠦ ᠨᠢ ᠡᠨᠡ ᠵᠢᠯ  ᠬᠡᠳᠤᠨ ᠨᠠᠰᠤᠲᠠᠶ ᠪᠣᠶ ︖",
+        "zh_translation": "爸爸今年39岁，比儿子年龄的3倍多3岁，儿子今年几岁？",
+        "answer": "12",
+        "en_translation": "This year, the father is 39 years old, which is 3 years more than 3 times the son's age. How old is the son this year?"
+    },
+    {
+        "id": "math_mn_196",
+        "question": "ᠵᠧᠦ ᠵᠤᠸᠠᠩ ᠲᠣᠰᠬᠣᠨ  ᠳᠦ1600 ᠮᠧᠲ᠋ᠷ  ᠤᠨ ᠶᠡᠬᠡ ᠵᠠᠮ ᠵᠠᠰᠠᠬᠤ ᠪᠠᠷ ᠪᠠᠶᠢᠨ᠎ᠠ᠂ 12 ᠡᠳᠦᠷ ᠵᠠᠰᠠᠭᠠᠳ ᠪᠠᠰᠠ 652 ᠮᠧᠲ᠋ᠷ ᠦᠯᠡᠳᠡᠵᠦ ᠪᠠᠶᠢᠨ᠎ᠠ᠂ ᠳᠤᠮᠳᠠᠴᠢ ᠪᠠᠷ ᠡᠳᠦᠷ ᠪᠦᠷᠢ ᠬᠡᠳᠤᠨ ᠮᠧᠲ᠋ᠷ ᠵᠠᠰᠠᠳᠠᠭ ᠪᠤᠢ?",
+        "zh_translation": "周庄要修一条1600米的大路，已经修了12天，还剩652米．平均每天修多少米？",
+        "answer": "79",
+        "en_translation": "Zhouzhuang is building a 1600-meter road, with 12 days already spent and 652 meters remaining. On average, how many meters are constructed each day?"
+    },
+    {
+        "id": "math_mn_32",
+        "question": "ᠰᠢᠶᠤᠤ ᠮᠢᠩ ᠲᠤᠮᠤ ᠦᠰᠦᠭ ᠪᠢᠴᠢᠬᠦ  ᠳᠦ ᠪᠠᠨ ᠡᠳᠦᠷ ᠪᠦᠷᠢ 3 ᠵᠣᠬᠢᠶᠠᠯ ᠪᠢᠴᠢᠵᠦ᠂ 5 ᠡᠳᠦᠷ ᠲᠦ ᠨᠡᠢᠢᠲᠡ ᠬᠡᠳᠦᠶ ᠵᠣᠬᠢᠶᠠᠯ ᠪᠢᠴᠢᠬᠦ ᠪᠤᠢ?",
+        "zh_translation": "小明写大字，每天写3篇，5天共写多少篇？",
+        "answer": "15",
+        "en_translation": "How many pieces of calligraphy does Xiaoming write in 5 days if he writes 3 pieces each day?"
+    },
+    {
+        "id": "math_mn_75",
+        "question": "ᠯᠢ ᠠᠪᠠᠭ᠎ᠠ ᠨᠢᠭᠡᠨ 3 ᠮᠧᠲ᠋ᠷ ᠤᠷᠳᠤ ᠬᠤᠯᠤᠰᠤᠨ ᠡᠰᠢ  ᠶᠢ ᠤᠰᠤᠨ  ᠳᠦ ᠪᠣᠰᠣᠭ᠎ᠠ ᠪᠠᠷ ᠬᠠᠳᠬᠤᠪᠠ᠂ ᠬᠤᠯᠤᠰᠤᠨ ᠡᠰᠢ  ᠶᠢᠨ ᠰᠢᠪᠠᠷ ᠲᠤ ᠤᠷᠤᠭᠰᠠᠨ ᠬᠡᠰᠡᠭ ᠨᠢ 0.5 ᠮᠧᠲᠷ᠂ ᠤᠰᠤᠨ ᠡᠴᠡᠭᠠᠷᠤᠭᠰᠠᠨ ᠬᠡᠰᠡᠭ ᠨᠢ 0.2 ᠮᠧᠲ᠋ᠷ᠂ ᠤᠰᠤᠨ  ᠤ ᠭᠦᠨ ᠨᠢ ᠬᠡᠳᠦᠶ ᠮᠧᠲ᠋ᠷ ᠪᠤᠢ?",
+        "zh_translation": "李叔叔把一根3米长的竹竿竖直插入水中，竹竿入泥部分是0.5米，露出水面部分是0.2米，水深多少米？",
+        "answer": "2.3",
+        "en_translation": "Uncle Li inserted a 3-meter-long bamboo pole vertically into the water. The portion of the pole embedded in the mud is 0.5 meters, and the portion exposed above the water is 0.2 meters. How deep is the water in meters?"
+    },
+    {
+        "id": "math_mn_202",
+        "question": "ᠮᠠᠰᠢᠨ ᠲᠡᠷᠭᠡᠨ  ᠤ ᠠᠭᠤᠯᠠᠨ ᠳᠦ ᠭᠠᠷᠬᠤ ᠬᠤᠷᠳᠤᠴᠠ ᠨᠢ 40 ᠺᠢᠯᠣᠮᠧᠲ᠋ᠷ\\ ᠴᠠᠭ ᠪᠠᠶᠢᠵᠤ ᠂ 6 ᠴᠠᠭ ᠬᠡᠷᠡᠭᠰᠡᠭᠡᠳ ᠠᠭᠤᠯᠠᠨ ᠣᠷᠣᠶ  ᠳᠦ ᠬᠦᠷᠴᠦ ᠂  ᠤᠤᠯ ᠵᠠᠮ   ᠤᠨ ᠪᠤᠴᠠᠬᠤ ᠬᠤᠷᠳᠤᠴᠠ ᠨᠢ 48 ᠺᠢᠯᠣᠮᠧᠲ᠋ᠷ\\ ᠴᠠᠭ ᠪᠠᠶᠢᠳᠠᠭ ᠂ ᠡᠨᠡ ᠮᠠᠰᠢᠨ ᠲᠡᠷᠭᠡ ᠪᠤᠴᠠᠬᠤ  ᠳᠠᠭᠠᠨ ᠬᠡᠳᠦᠶ ᠴᠠᠭ ᠬᠡᠷᠡᠭᠯᠡᠭᠰᠡᠨ ᠪᠣᠶ ︖",
+        "zh_translation": "汽车上山速度是40千米/时，用了6小时到山顶．原路返回速度是48千米/时，这辆汽车返回时用了多少小时？",
+        "answer": "5",
+        "en_translation": "The speed of a car going uphill is 40 km/h, and it takes 6 hours to reach the top. On the way back, the speed is 48 km/h. How many hours does it take for the car to return?"
+    },
+    {
+        "id": "math_mn_237",
+        "question": "ᠳ᠋ᠠᠶ ᠪᠠᠭᠰᠢ 400 ᠲᠥᠭᠥᠷᠢᠭ ᠠᠪᠴᠤ ᠰᠢᠨᠬᠤᠸᠠ ᠨᠣᠮ  ᠤᠨ ᠳᠡᠯᠭᠡᠭᠦᠷ ᠲᠦ ᠣᠴᠢᠵᠤ 《 ᠪᠠᠭ᠎ᠠ ᠰᠤᠷᠭᠠᠭᠤᠯᠢ  ᠶᠢᠨ ᠲᠣᠭᠠᠨ  ᠤ ᠤᠬᠠᠭᠠᠨ  ᠤ ᠤᠷᠤᠯᠳᠤᠭᠠᠨ  ᠤ ᠰᠡᠳᠦᠪ  ᠤᠨ ᠲᠣᠯᠢ 》 ᠶᠢ ᠬᠤᠳᠠᠯᠳᠤᠨ  ᠠᠪᠤᠨ᠎ᠠ᠂ ᠳᠡᠪᠲᠡᠷ ᠪᠦᠷᠢ ᠨᠢ 38.50 ᠲᠥᠭᠥᠷᠢᠭ ᠂ ᠳ᠋ᠠᠶ ᠪᠠᠭᠰᠢ ᠬᠡᠳᠦᠨ ᠳᠡᠪᠲᠡᠷ ᠬᠤᠳᠠᠯᠳᠤᠨ ᠠᠪᠴᠤ ᠪᠣᠯᠬᠤ ᠪᠤᠶ︖",
+        "zh_translation": "戴老师带了400元钱去新华书店买《小学数学竞赛题典》，每本《小学数学竞赛题典》38.50元．戴老师可以买回几本？",
+        "answer": "10",
+        "en_translation": "How many copies of \"Elementary School Math Competition Question Book\" can Teacher Dai buy at Xinhua Bookstore if each copy costs 38.50 yuan and Teacher Dai brings 400 yuan?"
+    },
+    {
+        "id": "math_mn_28",
+        "question": "ᠪᠢ 3  ᠠᠳᠬᠤ ᠪᠠᠨᠠᠨᠠ  ᠬᠤᠳᠠᠯᠳᠤᠨ  ᠠᠪᠴᠠᠢ᠂ 1 ᠠᠳᠬᠤ  ᠳᠡᠭᠡᠷ᠎ᠡ 6 ᠪᠠᠨᠠᠨᠠ᠂ 1 ᠬᠥᠮᠦᠨ  ᠳᠦ1 ᠵᠢ ᠬᠤᠪᠢᠶᠠᠬᠤ  ᠳᠦ  ᠶᠠᠭ  ᠰᠠᠢᠬᠠᠨ  ᠬᠣᠶᠠᠷ  ᠤᠨ （1） ᠠᠨᠭᠬᠢ  ᠶᠢᠨ ᠨᠢᠭᠡᠳᠦᠭᠡᠷ ᠳᠤᠭᠤᠶᠢᠯᠠᠩ  ᠤᠨ ᠬᠠᠮᠲᠤ ᠰᠤᠷᠤᠭᠴᠢᠳ ᠲᠤ ᠬᠤᠪᠢᠶᠠᠵᠤ   ᠥᠭ᠍ᠴᠦ  ᠳᠡᠢᠯᠦᠨ᠎ᠡ᠃  ᠬᠣᠶᠠᠷ  ᠤᠨ (1) ᠠᠩᠬᠢ  ᠶᠢᠨ ᠨᠢᠭᠡᠳᠦᠭᠡᠷ ᠳᠤᠭᠤᠶᠢᠯᠠᠩ  ᠳᠤ  ᠬᠡᠳᠦᠢ  ᠬᠥᠮᠥᠨ  ᠪᠠᠢᠬᠤ  ᠪᠣᠢ ?",
+        "zh_translation": "我买了3把香蕉，1把6个，1人1个刚好分给二（1）班第一小组的同学。二（1）班第一小组有多少人？",
+        "answer": "18",
+        "en_translation": "I bought 3 bunches of bananas, each bunch has 6 bananas, enough to give one banana per person to the first group of class 2(1). How many people are in the first group of class 2(1)?"
+    },
+    {
+        "id": "math_mn_126",
+        "question": "ᠬᠣᠶᠠᠷ ᠴᠤᠪᠤᠭ᠎ᠠ ᠭᠠᠯᠲᠤ ᠲᠡᠷᠭᠡ ᠬᠣᠶᠠᠷ ᠲᠡᠷᠭᠡᠨ ᠥᠷᠲᠡᠭᠡᠨ ᠡᠴᠡ ᠵᠡᠷᠭᠡ ᠪᠡᠷ  ᠠᠶᠠᠯᠠᠨ᠎ᠠ᠂ ᠬᠦᠭᠡ ᠲᠡᠷᠭᠡ ᠴᠠᠭ ᠲᠤ 95 ᠺᠢᠯᠣᠮᠧᠲ᠋ᠷ ᠶᠠᠪᠤᠵᠤ᠂ ᠬᠥᠬᠡᠭᠴᠢᠨ ᠲᠡᠷᠭᠡ ᠴᠠᠭ ᠲᠤ 85 ᠺᠢᠯᠣᠮᠧᠲ᠋ᠷ ᠶᠠᠪᠤᠵᠤ᠂ 3 ᠴᠠᠭ ᠥᠩᠭᠡᠷᠡᠪᠡᠯ ᠬᠣᠶᠠᠷ ᠲᠡᠷᠭᠡ  ᠬᠠᠷᠢᠯᠴᠠᠨ  ᠤᠴᠠᠷᠠᠨ᠎ᠠ ᠂ ᠬᠣᠶᠠᠷ ᠲᠡᠷᠭᠡᠨ ᠥᠷᠲᠡᠭᠡᠨ  ᠤ ᠬᠣᠭᠣᠷᠣᠨᠳᠣᠬᠢ ᠲᠡᠮᠦᠷ ᠵᠡᠮ  ᠤᠨ ᠤᠷᠳᠦ ᠨᠢ ᠬᠡᠳᠦᠶ ᠺᠢᠯᠣᠮᠧᠲ᠋ᠷ ᠪᠠᠶᠢᠳᠠᠭ ᠪᠤᠢ?",
+        "zh_translation": "两列火车从两个车站同时相向开出．甲车每小时行95千米，乙车每小时行85千米，经过3小时两车相遇．两个车站之间的铁路长多少千米？",
+        "answer": "540",
+        "en_translation": "Two trains depart from two stations simultaneously towards each other. Train A travels at 95 km/h and Train B travels at 85 km/h. They meet after 3 hours. What is the length of the railway between the two stations?"
+    },
+    {
+        "id": "math_mn_243",
+        "question": "ᠨᠢᠭᠡ ᠮᠣᠳᠣ  ᠶᠢ 3 ᠬᠡᠰᠡᠭ ᠪᠣᠯᠭᠠᠨ ᠬᠢᠷᠥᠭᠡᠳᠡᠬᠦ  ᠳᠦ 3.6 ᠮᠢᠨᠦ᠋ᠲ ᠬᠡᠷᠡᠭᠰᠡᠨ᠎ᠡ᠂ ᠬᠡᠷᠪᠡ 5 ᠬᠡᠰᠡᠭ ᠪᠣᠯᠭᠠᠨ ᠬᠢᠷᠥᠭᠡᠳᠡᠬᠦ  ᠳᠦ ᠬᠦᠷᠪᠡᠯ  ᠬᠡᠳᠦᠨ ᠮᠢᠨᠦ᠋ᠲ ᠬᠡᠷᠡᠭᠰᠡᠬᠦ ᠪᠤᠢ?",
+        "zh_translation": "一根木料锯成3段需要3.6分钟，如果锯成5段需要多少分钟？",
+        "answer": "7.2",
+        "en_translation": "To cut a piece of wood into 3 sections, it takes 3.6 minutes. How many minutes are needed to cut it into 5 sections?"
+    },
+    {
+        "id": "math_mn_82",
+        "question": "ᠬᠦᠷᠢᠶᠡᠨ  ᠤ ᠤᠷᠲᠤ ᠨᠢ 40cm ᠂ ᠤᠷᠲᠤ ᠨᠢ 13cm ᠨᠢᠭᠡᠨ ᠤᠷᠲᠤ ᠳᠥᠷᠪᠡᠯᠵᠢᠨ ᠂ ᠥᠷᠭᠡᠨ ᠨᠢ ᠬᠡᠳᠦᠶ cm ᠪᠤᠶ?",
+        "zh_translation": "一个周长是40cm，长是13cm的长方形，宽是多少cm？",
+        "answer": "7",
+        "en_translation": "What is the width of a rectangle with a perimeter of 40 cm and a length of 13 cm?"
+    },
+    {
+        "id": "math_mn_21",
+        "question": "26 ᠵᠢᠭᠠᠰᠤ  ᠶᠢ 2 ᠵᠢᠵᠢᠭ ᠠᠯᠠᠭ ᠮᠤᠤᠷ ᠲᠤ  ᠠᠳᠠᠯᠢ  ᠪᠠᠷ ᠬᠤᠪᠢᠶᠠᠨ ᠥᠭᠴᠦ᠂ ᠵᠢᠵᠢᠭ ᠠᠯᠠᠭ ᠮᠤᠤᠷ  ᠪᠦᠷᠢ  ᠳᠦ  ᠪᠠᠨ ᠬᠡᠳᠦᠨ  ᠵᠢᠭᠠᠰᠤ  ᠬᠤᠪᠢᠶᠠᠨ  ᠣᠯᠬᠤ ᠪᠤᠢ?",
+        "zh_translation": "26条鱼平均分给2只小花猫，每只小花猫分到几条？",
+        "answer": "13",
+        "en_translation": "How many fish does each kitten get if 26 fish are equally divided between 2 kittens?"
+    },
+    {
+        "id": "math_mn_227",
+        "question": "ᠨᠢᠭᠡ ᠤᠰᠤᠨ ᠰᠤᠪᠠᠭ ᠵᠠᠰᠠᠬᠤ  ᠳᠦ  ᠤᠤᠯ ᠳᠠᠭᠠᠨ ᠡᠳᠦᠷ ᠪᠦᠷᠢ 0.24 ᠺᠢᠯᠣᠮᠧᠲ᠋ᠷ ᠵᠠᠰᠠᠬᠤ ᠪᠠᠷ ᠲᠥᠯᠥᠪᠯᠡᠵᠦ ᠪᠠᠶᠢᠭᠰᠠᠨ ᠪᠣᠯᠪᠠᠴᠤ ᠦᠨᠡᠨ ᠳᠡᠭᠡᠨ ᠡᠳᠦᠷ ᠪᠦᠷᠢ ᠤᠤᠯ  ᠤᠨ ᠲᠥᠯᠥᠪᠯᠡᠭᠡ ᠡᠴᠡ ᠪᠡᠨ 0.06 ᠺᠢᠯᠣᠮᠧᠲ᠋ᠷ ᠢᠯᠡᠭᠦᠦ  ᠵᠠᠰᠠᠨ᠎ᠠ ᠂ 12 ᠡᠳᠦᠷ  ᠤᠨ ᠳᠠᠷᠠᠭ᠎ᠠ ᠪᠠᠰᠠ 0.4 ᠺᠢᠯᠣᠮᠧᠲ᠋ᠷ ᠢ  ᠨᠢ ᠵᠠᠰᠠᠭᠰᠠᠨ ᠦᠭᠡᠶ ᠂ ᠡᠨᠡ ᠬᠦ ᠤᠰᠤᠨ ᠰᠤᠪᠠᠭ  ᠤᠨ ᠣᠷᠳᠣ ᠨᠢ  ᠬᠡᠳᠤᠨ ᠺᠢᠯᠣᠮᠧᠲ᠋ᠷ ᠪᠠᠶᠢᠳᠠᠭ ᠪᠤᠶ︖",
+        "zh_translation": "修一条水渠，原计划每天修0.24千米，实际每天比原计划多修0.06千米．12天后还差0.4千米没修．这条水渠长是多少千米？",
+        "answer": "4",
+        "en_translation": "To construct a water channel, the original plan was to build 0.24 kilometers per day, but in fact, 0.06 kilometers more was built each day than originally planned. After 12 days, there was still 0.4 kilometers left to build. How long is the water channel in total?"
+    },
+    {
+        "id": "math_mn_115",
+        "question": "ᠨᠢᠭᠡ ᠬᠡᠰᠡᠭ ᠵᠢᠰᠢᠭᠦᠯᠵᠢᠨ ᠵᠠᠷ  ᠮᠡᠳᠡᠭᠡᠨ ᠤ ᠫᠠᠶᠢᠰᠠ  ᠶᠢᠨ ᠰᠠᠭᠤᠷᠢ ᠨᠢ 12 ᠮᠧᠲ᠋ᠷ᠂ ᠥᠨᠳᠥᠷ ᠨᠢ 6 ᠮᠧᠲ᠋ᠷ᠂ ᠬᠡᠷᠪᠡ ᠡᠨᠡ ᠬᠦ ᠵᠠᠷ  ᠮᠡᠳᠡᠭᠡᠨ  ᠤ ᠫᠠᠶᠢᠰᠠ  ᠶᠢ ᠰᠢᠷᠳᠡ ᠳᠤ ᠬᠦᠷᠪᠡᠯ᠂   ᠺᠦᠸᠠᠲ ᠮᠧᠲ᠋ᠷ ᠪᠦᠷᠢ  ᠳᠦ 1.6 ᠺᠢᠯᠣᠭ᠍ᠷᠠᠮ᠂ᠬᠡᠳᠦᠶ ᠺᠢᠯᠣᠭ᠍ᠷᠠᠮ ᠰᠢᠷᠳᠡᠬᠦ ᠪᠤᠢ?",
+        "zh_translation": "一块平行四边形的广告牌，底是12米，高是6米．如果要油漆这块广告牌，每平方米用油漆1.6千克，需要多少千克油漆？",
+        "answer": "115.2",
+        "en_translation": "A parallelogram-shaped billboard has a base of 12 meters and a height of 6 meters. If painting this billboard requires 1.6 kilograms of paint per square meter, how many kilograms of paint are needed?"
+    },
+    {
+        "id": "math_mn_140",
+        "question": "ᠯᠢ ᠰᠢᠨ ᠦᠯᠢᠭᠡᠷ   ᠤᠨ ᠨᠣᠮ  ᠢ 8 ᠡᠳᠦᠷ ᠲᠦ 64 ᠨᠢᠭᠤᠷ ᠦᠵᠡᠵᠡᠶ᠂ ᠢᠩᠭᠢᠵᠦ ᠪᠤᠳᠤᠪᠠᠯ᠂ ᠲᠡᠷᠡ ᠡᠨᠡ 240 ᠨᠢᠭᠤᠷ  ᠤᠨ ᠦᠯᠢᠭᠡᠷ  ᠤᠨ ᠨᠣᠮ  ᠢ ᠦᠵᠡᠵᠦ ᠪᠠᠷᠠᠬᠤ  ᠳᠦ ᠬᠡᠳᠦᠨ ᠡᠳᠦᠷ ᠬᠡᠷᠡᠭᠰᠡᠬᠦ ᠪᠤᠢ?",
+        "zh_translation": "李新看故事书，8天看了64页，照这样计算，他看完这本240页的故事书要用多少天？",
+        "answer": "30",
+        "en_translation": "Li Xin reads storybooks, and he read 64 pages in 8 days. Based on this calculation, how many days will it take him to finish this 240-page storybook?"
+    },
+    {
+        "id": "math_mn_37",
+        "question": "ᠰᠢᠶᠤᠤ ᠯᠢ ᠡᠨᠡ ᠵᠢᠯ 12 ᠨᠠᠰᠤᠲᠠᠶ ᠂ ᠲᠡᠷᠡ 3 ᠵᠢᠯ  ᠳᠦ ᠨᠢᠭᠡ ᠤᠳᠠᠭ᠎ᠠ ᠪᠡᠭᠡᠵᠢᠩ ᠳ᠋ᠥ ᠣᠴᠢᠳᠠᠭ ᠂ ᠲᠡᠭᠡᠪᠡᠯ ᠲᠡᠷᠡ 12 ᠵᠢᠯ ᠳᠣᠲᠣᠷ᠎ᠠ ᠬᠡᠳᠦᠶ ᠤᠳᠠᠭ᠎ᠠ ᠪᠡᠭᠡᠵᠢᠩ  ᠳ᠋ᠥ ᠣᠴᠢᠭᠰᠠᠨ ᠪᠤᠶ ︖",
+        "zh_translation": "小丽今年12岁，她每3年去一次北京，那么她12年中去了多少次北京？",
+        "answer": "4",
+        "en_translation": "Xiaoli is 12 years old this year. She goes to Beijing once every three years, so how many times did she go to Beijing in 12 years?"
+    },
+    {
+        "id": "math_mn_62",
+        "question": "ᠨᠢᠭᠡ ᠪᠣᠯᠣᠳ ᠪᠢᠷ 5 ᠲᠥᠭᠥᠷᠢᠭ ᠂ 200 ᠪᠣᠯᠣᠳ ᠪᠢᠷ ᠬᠡᠳᠦᠶ ᠲᠥᠭᠥᠷᠢᠭ ᠪᠤᠢ?",
+        "zh_translation": "1支钢笔5元钱，200支钢笔多少元？",
+        "answer": "1000",
+        "en_translation": "If one pen costs 5 yuan, how much do 200 pens cost?"
+    },
+    {
+        "id": "math_mn_57",
+        "question": "22 ᠮᠧᠲ᠋ᠷ ᠤᠷᠳᠤ ᠳᠡᠭᠡᠰᠦ  ᠶᠢ 9 ᠮᠧᠲ᠋ᠷ  ᠢᠶᠠᠷ ᠬᠠᠶᠢᠴᠢᠯᠠᠵᠤ ᠤᠷᠳᠤ ᠳᠡᠭᠡᠰᠦ ᠪᠣᠯᠭᠠᠨ᠎ᠠ᠂ ᠦᠯᠡᠳᠡᠭᠰᠡᠨ 2 ᠮᠧᠲ᠋ᠷ ᠢᠶᠠᠷ ᠣᠬᠣᠷ ᠳᠡᠭᠡᠰᠦ ᠪᠣᠯᠭᠠᠪᠠᠯ᠂ ᠬᠡᠳᠦᠨ ᠣᠬᠣᠷ ᠳᠡᠭᠡᠰᠦ ᠬᠢᠵᠦ ᠪᠣᠯᠬᠤ ᠪᠤᠢ?",
+        "zh_translation": "一根长22米的绳子，剪下9米做一根长绳，剩下的每2米做一根短绳，可以做几根短绳？",
+        "answer": "6",
+        "en_translation": "A rope is 22 meters long. After cutting off 9 meters to make a long rope, how many short ropes, each 2 meters long, can be made from the remaining length?"
+    },
+    {
+        "id": "math_mn_146",
+        "question": "ᠰᠠᠭᠠᠯᠢ  ᠶᠢᠨ ᠦᠨᠢᠶᠡᠨ  ᠤ ᠲᠠᠯᠠᠪᠠᠢ  ᠳᠦ 5  ᠫᠧᠩ  ᠰᠠᠷᠠᠪᠴᠢ  ᠲᠡᠶ᠂   ᠫᠧᠩ  ᠰᠠᠷᠠᠪᠴᠢ  ᠪᠦᠷᠢ  ᠳᠦ 8 ᠰᠠᠭᠠᠯᠢ  ᠶᠢᠨ ᠦᠨᠢᠶ᠎ᠡ ᠲᠡᠶ᠂ ᠡᠳᠦᠷ ᠲᠦ ᠨᠢᠢᠳᠠ 800 ᠺᠢᠯᠣᠭ᠍ᠷᠠᠮ ᠪᠣᠷᠳᠣᠭ᠎ᠠ ᠲᠡᠵᠢᠭᠡᠵᠦ᠂ ᠳᠤᠮᠳᠠᠴᠢ ᠪᠠᠷ ᠲᠣᠯᠣᠭᠠᠶ ᠪᠦᠷᠢ  ᠳᠦ ᠬᠡᠳᠦᠨ ᠺᠢᠯᠣᠭ᠍ᠷᠠᠮ ᠪᠣᠷᠳᠣᠭ᠎ᠠ ᠲᠡᠵᠢᠭᠡᠬᠦ ᠪᠤᠢ?",
+        "zh_translation": "奶牛场有5个大棚，每个大棚有8头奶牛．一天共喂800千克饲料，平均每头喂多少千克饲料？",
+        "answer": "20",
+        "en_translation": "The dairy farm has 5 sheds, each with 8 cows. A total of 800 kilograms of feed is given in one day. On average, how many kilograms of feed is given to each cow?"
+    },
+    {
+        "id": "math_mn_49",
+        "question": "ᠠᠮᠢ ᠠᠬᠤᠶ  ᠶᠢᠨ ᠠᠮᠢᠲᠠᠨ  ᠤ ᠬᠦᠷᠢᠶᠡᠯᠡᠩ  ᠳᠦ ᠦᠳᠡ  ᠶᠢᠨ ᠡᠮᠦᠨ᠎ᠡ 842 ᠵᠤᠭᠠᠴᠠᠭᠴᠢ  ᠲᠠᠶ ᠂ ᠦᠳᠡ  ᠳᠦ 266 ᠵᠤᠭᠠᠴᠠᠭᠴᠢ  ᠶᠠᠪᠤᠪᠠ ᠃ ᠦᠳᠡ  ᠶᠢᠨ ᠬᠣᠶᠢᠨ᠎ᠠ ᠪᠠᠰᠠ 315 ᠬᠥᠮᠦᠨ ᠢᠷᠡᠪᠡ ᠂ ᠡᠨᠡ ᠦᠶ᠎ᠡ ᠳᠦ ᠴᠡᠴᠡᠷᠯᠢᠭ  ᠲᠦ ᠬᠡᠳᠦᠶ ᠵᠤᠭᠠᠴᠠᠭᠴᠢ ᠪᠠᠶᠢᠬᠤ ᠪᠤᠶ ︖",
+        "zh_translation": "生态动物园上午有游客842人，中午有266人离去．下午又来了315人，这时园内有多少游客？",
+        "answer": "891",
+        "en_translation": "In the morning, there were 842 visitors in the ecological zoo. By noon, 266 people left. In the afternoon, 315 more people arrived. How many visitors are there in the zoo now?"
+    },
+    {
+        "id": "math_mn_17",
+        "question": "ᠬᠤᠸᠠᠨ ᠬᠤᠸᠠᠨ 15 ᠬᠡᠢ ᠪᠥᠮᠪᠥᠭᠡ ᠲᠡᠶ ᠂ 6 ᠨᠢ ᠨᠢᠰᠦᠭᠡᠳ ᠶᠠᠪᠤᠵᠠᠢ  ᠪᠠᠰᠠ ᠬᠡᠳᠦ ᠦᠯᠡᠳᠡᠭᠰᠡᠨ ᠪᠤᠶ ?",
+        "zh_translation": "欢欢有15个气球，飞走了6个，还剩几个？",
+        "answer": "9",
+        "en_translation": "Huanhuan has 15 balloons, 6 flew away, how many are left?"
+    },
+    {
+        "id": "math_mn_221",
+        "question": "ᠰᠠᠨᠰᠠᠷ  ᠤᠨ ᠨᠢᠰᠬᠦ ᠣᠩᠭᠣᠴᠠ 5 ᠰᠧᠺᠦ᠋ᠨ᠋ᠳ᠋  ᠳᠦ 60 ᠺᠢᠯᠣᠮᠧᠲ᠋ᠷ  ᠠᠶᠠᠯᠠᠳᠠᠭ᠂ ᠡᠨᠡ ᠬᠦ ᠬᠤᠷᠳᠤᠴᠠ ᠪᠠᠷ  ᠲᠡᠷᠡ  ᠨᠢ 300 ᠺᠢᠯᠣᠮᠧᠲ᠋ᠷ ᠨᠢᠰᠬᠦ  ᠳᠦ  ᠬᠡᠳᠤᠨ ᠰᠧᠺᠦ᠋ᠨ᠋ᠳ᠋ ᠬᠡᠷᠡᠭᠰᠡᠬᠦ ᠪᠤᠢ?",
+        "zh_translation": "宇宙飞船5秒航行60千米．照这样的速度，它飞行300千米要多少秒？",
+        "answer": "25",
+        "en_translation": "A spaceship travels 60 kilometers in 5 seconds. At this speed, how many seconds will it take to travel 300 kilometers?"
+    },
+    {
+        "id": "math_mn_84",
+        "question": "ᠨᠢᠭᠡ ᠫᠢᠩᠫᠠᠩ ᠪᠥᠮᠪᠥᠭᠡ ᠶᠢᠨ ᠬᠦᠨᠳᠦ ᠨᠢ 4 ᠭᠷᠠᠮ᠂ 50 ᠫᠢᠩᠫᠠᠩ ᠪᠥᠮᠪᠥᠭᠡ ᠶᠢᠨ ᠬᠦᠨᠳᠦ ᠨᠢ ᠬᠡᠳᠦᠶ ᠭᠷᠠᠮ ᠪᠤᠢ?",
+        "zh_translation": "一只乒乓球重4克，50只乒乓球重多少克？",
+        "answer": "200",
+        "en_translation": "A ping pong ball weighs 4 grams. How many grams do 50 ping pong balls weigh?"
+    },
+    {
+        "id": "math_mn_63",
+        "question": "6 ᠬᠠᠶᠢᠷᠴᠠᠭ ᠪᠠᠯᠲᠤ ᠵᠥᠭᠡᠶ ᠨᠢᠭᠡ ᠵᠢᠯ  ᠳᠦ 372 ᠺᠢᠯᠣᠭ᠍ᠷᠠᠮ ᠵᠥᠭᠡᠶ  ᠶᠢᠨ ᠪᠠᠯ ᠨᠡᠷᠡᠵᠦ  ᠳᠡᠢᠯᠦᠨ᠎ᠡ ᠂ ᠢᠩᠭᠢᠵᠦ ᠪᠤᠳᠤᠪᠠᠯ ᠂ 9 ᠬᠠᠶᠢᠷᠴᠠᠭ ᠪᠠᠯᠲᠤ ᠵᠥᠭᠡᠶ  ᠨᠢ ᠨᠢᠭᠡ ᠵᠢᠯ  ᠳᠤ ᠬᠡᠳᠦᠶ ᠺᠢᠯᠣᠭ᠍ᠷᠠᠮ ᠵᠥᠭᠡᠶ  ᠶᠢᠨ ᠪᠠᠯ ᠨᠡᠷᠡᠵᠦ  ᠳᠡᠢᠯᠬᠦ ᠪᠤᠶ︖",
+        "zh_translation": "6箱蜜蜂一年可以酿372千克蜂蜜．照这样计算，9箱蜜蜂一年可以酿多少千克蜂蜜？",
+        "answer": "558",
+        "en_translation": "If 6 beehives can produce 372 kilograms of honey in one year, how many kilograms of honey can 9 beehives produce in one year at the same rate?"
+    },
+    {
+        "id": "math_mn_86",
+        "question": "ᠬᠢᠴᠢᠶᠡᠯ  ᠤᠨ ᠭᠡᠷ  ᠢ  ᠴᠢᠮᠡᠬᠦ   ᠳᠦ ᠴᠠᠭᠠᠰᠤᠨ ᠲᠣᠭᠣᠷᠤᠤ ᠬᠡᠷᠡᠭᠰᠡᠨ᠎ᠡ᠂ ᠬᠡᠯᠬᠢᠶ᠎ᠡ ᠪᠦᠷᠢ  ᠳᠦ 12᠂ 12 ᠬᠡᠯᠬᠢᠶ᠎ᠡ ᠬᠡᠷᠡᠭᠰᠡᠨ᠎ᠡ᠂ ᠨᠡᠢᠳᠡ ᠬᠡᠳᠦᠶ ᠴᠠᠭᠠᠰᠤᠨ ᠲᠣᠭᠣᠷᠤᠤ ᠬᠡᠷᠡᠭᠰᠡᠬᠦ ᠪᠤᠢ?",
+        "zh_translation": "布置教室需要一些纸鹤，每串12只，需要12串，一共需要多少只纸鹤？",
+        "answer": "144",
+        "en_translation": "To decorate the classroom, some paper cranes are needed. Each string has 12 cranes, and 12 strings are needed. How many paper cranes are needed in total?"
+    },
+    {
+        "id": "math_mn_127",
+        "question": "ᠰᠢᠶᠤᠤ ᠯᠢ  ᠶᠢᠨ ᠬᠡᠷ  ᠤᠨ ᠠᠭᠠᠷ ᠲᠣᠬᠢᠷᠠᠭᠤᠯᠤᠭᠴᠢ ᠴᠠᠭ ᠪᠦᠷᠢ 1.2 ᠺᠢᠯᠣᠸᠠᠲ ᠴᠠᠬᠢᠯᠭᠠᠨ ᠵᠠᠷᠤᠴᠠᠭᠤᠯᠤᠨ᠎ᠠ ᠂ ᠲᠡᠭᠦᠨ ᠤ ᠬᠡᠷ  ᠤᠨ ᠬᠢᠨ ᠨᠠᠶᠮᠠᠳᠤᠭᠠᠷ ᠰᠠᠷ᠎ᠠ ᠳᠦ ᠳᠤᠮᠳᠠᠴᠢ ᠪᠠᠷ ᠡᠳᠦᠷ ᠪᠦᠷᠢ 5 ᠴᠠᠭ ᠠᠭᠠᠷ ᠲᠣᠬᠢᠷᠠᠭᠤᠯᠤᠭᠴᠢ  ᠶᠢ ᠨᠡᠭᠡᠭᠡᠨ᠎ᠡ ᠂ ᠴᠠᠬᠢᠯᠭᠠᠨ  ᠤ ᠦᠨ᠎ᠡ  ᠺᠢᠯᠣᠸᠠᠲ ᠴᠠᠭ ᠪᠦᠷᠢ 0.75 ᠲᠥᠭᠥᠷᠢᠭ  ᠬᠡᠷᠡᠭ᠍ᠯᠡᠬᠦ  ᠪᠠᠷ ᠪᠤᠳᠤᠪᠠᠯ ᠂ ᠲᠡᠭᠦᠨ  ᠤ ᠬᠡᠷ  ᠤᠨ ᠬᠢᠨ ᠨᠠᠶᠮᠠᠳᠤᠭᠠᠷ ᠰᠠᠷ᠎ᠠ  ᠳᠦ ᠠᠭᠠᠷ ᠲᠣᠬᠢᠷᠠᠭᠤᠯᠤᠭᠴᠢ ᠶᠢ ᠨᠡᠭᠡᠭᠡᠬᠦ  ᠳᠦ ᠬᠡᠷᠡᠭᠯᠡᠬᠦ ᠴᠠᠬᠢᠯᠭᠠᠨ  ᠤ ᠰᠦᠶᠳᠬᠡᠯ ᠨᠢ ᠬᠡᠳᠦᠶ ᠲᠥᠭᠥᠷᠢᠭ ᠪᠣᠶ ︖",
+        "zh_translation": "小丽家的空调每小时耗电1.2千瓦，她家八月份平均每天开空调5小时，电价按0.75元/千瓦时计算，她家八月份开空调所用的电费是多少元？",
+        "answer": "139.5",
+        "en_translation": "How much is the electricity cost in August for Xiao Li's air conditioner, which consumes 1.2 kW per hour, is used on average 5 hours per day, and the electricity price is calculated at 0.75 yuan/kWh?"
+    },
+    {
+        "id": "math_mn_224",
+        "question": "ᠰᠤᠷᠭᠠᠭᠤᠯᠢ ᠠᠴᠠ ᠨᠢᠭᠡ ᠬᠢᠴᠢᠶᠡᠯ  ᠤᠨ ᠬᠡᠷ  ᠤᠨ ᠳᠥᠷᠪᠡᠨ ᠬᠠᠨ᠎ᠠ ᠪᠠ ᠬᠡᠷ  ᠤᠨ ᠠᠲᠠᠷ  ᠢ ᠴᠣᠬᠣᠶᠢᠳᠠᠬᠤ ᠬᠡᠷᠡᠭᠲᠡᠶ ᠂ ᠬᠢᠴᠢᠶᠡᠯ  ᠤᠨ ᠬᠡᠷ ᠤᠨ ᠣᠷᠳᠣ ᠨᠢ 9 ᠮᠧᠲ᠋ᠷ ᠂ ᠥᠷᠭᠡᠨ ᠨᠢ 7 ᠮᠧᠲ᠋ᠷ ᠂ ᠥᠨᠳᠥᠷ ᠨᠢ 3 ᠮᠧᠲ᠋ᠷ ᠂ ᠡᠭᠦᠳᠡ ᠴᠣᠩᠬᠣᠨ  ᠤ ᠲᠠᠯᠠᠪᠠᠶ 12.5 ᠺᠦᠸᠠᠲ ᠮᠧᠲ᠋ᠷ  ᠢ ᠬᠠᠰᠤᠪᠠᠯ ᠂ ᠬᠡᠷᠪᠡ  ᠺᠦᠸᠠᠲᠮᠧᠲ᠋ᠷ ᠪᠦᠷᠢ ᠶᠢᠨ ᠠᠵᠢᠯ  ᠤᠨ ᠬᠥᠯᠥᠰᠥ ᠨᠢ 0.4 ᠲᠥᠭᠥᠷᠢᠭ ᠪᠠᠶᠢᠪᠠᠯ ᠂ ᠡᠨᠡ ᠬᠢᠴᠢᠶᠡᠯ  ᠤᠨ ᠬᠡᠷ  ᠢ ᠴᠣᠬᠣᠶᠢᠳᠠᠬᠤ  ᠳᠦ ᠨᠡᠶᠢᠲᠡ ᠬᠡᠳᠦᠶ ᠲᠥᠭᠥᠷᠢᠭ ᠬᠡᠷᠡᠭᠰᠡᠬᠦ ᠪᠣᠶ ︖",
+        "zh_translation": "学校要粉刷一间教室的四壁和天花板．教室的长9米，宽7米，高是3米，扣除门窗的面积12.5平方米，如果每平方米工价0.4元，粉刷这间教室共需工价多少元？",
+        "answer": "58.6",
+        "en_translation": "The school wants to paint the four walls and the ceiling of a classroom. The classroom is 9 meters long, 7 meters wide, and 3 meters high, with the area of doors and windows being 12.5 square meters. If the cost of labor is 0.4 yuan per square meter, how much total labor cost is needed to paint this classroom?"
+    },
+    {
+        "id": "math_mn_1",
+        "question": "4ᠠᠷᠪᠠ ᠪᠠ 6 ᠨᠢᠭᠡ ᠪᠡᠷ ᠪᠦᠷᠢᠯᠳᠦᠭᠰᠡᠨ ᠲᠣᠭ᠎ᠠ ᠨᠢ ᠶᠠᠭᠤ ᠪᠣᠢ︖",
+        "zh_translation": "4个十和6个一组成的数是什么？",
+        "answer": "46",
+        "en_translation": "What is the number composed of 4 tens and 6 ones?"
+    },
+    {
+        "id": "math_mn_161",
+        "question": "ᠨᠠᠢᠮᠠᠳᠤᠭᠠᠷ ᠰᠠᠷ᠎ᠠ  ᠳᠦ ᠤᠮᠪᠠᠯᠲᠠ  ᠶᠢᠨ ᠲᠠᠲᠠᠭᠠᠯ ᠤᠨ ᠪᠦᠬᠦ ᠣᠷᠣᠯᠭ᠎ᠠ ᠨᠢ 35154 ᠲᠥᠭᠥᠷᠢᠭ ᠂ ᠡᠨᠡ ᠰᠠᠷ᠎ᠠ  ᠳᠦ ᠳᠤᠮᠳᠠᠴᠢ ᠪᠠᠷ ᠡᠳᠦᠷ ᠪᠦᠷᠢ ᠬᠡᠳᠦᠨ ᠲᠥᠭᠥᠷᠢᠭ  ᠤᠨ ᠣᠷᠣᠯᠭ᠎ᠠ  ᠲᠠᠶ ᠪᠤᠶ ︖",
+        "zh_translation": "八月份，游泳池的总收入为35154元，这个月平均每天收入多少元？",
+        "answer": "1134",
+        "en_translation": "In August, the total income of the swimming pool was 35,154 yuan. What was the average daily income for this month?"
+    },
+    {
+        "id": "math_mn_172",
+        "question": "7 ᠮᠧᠲ᠋ᠷ ᠤᠷᠲᠤ ᠂ 3 ᠮᠧᠲ᠋ᠷ ᠥᠷᠭᠡᠨ ᠨᠢᠭᠡ ᠬᠡᠰᠡᠭ ᠤᠷᠲᠤ ᠳᠥᠷᠪᠡᠯᠵᠢᠨ ᠬᠡᠯᠪᠡᠷᠢᠲᠦ ᠨᠣᠭᠣᠭᠠᠨ ᠲᠠᠷᠢᠶ᠎ᠠ ᠲᠠᠶ ᠂ ᠸᠠᠩ ᠠᠪᠠᠭ᠎ᠠ ᠨᠣᠭᠣᠭᠠᠨ ᠲᠠᠷᠢᠶᠠᠨ  ᠤ ᠪᠠᠨ ᠲᠣᠭᠣᠷᠢᠨ  ᠳᠦ ᠵᠠᠮᠪᠠ ᠬᠦᠷᠢᠶᠡᠯᠡᠨ᠎ᠡ ᠂ ᠬᠡᠷᠪᠡ ᠨᠢᠭᠡ ᠲᠠᠯ᠎ᠠ ᠨᠢ ᠬᠡᠷᠡᠮ  ᠤᠨ ᠬᠠᠵᠠᠭᠤ  ᠳᠦ ᠪᠠᠶᠢᠪᠠᠯ ᠂ ᠵᠠᠮᠪᠠ ᠠᠳᠠᠭ ᠲᠠᠭᠠᠨ ᠬᠡᠳᠦᠨ ᠮᠧᠲ᠋ᠷ ᠪᠠᠢᠬᠤ ᠬᠡᠷᠡᠭ᠍ᠲᠡᠢ  ᠪᠤᠶ ︖",
+        "zh_translation": "一块长方形菜地，长7米，宽3米，王叔叔要在菜地周围围上篱笆，如果一面靠墙，篱笆至少要多少米？",
+        "answer": "48",
+        "en_translation": "A rectangular vegetable garden is 7 meters long and 3 meters wide. Uncle Wang wants to put a fence around the garden, with one side against a wall. What is the minimum length of the fence needed?"
+    },
+    {
+        "id": "math_mn_182",
+        "question": "ᠨᠢᠭᠡ ᠵᠠᠬ᠎ᠠ ᠬᠦᠷᠮ᠎ᠡ 106 ᠲᠥᠭᠥᠷᠢᠭ᠂ ᠡᠵᠢ ᠡᠶᠢᠮᠦ ᠬᠣᠶᠠᠷ ᠵᠠᠬ᠎ᠠ ᠬᠦᠷᠮ᠎ᠡ ᠬᠤᠳᠠᠯᠳᠤᠨ ᠠᠪᠴᠠᠶ᠂ ᠨᠡᠢᠲᠡ  ᠬᠡᠳᠦᠨ ᠲᠥᠭᠥᠷᠢᠭ  ᠵᠠᠷᠤᠬᠤ ᠪᠤᠢ?",
+        "zh_translation": "一件上衣106元，妈妈买了两件这样的上衣，一共要多少元钱？",
+        "answer": "212",
+        "en_translation": "A jacket costs 106 yuan, and mom bought two of these jackets. How much money does she need in total?"
+    },
+    {
+        "id": "math_mn_103",
+        "question": "ᠰᠤᠷᠭᠠᠭᠤᠯᠢ  ᠶᠢᠨ ᠷᠠᠳᠢᠦ ᠲᠠᠮᠢᠷ  ᠤᠨ ᠤᠷᠤᠯᠳᠤᠭᠠᠨ  ᠳᠦ 24 ᠠᠩᠭᠢ ᠣᠷᠣᠯᠴᠠᠵᠤ ᠂ ᠠᠩᠭᠢ ᠪᠦᠷᠢ  ᠶᠢ 5 ᠳᠤᠭᠤᠶᠢᠯᠠᠩ ᠪᠣᠯᠭᠠᠨ ᠵᠢᠭᠰᠠᠭᠠᠵᠤ ᠂ ᠳᠤᠭᠤᠶᠢᠯᠠᠩ ᠪᠦᠷᠢ  ᠳᠦ 11 ᠬᠥᠮᠦᠨ ᠲᠡᠶ ᠂ ᠨᠡᠶᠢᠲᠡ  ᠬᠡᠳᠤᠨ ᠬᠥᠮᠦᠨ ᠤᠷᠤᠯᠳᠤᠭᠠᠨ  ᠳᠦ ᠣᠷᠣᠯᠴᠠᠬᠤ ᠪᠣᠶ ︖",
+        "zh_translation": "学校举行广播操比赛，有24个班参加，每个班排成5组，每组有11人，一共有多少人参加比赛？",
+        "answer": "1320",
+        "en_translation": "How many people participated in the radio gymnastics competition at the school if there were 24 classes participating, each class was divided into 5 groups with 11 people in each group?"
+    },
+    {
+        "id": "math_mn_185",
+        "question": "ᠳᠡᠯᠭᠡᠭᠦᠷ ᠡᠳᠦᠷ ᠲᠦ 24 ᠵᠠᠬ᠎ᠠ ᠠᠷᠠᠰᠤᠨ  ᠵᠠᠺᠸ  ᠶᠢ ᠬᠤᠳᠠᠯᠳᠤᠳᠠᠭ ᠂ ᠵᠠᠬ᠎ᠠ ᠪᠦᠷᠢ ᠶᠢᠨ ᠣᠷᠣᠭᠤᠯᠬᠤ  ᠬᠠᠩᠰᠢ ᠨᠢ 268 ᠲᠥᠭᠥᠷᠢᠭ ᠂ ᠵᠢᠵᠢᠭᠯᠡᠨ ᠬᠤᠳᠠᠯᠳᠤᠬᠤ ᠦᠨ᠎ᠡ ᠨᠢ 346 ᠲᠥᠭᠥᠷᠢᠭ ᠂ ᠡᠨᠡ ᠡᠳᠦᠷ ᠳᠡᠯᠭᠡᠭᠦᠷ ᠬᠡᠳᠤᠨ ᠲᠥᠭᠥᠷᠢᠭ ᠣᠯᠤᠭᠰᠠᠨ ᠪᠤᠶ ︖",
+        "zh_translation": "商店一天卖出皮夹克24件，每件皮夹克进价为268元，零售价为346元，商店今天赚了多少元？",
+        "answer": "1872",
+        "en_translation": "How much did the shop earn today if it sold 24 leather jackets in one day, with each jacket having a cost price of 268 yuan and a retail price of 346 yuan?"
+    },
+    {
+        "id": "math_mn_24",
+        "question": "ᠰᠢᠶᠤᠤ ᠮᠢᠩ ᠡᠨᠡ ᠵᠢᠯ 7 ᠨᠠᠰᠤᠲᠠᠶ ᠂ ᠡᠵᠢ ᠨᠢ ᠰᠢᠶᠤᠤ ᠮᠢᠩ ᠡᠴᠡ 24 ᠨᠠᠰᠤ ᠠᠬ᠎ᠠ ᠂ ᠠᠪᠤ ᠶᠢᠨ ᠬᠢᠨᠢ ᠨᠠᠰᠤ ᠨᠢ ᠰᠢᠶᠤᠤ ᠮᠢᠩ  ᠤᠨ 5 ᠳᠠᠬᠢᠨ ᠃ ᠠᠪᠤ ᠨᠢ ᠡᠨᠡ ᠵᠢᠯ ᠬᠡᠳᠦᠶ ᠨᠠᠰᠤ ᠲᠠᠶ ᠪᠤᠢ?",
+        "zh_translation": "小明今年7岁，妈妈比小明大24岁，爸爸的岁数是小明的5倍。 爸爸今年多少岁？",
+        "answer": "35",
+        "en_translation": "Xiaoming is 7 years old this year. Xiaoming's mother is 24 years older than Xiaoming, and Xiaoming's father's age is 5 times Xiaoming's age. How old is Xiaoming's father this year?"
+    },
+    {
+        "id": "math_mn_4",
+        "question": "ᠰᠢᠶᠤᠤ ᠳ᠋ᠦᠩ ᠣᠣᠮᠧᠨ ᠡᠬᠡ ᠤᠯᠤᠰ ᠲᠠᠭᠠᠨ ᠪᠤᠴᠠᠵᠤ ᠢᠷᠡᠭᠰᠡᠨ ᠠᠷᠪᠠᠨ ᠵᠢᠯ  ᠤᠨ ᠣᠶ  ᠶᠢ ᠳᠤᠷᠠᠰᠬᠠᠬᠤ 10 ᠰᠢᠦᠳᠠᠨ ᠲᠡᠮᠳᠡᠭ ᠲᠡᠶ ᠂ ᠨᠠᠶᠢᠵᠠ  ᠳᠤ ᠪᠠᠨ 5 ᠰᠢᠦᠳᠠᠨ  ᠲᠡᠮᠳᠡᠭ ᠬᠦᠷᠭᠡᠭᠰᠡᠨ  ᠤ ᠳᠠᠷᠠᠭ᠎ᠠ ᠂ ᠡᠵᠢ ᠨᠢ ᠰᠢᠶᠤᠤ ᠳ᠋ᠦᠩ  ᠳᠤ ᠪᠠᠰᠠ 4   ᠰᠢᠦᠳᠠᠨ ᠲᠡᠮᠳᠡᠭ ᠬᠤᠳᠠᠯᠳᠤᠨ ᠠᠪᠴᠢᠷᠠᠵᠤ ᠥᠭᠴᠡᠶ ᠂ ᠰᠢᠶᠤᠤ ᠳ᠋ᠦᠩ ᠣᠲᠣ  ᠬᠡᠳᠦᠨ ᠰᠢᠦᠳᠠᠨ ᠲᠡᠮᠳᠡᠭ ᠲᠡᠶ ᠪᠣᠶ ︖",
+        "zh_translation": "小冬有10张澳门回归十周年纪念邮票，送给朋友5张后，妈妈又给小冬买来4张，小冬现在有多少张？",
+        "answer": "9",
+        "en_translation": "Xiao Dong has 10 commemorative stamps for the 10th anniversary of Macau's return. After giving 5 to his friends, Xiao Dong's mother bought him 4 more. How many does Xiao Dong have now?"
+    },
+    {
+        "id": "math_mn_141",
+        "question": "ᠨᠢᠭᠡ ᠬᠡᠰᠡᠭ ᠲᠦᠷᠭᠡᠨ  ᠬᠤᠷᠳᠤᠴᠠᠲᠤ ᠵᠠᠰᠠᠮᠠᠯ ᠵᠠᠮ  ᠢ ᠵᠠᠰᠠᠬᠤ  ᠳᠦ ᠨᠢᠭᠡᠨᠲᠡ 60％  ᠢ ᠨᠢ ᠵᠠᠰᠠᠭᠰᠠᠨ ᠪᠠᠶᠢᠲᠠᠯ᠎ᠠ ᠪᠠᠰᠠ 20 ᠺᠢᠯᠣᠮᠧᠲ᠋ᠷ  ᠢ ᠨᠢ ᠵᠠᠰᠠᠭᠠᠳᠤᠶ᠂ ᠡᠨᠡ ᠬᠡᠰᠡᠭ ᠲᠦᠷᠭᠡᠨ ᠬᠤᠷᠳᠤᠴᠠᠲᠤ ᠵᠠᠰᠠᠮᠠᠯ ᠵᠠᠮ  ᠤᠨ ᠤᠷᠳᠤ ᠨᠢ ᠬᠡᠳᠦᠨ ᠺᠢᠯᠣᠮᠧᠲ᠋ᠷ ᠪᠠᠶᠢᠳᠠᠭ ᠪᠤᠢ?",
+        "zh_translation": "修一段高速公路，已经修了60%，还剩下20千米没有修，这段高速公路长多少千米？",
+        "answer": "50",
+        "en_translation": "To build a highway, 60% has already been completed, and there are still 20 kilometers left unfinished. How long is this highway?"
+    },
+    {
+        "id": "math_mn_16",
+        "question": "ᠨᠢᠭᠡ  ᠨᠡᠮᠡᠭ᠍ᠳᠡᠭᠦᠨ ᠨᠢ 42᠂ ᠨᠦᠬᠦᠭᠡ ᠨᠡᠮᠡᠭ᠍ᠳᠡᠭᠦᠨ ᠨᠢ 20᠂ ᠨᠡᠶᠢᠯᠡᠪᠦᠷᠢ ᠨᠢ ᠬᠡᠳᠦᠶ ᠪᠤᠢ?",
+        "zh_translation": "一个加数是42，另一个加数是20，和是多少？",
+        "answer": "62",
+        "en_translation": "One addend is 42, the other addend is 20, what is the sum?"
+    },
+    {
+        "id": "math_mn_244",
+        "question": "ᠬᠣᠩ ᠾᠧ ᠵᠢᠮᠢᠰ  ᠤᠨ ᠬᠦᠷᠢᠶᠡᠯᠡᠩ  ᠳᠦ 240 ᠠᠯᠮᠤᠷᠠᠳ  ᠤᠨ ᠮᠣᠳᠣ ᠪᠠᠢᠨ᠎ᠠ ᠂ ᠲᠤᠭᠤᠷ  ᠤᠨ ᠮᠣᠳᠣᠨ  ᠤ2 ᠳᠠᠬᠢᠨ   ᠡᠴᠡ40 ᠳᠤᠲᠠᠭᠤ ᠂ ᠵᠢᠮᠢᠰ  ᠤᠨ ᠬᠦᠷᠢᠶᠡᠯᠡᠩ  ᠳᠦ  ᠬᠡᠳᠦᠨ  ᠲᠤᠭᠤᠷ  ᠤᠨ ᠮᠣᠳᠣ ᠪᠠᠶᠢᠬᠤ ᠪᠣᠶ ︖",
+        "zh_translation": "红河果园有苹果树240棵，比桃树的2倍少40棵，果园有桃树多少棵？",
+        "answer": "140",
+        "en_translation": "The Honghe Orchard has 240 apple trees, which is 40 fewer than twice the number of peach trees. How many peach trees are there in the orchard?"
+    },
+    {
+        "id": "math_mn_134",
+        "question": "ᠪᠢᠴᠢᠬᠠᠨ ᠬᠡᠷᠡᠮᠦ ᠨᠢᠭᠡ ᠪᠦᠯᠦᠭ ᠪᠣᠷᠭᠣᠴᠠᠶ ᠬᠠᠳᠠᠭᠠᠯᠠᠵᠤ ᠡᠪᠦᠯᠵᠢᠵᠡᠶ ᠃ ᠪᠢᠴᠢᠬᠠᠨ ᠬᠡᠷᠡᠮᠦ ᠤᠤᠯ ᠨᠢ ᠡᠳᠦᠷ ᠪᠦᠷᠢ 6 ᠪᠣᠷᠭᠣᠴᠠᠶ ᠢᠳᠡᠬᠦ ᠪᠡᠷ ᠲᠥᠯᠥᠪᠯᠡᠵᠦ ᠪᠠᠶᠢᠭᠰᠠᠨ ᠪᠣᠯᠪᠠᠴᠤ ᠦᠨᠡᠨ ᠳᠡᠭᠡᠨ ᠡᠳᠦᠷ ᠪᠦᠷᠢ ᠤᠤᠯ  ᠤᠨ ᠲᠥᠯᠥᠪᠯᠡᠭᠡ ᠡᠴᠡ ᠪᠡᠨ 2 ᠢᠯᠡᠭᠦᠦ ᠢᠳᠡᠬᠦ ᠪᠡᠷ ᠲᠥᠯᠥᠪᠯᠡᠵᠦ ᠪᠠᠶᠢᠵᠠᠶ ᠂ ᠢᠩᠭᠢᠭᠰᠡᠨ   ᠤ ᠳ᠋ᠦᠩ  ᠳᠦ 5 ᠡᠳᠦᠷ  ᠤᠨ ᠡᠮᠦᠨ᠎ᠡ ᠪᠣᠷᠭᠣᠴᠠᠶ ᠢᠳᠡᠵᠦ ᠳᠠᠭᠤᠰᠴᠠᠶ ᠃ ᠪᠢᠴᠢᠬᠠᠨ ᠬᠡᠷᠡᠮᠦ ᠨᠡᠶᠢᠲᠡ ᠬᠡᠳᠦᠶ ᠪᠣᠷᠭᠣᠴᠠᠶ ᠬᠠᠳᠠᠭᠠᠯᠠᠭᠰᠠᠨ ᠪᠤᠶ ︖",
+        "zh_translation": "小松鼠储藏了一些松果过冬．小松鼠原计划每天吃6个松果，实际每天比原计划多吃2个，结果提前5天吃完了松果．小松鼠一共储藏了多少个松果？",
+        "answer": "120",
+        "en_translation": "The little squirrel stored some pinecones for the winter. The little squirrel originally planned to eat 6 pinecones a day, but actually ate 2 more than planned each day, and as a result, finished the pinecones 5 days earlier. How many pinecones did the little squirrel store in total?"
+    },
+    {
+        "id": "math_mn_114",
+        "question": "ᠲᠤᠷᠰᠢᠯᠲᠠ  ᠶᠢᠨ ᠪᠠᠭ᠎ᠠ ᠰᠤᠷᠭᠠᠭᠤᠯᠢ  ᠶᠢᠨ ᠲᠠᠪᠤᠳᠤᠭᠠᠷ  ᠣᠨ ᠤ （1） ᠠᠨᠭᠬᠢ  ᠳᠦ 42 ᠬᠥᠮᠦᠨ ᠲᠡᠶ᠂ ᠲᠠᠪᠤᠳᠤᠭᠠᠷ  ᠣᠨ  ᠤ（2） ᠠᠨᠭᠬᠢ  ᠳᠦ 48 ᠬᠥᠮᠦᠨ ᠲᠡᠶ᠂ ᠤᠳᠤ ᠬᠣᠶᠠᠷ ᠠᠨᠭᠬᠢ  ᠶᠢᠨ ᠰᠤᠷᠤᠭᠴᠢᠳ ᠢ ᠬᠥᠮᠦᠨ  ᠤ ᠲᠣᠭ᠎ᠠ ᠪᠠᠷ ᠲᠡᠩᠴᠡᠭᠦᠦ ᠳᠤᠭᠤᠶᠢᠯᠠᠩ ᠪᠣᠯᠭᠠᠨ ᠬᠤᠪᠢᠶᠠᠭᠠᠳ ᠦᠯᠡᠳᠡᠭᠰᠡᠨ ᠦᠭᠡᠢ᠂ ᠳᠤᠭᠤᠶᠢᠯᠠᠩ ᠪᠦᠷᠢ  ᠳᠤ ᠬᠠᠮᠤᠭ ᠤᠨ  ᠤᠯᠠᠨ  ᠳᠦ  ᠪᠠᠨ ᠬᠡᠳᠦᠨ ᠬᠥᠮᠦᠨ ᠬᠤᠪᠢᠶᠠᠬᠤ ᠪᠤᠢ?",
+        "zh_translation": "实验小学五（1）班有42人，五（2）班有48人，现在把两个班的学生分成人数相等的小组而没有剩余，每组最多分几人？",
+        "answer": "6",
+        "en_translation": "There are 42 students in Class Five (1) and 48 students in Class Five (2) of the Experimental Primary School. Now, if the students from the two classes are divided into groups of equal size without any remainder, what is the maximum number of students that can be in each group?"
+    },
+    {
+        "id": "math_mn_240",
+        "question": "ᠰᠤᠷᠭᠠᠭᠤᠯᠢ  ᠡᠴᠡ 500 ᠳᠡᠪᠲᠡᠷ ᠡᠴᠡ ᠬᠡᠲᠦᠷᠡᠬᠦ ᠦᠭᠡᠢ ᠨᠣᠮ  ᠢ  ᠠᠩᠭᠢ   ᠶᠢᠨ ᠬᠢᠴᠢᠶᠡᠯ  ᠤᠨ ᠭᠠᠳᠠᠨᠠᠬᠢ ᠤᠩᠰᠢᠯᠭ᠎ᠠ  ᠳᠦ ᠵᠢᠭᠡᠯᠡᠭᠦᠯᠦᠨ᠎ᠡ᠂ ᠠᠩᠭᠢ ᠪᠦᠷᠢ 25 ᠳᠡᠪᠲᠡᠷ  ᠵᠢᠭᠡᠯᠡᠪᠡᠯ᠂ ᠶᠠᠭ ᠰᠠᠶᠢᠬᠠᠨ ᠵᠢᠭᠡᠯᠡᠵᠦ ᠳᠠᠭᠤᠰᠬᠠᠨ᠎ᠠ᠂ ᠠᠩᠭᠢ ᠪᠦᠷᠢ 30 ᠳᠡᠪᠲᠡᠷ  ᠵᠢᠭᠡᠯᠡᠪᠡᠯ᠂ ᠪᠠᠰᠠ ᠶᠠᠭ ᠰᠠᠶᠢᠬᠠᠨ ᠵᠢᠭᠡᠯᠡᠵᠦ ᠳᠠᠭᠤᠰᠬᠠᠨ᠎ᠠ᠂ ᠡᠨᠡ ᠪᠦᠯᠦᠭ ᠨᠣᠮ ᠬᠠᠮᠤᠭ ᠠᠷᠪᠢᠨ ᠳᠠᠭᠠᠨ ᠬᠡᠳᠦᠨ ᠳᠡᠪᠲᠡᠷ ᠪᠠᠶᠢᠬᠤ ᠪᠤᠢ?",
+        "zh_translation": "学校把不超过500册书借给班级课余阅读，每班借25本，正好借完，每班借30本，也正好借完．这批书最多有多少本？",
+        "answer": "450",
+        "en_translation": "The school lends no more than 500 books to classes for extracurricular reading, lending 25 books to each class, and all the books are lent out; lending 30 books to each class, and all the books are also lent out. What is the maximum number of books in this batch?"
+    },
+    {
+        "id": "math_mn_142",
+        "question": "ᠸᠠᠩ ᠠᠪᠠᠭ᠎ᠠ ᠪᠠᠩᠬᠢ  ᠳᠦ 10000 ᠲᠥᠭᠥᠷᠢᠭ ᠬᠠᠳᠠᠭᠠᠯᠠᠵᠤ᠂ ᠲᠣᠭᠲᠠᠭᠰᠠᠨ ᠬᠤᠭᠤᠴᠠᠭ᠎ᠠ ᠲᠠᠶ ᠪᠠᠷ ᠭᠤᠷᠪᠠᠨ ᠵᠢᠯ ᠬᠠᠳᠠᠭᠠᠯᠠᠵᠤ᠂ ᠵᠢᠯ  ᠤᠨ ᠠᠰᠢᠭ ᠬᠣᠨᠵᠢᠪᠣᠷᠢ ᠨᠢ 4.5％᠂ ᠬᠤᠭᠤᠴᠠᠭ᠎ᠠ ᠨᠢ ᠲᠤᠯᠤᠭᠰᠠᠨ  ᠤ ᠲᠠᠷᠠᠭ᠎ᠠ ᠴᠤᠬᠤᠮ ᠬᠡᠳᠦᠨ   ᠲᠥᠭᠥᠷᠢᠭ  ᠤᠨ ᠬᠦᠦ ᠮᠥᠩᠭᠥ ᠤᠯᠬᠤ ᠪᠤᠢ?",
+        "zh_translation": "王叔叔在银行存入10000元，定期三年，年利润4.5%，到期后实得利息多少元？",
+        "answer": "1350",
+        "en_translation": "Uncle Wang deposited 10,000 yuan in the bank as a fixed term for three years, with an annual interest rate of 4.5%. How much interest will he earn upon maturity?"
+    },
+    {
+        "id": "math_mn_53",
+        "question": "ᠰᠤᠷᠭᠠᠭᠤᠯᠢ  ᠶᠢᠨ ᠬᠣᠭᠣᠯᠠᠨ ᠭᠡᠷ ᠡᠴᠡ 36.50 ᠺᠢᠯᠣᠭ᠍ᠷᠠᠮ ᠬᠠᠰᠢ  ᠬᠤᠳᠠᠯᠳᠤᠨ  ᠠᠪᠤᠪᠠ᠂ ᠬᠤᠳᠠᠯᠳᠤᠨ ᠠᠪᠤᠭᠰᠠᠨ ᠴᠤᠭᠤᠷ ᠨᠣᠭᠣᠭ᠎ᠠ ᠨᠢ ᠬᠠᠰᠢ ᠠᠴᠠ 39.1ᠺᠢᠯᠣᠭ᠍ᠷᠠᠮ ᠳᠤᠲᠠᠭᠤ ᠂ ᠬᠤᠳᠠᠯᠳᠤᠨ ᠠᠪᠤᠭᠰᠠᠨ ᠴᠤᠭᠤᠷ ᠨᠣᠭᠣᠭ᠎ᠠ ᠨᠢ ᠬᠡᠳᠦᠶ ᠺᠢᠯᠣᠭ᠍ᠷᠠᠮ ᠪᠠᠶᠢᠳᠠᠭ ᠪᠤᠢ?",
+        "zh_translation": "学校食堂买来茄子36.50千克，买来的芹菜比茄子少3.91千克，买来芹菜多少千克？",
+        "answer": "32.59",
+        "en_translation": "The school cafeteria bought 36.50 kilograms of eggplant, and the celery they bought was 3.91 kilograms less than the eggplant. How many kilograms of celery did they buy?"
+    },
+    {
+        "id": "math_mn_164",
+        "question": "ᠪᠠᠭᠰᠢ  ᠡᠴᠡ ᠬᠡᠦᠬᠡᠳ  ᠤᠨ ᠴᠡᠴᠡᠷᠯᠢᠭ  ᠤᠨ ᠪᠢᠴᠢᠬᠠᠨ ᠬᠡᠦᠬᠡᠳ ᠲᠦ ᠵᠢᠮᠢᠰ ᠬᠤᠪᠢᠶᠠᠨ ᠥᠭᠴᠡᠶ᠂ ᠠᠯᠮᠤᠷᠠᠳ  ᠤᠨ ᠲᠣᠭ᠎ᠠ ᠨᠢ ᠠᠯᠢᠮ᠎ᠠ ᠶᠢᠨ ᠲᠣᠭ᠎ᠠ ᠶᠢᠨ 2 ᠳᠠᠬᠢᠨ ᠪᠠᠶᠢᠵᠤ᠂ ᠬᠡᠷᠪᠡ ᠬᠥᠮᠦᠨ ᠪᠦᠷᠢ  ᠳᠦ 3 ᠠᠯᠢᠮ᠎ᠠ ᠬᠤᠪᠢᠶᠠᠨ ᠥᠭᠪᠡᠯ᠂ 2 ᠠᠯᠢᠮ᠎ᠠ ᠢᠯᠡᠭᠦᠦ  ᠭᠠᠷᠤᠨ᠎ᠠ; ᠬᠡᠷᠪᠡ ᠬᠥᠮᠦᠨ ᠪᠦᠷᠢ  ᠳᠦ 7 ᠠᠯᠮᠤᠷᠠᠳ ᠬᠤᠪᠢᠶᠠᠵᠤ ᠥᠭᠬᠦ  ᠳᠦ ᠬᠦᠷᠪᠡᠯ ᠪᠠᠰᠠ 6 ᠠᠯᠮᠤᠷᠠᠳ ᠳᠤᠲᠠᠨ᠎ᠠ᠂ ᠨᠡᠢᠲᠡ ᠬᠡᠳᠦᠨ ᠠᠯᠮᠤᠷᠠᠳ ᠪᠠᠶᠢᠬᠤ ᠪᠤᠢ?",
+        "zh_translation": "老师给幼儿园小朋友分水果，苹果的个数是梨的个数的2倍．如果给每人分3个梨，就多出2个梨；如果给每人分7个苹果，那么还少6个苹果．问共有多少个苹果？",
+        "answer": "64",
+        "en_translation": "The teacher distributes fruits to the kindergarten children. The number of apples is twice the number of pears. If each person is given 3 pears, 2 pears are left over; if each person is given 7 apples, there are 6 apples short. How many apples are there in total?"
+    },
+    {
+        "id": "math_mn_157",
+        "question": "ᠸᠸᠨ ᠵᠢᠶᠠᠩ ᠲᠣᠭᠣᠷᠢᠭ  ᠤᠨ ᠰᠤᠷᠭᠠᠨ ᠬᠥᠮᠦᠵᠢᠯ  ᠤᠨ ᠲᠣᠪᠴᠢᠶ᠎ᠠ  ᠡᠴᠡ 6 ᠬᠠᠶᠢᠷᠴᠠᠭ ᠬᠠᠷᠠᠨᠳᠠ ᠬᠤᠳᠠᠯᠳᠤᠨ ᠠᠪᠴᠢᠷᠠᠵᠤ 《 ᠦᠰᠦᠭ ᠪᠢᠴᠢᠬᠦ ᠤᠷᠤᠯᠳᠤᠭᠠᠨ 》  ᠤ ᠨᠢᠭᠡ ᠬᠡᠰᠡᠭ ᠱᠠᠩᠨᠠᠯ  ᠤᠨ ᠡᠳ᠋ ᠪᠣᠯᠭᠠᠪᠠ ᠃  ᠰᠠᠪᠠ ᠪᠦᠷᠢ  ᠳᠤ 8 ᠬᠠᠶᠢᠷᠴᠠᠭ ᠂ ᠬᠠᠶᠢᠷᠴᠠᠭ ᠪᠦᠷᠢ  ᠳᠦ 9  ᠬᠠᠷᠠᠨᠳᠠ᠂ ᠨᠡᠶᠢᠲᠡ ᠬᠡᠳᠦᠨ ᠬᠠᠷᠠᠨᠳᠠ ᠪᠠᠶᠢᠬᠤ ᠪᠤᠶ ︖",
+        "zh_translation": "温江区教育局买来6箱铅笔作为“写字比赛”的部分奖品．每箱有8盒，每盒有9枝．一共有多少枝铅笔？",
+        "answer": "432",
+        "en_translation": "How many pencils are there in total if the Education Bureau of Wenjiang District bought 6 boxes of pencils as part of the prizes for a \"penmanship contest,\" with each box containing 8 packs and each pack containing 9 pencils?"
+    },
+    {
+        "id": "math_mn_81",
+        "question": "ᠨᠢᠭᠡ ᠤᠷᠲᠤ ᠳᠥᠷᠪᠡᠯᠵᠢᠨ ᠬᠡᠯᠪᠡᠷᠢ ᠲᠡᠶ ᠴᠡᠴᠡᠭ  ᠤᠨᠲᠠᠪᠴᠠᠩ  ᠤᠨ ᠥᠷᠭᠡᠨ ᠨᠢ 10 ᠮᠧᠲ᠋ᠷ ᠂ ᠣᠷᠳᠣ ᠨᠢ ᠥᠷᠭᠡᠨ ᠤ 2ᠳᠠᠬᠢᠨ ᠂ ᠰᠢᠶᠤᠤ ᠶᠠ ᠴᠡᠴᠡᠭ  ᠤᠨ ᠲᠠᠪᠴᠠᠩ  ᠢ  ᠨᠢᠭᠡ  ᠡᠷᠭᠢᠬᠦ  ᠳᠦ ᠬᠡᠳᠦᠶ ᠮᠧᠲ᠋ᠷ ᠶᠠᠪᠤᠬᠤ ᠪᠤᠶ ︖",
+        "zh_translation": "一个长方形花坛，宽为10米，长是宽的2倍．小亚沿花坛四周走一圈，要走多少米？",
+        "answer": "60",
+        "en_translation": "A rectangular flower bed has a width of 10 meters and a length that is twice the width. How many meters does Xiao Ya walk when walking around the flower bed once?"
+    },
+    {
+        "id": "math_mn_112",
+        "question": "ᠨᠢᠭᠡ ᠵᠠᠬ᠎ᠠ ᠬᠤᠪᠴᠠᠰᠤ ᠬᠢᠬᠦ  ᠳᠦ 1.2 ᠮᠧᠲ᠋ᠷ ᠪᠦᠰ ᠬᠡᠷᠡᠭᠰᠡᠨ᠎ᠡ᠂ 39 ᠮᠧᠲ᠋ᠷ ᠪᠦᠰ  ᠢᠶᠠᠷ ᠬᠡᠳᠦᠶ ᠵᠠᠬ᠎ᠠ ᠬᠤᠪᠴᠠᠰᠤ ᠬᠢᠵᠦ ᠪᠣᠯᠬᠤ ᠪᠤᠢ?",
+        "zh_translation": "做一件衣服需要1.2米布，39米布可以做多少件衣服？",
+        "answer": "32",
+        "en_translation": "To make one piece of clothing requires 1.2 meters of fabric. How many pieces of clothing can be made with 39 meters of fabric?"
+    },
+    {
+        "id": "math_mn_91",
+        "question": "ᠯᠢ ᠪᠠᠭᠰᠢ 500 ᠲᠥᠭᠥᠷᠢᠭ ᠠᠪᠴᠤ ᠂ ᠬᠥᠯ ᠪᠥᠮᠪᠥᠭᠡ ᠬᠤᠳᠠᠯᠳᠤᠨ ᠠᠪᠬᠤ  ᠳᠦ 140 ᠲᠥᠭᠥᠷᠢᠭ ᠵᠠᠷᠤᠴᠠᠭᠤᠯᠵᠠᠶ ᠂ ᠦᠯᠡᠳᠡᠭᠰᠡᠨ ᠵᠣᠭᠣᠰ  ᠢᠶᠠᠷ  ᠢᠶᠠᠨ ᠶᠠᠭ 5 ᠰᠠᠭᠰᠤᠨ ᠪᠥᠮᠪᠥᠭᠡ ᠬᠤᠳᠠᠯᠳᠤᠨ ᠠᠪᠴᠠᠶ ᠂ ᠳᠤᠮᠳᠠᠴᠢ ᠪᠠᠷ ᠰᠠᠭᠰᠤᠨ ᠪᠥᠮᠪᠥᠭᠡ ᠪᠦᠷᠢ ᠳᠦ ᠬᠡᠳᠦᠶ ᠲᠥᠭᠥᠷᠢᠭ ᠨᠣᠭᠳᠠᠬᠤ ᠪᠤᠶ ︖",
+        "zh_translation": "李师傅带了500元钱，买足球用去了140元，剩下的钱正好买5个篮球，平均每个篮球多少元？",
+        "answer": "72",
+        "en_translation": "Master Li brought 500 yuan and spent 140 yuan on buying a soccer ball. With the remaining money, he bought 5 basketballs. How much does each basketball cost on average?"
+    },
+    {
+        "id": "math_mn_216",
+        "question": "ᠰᠤᠷᠭᠠᠭᠤᠯᠢ 4 ᠰᠠᠭᠰᠤᠨ ᠪᠥᠮᠪᠥᠭᠡ ᠬᠤᠳᠠᠯᠳᠤᠨ ᠠᠪᠤᠪᠠ ᠂ ᠬᠤᠳᠠᠯᠳᠤᠨ ᠠᠪᠤᠭᠰᠠᠨ ᠰᠠᠭᠰᠤᠨ ᠪᠥᠮᠪᠥᠭᠡ  ᠶᠢᠨ ᠲᠣᠭ᠎ᠠ ᠨᠢ ᠠᠯᠠᠭᠠᠳᠠᠬᠤ ᠪᠥᠮᠪᠥᠭᠡ  ᠶᠢᠨ  ᠲᠣᠭᠠᠨ  ᠤ ᠬᠠᠭᠠᠰ ᠂ ᠬᠤᠳᠠᠯᠳᠤᠨ ᠠᠪᠤᠭᠰᠠᠨ ᠬᠥᠯ ᠪᠥᠮᠪᠥᠭᠡ  ᠶᠢᠨ ᠲᠣᠭ᠎ᠠ ᠨᠢ ᠰᠠᠭᠰᠤᠨ ᠪᠥᠮᠪᠥᠭᠡ ᠂ ᠠᠯᠠᠭᠠᠳᠠᠬᠤ ᠪᠥᠮᠪᠥᠭᠡ  ᠶᠢᠨ  ᠶᠡᠷᠦᠩᠬᠡᠶ ᠲᠣᠭᠠᠨ  ᠤ 3 ᠳᠠᠬᠢᠨ  ᠡᠴᠡ 7 ᠢᠯᠡᠭᠦᠦ ᠂ ᠰᠤᠷᠭᠠᠭᠤᠯᠢ  ᠬᠡᠳᠤᠨ ᠬᠥᠯ ᠪᠥᠮᠪᠥᠭᠡ ᠬᠤᠳᠠᠯᠳᠤᠨ ᠠᠪᠤᠭᠰᠠᠨ ᠪᠤᠶ︖",
+        "zh_translation": "学校买来篮球4个，买来篮球的数量是排球的一半，买来足球的数量比篮球、排球的总数的3倍多7个，学校买来多少个足球？",
+        "answer": "43",
+        "en_translation": "How many footballs did the school buy if it bought 4 basketballs, the number of basketballs is half the number of volleyballs, and the number of footballs is 7 more than 3 times the total number of basketballs and volleyballs?"
+    },
+    {
+        "id": "math_mn_144",
+        "question": "ᠴᠥᠩ ᠪᠠᠶ ᠬᠤᠳᠠᠯᠳᠤᠭᠠᠨ  ᠤ ᠳᠡᠯᠭᠡᠭᠦᠷ 《 ᠰᠢᠨ᠎ᠠ ᠵᠢᠯ  ᠤᠨ ᠪᠠᠶᠠᠷ 》  ᠤᠨ ᠪᠣᠷᠣᠯᠠᠭᠤᠯᠭ᠎ᠠ   ᠶᠢ ᠠᠬᠢᠭᠤᠯᠬᠤ ᠠᠵᠢᠯᠯᠠᠭ᠎ᠠ ᠳᠤᠮᠳᠠ ᠂ ᠨᠢᠭᠡ ᠵᠠᠬ᠎ᠠ ᠬᠤᠪᠴᠠᠰᠤ   ᠶᠢ 4 ᠨᠤᠭᠤᠯᠤᠭᠰᠠᠨ  ᠤ ᠳᠠᠷᠠᠭ᠎ᠠ ᠪᠠᠰᠠ 100 ᠲᠥᠭᠥᠷᠢᠭ  ᠤᠨ ᠠᠰᠢᠭ ᠣᠯᠭᠣᠵᠤ ᠂ 300 ᠲᠥᠭᠥᠷᠢᠭ  ᠤᠨ ᠦᠨ᠎ᠡ ᠪᠡᠷ ᠬᠤᠳᠠᠯᠳᠤᠪᠠ ᠂ ᠡᠨᠡ ᠵᠠᠬ᠎ᠠ ᠬᠤᠪᠴᠠᠰᠤ  ᠶᠢᠨ  ᠤᠤᠯ ᠦᠨ᠎ᠡ ᠨᠢ ᠬᠡᠳᠦᠨ ᠲᠥᠭᠥᠷᠢᠭ ᠪᠤᠶ ︖",
+        "zh_translation": "重百商场在庆“元旦”的促销活动中，一件衣服打4折后，还让利100元，售价为300元，这件衣服原价多少元？",
+        "answer": "1000",
+        "en_translation": "In the New Year's Day promotion at the Chongqing Department Store, an article of clothing is sold at a 60% discount, with an additional 100 yuan off, and the sale price is 300 yuan. What was the original price of this article of clothing?"
+    },
+    {
+        "id": "math_mn_121",
+        "question": "ᠪᠡᠭᠡᠵᠢᠩ  ᠤᠨ ᠬᠠᠭᠠᠨ  ᠤ ᠣᠷᠳᠣᠨ ᠪᠣᠯ ᠳᠡᠯᠡᠬᠡᠶ ᠳᠡᠭᠡᠷᠡᠬᠢ ᠬᠠᠮᠤᠭ ᠤᠨ ᠲᠣᠮᠣ ᠣᠷᠳᠣ ᠬᠠᠷᠰᠢ ᠪᠣᠯᠤᠨ᠎ᠠ ᠂ ᠡᠵᠡᠯᠡᠬᠦ ᠲᠠᠯᠠᠪᠠᠶ ᠨᠢ 0.72 ᠲᠡᠭᠰᠢ   ᠺᠦᠸᠠᠲ ᠺᠢᠯᠣᠮᠧᠲ᠋ᠷ  ᠪᠣᠯᠣᠨ᠎ᠠ᠂ ᠬᠡᠳᠦᠶ   ᠺᠦᠸᠠᠲ ᠮᠧᠲ᠋ᠷ ᠲᠡᠶ ᠲᠡᠩᠴᠡᠳᠡᠭ ᠪᠣᠶ ︖",
+        "zh_translation": "北京的故宫是世界上最大的宫殿，占地面积是0.72平方千米，等于多少平方米？",
+        "answer": "720000",
+        "en_translation": "The Forbidden City in Beijing is the largest palace in the world, covering an area of 0.72 square kilometers, which is equal to how many square meters?"
+    },
+    {
+        "id": "math_mn_85",
+        "question": "18 ᠪᠢᠴᠢᠬᠠᠨ ᠴᠠᠭᠠᠨ ᠲᠠᠤᠯᠠᠢ ᠨᠢᠭᠡ ᠮᠥᠷ  ᠢᠶᠠᠷ ᠵᠣᠭᠰᠣᠵᠤ ᠂ ᠬᠣᠶᠠᠷ ᠪᠢᠴᠢᠬᠠᠨ ᠴᠠᠭᠠᠨ ᠲᠠᠤᠯᠠᠢ ᠶᠢᠨ ᠳᠤᠮᠳᠠ ᠨᠢ ᠨᠢᠭᠡ ᠮᠥᠭᠥ ᠪᠤᠶ ᠂ ᠨᠡᠶᠢᠲᠡ ᠬᠡᠳᠦᠶ ᠮᠥᠭᠥ ᠪᠠᠢᠬᠤ ᠪᠤᠶ︖",
+        "zh_translation": "18只小白兔站成一排，每两只小白兔中间有一个蘑菇，一共有多少个蘑菇？",
+        "answer": "17",
+        "en_translation": "Eighteen little white rabbits stand in a row, with a mushroom between every two rabbits. How many mushrooms are there in total?"
+    },
+    {
+        "id": "math_mn_176",
+        "question": "ᠨᠢᠭᠡ ᠨᠣᠮ 143 ᠨᠢᠭᠤᠷ ᠲᠠᠶ᠂ ᠰᠢᠶᠤᠤ ᠮᠢᠩ ᠡᠳᠦᠷ ᠪᠦᠷᠢ 5 ᠨᠢᠭᠤᠷ ᠦᠵᠡᠬᠦ ᠪᠡᠷ ᠲᠥᠯᠥᠪᠯᠡᠵᠦ ᠪᠠᠶᠢᠨ᠎ᠠ᠂ ᠠᠳᠠᠭ ᠲᠠᠭᠠᠨ ᠬᠡᠳᠦᠨ ᠡᠳᠦᠷ ᠲᠦ ᠦᠵᠡᠵᠦ ᠳᠠᠭᠤᠰᠬᠠᠬᠤ ᠪᠤᠢ?",
+        "zh_translation": "一本书有143页，小明计划每天看5页，至少要多少天看完？",
+        "answer": "29",
+        "en_translation": "A book has 143 pages, if Xiaoming plans to read 5 pages every day, at least how many days will it take to finish?"
+    },
+    {
+        "id": "math_mn_19",
+        "question": "ᠬᠠᠮᠤᠭ  ᠤᠨ ᠶᠡᠬᠡ ᠬᠣᠶᠠᠷ ᠣᠷᠣᠨᠲᠤ ᠲᠣᠭ᠎ᠠ ᠨᠢ ᠬᠠᠮᠤᠭ  ᠤᠨ ᠶᠡᠬᠡ ᠨᠢᠭᠡ ᠣᠷᠣᠨᠲᠤ ᠲᠣᠭ᠎ᠠ ᠠᠴᠠ ᠬᠡᠳᠦᠶ ᠢᠯᠡᠭᠦᠦ ᠪᠤᠢ?",
+        "zh_translation": "最大的两位数比最大的一位数多多少？",
+        "answer": "90",
+        "en_translation": "How much larger is the largest two-digit number compared to the largest one-digit number?"
+    },
+    {
+        "id": "math_mn_187",
+        "question": "ᠨᠢᠭᠡ ᠪᠠᠭᠯᠠᠭ᠎ᠠ ᠳᠠᠪᠤᠰᠤᠨ  ᠤ ᠬᠦᠨᠳᠦ ᠨᠢ 500 ᠭᠷᠠᠮ᠂ ᠨᠢᠭᠡ ᠪᠠᠭᠯᠠᠭ᠎ᠠ ᠠᠮᠲᠠ  ᠶᠢᠨ ᠤᠭᠢ  ᠶᠢᠨ ᠬᠦᠨᠳᠦ ᠨᠢ 200 ᠭᠷᠠᠮ᠂ 4 ᠪᠠᠭᠯᠠᠭ᠎ᠠ ᠳᠠᠪᠤᠰᠤᠨ  ᠤ ᠬᠦᠨᠳᠦ ᠨᠢ ᠨᠡᠶᠢᠲᠡ  ᠬᠡᠳᠤᠨ ᠭᠷᠠᠮ ᠪᠤᠢ?",
+        "zh_translation": "一包盐重500克，一包味精重200克，4包盐一共重多少克？",
+        "answer": "2000",
+        "en_translation": "A pack of salt weighs 500 grams, and a pack of MSG weighs 200 grams. How many grams do 4 packs of salt weigh in total?"
+    },
+    {
+        "id": "math_mn_26",
+        "question": "ᠰᠢᠶᠥᠦ ᠰᠢᠶᠥᠦ ᠪᠦᠬᠦ ᠭᠡᠷ  ᠢᠶᠠᠷ  ᠢᠶᠠᠨ ᠵᠤᠭᠠᠴᠠᠬᠤ ᠪᠠᠷ ᠶᠠᠪᠤᠨ᠎ᠠ᠂ ᠠᠪᠤ ᠡᠵᠢ ᠨᠢ 800 ᠲᠥᠭᠥᠷᠢᠭ  ᠠᠪᠴᠤ  ᠶᠠᠪᠤᠨ᠎ᠠ ᠃ ᠳᠠᠩᠰᠠ ᠲᠡᠮᠳᠡᠭᠯᠡᠬᠦ ᠬᠠᠭᠤᠳᠠᠰᠤᠨ ᠳᠡᠭᠡᠷ᠎ᠡ᠂ ᠬᠣᠨᠣᠭ  ᠤᠨ  ᠰᠤᠢᠳᠭᠡᠯ 380 ᠲᠥᠭᠥᠷᠢᠭ᠂  ᠬᠣᠭᠣᠯᠠᠨ  ᠰᠦᠢᠳᠭᠡᠯ 210 ᠲᠥᠭᠥᠷᠢᠭ ᠲᠡᠮᠳᠡᠭᠯᠡᠵᠦ ᠪᠠᠶᠢᠨ᠎ᠠ᠃ ᠪᠠᠰᠠ ᠬᠡᠳᠦᠶ ᠵᠣᠭᠣᠰ ᠦᠯᠡᠳᠡᠵᠦ ᠪᠠᠶᠬᠤ ᠪᠤᠶ?",
+        "zh_translation": "笑笑全家去旅游，爸爸妈妈共带了800元饯。记帐单上记着：住宿380元，用餐210元。还剩多少钱？",
+        "answer": "210",
+        "en_translation": "The whole family of Xiaoxiao went on a trip, and the parents brought 800 yuan in total. The account ledger records: accommodation 380 yuan, dining 210 yuan. How much money is left?"
+    },
+    {
+        "id": "math_mn_80",
+        "question": "ᠦᠢᠯᠡᠴᠢᠯᠡᠭᠴᠢ ᠰᠢᠶᠤᠤ ᠸᠠᠩ ᠬᠣᠭᠣᠯᠠᠨ ᠰᠢᠷᠡᠭᠡᠨ ᠳᠡᠭᠡᠷ᠎ᠡ ᠫᠢᠯᠠ  ᠶᠢ ᠲᠠᠯᠪᠢᠪᠠ᠂ ᠡᠬᠢᠯᠡᠬᠦ ᠳᠡᠭᠡᠨ ᠰᠢᠷᠡᠭᠡ ᠪᠦᠷᠢ  ᠳᠦ 5 ᠫᠢᠯᠠ  ᠶᠢ ᠲᠠᠯᠪᠢᠬᠤ  ᠶᠢ ᠱᠠᠭᠠᠷᠳᠠᠭᠰᠠᠨ  ᠳᠦ 3 ᠫᠢᠯᠠ ᠳᠤᠲᠠᠭᠰᠠᠨ  ᠢ ᠣᠯᠵᠤ ᠮᠡᠳᠡᠵᠡᠢ︔ ᠰᠡᠭᠦᠯᠡᠷ ᠨᠢ ᠰᠢᠷᠡᠭᠡ ᠪᠣᠯᠭᠠᠨ  ᠳᠦ 8 ᠫᠢᠯᠠ ᠲᠠᠯᠪᠢᠬᠤ ᠶᠢ ᠱᠠᠭᠠᠷᠳᠠᠭᠰᠠᠨ  ᠡᠴᠡ 24 ᠫᠢᠯᠠ ᠳᠤᠲᠠᠭᠳᠠᠨ᠎ᠠ᠃ ᠡᠨᠡ  ᠬᠣᠭᠣᠯᠠᠨ  ᠭᠡᠷ ᠳᠤ ᠨᠡᠢᠲᠡ ᠬᠡᠳᠦᠨ ᠰᠢᠷᠡᠭᠡ ᠪᠠᠶᠢᠬᠤ ᠪᠤᠢ?",
+        "zh_translation": "服务员小王在饭桌上放碟子，开始的时候要求每张桌子放5个碟子，结果发现缺3个碟子；后来要求每张桌子放8个碟子，这样就会缺24个碟子．请问，这个饭店一共有几张桌子？",
+        "answer": "7",
+        "en_translation": "Waiter Xiao Wang placed plates on tables and initially required placing 5 plates on each table, resulting in a shortage of 3 plates; later required placing 8 plates on each table, which would lead to a shortage of 24 plates. How many tables are there in the restaurant?"
+    },
+    {
+        "id": "math_mn_38",
+        "question": "ᠰᠤᠷᠭᠠᠭᠤᠯᠢ  ᠶᠢᠨ ᠨᠣᠭᠣᠭᠠᠷᠠᠭᠤᠯᠤᠯᠲᠠ  ᠳᠦ ᠂ 18 ᠨᠠᠷᠠᠰᠤᠨ ᠮᠣᠳᠣ ᠂ 9 ᠤᠳᠠ  ᠮᠣᠳᠣ  ᠶᠢ ᠵᠥᠭᠡᠭᠡᠪᠦᠷᠢᠯᠡᠨ ᠠᠪᠴᠢᠷᠠᠵᠤ ᠂ ᠵᠥᠭᠡᠭᠡᠪᠦᠷᠢᠯᠡᠨ ᠠᠪᠴᠢᠷᠠᠭᠰᠠᠨ ᠨᠠᠷᠠᠰᠤᠨ ᠮᠣᠳᠣ ᠨᠢ ᠤᠳᠠ ᠮᠣᠳᠣᠨ  ᠤ ᠬᠡᠳᠦᠨ ᠳᠠᠬᠢᠨ ᠪᠣᠶ ︖",
+        "zh_translation": "学校绿化，运来18棵松树苗，9棵柳树苗，运来的松树苗是柳树苗的几倍？",
+        "answer": "2",
+        "en_translation": "How many times the number of pine saplings is the number of willow saplings if 18 pine saplings and 9 willow saplings are transported to school for greening?"
+    },
+    {
+        "id": "math_mn_155",
+        "question": "ᠤᠮᠪᠠᠯᠲᠠ  ᠶᠢᠨ ᠲᠠᠲᠠᠭᠠᠯ ᠤᠨ ᠣᠷᠳᠣ ᠨᠢ 35 ᠮᠧᠲ᠋ᠷ ᠂ ᠰᠢᠶᠤᠤ ᠮᠢᠩ ᠡᠳᠦᠷ ᠪᠦᠷᠢ ᠬᠣᠶᠠᠷ ᠤᠳᠠᠭ᠎ᠠ ᠤᠮᠪᠠᠨ ᠂ ᠨᠢᠭᠡ ᠭᠠᠷᠠᠭ （ 7 ᠡᠳᠦᠷ ） ᠲᠦ ᠨᠡᠶᠢᠲᠡ  ᠬᠡᠳᠦᠨ ᠮᠧᠲ᠋ᠷ ᠤᠮᠪᠠᠳᠠᠭ ᠪᠤᠶ ︖",
+        "zh_translation": "游泳池长35米，小明每天游两个来回，一周（7天）共游多少米？",
+        "answer": "980",
+        "en_translation": "The swimming pool is 35 meters long. Xiaoming swims two laps every day. How many meters does he swim in total in a week (7 days)?"
+    },
+    {
+        "id": "math_mn_208",
+        "question": "ᠨᠢᠭᠡᠨ ᠲᠧᠯᠸᠢᠰ  ᠤᠨ ᠦᠢᠯᠡᠳᠪᠦᠷᠢ ᠤᠤᠯ ᠨᠢ ᠡᠳᠦᠷ ᠪᠦᠷᠢ 116 ᠲᠧᠯᠸᠢᠰ ᠦᠢᠯᠡᠳᠪᠦᠷᠢᠯᠡᠵᠦ ᠪᠠᠶᠢᠵᠠᠶ᠂ ᠤᠳᠦ ᠡᠳᠦᠷ ᠪᠦᠷᠢ  ᠶᠢᠨ ᠦᠢᠯᠡᠳᠪᠦᠷᠢᠯᠡᠵᠦ ᠪᠠᠶᠢᠭ᠎ᠠ ᠲᠧᠯᠸᠢᠰ  ᠤᠨ ᠲᠣᠭ᠎ᠠ ᠨᠢ ᠤᠤᠯ  ᠤᠨ ᠲᠣᠭᠠᠨ  ᠤ 12 ᠲᠡᠬᠢᠠ  ᠪᠣᠯᠣᠨ᠎ᠠ᠂ ᠤᠳᠦ ᠡᠳᠦᠷ ᠪᠦᠷᠢ  ᠬᠡᠳᠤᠨ ᠲᠧᠯᠸᠢᠰ ᠦᠢᠯᠡᠳᠪᠦᠷᠢᠯᠡᠵᠦ ᠴᠢᠳᠠᠬᠤ ᠪᠤᠢ?",
+        "zh_translation": "某电视机厂原来每天生产116台电视机，现在每天生产的台数是原来的12倍，现在每天能生产多少台电视机？",
+        "answer": "1392",
+        "en_translation": "A certain TV factory originally produced 116 TVs per day. Now the daily production is 12 times the original amount. How many TVs can be produced daily now?"
+    },
+    {
+        "id": "math_mn_181",
+        "question": "ᠵᠢᠮᠢᠰ  ᠤᠨ ᠬᠦᠷᠢᠶᠡᠯᠡᠩ   ᠳᠦ ᠠᠯᠮᠤᠷᠠᠳ  ᠤᠨ ᠮᠣᠳᠣ 456 ᠰᠠᠭᠤᠷᠢ ᠪᠠᠶᠢᠵᠤ ᠂ ᠲᠡᠷᠡ  ᠨᠢ ᠠᠯᠢᠮ᠎ᠠ   ᠶᠢᠨ ᠮᠣᠳᠣᠨ  ᠤ 3 ᠳᠠᠬᠢᠨ ᠂ ᠠᠯᠢᠮ᠎ᠠ  ᠶᠢᠨ ᠮᠣᠳᠣ ᠬᠡᠳᠦᠶ ᠰᠠᠭᠤᠷᠢ ᠪᠠᠶᠢᠳᠠᠭ ᠪᠣᠶ ︖",
+        "zh_translation": "果园里的苹果树有456棵，是梨树的3倍，梨树有多少棵？",
+        "answer": "152",
+        "en_translation": "In the orchard, there are 456 apple trees, which is three times the number of pear trees. How many pear trees are there?"
+    },
+    {
+        "id": "math_mn_137",
+        "question": "ᠵᠢᠵᠢᠭ ᠪᠠᠷᠠᠭᠠᠨ  ᠤ ᠳᠡᠯᠭᠡᠭᠦᠷ  ᠤᠨ ᠠᠶᠠᠭ᠎ᠠ ᠰᠠᠪᠬ᠎ᠠ  ᠶᠢᠨ ᠦᠨ᠎ᠡ ᠨᠢ ᠄ ᠠᠶᠠᠭ᠎ᠠ ᠪᠦᠷᠢ ᠳᠡᠭᠡᠨ 3 ᠲᠥᠭᠥᠷᠢᠭ ᠂ ᠰᠠᠪᠬ᠎ᠠ ᠪᠦᠷᠢ ᠳᠡᠭᠡᠨ 5 ᠮᠥᠩᠭᠥ ᠂ ᠡᠵᠢ ᠨᠢ 16 ᠢᠵᠢ ᠠᠶᠠᠭ᠎ᠠ ᠰᠠᠪᠬ᠎ᠠ ᠬᠤᠳᠠᠯᠳᠤᠨ ᠠᠪᠤᠭᠠᠳ ᠨᠡᠶᠢᠲᠡ ᠬᠡᠳᠦᠶ ᠵᠣᠭᠣᠰ ᠵᠠᠷᠤᠴᠠᠭᠤᠯᠤᠭᠰᠠᠨ ᠪᠤᠶ ︖",
+        "zh_translation": "杂货店里碗筷的标价为：碗每只3元，筷子每双5角．妈妈买了16套碗筷，一共花了多少钱？",
+        "answer": "56",
+        "en_translation": "The marked price at the grocery store is 3 yuan per bowl and 0.5 yuan per pair of chopsticks. Mom bought 16 sets of bowls and chopsticks. How much did she spend in total?"
+    },
+    {
+        "id": "math_mn_65",
+        "question": "ᠨᠠᠭᠠᠴᠤ ᠡᠮᠡᠭᠡ  ᠶᠢᠨ ᠬᠢᠨ 8 ᠡᠷᠡᠭᠴᠢᠨ ᠲᠠᠬᠢᠶ᠎ᠠ ᠲᠡᠵᠢᠭᠡᠵᠦ ᠪᠠᠶᠢᠨ᠎ᠠ ᠂ ᠲᠡᠵᠢᠭᠡᠭᠰᠡᠨ ᠡᠮᠡᠭᠴᠢᠨ ᠲᠠᠬᠢᠶ᠎ᠠ ᠨᠢ ᠡᠷᠡᠭᠴᠢᠨ ᠲᠠᠬᠢᠶ᠎ᠠ  ᠶᠢᠨ 3 ᠳᠠᠬᠢᠨ ᠂ ᠨᠡᠶᠢᠲᠡ ᠬᠡᠳᠦᠶ ᠲᠠᠬᠢᠶ᠎ᠠ ᠪᠠᠶᠢᠬᠤ ᠪᠣᠶ ︖",
+        "zh_translation": "外婆家养着8只公鸡，养的母鸡是公鸡的3倍，一共有多少只鸡？",
+        "answer": "32",
+        "en_translation": "At Grandma's house, there are 8 roosters being raised, and the number of hens is three times that of the roosters. How many chickens are there in total?"
+    },
+    {
+        "id": "math_mn_205",
+        "question": "ᠴᠧᠨ ᠭᠤᠸᠠᠩ ᠲᠤᠰᠦ ᠪᠣᠯᠪᠠᠰᠤᠷᠠᠭᠤᠯᠬᠤ ᠦᠢᠯᠡᠳᠪᠦᠷᠢ 872 ᠯᠢᠲ᠋ᠷ  ᠤᠨ ᠲᠤᠰᠦ  ᠶᠢ 5 ᠯᠢᠲ᠋ᠷ  ᠤᠨ ᠪᠠᠭᠲᠠᠭᠠᠮᠵᠢ ᠲᠠᠶ ᠲᠤᠰᠦᠠ  ᠤ ᠳᠦᠩᠰᠡᠨ  ᠳᠦ ᠬᠤᠪᠢᠶᠠᠨ ᠰᠠᠪᠠᠯᠠᠵᠤ ᠬᠤᠳᠠᠯᠳᠤᠨ᠎ᠠ᠂ ᠡᠶᠢᠮᠦ ᠲᠤᠰᠦᠠ  ᠤ ᠳᠦᠩᠰᠨ  ᠠᠳᠠᠭ ᠲᠠᠭᠠᠨ ᠬᠡᠳᠦ  ᠵᠠᠷᠤᠬᠤ ᠪᠤᠢ?",
+        "zh_translation": "晨光炼油厂把872升的油分装在容量为5升的油桶中出售，至少要多少个这样的油桶？",
+        "answer": "175",
+        "en_translation": "How many of these 5-liter oil barrels are needed to sell 872 liters of oil from the Chenguang Refinery, which is packaged in 5-liter barrels?"
+    },
+    {
+        "id": "math_mn_159",
+        "question": "ᠨᠢᠭᠡ ᠤᠷᠳᠦ ᠳᠥᠷᠪᠡᠯᠵᠢᠨ  ᠤ ᠤᠷᠳᠦ ᠨᠢ 5 ᠰᠠᠨᠲ᠋ᠢᠮᠧᠲ᠋ᠷ᠂ ᠥᠷᠭᠡᠨ ᠨᠢ 3 ᠰᠠᠨᠲ᠋ᠢᠮᠧᠲ᠋ᠷ᠂ ᠬᠦᠷᠢᠶᠡᠨ  ᠤ ᠤᠷᠳᠦ ᠨᠢ ᠬᠡᠳᠦᠨ ᠰᠠᠨᠲ᠋ᠢᠮᠧᠲ᠋ᠷ ᠪᠤᠢ?",
+        "zh_translation": "一个长方形的长是5厘米，宽是3厘米，它的周长是多少厘米？",
+        "answer": "16",
+        "en_translation": "The length of a rectangle is 5 cm, the width is 3 cm, what is its perimeter in centimeters?"
+    },
+    {
+        "id": "math_mn_25",
+        "question": "ᠰᠢᠶᠤᠤ ᠮᠢᠩ  ᠳᠤ 6 ᠢᠵᠢ  ᠺᠠᠷᠲ ᠵᠢᠷᠤᠭ ᠲᠠᠶ ᠂ ᠢᠵᠢ ᠪᠦᠷᠢ  ᠳᠦ ᠨᠢ 3  ᠬᠠᠭᠤᠳᠠᠰᠤ ᠂ ᠨᠡᠶᠢᠲᠡ ᠬᠡᠳᠦᠨ  ᠬᠠᠭᠤᠳᠠᠰᠤ ᠪᠠᠶᠢᠬᠤ ᠪᠣᠶ ︖",
+        "zh_translation": "小明有6套画片，每套3张，共有几张？",
+        "answer": "18",
+        "en_translation": "Xiaoming has 6 sets of picture cards, each set contains 3 cards. How many cards are there in total?"
+    },
+    {
+        "id": "math_mn_194",
+        "question": "ᠨᠢᠭᠡ ᠵᠠᠭᠠᠨ  ᠤ ᠪᠡᠶ᠎ᠡ  ᠶᠢᠨ ᠬᠦᠨᠳᠦ ᠨᠢ 992 ᠺᠢᠯᠣᠭ᠍ᠷᠠᠮ ᠂ ᠨᠢᠭᠡ ᠪᠠᠷᠰ  ᠤᠨ ᠪᠡᠶ᠎ᠡ  ᠶᠢᠨ ᠬᠦᠨᠳᠦ  ᠶᠢᠨ 16 ᠳᠠᠬᠢᠨ ᠪᠣᠯᠤᠨ᠎ᠠ ᠃ ᠡᠨᠡ ᠪᠠᠷᠰ  ᠤᠨ ᠪᠡᠶ᠎ᠡ  ᠶᠢᠨ ᠬᠦᠨᠳᠦ ᠨᠢ  ᠬᠡᠳᠦᠨ ᠺᠢᠯᠣᠭ᠍ᠷᠠᠮ ᠪᠤᠶ?",
+        "zh_translation": "一只大象的体重是992千克，是一只老虎体重的16倍．这只老虎的体重是多少千克？",
+        "answer": "62",
+        "en_translation": "The weight of an elephant is 992 kilograms, which is 16 times the weight of a tiger. What is the weight of the tiger in kilograms?"
+    },
+    {
+        "id": "math_mn_230",
+        "question": "ᠰᠢᠶᠤᠤ ᠯᠢᠨ ᠡᠳᠦᠷ ᠪᠦᠷᠢ ᠳᠤᠭᠤᠶ ᠲᠡᠷᠭᠡ ᠤᠨᠤᠵᠤ ᠰᠤᠷᠭᠠᠭᠤᠯᠢ ᠳᠠᠭᠠᠨ ᠶᠠᠪᠤᠳᠠᠭ ᠂ ᠳᠤᠭᠤᠶ ᠲᠡᠷᠭᠡᠨ   ᠤ ᠭᠠᠳᠠᠷ ᠬᠦᠷᠳᠦ ᠨᠢ ᠰᠢᠭᠤᠳ 0.5 ᠮᠧᠲ᠋ᠷ ᠂ ᠲᠡᠷᠭᠡᠨ ᠬᠦᠷᠳᠦ ᠨᠢ ᠮᠢᠨᠦ᠋ᠲ ᠪᠦᠷᠢ ᠪᠠᠷᠤᠭ 80 ᠡᠷᠭᠢᠳᠡᠭ ᠂ ᠨᠢᠭᠡ ᠬᠥᠭᠥᠷᠭᠡ ᠪᠡᠷ ᠥᠩᠭᠡᠷᠡᠬᠦ ᠳᠦ 2 ᠮᠢᠨᠦ᠋ᠲ ᠬᠡᠷᠡᠭᠰᠡᠨ᠎ᠡ ᠂ ᠡᠨᠡ ᠬᠥᠭᠥᠷᠭᠡ  ᠶᠢᠨ ᠣᠷᠳᠣ ᠨᠢ  ᠬᠡᠳᠦᠨ ᠮᠧᠲ᠋ᠷ ᠪᠣᠶ ︖",
+        "zh_translation": "小林每天骑自行车上学．自行车的外轮直接是0.5米，车轮每分钟大约转80圈，通过一座大桥需要2分钟，这座大桥长多少米？",
+        "answer": "251.2",
+        "en_translation": "Xiaolin rides a bicycle to school every day. The bicycle's outer wheel has a diameter of 0.5 meters, and the wheel rotates about 80 times per minute. It takes 2 minutes to cross a bridge. How long is the bridge in meters?"
+    },
+    {
+        "id": "math_mn_73",
+        "question": "ᠨᠢᠭᠡ ᠤᠷᠲᠤ ᠳᠥᠷᠪᠡᠯᠵᠢᠨ  ᠤ ᠣᠷᠳᠣ ᠨᠢ 10 ᠰᠠᠨᠲ᠋ᠢᠮᠧᠲ᠋ᠷ ᠂ ᠥᠷᠭᠡᠨ ᠨᠢ 5 ᠰᠠᠨᠲ᠋ᠢᠮᠧᠲ᠋ᠷ ᠂ ᠡᠨᠡ ᠤᠷᠲᠤ ᠳᠥᠷᠪᠡᠯᠵᠢᠨ  ᠤ ᠬᠦᠷᠢᠶᠡᠨ ᠣᠷᠳᠣ ᠨᠢ ᠬᠡᠳᠦᠶ ᠰᠠᠨᠲ᠋ᠢᠮᠧᠲ᠋ᠷ ᠪᠤᠶ?",
+        "zh_translation": "一个长方形长10厘米，宽5厘米，这个长方形周长是多少厘米？",
+        "answer": "30",
+        "en_translation": "A rectangle has a length of 10 cm and a width of 5 cm. What is the perimeter of this rectangle in centimeters?"
+    },
+    {
+        "id": "math_mn_36",
+        "question": "56 ᠺᠢᠯᠣᠭ᠍ᠷᠠᠮ ᠨᠢ 100 ᠺᠢᠯᠣᠭ᠍ᠷᠠᠮ ᠠᠴᠠ ᠬᠡᠳᠦᠶ ᠪᠠᠭ᠎ᠠ ᠪᠤᠢ?",
+        "zh_translation": "56千克比100千克少多少？",
+        "answer": "44",
+        "en_translation": "How much less is 56 kilograms than 100 kilograms?"
+    },
+    {
+        "id": "math_mn_130",
+        "question": "ᠵᠠᠩ ᠭᠠᠩ ᠬᠡᠷ ᠡᠴᠡ ᠪᠠᠨ ᠰᠤᠷᠭᠠᠭᠤᠯᠢ ᠬᠥᠷᠬᠥ ᠵᠠᠮ ᠨᠢ 580 ᠮᠧᠲ᠋ᠷ ᠂ ᠲᠡᠷᠡ ᠨᠢᠭᠡ ᠭᠠᠷᠠᠭ ︵ 5 ᠡᠳᠦᠷ ︶ ᠲᠤ ᠰᠤᠷᠭᠠᠭᠤᠯᠢ  ᠳᠦ ᠣᠴᠢᠬᠤ ᠳᠠᠭᠠᠨ ᠬᠡᠳᠦᠶ ᠮᠧᠲ᠋ᠷ ᠶᠠᠪᠤᠬᠤ ᠪᠣᠶ ︖",
+        "zh_translation": "张刚家到学校的路程是580米，他一星期（5天）上学要走多少米？",
+        "answer": "5800",
+        "en_translation": "What is the total distance Zhang Gang walks to school in a week (5 days) if the distance from his home to the school is 580 meters?"
+    },
+    {
+        "id": "math_mn_56",
+        "question": "ᠪᠡᠶ᠎ᠡ  ᠶᠢᠨ  ᠲᠠᠮᠢᠷ  ᠤᠨ ᠪᠣᠯᠪᠠᠰᠤᠷᠠᠯ  ᠳᠤ ᠣᠷᠣᠯᠴᠠᠭᠰᠠᠳ  ᠨᠢ5 ᠬᠥᠮᠦᠨ ᠂ ᠰᠠᠭᠰᠤᠨ ᠪᠥᠮᠪᠥᠭᠡ  ᠶᠢᠨ ᠪᠣᠯᠪᠠᠰᠤᠷᠠᠯ  ᠳᠦ ᠣᠷᠣᠯᠴᠠᠭᠰᠠᠳ  ᠨᠢ  ᠪᠡᠶ᠎ᠡ  ᠶᠢᠨ  ᠲᠠᠮᠢᠷ  ᠲᠦ   ᠣᠷᠣᠯᠴᠠᠭᠰᠠᠳ  ᠤᠨ 6 ᠲᠠᠬᠢᠨ᠂ ᠬᠤᠯᠠ ᠭᠦᠶᠦᠯᠲᠡ ᠶᠢᠨ ᠪᠣᠯᠪᠠᠰᠤᠷᠠᠯ  ᠳᠦ ᠣᠷᠣᠯᠴᠠᠭᠰᠠᠳ  ᠨᠢ ᠰᠠᠭᠰᠤᠨ ᠪᠥᠮᠪᠥᠭᠡ   ᠶᠢᠨ ᠪᠣᠯᠪᠠᠰᠤᠷᠠᠯ ᠳᠦ ᠣᠷᠣᠯᠴᠠᠭᠰᠠᠳ   ᠤᠨ 7 ᠲᠠᠬᠢᠨ᠂ ᠬᠤᠯᠠ ᠭᠦᠶᠦᠯᠲᠡ  ᠳᠦ ᠬᠡᠳᠦᠶ ᠬᠥᠮᠦᠨ  ᠣᠷᠣᠯᠴᠠᠭᠰᠠᠨ ᠪᠤᠢ?",
+        "zh_translation": "参加体操训练的有5人，参加篮球训练的是体操人数的6倍，参加长跑训练的人数是参加篮球训练人数的7倍，参加长跑的有多少人？",
+        "answer": "210",
+        "en_translation": "There are 5 people participating in gymnastics training, and the number of people participating in basketball training is 6 times the number of people in gymnastics. The number of people participating in long-distance running training is 7 times the number of people in basketball training. How many people are participating in long-distance running?"
+    },
+    {
+        "id": "math_mn_229",
+        "question": "ᠰᠢᠩ ᠭᠤᠸᠠᠩ ᠬᠢᠮᠢ ᠶᠢᠨ ᠦᠢᠯᠡᠳᠪᠦᠷᠢ ᠳᠡᠭᠡᠷ᠎ᠡ ᠬᠠᠭᠠᠰ ᠵᠢᠯ ᠳᠦ 12.34 ᠲᠣᠨ ᠨᠡᠭᠦᠷᠡᠰᠦ ᠠᠷᠪᠢᠯᠠᠵᠤ᠂ ᠳᠣᠣᠷ᠎ᠠ ᠬᠠᠭᠠᠰ ᠵᠢᠯ  ᠳᠦ 7.8 ᠲᠣᠨ ᠨᠡᠭᠦᠷᠡᠰᠦ ᠠᠷᠪᠢᠯᠠᠪᠠ᠂ ᠡᠨᠡ ᠦᠢᠯᠡᠳᠪᠦᠷᠢ ᠡᠨᠡ ᠵᠢᠯ  ᠬᠡᠳᠦᠨ ᠲᠣᠨ ᠨᠡᠭᠦᠷᠡᠰᠦ ᠠᠷᠪᠢᠯᠠᠭᠰᠠᠨ ᠪᠤᠢ?",
+        "zh_translation": "星光化工厂上半年节约用煤12.34吨，下半年节约用煤7.8吨，这个厂今年节约用煤多少吨？",
+        "answer": "20.14",
+        "en_translation": "How many tons of coal did Xingguang Chemical Plant save this year if it saved 12.34 tons in the first half and 7.8 tons in the second half of the year?"
+    },
+    {
+        "id": "math_mn_150",
+        "question": "ᠨᠢᠭᠡᠨ ᠲᠡᠭᠰᠢ ᠳᠥᠷᠪᠡᠯᠵᠢᠨ  ᠤ ᠲᠠᠯ᠎ᠠ  ᠶᠢᠨ ᠤᠷᠳᠦ ᠨᠢ 8 ᠳ᠋ᠧᠼᠢᠮᠧᠲ᠋ᠷ ᠪᠣᠯᠤᠨ᠎ᠠ᠂ ᠬᠡᠷᠪᠡ ᠲᠠᠯ᠎ᠠ ᠶᠢᠨ ᠤᠷᠳᠦ ᠨᠢ 3 ᠳ᠋ᠧᠼᠢᠮᠧᠲ᠋ᠷ ᠬᠠᠰᠤᠭᠳᠠᠪᠠᠯ᠂ ᠬᠦᠷᠢᠶᠡᠨ  ᠤ ᠤᠷᠳᠦ ᠨᠢ ᠬᠡᠳᠦᠨᠳ᠋ᠧᠼᠢᠮᠧᠲ᠋ᠷ ᠪᠣᠯᠬᠤ ᠪᠤᠢ?",
+        "zh_translation": "一个正方形的边长是8分米，如果边长减少3分米，周长是多少分米？",
+        "answer": "20",
+        "en_translation": "The side length of a square is 8 decimeters. If the side length is reduced by 3 decimeters, what is the perimeter in decimeters?"
+    },
+    {
+        "id": "math_mn_92",
+        "question": "ᠨᠢᠭᠡᠨ ᠱᠠᠬᠠᠶ  ᠶᠢᠨ ᠳᠡᠯᠭᠡᠭᠦᠷ ᠲᠦ 5 ᠱᠠᠬᠠᠶ  ᠶᠢᠨ ᠲᠠᠯᠪᠢᠭᠤᠷ ᠲᠠᠯᠪᠢᠵᠤ ᠪᠠᠶᠢᠨ᠎ᠠ᠂ ᠱᠠᠬᠠᠶ  ᠶᠢᠨ ᠲᠠᠯᠪᠢᠭᠤᠷ ᠪᠦᠷᠢ  ᠳᠦ 6 ᠳᠠᠪᠬᠤᠷ ᠲᠠᠶ᠂ ᠳᠠᠪᠬᠤᠷᠭ᠎ᠠ ᠪᠦᠷᠢ  ᠳᠦ12 ᠵᠦᠢᠷᠡᠢ ᠱᠠᠬᠠᠶ ᠲᠠᠯᠪᠢᠵᠤ ᠪᠣᠯᠤᠨ᠎ᠠ᠂ ᠡᠨᠡ ᠱᠠᠬᠠᠶ  ᠶᠢᠨ ᠳᠡᠯᠭᠡᠭᠦᠷ ᠲᠦ ᠬᠡᠳᠦᠶ ᠵᠦᠢᠷᠡᠢ ᠱᠠᠬᠠᠶ ᠲᠠᠯᠪᠢᠵᠤ ᠪᠣᠯᠬᠤ ᠪᠤᠢ?",
+        "zh_translation": "在某鞋店放着5个鞋架，每个鞋架有6层，每层可以摆放12双鞋，问这家鞋店可以摆放多少双鞋？",
+        "answer": "360",
+        "en_translation": "In a shoe store, there are 5 shoe racks, each with 6 shelves, and each shelf can hold 12 pairs of shoes. How many pairs of shoes can be stored in the store?"
+    },
+    {
+        "id": "math_mn_123",
+        "question": "ᠪᠠᠷᠢᠮᠵᠢᠶ᠎ᠠ ᠲᠣᠨᠣᠭ  ᠤᠨ ᠦᠶᠯᠡᠳᠪᠦᠷᠢ ᠡᠨᠡ ᠵᠢᠯ  ᠤᠨ 6 ᠳ᠋ᠤᠭᠠᠷ ᠰᠠᠷ᠎ᠠ  ᠳᠦ ᠠᠵᠤ ᠦᠶᠯᠡᠳᠪᠦᠷᠢ  ᠳᠦ ᠬᠡᠷᠡᠭᠯᠡᠬᠦ ᠴᠠᠬᠢᠯᠭᠠᠨ 4.5 ᠲᠦᠮᠡᠨ ᠭᠷᠠᠳᠦ᠋ᠰ ᠪᠠᠶᠢᠵᠤ ᠂ 7 ᠳ᠋ᠤᠭᠠᠷ ᠰᠠᠷ᠎ᠠ  ᠳᠦ ᠬᠡᠷᠡᠭᠯᠡᠬᠦ ᠴᠠᠬᠢᠯᠭᠠᠨ ᠨᠢ 6 ᠳ᠋ᠤᠭᠠᠷ ᠰᠠᠷ᠎ᠠ  ᠶᠢᠨ ᠬᠢ ᠡᠴᠡ 2.6 ᠳᠠᠬᠢᠨ ᠪᠠᠶᠢᠵᠤ ᠂ ᠬᠣᠶᠠᠷ ᠰᠠᠷ᠎ᠠ  ᠳᠦ ᠨᠡᠶᠢᠲᠡ ᠬᠡᠳᠦᠶ ᠲᠦᠮᠡᠨ ᠭᠷᠠᠳᠦ᠋ᠰ  ᠬᠡᠷᠡᠭ᠍ᠯᠡᠬᠦ ᠪᠣᠶ ︖",
+        "zh_translation": "标准件厂今年6月份工业用电4.5万度，7月份用电量是6月份的2.6倍，两个月共用电多少万度？",
+        "answer": "16.2",
+        "en_translation": "The standard parts factory used 45,000 kilowatt-hours of industrial electricity in June this year, and the electricity consumption in July was 2.6 times that in June. What was the total electricity consumption in these two months in ten thousand kilowatt-hours?"
+    },
+    {
+        "id": "math_mn_78",
+        "question": "ᠵᠤᠭᠠᠴᠠᠭᠰᠠᠳ ᠵᠤᠭᠠᠴᠠᠯ  ᠤᠨᠲᠡᠷᠭᠡᠨ  ᠳᠦ ᠰᠠᠭᠤᠵᠤ ᠦᠵᠡᠮᠵᠢ  ᠰᠣᠨᠢᠷᠬᠠᠨ᠎ᠠ᠂ ᠵᠤᠭᠠᠴᠠᠯ  ᠤᠨ ᠲᠡᠷᠭᠡ ᠪᠦᠷᠢ  ᠳᠦ 4 ᠬᠥᠮᠦᠨ ᠰᠠᠭᠤᠵᠤ᠂ 403 ᠵᠤᠭᠠᠴᠠᠭᠴᠢ ᠬᠡᠳᠦᠢ ᠵᠤᠭᠠᠴᠠᠯ  ᠤᠨ ᠲᠡᠷᠭᠡ ᠬᠡᠷᠡᠭᠰᠡᠬᠦ ᠪᠤᠢ︖",
+        "zh_translation": "游客们坐游览车看风景，每辆游览车乘坐4人，403名游客需要多少辆游览车？",
+        "answer": "101",
+        "en_translation": "Tourists take a sightseeing bus to see the scenery, with each bus seating 4 people. How many buses are needed for 403 tourists?"
+    },
+    {
+        "id": "math_mn_213",
+        "question": "ᠨᠢᠭᠡ ᠮᠠᠰᠢᠨ ᠲᠡᠷᠭᠡ ᠨᠢᠭᠡ ᠮᠢᠨᠦ᠋ᠲ  ᠳᠦ 0.8ᠺᠢᠯᠣᠮᠧᠲ᠋ᠷ ᠠᠶᠠᠯᠠᠵᠤ ᠲᠠᠶᠢᠯᠤᠨ᠎ᠠ᠂ ᠡᠨᠡ ᠮᠠᠰᠢᠨ ᠲᠡᠷᠭᠡ ᠨᠢᠭᠡ ᠴᠠᠭ ᠳᠥᠴᠢᠨ ᠮᠢᠨᠦ᠋ᠲ  ᠳᠦ  ᠬᠡᠳᠦᠨ ᠺᠢᠯᠣᠮᠧᠲ᠋ᠷ ᠠᠶᠠᠯᠠᠵᠤ  ᠳᠡᠢᠯᠬᠦ ᠪᠣᠢ?",
+        "zh_translation": "一辆汽车一分钟可以行使0.8千米，这辆汽车一小时四十分钟可以行驶多少千米？",
+        "answer": "80",
+        "en_translation": "If a car can travel 0.8 kilometers in one minute, how many kilometers can this car travel in one hour and forty minutes?"
+    },
+    {
+        "id": "math_mn_201",
+        "question": "ᠰᠤᠷᠭᠠᠭᠤᠯᠢ ᠰᠢᠨ᠎ᠡ ᠪᠡᠷ 4  ᠢᠵᠢ ᠰᠢᠷᠡᠭᠡ ᠰᠠᠨᠳᠠᠯᠢ ᠬᠤᠳᠠᠯᠳᠤᠨ  ᠠᠪᠴᠠᠢ ᠂ ᠰᠢᠷᠡᠭᠡ ᠪᠦᠷᠢ  ᠳᠦ 65 ᠲᠥᠭᠥᠷᠢᠭ ᠂ ᠰᠠᠨᠳᠠᠯᠢ ᠪᠦᠷᠢ  ᠳᠦ 35 ᠲᠥᠭᠥᠷᠢᠭ ᠃ ᠡᠳᠡᠭᠡᠷ ᠰᠢᠷᠡᠭᠡ ᠰᠠᠨᠳᠠᠯᠢ  ᠶᠢ ᠬᠤᠳᠠᠯᠳᠤᠨ ᠠᠪᠬᠤ ᠳᠦ ᠨᠡᠢᠲᠡ ᠬᠡᠳᠦᠶ ᠵᠣᠭᠣᠰ  ᠵᠠᠷᠥᠬᠤ ᠪᠤᠶ?",
+        "zh_translation": "学校新买了课桌椅4套，每张桌子65元，每把椅子35元．购买这些课桌椅一共需要多少钱？",
+        "answer": "400",
+        "en_translation": "The school bought 4 sets of desks and chairs. Each desk costs 65 yuan, and each chair costs 35 yuan. How much did it cost in total to purchase these desks and chairs?"
+    },
+    {
+        "id": "math_mn_236",
+        "question": "ᠲᠠᠪᠤᠳᠤᠭᠠᠷ ᠣᠨ  ᠤ ᠭᠤᠷᠪᠠᠨ ᠠᠩᠭᠢ   ᠶᠢᠨ ᠰᠤᠷᠤᠭᠴᠢᠳ ᠮᠣᠳᠣ ᠲᠠᠷᠢᠬᠤ ᠠᠵᠢᠯᠯᠠᠭ᠎ᠠ  ᠳᠦ ᠣᠷᠣᠯᠴᠠᠵᠤ᠂ ᠨᠡᠢᠳᠡ 220 ᠰᠠᠭᠤᠷᠢ ᠮᠣᠳᠣ  ᠲᠠᠷᠢᠵᠠᠢ᠂ ᠨᠢᠭᠡᠳᠦᠭᠡᠷ  ᠠᠩᠭᠢ ᠶᠢᠨ  ᠲᠠᠷᠢᠭ᠌ᠰᠠᠨ  ᠨᠢ ᠬᠣᠶᠠᠳᠤᠭᠠᠷ  ᠠᠩᠭᠢ   ᠶᠢᠨ  ᠲᠠᠷᠢᠭ᠌ᠰᠠᠨ  ᠤ 2 ᠲᠠᠬᠢᠨ᠂ ᠬᠣᠶᠠᠳᠤᠭᠠᠷ ᠠᠩᠭᠢ   ᠨᠢ ᠭᠤᠷᠪᠠᠳᠤᠭᠠᠷ ᠠᠩᠭᠢ  ᠶᠢᠨ ᠬᠢ ᠡᠴᠡ  20 ᠰᠠᠭᠤᠷᠢ ᠮᠣᠳᠣ  ᠢᠯᠡᠭᠦᠦ  ᠲᠠᠷᠢᠵᠠᠢ᠂ ᠬᠣᠶᠠᠳᠤᠭᠠᠷ ᠠᠩᠭᠢ  ᠬᠡᠳᠦᠨ ᠰᠠᠭᠤᠷᠢ ᠮᠣᠳᠣ ᠲᠠᠷᠢᠬᠰᠠᠨ ᠪᠤᠢ?",
+        "zh_translation": "五年级三个班的同学们参加植树活动，共植树220棵树，一班植的棵数是二班的2倍，二班比三班多值20棵．二班植了多少棵树？",
+        "answer": "60",
+        "en_translation": "How many trees did the students from Class 2 plant if the fifth-grade students from three classes participated in a tree-planting activity and planted a total of 220 trees? The number of trees planted by Class 1 is twice that of Class 2, and Class 2 planted 20 more trees than Class 3."
+    },
+    {
+        "id": "math_mn_104",
+        "question": "ᠨᠢᠭᠡᠨ ᠲᠡᠵᠢᠭᠡᠪᠦᠷᠢ  ᠶᠢᠨ ᠲᠠᠯᠠᠪᠠᠶ  ᠳᠦ ᠲᠡᠵᠢᠭᠡᠭᠰᠡᠨ ᠲᠠᠬᠢᠶ᠎ᠠ ᠪᠠ ᠨᠤᠭᠤᠰᠤ ᠨᠡᠶᠢᠲᠡ 250  ᠪᠠᠢᠨ᠎ᠠ ᠂ 25 ᠨᠤᠭᠤᠰᠤ   ᠶᠢ ᠠᠪᠠᠴᠢᠭᠰᠠᠨ  ᠤ ᠳᠠᠷᠠᠭ᠎ᠠ ᠂ ᠨᠤᠭᠤᠰᠤ  ᠶᠢᠨ ᠲᠣᠭ᠎ᠠ ᠨᠢ ᠶᠠᠭ ᠰᠠᠶᠢᠬᠠᠨ ᠲᠠᠬᠢᠶ᠎ᠠ  ᠶᠢᠨ 4 ᠳᠠᠬᠢᠨ ᠪᠠᠶᠢᠵᠤ ᠂  ᠲᠡᠭᠡᠪᠡᠯ ᠲᠡᠵᠢᠭᠡᠭᠰᠡᠨ ᠲᠠᠬᠢᠶ᠎ᠠ  ᠨᠢ ᠬᠡᠳᠦ ᠪᠠᠶᠢᠬᠤ ᠪᠤᠶ︖",
+        "zh_translation": "某饲养场中养鸡和鸭一共250只，拿走25只鸭以后，鸭的只数正好是鸡的4倍，问养的鸡有多少只？",
+        "answer": "45",
+        "en_translation": "In a certain farm, there are a total of 250 chickens and ducks. After taking away 25 ducks, the number of ducks is exactly four times the number of chickens. How many chickens are there?"
+    },
+    {
+        "id": "math_mn_125",
+        "question": "ᠨᠢᠭᠡ ᠢᠵᠢ ᠴᠡᠪᠡᠷ ᠤᠰᠤ  ᠶᠢ ᠰᠢᠶᠳᠪᠦᠷᠢᠯᠡᠬᠦ ᠲᠥᠬᠥᠭᠡᠷᠦᠮᠵᠢ ᠨᠢ 5 ᠴᠠᠭ ᠲᠤ 320 ᠲᠣᠨ ᠤᠰᠤ  ᠶᠢ ᠴᠡᠪᠡᠷᠰᠢᠭᠦᠯᠵᠦ ᠲᠠᠶᠢᠯᠤᠨ᠎ᠠ ᠂ ᠬᠡᠷᠪᠡ ᠡᠶᠢᠮᠦ ᠬᠤᠷᠳᠤᠴᠠ ᠪᠠᠷ ᠪᠤᠳᠤᠪᠠᠯ ᠂ 512 ᠲᠣᠨ ᠤᠰᠤ  ᠶᠢ ᠴᠡᠪᠡᠷᠰᠢᠭᠦᠯᠬᠦ  ᠳᠦ ᠬᠡᠳᠦᠶ ᠴᠠᠭ ᠬᠡᠷᠡᠭᠰᠡᠬᠦ ᠪᠣᠶ ︖",
+        "zh_translation": "一套净水处理设备5小时可以净化320吨水，若按这样的速度计算，净化512吨水需要多少小时？",
+        "answer": "8",
+        "en_translation": "A set of water purification equipment can purify 320 tons of water in 5 hours. At this rate, how many hours will it take to purify 512 tons of water?"
+    },
+    {
+        "id": "math_mn_131",
+        "question": "3 ᠲᠠᠯ᠎ᠠ  ᠶᠢᠨ ᠤᠷᠳᠦ ᠨᠢ 4 ᠰᠠᠨᠲ᠋ᠢᠮᠧᠲ᠋ᠷ ᠪᠣᠯᠬᠤ ᠲᠡᠭᠰᠢ ᠳᠥᠷᠪᠡᠯᠵᠢᠨ  ᠢ ᠨᠢᠭᠡᠨ ᠤᠷᠳᠦ ᠳᠥᠷᠪᠡᠯᠵᠢᠨ ᠪᠣᠯᠭᠠᠨ ᠨᠡᠶᠢᠯᠡᠭᠦᠯᠦᠭᠰᠡᠨ  ᠤ ᠲᠡᠷᠡᠭ᠎ᠠ᠂ ᠬᠦᠷᠢᠶᠡᠨ  ᠤ ᠤᠷᠳᠦ ᠨᠢ ᠬᠡᠳᠦᠶ ᠰᠠᠨᠲ᠋ᠢᠮᠧᠲ᠋ᠷ ᠬᠠᠰᠤᠭᠳᠠᠬᠤ ᠪᠤᠢ?",
+        "zh_translation": "把3个边长为4厘米的正方形拼成一个长方形后，周长减少了多少厘米？",
+        "answer": "16",
+        "en_translation": "After combining three squares with side length of 4 cm each into a rectangle, by how many centimeters does the perimeter decrease?"
+    },
+    {
+        "id": "math_mn_67",
+        "question": "ᠨᠢᠭᠡ ᠲᠣᠭ᠎ᠠ ᠠᠴᠠ 54  ᠶᠢ ᠬᠠᠰᠤᠪᠠᠯ᠂ ᠵᠥᠷᠢᠶ᠎ᠡ ᠨᠢ 67᠂ ᠡᠨᠡ ᠲᠣᠭ᠎ᠠ ᠨᠢ ᠬᠡᠳᠦᠶ ᠪᠤᠢ?",
+        "zh_translation": "一个数减去54，差是67，这个数是多少？",
+        "answer": "121",
+        "en_translation": "A number minus 54, the difference is 67, what is this number?"
+    },
+    {
+        "id": "math_mn_11",
+        "question": "ᠫᠢᠩ ᠫᠢᠩ ᠡᠨᠡ ᠵᠢᠯ 18 ᠨᠠᠰᠤᠲᠠᠶ ᠂ ᠡᠭᠡᠴᠢ ᠨᠢ ᠲᠡᠭᠦᠨ ᠡᠴᠡ 6 ᠨᠠᠰᠤ ᠠᠬ᠎ᠠ ᠂ ᠬᠣᠶᠠᠷ ᠵᠢᠯ  ᠤᠨ ᠡᠮᠦᠨ᠎ᠡ ᠡᠭᠡᠴᠢ ᠨᠢ ᠬᠡᠳᠦᠶ ᠨᠠᠰᠤᠲᠠᠶ ᠪᠠᠢᠭᠰᠠᠨ ᠪᠤᠶ?",
+        "zh_translation": "平平今年18岁，姐姐比她大6岁，两年前姐姐多少岁？",
+        "answer": "22",
+        "en_translation": "Pingping is 18 years old this year, her older sister is 6 years older than her, how old was her sister two years ago?"
+    },
+    {
+        "id": "math_mn_108",
+        "question": "ᠨᠢᠭᠡᠨ 3 ᠮᠧᠲ᠋ᠷ ᠤᠷᠳᠦ ᠪᠤᠯᠤᠳ  ᠢ ᠬᠥᠨᠳᠡᠯᠡᠨ  ᠢᠶᠠᠷ 3 ᠬᠡᠰᠡᠭ  ᠪᠣᠯᠭᠠᠨ  ᠣᠭᠲᠣᠯᠬᠤ ᠳᠦ ᠂ ᠭᠠᠳᠠᠷᠭᠤ   ᠶᠢᠨ ᠲᠡᠯᠡᠪᠡᠢ ᠨᠢ 80 ᠺᠦᠸᠠᠲ ᠰᠠᠨᠲ᠋ᠢᠮᠧᠲ᠋ᠷ ᠨᠡᠮᠡᠭᠳᠡᠨ᠎ᠡ᠂  ᠤᠤᠯ  ᠤᠨ ᠳᠥᠷᠪᠡᠯᠵᠢᠨ ᠪᠤᠯᠤᠳ  ᠤᠨ ᠡᠵᠡᠯᠡᠬᠦᠨ ᠨᠢ ᠬᠡᠳᠦᠶ ᠺᠦᠪ ᠰᠠᠨᠲ᠋ᠢᠮᠧᠲ᠋ᠷ ᠪᠠᠶᠢᠭᠰᠠᠨ ᠪᠤᠢ?",
+        "zh_translation": "一根3米长的方钢，把它横截成3段时，表面积增加80平方厘米，原来方钢的体积是多少立方厘米？",
+        "answer": "6000",
+        "en_translation": "What is the original volume of a 3-meter-long square steel bar if cutting it into 3 sections increases its surface area by 80 square centimeters?"
+    },
+    {
+        "id": "math_mn_228",
+        "question": "ᠪᠠᠷᠢᠯᠭ᠎ᠠ ᠶᠢᠨ ᠠᠡᠭᠬᠢ28.5 ᠺᠢᠯᠣᠮᠧᠲ᠋ᠷ ᠤᠨ ᠵᠡᠮ  ᠢ ᠵᠠᠰᠠᠬᠤ ᠪᠠᠷ ᠪᠠᠶᠢᠨ᠎ᠠ᠂ 3 ᠡᠳᠦᠷ ᠵᠠᠰᠠᠭᠠᠳ ᠪᠠᠰᠠ 9.3 ᠺᠢᠯᠣᠮᠧᠲ᠋ᠷ  ᠦᠯᠡᠳᠡᠵᠦ  ᠪᠠᠢᠨ᠎ᠠ᠂ ᠵᠡᠮ ᠵᠠᠰᠠᠬᠤ ᠠᠡᠭᠬᠢ ᠨᠢᠭᠡᠨᠲᠡ ᠬᠡᠳᠦᠨ ᠺᠢᠯᠣᠮᠧᠲ᠋ᠷ ᠵᠠᠰᠠᠭᠰᠠᠨ ᠪᠤᠢ?",
+        "zh_translation": "工程队要修一条28.5千米的路，修了3天，还剩下9.3千米没有修，修路队已经修了多少千米？",
+        "answer": "19.2",
+        "en_translation": "How many kilometers of the road has the construction team completed if they are supposed to build a 28.5-kilometer road, have been working for 3 days, and 9.3 kilometers are still unfinished?"
+    },
+    {
+        "id": "math_mn_195",
+        "question": "ᠰᠤᠷᠭᠠᠭᠤᠯᠢ ᠬᠥᠯ ᠪᠥᠮᠪᠥᠭᠡ ᠂ ᠠᠯᠠᠭᠠᠳᠠᠬᠤ ᠪᠥᠮᠪᠥᠭᠡ ᠪᠠ ᠰᠠᠭᠰᠤᠨ ᠪᠥᠮᠪᠥᠭᠡ ᠬᠤᠳᠠᠯᠳᠤᠨ  ᠠᠪᠤᠭᠠᠳ ᠨᠡᠶᠢᠲᠡ 820 ᠲᠥᠭᠥᠷᠢᠭ  ᠵᠠᠷᠤᠪᠠ ᠂ ᠡᠭᠦᠨ ᠤ ᠳᠣᠲᠣᠷ᠎ᠠ ᠬᠥᠯ ᠪᠥᠮᠪᠥᠭᠡ ᠳᠦ ᠬᠡᠷᠡᠭᠯᠡᠬᠦ ᠵᠣᠭᠣᠰ ᠨᠢ ᠰᠠᠭᠰᠤᠨ ᠪᠥᠮᠪᠥᠭᠡ ᠶᠢᠨ 2 ᠳᠠᠬᠢᠨ ᠂ ᠠᠯᠠᠭᠠᠳᠠᠬᠤ ᠪᠥᠮᠪᠥᠭᠡ ᠨᠢ ᠰᠠᠭᠰᠤᠨ ᠪᠥᠮᠪᠥᠭᠡ ᠡᠴᠡ ᠢᠯᠡᠭᠦᠦ 20 ᠲᠥᠭᠥᠷᠢᠭ  ᠵᠠᠷᠤᠨ᠎ᠠ ᠂ ᠠᠯᠠᠭᠠᠳᠠᠬᠤ ᠪᠥᠮᠪᠥᠭᠡ ᠬᠤᠳᠠᠯᠳᠤᠨ ᠠᠪᠬᠤ  ᠳᠦ  ᠬᠡᠳᠤᠨ ᠵᠣᠭᠣᠰ  ᠵᠠᠷᠤᠭᠰᠠᠨ ᠪᠤᠶ ︖",
+        "zh_translation": "学校买足球、排球和篮球一共用去820元，其中足球用的钱是篮球的2倍，排球比篮球多用20元．买排球用去多少钱？",
+        "answer": "220",
+        "en_translation": "How much money was spent to buy volleyballs if the school spent a total of 820 yuan on soccer balls, volleyballs, and basketballs, with the amount spent on soccer balls being twice that spent on basketballs, and 20 yuan more being spent on volleyballs than on basketballs?"
+    },
+    {
+        "id": "math_mn_99",
+        "question": "ᠵᠢᠨ ᠳ᠋ᠦᠨ ᠬᠡᠦᠬᠡᠳ  ᠤᠨ ᠬᠤᠪᠴᠠᠰᠤᠨ  ᠤ ᠦᠢᠯᠡᠳᠪᠦᠷᠢ 1032 ᠢᠵᠢ ᠬᠡᠦᠬᠡᠳ  ᠤᠨ ᠬᠤᠪᠴᠠᠰᠤ  ᠬᠢᠨ᠎ᠡ ᠂ ᠡᠮᠦᠨ᠎ᠡ 10 ᠡᠳᠦᠷ ᠲᠦ ᠡᠳᠦᠷ ᠪᠦᠷᠢ 60 ᠢᠵᠢ ᠬᠤᠪᠴᠠᠰᠤ ᠬᠢᠵᠦ ᠂ ᠦᠯᠡᠳᠡᠭᠰᠡᠨ  ᠢ ᠨᠢ 6 ᠡᠳᠦᠷ ᠲᠦ ᠬᠢᠵᠦ ᠳᠠᠭᠤᠰᠬᠠᠨ᠎ᠠ ᠂ ᠳᠤᠮᠳᠠᠴᠢ ᠪᠠᠷ ᠡᠳᠦᠷ ᠪᠦᠷᠢ ᠬᠡᠳᠦᠶ ᠢᠵᠢ ᠬᠤᠪᠴᠠᠰᠤ ᠬᠢᠬᠦ ᠪᠤᠶ ︖",
+        "zh_translation": "金盾童装厂，要做1032套童装，前10天每天做60套．剩下的要6天做完，平均每天做多少套？",
+        "answer": "72",
+        "en_translation": "The Jin Dun children's clothing factory needs to make 1,032 sets of children's clothes. For the first 10 days, they make 60 sets each day. How many sets do they need to make on average each day for the remaining 6 days?"
+    },
+    {
+        "id": "math_mn_217",
+        "question": "ᠨᠠᠭᠠᠳᠤᠮ   ᠤᠨ ᠵᠦᠢᠯ ᠤᠨ ᠳᠡᠯᠭᠡᠭᠦᠷ ᠲᠦ ᠰᠢᠨ᠎ᠡ ᠪᠡᠷ 160 ᠪᠠᠯᠧᠲ᠋ ᠬᠡᠦᠬᠡᠯᠳᠡᠢ ᠶᠢ ᠬᠤᠳᠠᠯᠳᠤᠨ ᠣᠷᠣᠭᠤᠯᠪᠠ᠂ ᠨᠢᠭᠡ ᠪᠦᠷᠢ ᠨᠢ 72 ᠲᠥᠭᠥᠷᠢᠭ᠃ ᠬᠡᠷᠪᠡ ᠬᠡᠦᠬᠡᠳ ᠪᠦᠷᠢ  ᠶᠢ 88 ᠲᠥᠭᠥᠷᠢᠭ  ᠤᠨ ᠦᠨ᠎ᠡ ᠪᠡᠷ ᠪᠦᠬᠦᠨ  ᠢ ᠬᠤᠳᠠᠯᠳᠤᠪᠠᠯ᠂ ᠬᠤᠳᠠᠯᠳᠤᠭᠠᠴᠢᠨ  ᠤᠡᠨᠡ ᠬᠦ ᠮᠠᠶᠢᠮᠠᠶ ᠨᠢ ᠨᠡᠶᠢᠲᠡ ᠬᠡᠳᠤᠨ ᠲᠥᠭᠥᠷᠢᠭ  ᠤᠨ ᠠᠰᠢᠭ ᠣᠯᠬᠤ ᠪᠤᠢ︖",
+        "zh_translation": "玩具商店新购进160个芭芘娃娃，每个72元．如果以每个娃娃88元的价格全部卖出，商家这笔生意一共可以赢利多少元？",
+        "answer": "2560",
+        "en_translation": "How much profit can the toy store make if it sells all 160 newly purchased Barbie dolls, which cost 72 yuan each, at a price of 88 yuan each?"
+    }
+]

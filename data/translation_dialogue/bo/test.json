@@ -1,0 +1,4040 @@
+[
+    {
+        "zh": "好的，谢谢!",
+        "bo": "ཆོག་གི་བཀའ་དྲིན་ཆེ།",
+        "id": "trans-d_bo_614",
+        "en": "Okay, thank you!"
+    },
+    {
+        "zh": "冬天太冷了，夏天又太热了。春天不错，就是太短了。",
+        "bo": "དགུན་ཁ་ཧ་ཅང་གྲང་།་དབྱར་ཁ་ཡང་ཧ་ཅང་ཚ།དཔྱིད་ཀ་ཡག་པོ་འདུག་འོན་ཀྱང་ཧ་ཅང་ཐུང་པོ་འདུག་།",
+        "id": "trans-d_bo_494",
+        "en": "Winter is too cold, and summer is too hot. Spring is nice, but it's too short."
+    },
+    {
+        "zh": "您好，买点儿什么?",
+        "bo": "སྐུ་ཁམས་བཟང་ཅི་ཞིག་ཉོ་རྒྱུ་ཡིན།",
+        "id": "trans-d_bo_396",
+        "en": "Hello, what would you like to buy?"
+    },
+    {
+        "zh": "千万别这么说，现在我没那技术了。",
+        "bo": "གཏན་ནས་འདི་ལྟར་མ་བཤད།་ད་ལྟ་ང་ལ་ལག་རྩལ་དེ་མེད།",
+        "id": "trans-d_bo_160",
+        "en": "Don't say that, I don't have that skill anymore."
+    },
+    {
+        "zh": "你住在那么高的楼上，上下楼梯多累啊!",
+        "bo": "ཁྱོད་རང་དེ་འདྲའི་མཐོ་བའི་ཐོག་ཁང་དུ་བསྡད་ཡོད་པ་རེད།ཐེམ་སྐས་ལས་མར་བབས་ན་ཅི་འདྲའི་ཐང་ཆད་པ་ལ།",
+        "id": "trans-d_bo_439",
+        "en": "You live on such a high floor; climbing the stairs must be exhausting!"
+    },
+    {
+        "zh": "是吗?那我去找他。",
+        "bo": "འདི་བཤད་ན་མི་བཟང་།་ཁོ་རྒྱུན་དུ་བྲེལ་བ་ཆེ།",
+        "id": "trans-d_bo_413",
+        "en": "Is that so? Then I'll go find him."
+    },
+    {
+        "zh": "师傅，我的钱包忘在刚才去的商店里了，麻烦您把车开回去。",
+        "bo": "དགེ་རྒན།་ངའི་སྒོར་ཁུག་ད་སོ་མ་སོང་བའི་ཚོང་ཁང་ནས་བརྗེད་སོང་།་ཁྱོད་ཀྱིས་རླངས་འཁོར་བསྐོར་ནས་ཕྱིར་སོང་།",
+        "id": "trans-d_bo_654",
+        "en": "Driver, I left my wallet in the store we just visited. Could you please drive back?"
+    },
+    {
+        "zh": "我为什么要告诉你?",
+        "bo": "ངས་ཅིའི་ཕྱིར་ཁྱོད་ལ་བཤད་དགོས་སམ།",
+        "id": "trans-d_bo_144",
+        "en": "Why should I tell you?"
+    },
+    {
+        "zh": "不会。是快没电了，一会儿回房间充上电就好了。",
+        "bo": "མི་ཤེས།གློག་ཚར་ལ་ཉེ།ཅུང་ཙམ་འགོར་རྗེས་ཁང་བའི་ནང་དུ་སོང་ནས་གློག་གསོག་ན་ཆོག",
+        "id": "trans-d_bo_259",
+        "en": "It can't be. The battery is almost dead. It will be fine once we charge it in the room later."
+    },
+    {
+        "zh": "对不起，这里不能停车，停车场就在前面不远的地方。",
+        "bo": "དགོངས་པ་མ་ཚོམ།་འདི་ནས་རླངས་འཁོར་འཇོག་མི་རུང་།་རླངས་འཁོར་འཇོག་ས་མདུན་གྱི་ཐག་མི་རིང་བའི་ས་ན་ཡོད།",
+        "id": "trans-d_bo_141",
+        "en": "I'm sorry, you can't park here. The parking lot is not far ahead."
+    },
+    {
+        "zh": "那是我叔叔，站在我右边的是我爸爸。当时照相的时候我可开心了。",
+        "bo": "དེ་ནི་ངའི་ཨ་ཁུ་ཡིན།་ངའི་གཡས་ཕྱོགས་སུ་ལངས་ཡོད་པ་ནི་ངའི་ཨ་ཕ་ཡིན།སྐབས་དེར་པར་ལེན་སྐབས་ང་ཧ་ཅང་དགའ་པོ་བྱུང་།",
+        "id": "trans-d_bo_346",
+        "en": "That's my uncle. The one standing on my right is my dad. I was really happy when we took the photo."
+    },
+    {
+        "zh": "咱们在这站下车吧，到学校正门下有点儿远。",
+        "bo": "ང་ཚོ་འབབ་ཚིགས་འདི་ནས་རླངས་འཁོར་ལས་འབབ།་སློབ་གྲྭའི་སྒོ་ཆེན་འོག་ཏུ་ཅུང་ཐག་རིང་།",
+        "id": "trans-d_bo_278",
+        "en": "Let's get off at this stop. It's a bit far to get off at the main entrance of the school."
+    },
+    {
+        "zh": "昨天天气预报说今天是晴天啊!",
+        "bo": "ཁ་སང་གི་གནམ་གཤིས་སྔོན་བརྡ་ལས་དེ་རིང་གནམ་ཐང་འདུག་ཟེར",
+        "id": "trans-d_bo_371",
+        "en": "The weather forecast said it would be sunny today!"
+    },
+    {
+        "zh": "你好，我昨天在你们这儿订了一个位子，我姓赵。",
+        "bo": "སྐུ་ཁམས་བཟང་ངས་ཁ་སང་ཁྱོད་ཚོའི་འདི་ནས་འདུག་ས་ཞིག་བླངས་ཡོད།་ངའི་རུས་ཀྲའོ་ཡིན།",
+        "id": "trans-d_bo_656",
+        "en": "Hello, I booked a table here yesterday. My last name is Zhao."
+    },
+    {
+        "zh": "好吧，我自己对付一口，不过这饺子好像有味儿了。",
+        "bo": "ཆོག་གི་ང་རང་གིས་ཁམ་གང་ལ་ཁ་གཏད་པ་ཡིན།་འོན་ཀྱང་ཆུ་མོག་འདི་ལ་བྲོ་བ་ཡོད་པ་འདྲ།",
+        "id": "trans-d_bo_263",
+        "en": "Okay, I'll make do with a bite myself, but these dumplings seem to have an odor."
+    },
+    {
+        "zh": "抱歉，他今天休息。我给您推荐另一位发型师吧。",
+        "bo": "དགོངས་པ་མ་ཚོམ་།་ཁོས་དེ་རིང་ངལ་གསོ་བྱས་།ངས་ཁྱོད་ལ་སྐྲ་བཞར་མཁན་གཞན་པ་ཞིག་ངོ་སྤྲོད་བྱེད།",
+        "id": "trans-d_bo_155",
+        "en": "Sorry, he is off today. I can recommend another hairstylist for you."
+    },
+    {
+        "zh": "你怎么这么说?",
+        "bo": "ང་ཁྱོད་ཀྱིས་འདི་ལྟར་བཤད་དོན་ཅི།",
+        "id": "trans-d_bo_423",
+        "en": "Why do you say that?"
+    },
+    {
+        "zh": "你怎么又回来了?",
+        "bo": "ཁྱོད་ཡང་ཕྱིར་ཡོང་དོན་ཅི་ཡིན།",
+        "id": "trans-d_bo_508",
+        "en": "Why are you back again?"
+    },
+    {
+        "zh": "马上就要考试了，你怎么还跟朋友出去玩儿啊?",
+        "bo": "རྒྱུགས་ལེན་ལ་ཉེ།་ཁྱོད་ད་རུང་གྲོགས་པོ་དང་མཉམ་དུ་ཕྱི་ལ་རྩེ་རུ་འགྲོ་དོན་ཅི་ཡིན།",
+        "id": "trans-d_bo_629",
+        "en": "The exams are just around the corner, why are you still going out with friends?"
+    },
+    {
+        "zh": "这样也好，这期间可以准备一下找工作的事。",
+        "bo": "དེ་འདྲ་ཡིན་ནའང་འདྲ།་དེའི་རིང་ལ་ལས་ཀ་འཚོལ་རྒྱུའི་གྲ་སྒྲིག་བྱས་ཆོག",
+        "id": "trans-d_bo_735",
+        "en": "That's fine, I can use this time to prepare for job hunting."
+    },
+    {
+        "zh": "这地方怎么这么冷?",
+        "bo": "ས་ཆ་འདི་འདི་འདྲའི་གྲང་དོན་ཅི།",
+        "id": "trans-d_bo_369",
+        "en": "Why is it so cold here?"
+    },
+    {
+        "zh": "抱歉，那本书已经卖完了，您下周再过来看看吧。",
+        "bo": "དགོངས་པ་མ་ཚོམ།་དཔེ་ཆ་དེ་བཙོང་ཚར་སོང་།་ཁྱེད་རང་གཟའ་འཁོར་རྗེས་མར་བལྟ་རུ་ཤོག",
+        "id": "trans-d_bo_513",
+        "en": "Sorry, that book is sold out. Please come back next week to check."
+    },
+    {
+        "zh": "听说你儿子在这次全国演讲比赛中得了冠军，是真的吗?",
+        "bo": "གོ་ཐོས་ལྟར་ན་ཁྱོད་ཀྱི་ལ་ཐེངས་འདིའི་རྒྱལ་ཡོངས་གཏམ་བཤད་འགྲན་སྡུར་ཁྲོད་ཨང་དང་པོ་ཐོབ་སོང་ཟེར།་ངོ་མ་ཡིན་ནམ།",
+        "id": "trans-d_bo_274",
+        "en": "I heard your son won the championship in this national speech contest, is it true?"
+    },
+    {
+        "zh": "那你真该减肥了。",
+        "bo": "དེ་ན་ཁྱོད་ཀྱིས་ཤ་བྱང་དུ་འཇུག་རན་རེད",
+        "id": "trans-d_bo_765",
+        "en": "Then you really should lose weight."
+    },
+    {
+        "zh": "我可不愿意坐长途汽车，太累了。在高速公路上跑，也不安全。",
+        "bo": "ང་ཐག་རིང་རླངས་འཁོར་ལ་འདུག་མི་འདོད།་ཧ་ཅང་ཐང་ཆད་འདུགམྱུར་བགྲོད་གཞུང་ལམ་སྟེང་ནས་རྒྱུགས་ན་བདེ་འཇགས་མ་རེད།",
+        "id": "trans-d_bo_276",
+        "en": "I don't want to take a long-distance bus, it's too exhausting. It's not safe to drive on the highway."
+    },
+    {
+        "zh": "其他地方都合适，就是颜色浅了点儿。",
+        "bo": "ས་ཆ་གཞན་པ་ཚང་མ་འོས་འཚམ་རེད།་ཁ་དོག་ཅུང་སྲབ་པ་རེད།",
+        "id": "trans-d_bo_378",
+        "en": "Everything else is fine, but the color is a bit light."
+    },
+    {
+        "zh": "不行啊，张教授要求我明天必须把这份材料交给他。",
+        "bo": "སྒྲིག་གི་མ་རེད།སློབ་དཔོན་་ཆེན་མོ་ཀྲང་གིས་ང་ལ་སང་ཉིན་ངེས་པར་དུ་ཡིག་ཆ་འདི་ཁོང་ལ་སྤྲོད་དགོས་པའི་རེ་བ་བཏོན་བྱུང་།",
+        "id": "trans-d_bo_45",
+        "en": "I can't, Professor Zhang requires me to submit this material to him tomorrow."
+    },
+    {
+        "zh": "是的。",
+        "bo": "རེད།",
+        "id": "trans-d_bo_761",
+        "en": "Yes."
+    },
+    {
+        "zh": "小姐，我想问问动物园的门票怎么卖?",
+        "bo": "སྲས་མོ།་ངས་སྲོག་ཆགས་གླིང་གའི་པ་སེ་ཅི་ལྟར་བཙོང་དགོས་པ་འདྲི་འདོད།",
+        "id": "trans-d_bo_716",
+        "en": "Miss, I want to ask how the zoo tickets are sold?"
+    },
+    {
+        "zh": "圣诞节晚上你打算做什么?",
+        "bo": "ཡེ་ཤུའི་འཁྲུངས་སྐར་གྱི་དགོང་མོར་ཁྱོད་ཀྱིས་ཅི་ཞིག་བྱེད་རྩིས་ཡོད།",
+        "id": "trans-d_bo_417",
+        "en": "What do you plan to do on Christmas Eve?"
+    },
+    {
+        "zh": "哦，对不起，算错了。",
+        "bo": "འོ།་དགོངས་པ་མ་ཚོམ།་རྩིས་ནས་ནོར་སོང་།",
+        "id": "trans-d_bo_721",
+        "en": "Oh, sorry, I made a mistake."
+    },
+    {
+        "zh": "导游小姐，今天你带我们去哪儿观光?",
+        "bo": "ཡུལ་སྐོར་སྣེ་ཤན་སྲས་མོ།་དེ་རིང་ཁྱོད་ཀྱིས་ང་ཚོ་ཁྲིད་ནས་གང་ལ་ལྟ་སྐོར་དུ་འགྲོ།",
+        "id": "trans-d_bo_668",
+        "en": "Tour guide, where are you taking us for sightseeing today?"
+    },
+    {
+        "zh": "昨天下午的演出怎么样？",
+        "bo": "ཁ་སང་ཕྱི་དྲོའི་འཁྲབ་སྟོན་ཇི་འདྲ་རེད་།",
+        "id": "trans-d_bo_137",
+        "en": "How was the performance yesterday afternoon?"
+    },
+    {
+        "zh": "可以不存。",
+        "bo": "མ་གསོག་ན་ཡང་ཆོག",
+        "id": "trans-d_bo_470",
+        "en": "You don't need to deposit any money."
+    },
+    {
+        "zh": "一个人大概花了多少钱?",
+        "bo": "མི་གཅིག་གིས་ཕལ་ཆེར་སྒོར་མོ་ག་ཚོད་བཀོལ་བ་རེད།",
+        "id": "trans-d_bo_114",
+        "en": "How much did it cost per person?"
+    },
+    {
+        "zh": "不太远。",
+        "bo": "ཐག་རིང་རྒྱུ་མི་འདུག",
+        "id": "trans-d_bo_665",
+        "en": "Not too far."
+    },
+    {
+        "zh": "你在找什么?把抽屉弄得这么乱!",
+        "bo": "ཁྱོད་ཀྱིས་ཅི་ཞིག་བཙལ་བཞིན་ཡོད།འཐེན་སྒམ་འདི་འདྲའི་ཉོག་པོར་བཟོས་འདུག",
+        "id": "trans-d_bo_415",
+        "en": "What are you looking for? You've made such a mess of the drawer!"
+    },
+    {
+        "zh": "老师说大卫考试没通过。",
+        "bo": "དགེ་རྒན་གྱིས་ཏ་ཝེ་རྒྱུགས་མ་འཕྲོད་ཟེར།",
+        "id": "trans-d_bo_724",
+        "en": "The teacher said David failed the exam."
+    },
+    {
+        "zh": "喜欢就选一个吧，我今天刚发工资。",
+        "bo": "དགའ་ན་གཅིག་འདེམས།་ང་ལ་དེ་རིང་ཟླ་ཕོགས་བྱིན་པ་ཡིན།",
+        "id": "trans-d_bo_210",
+        "en": "If you like one, just choose one. I just got my salary today."
+    },
+    {
+        "zh": "我不吃，咱们还是先看花展吧。",
+        "bo": "ངས་མི་ཟ།་ང་ཚོས་སྔོན་ལ་མེ་ཏོག་འགྲེམ་སྟོན་ལ་བལྟ།",
+        "id": "trans-d_bo_474",
+        "en": "I'm not eating, let's see the flower exhibition first."
+    },
+    {
+        "zh": "请问，哪儿有开水?",
+        "bo": "བཀའ་འདྲི་ཞུ་རྒྱུར་།་གང་དུ་ཆུ་ཁོལ་ཡོད་དམ་།",
+        "id": "trans-d_bo_658",
+        "en": "Excuse me, where can I find hot water?"
+    },
+    {
+        "zh": "我把办护照需要注意的问题都写在电子邮件里了。",
+        "bo": "ངས་ལམ་ཡིག་སྒྲུབ་པར་དོ་སྣང་བྱེད་དགོས་པའི་གནད་དོན་ཚང་མ་གློག་རྡུལ་ཡིག་ཟམ་ནང་དུ་བྲིས་ཡོད།",
+        "id": "trans-d_bo_585",
+        "en": "I have written all the issues that need attention when applying for a passport in the email."
+    },
+    {
+        "zh": "买了一条裙子，一双凉鞋，给你买了一条短裤，两双袜子。",
+        "bo": "སྨད་གཡོགས་གཅིག་དང་བསིལ་ལྷམ་གཅིག་ཁྱོད་ལ་དོར་ཐུང་གཅིག་དང་རྐང་འབོབ་གཉིས་ཉོས།",
+        "id": "trans-d_bo_739",
+        "en": "I bought a dress, a pair of sandals, a pair of shorts for you, and two pairs of socks."
+    },
+    {
+        "zh": "你看什么呢?",
+        "bo": "ཁྱོད་ཀྱིས་ཅི་ཞིག་ལ་བལྟ་བཞིན་ཡོད།",
+        "id": "trans-d_bo_108",
+        "en": "What are you watching?"
+    },
+    {
+        "zh": "动画片，这是最新的，很有意思。",
+        "bo": "འགུལ་རིས་བརྙན་འཕྲིན།་འདི་ནི་ཆེས་གསར་བ་ཡིན།་དོན་སྙིང་ཆེན་པོ་ལྡན།",
+        "id": "trans-d_bo_109",
+        "en": "A cartoon. It's the latest one and very interesting."
+    },
+    {
+        "zh": "好的，记住一个月以内来还书，不然就要多交钱了。",
+        "bo": "ཆོག་གི་ཟླ་གཅིག་གི་ནང་དུ་དཔེ་ཆ་ཕྱིར་སྤྲོད་རྒྱུ་མ་བརྗེད།་དེ་མིན་ན་སྒོར་མོ་མང་པོ་སྤྲོད་དགོས།",
+        "id": "trans-d_bo_694",
+        "en": "Okay, remember to return the book within a month, otherwise, you will have to pay more."
+    },
+    {
+        "zh": "王强啊，你怎么知道我来长沙了，难道你也在长沙?",
+        "bo": "ཝང་བྱང་ཨས།རང་གི་ང་ཁྲང་ཧྲའ་ལ་སླེབས་པ་ག་འདྲས་ཧ་གོ་བྱུང་ངམ།འོ་ན་རང་ཡང་ཁྲང་ཧྲའ་ལ་ཡོད་དམ།",
+        "id": "trans-d_bo_29",
+        "en": "Wang Qiang, how did you know I came to Changsha? Are you also in Changsha?"
+    },
+    {
+        "zh": "你来得真及时，现在是6:25，还有5分钟就要开车了。",
+        "bo": "ཁྱོད་ཡོང་བ་ངོ་མ་དུས་ལྟར་རེད།་ད་ལྟ་ནི་དུས་ཚོད་དྲུག་དང་སྐར་མ་ཉེར་ལྔ་རེད།་ད་རུང་སྐར་མ་ལྔའི་རྗེས་ནས་རླངས་འཁོར་བསྐོར་དགོས།",
+        "id": "trans-d_bo_78",
+        "en": "You arrived just in time. It's 6:25 now, and the train will leave in 5 minutes."
+    },
+    {
+        "zh": "明天我还要上课，周日才休息。",
+        "bo": "སང་ཉིན་ང་ད་དུང་སློབ་ཁྲིད་ལ་འགྲོ་དགོས།་གཟའ་ཉི་མར་ད་གཟོད་ངལ་གསོ་རྒྱུ་ཡིན།",
+        "id": "trans-d_bo_129",
+        "en": "I have classes tomorrow; I can only rest on Sunday."
+    },
+    {
+        "zh": "我把电影票放到钱包里了。",
+        "bo": "ངས་གློག་བརྙན་གྱི་པ་སེ་དངུལཁུག་ནང་དུ་བཞག་ཡོད།",
+        "id": "trans-d_bo_107",
+        "en": "I put the movie tickets in my wallet."
+    },
+    {
+        "zh": "手术很成功，她恢复得很快，过两天，下周一二就可以出院了。",
+        "bo": "གཤགས་བཅོས་ཧ་ཅང་ལེགས་འགྲུབ་བྱུང་ཁོ་མོ་སླར་གསོ་བྱུང་བ་ཧ་ཅང་མགྱོགས།་ཉིན་གཉིས་འགོར་རྗེས།་གཟའ་འཁོར་རྗེས་མའི་གཟའ་ཟླ་བར་སྨན་ཁང་ནས་བུད་ཆོག",
+        "id": "trans-d_bo_134",
+        "en": "The surgery was very successful, and she is recovering quickly. In a couple of days, she can be discharged next Monday or Tuesday."
+    },
+    {
+        "zh": "是很漂亮。和我们一起去吧？",
+        "bo": "ཧ་ཅང་ཡགང་ཚོ་དང་མཉམ་དུ་འགྲོ།",
+        "id": "trans-d_bo_128",
+        "en": "It is very beautiful. Why don't you come with us?"
+    },
+    {
+        "zh": "这太慢了，我的票是十点半的，现在都十点了。",
+        "bo": "འདི་ཧ་ཅང་དལ།་ངའི་པ་སེ་ནི་དུས་ཚོད་བཅུ་དང་ཕྱེད་ཀ་ཡིན།་ད་ལྟ་དུས་ཚོད་བཅུ་རེད།",
+        "id": "trans-d_bo_609",
+        "en": "That's too slow; my ticket is for 10:30, and it's already 10:00 now."
+    },
+    {
+        "zh": "一共100。",
+        "bo": "བསྡོམས་པས་༡༠༠ཡོད།",
+        "id": "trans-d_bo_719",
+        "en": "A total of 100."
+    },
+    {
+        "zh": "不一定，现在越来越多的年轻人选择自己住。",
+        "bo": "ངེས་པ་མེད།་ད་ལྟ་ན་གཞོན་མང་པོ་ཞིག་གིས་རང་ཉིད་འདུག་རྒྱུ་འདེམས་བཞིན་ཡོད།",
+        "id": "trans-d_bo_393",
+        "en": "Not necessarily, more and more young people are choosing to live on their own."
+    },
+    {
+        "zh": "真不好意思，我等会儿还有两节课。",
+        "bo": "ངོ་མ་དགོངས་པ་མ་ཚོམ།་ང་ལ་ཅུང་ཙམ་འགོར་རྗེས་ད་དུང་སློབ་ཁྲིད་གཉིས་ཡོད།",
+        "id": "trans-d_bo_146",
+        "en": "I'm really sorry, I have two classes later."
+    },
+    {
+        "zh": "最近工作找得怎么样了?",
+        "bo": "ཉེ་ལམ་བྱ་བ་བཙལ་བ་ཅི་འདྲ་རེད།",
+        "id": "trans-d_bo_711",
+        "en": "How is the job search going recently?"
+    },
+    {
+        "zh": "这次比赛你们班怎么样?",
+        "bo": "ཐེངས་འདིའི་འགྲན་བསྡུར་ལ་ཁྱེད་ཚོའི་འཛིན་གྲྭ་ཇི་འདྲ་རེད་།",
+        "id": "trans-d_bo_353",
+        "en": "How did your class do in the competition this time?"
+    },
+    {
+        "zh": "我跟张梅的关系没得说，我去找她，她准同意。",
+        "bo": "ང་དང་ཀྲང་མིའེ་ཡི་འབྲེལ་བ་བཤད་དགོས་མེད།ངས་མོ་བཙལ་དུ་སོང་ན།མོས་གཏནགཏན་མོས་མཐུན་བྱེད་ཀྱི་རེད།",
+        "id": "trans-d_bo_6",
+        "en": "My relationship with Zhang Mei is beyond words. If I go to her, she will definitely agree."
+    },
+    {
+        "zh": "本来想回家的，可是没买到票。",
+        "bo": "མ་གཞི་ཡུལ་ལ་ལོག་འདོད་མོད།་འོན་ཀྱང་པ་སེ་ཉོ་མ་ཐུབ།",
+        "id": "trans-d_bo_731",
+        "en": "I was planning to go home, but I couldn't get a ticket."
+    },
+    {
+        "zh": "你还是穿那一件吧，我觉得那件比较正式。",
+        "bo": "ཁྱོད་ཀྱིས་དེ་གྱོན་དང་།་ངས་བསམ་ན་དེ་ཅུང་ཚད་ལྡན་རེད།",
+        "id": "trans-d_bo_124",
+        "en": "You should wear that one instead. I think it's more formal."
+    },
+    {
+        "zh": "充电器带了吗？",
+        "bo": "གློག་གསོག་ཆས་ཁྱེར་ཡོད་དམ།",
+        "id": "trans-d_bo_260",
+        "en": "Did you bring the charger?"
+    },
+    {
+        "zh": "按说是没什么愁的，可就是总遇不到一个称心如意的。",
+        "bo": "བཤད་པ་ལྟར་ན་སེམས་ཁྲལ་ཅི་ཡང་མེད།་འོན་ཀྱང་ནམ་ཡང་ཡིད་ཚིམ་པ་ཞིག་ལ་འཕྲད་མི་ཐུབ།",
+        "id": "trans-d_bo_484",
+        "en": "She should have nothing to worry about, but she just can't meet the right person."
+    },
+    {
+        "zh": "好吧，明天顺便买个柜子，不然你的衣服都没地方放了。",
+        "bo": "ཆོག་གི་སང་ཉིན་ཞོར་དུ་སྒམ་ཞིག་ཉོ།་དེ་མིན་ན་ཁྱོད་ཀྱི་ལྭ་བ་འཇོག་ས་མི་འདུག",
+        "id": "trans-d_bo_723",
+        "en": "Okay, let's buy a cabinet tomorrow as well, otherwise there will be no place to put your clothes."
+    },
+    {
+        "zh": "我每天从早忙到晚，你可倒好，整天不是打麻将，就是看电视。",
+        "bo": "ང་ཉིན་གང་ཞོགས་པ་ནས་དགོང་མོའི་བར་དུ་བྲེལ་བ་ཆེ།་ཁྱོད་ཧ་ཅང་བཟང་།་ཉིན་གང་བོར་མཱ་ཅང་རྩེ་བ་མིན་ན་བརྙན་འཕྲིན་ལ་བལྟ་བ་རེད་།།",
+        "id": "trans-d_bo_486",
+        "en": "I'm busy from morning till night every day, and there you are, either playing mahjong or watching TV all day."
+    },
+    {
+        "zh": "别客气，我给你拿双新的。",
+        "bo": "འཛེམ་དོགས་མ་བྱེད།་ངས་ཁྱོད་ལ་གསར་བ་ཞིག་ཁྱེར་ཡོང་།",
+        "id": "trans-d_bo_402",
+        "en": "No problem, I'll get you a new pair."
+    },
+    {
+        "zh": "你今天不用上班啊?",
+        "bo": "ཁྱོད་དེ་རིང་ལས་ཚོགས་ལ་འགྲོ་མི་དགོས་སམ།",
+        "id": "trans-d_bo_116",
+        "en": "You don't have to work today?"
+    },
+    {
+        "zh": "阿新帮了我半天忙，我给他一千块钱怎么样?",
+        "bo": "ཨ་ཞིན་གྱིས་ང་ལ་ཉིན་ཕྱེད་་རོགས་བྱས་པའི་ངས་ཁོ་ལ་སྒོར་སྟོང་གཅིག་བྱིན་ན་ཅི་འདྲ་འདུག",
+        "id": "trans-d_bo_477",
+        "en": "Axin helped me for half a day. How about I give him a thousand yuan?"
+    },
+    {
+        "zh": "图书馆在哪儿？",
+        "bo": "དཔེ་མཛོད་ཁང་གང་ན་ཡོད།",
+        "id": "trans-d_bo_726",
+        "en": "Where is the library?"
+    },
+    {
+        "zh": "你好，我想点一份香辣鸡腿汉堡套餐，现在有什么优惠活动吗?",
+        "bo": "སྐུ་ཁམས་བཟང་ངས་བྱ་སུག་ཁ་ཚ་ཅན་གྱི་ཧན་པའོ་ཟ་མ་ཞིག་བཤད་ན་འདོད།་ད་ལྟ་གཟིགས་སྐྱོང་གི་བྱ་འགུལ་ཅི་ཞིག་ཡོད་དམ།",
+        "id": "trans-d_bo_570",
+        "en": "Hello, I would like to order a spicy chicken burger meal. Are there any promotions right now?"
+    },
+    {
+        "zh": "嗯，苏州园林和杭州的西湖很有名。",
+        "bo": "འུན།་སུའུ་ཀྲུའུ་སྐྱེད་ཚལ་དང་ཧང་ཀྲོའུ་ཡི་ཞི་ཧུའུ་མཚེའུ་ལ་མིང་གྲགས་ཆེ།",
+        "id": "trans-d_bo_100",
+        "en": "Yeah, the gardens of Suzhou and West Lake in Hangzhou are very famous."
+    },
+    {
+        "zh": "这菜包的味道真不错，是不是张记的?",
+        "bo": "ཚོད་མོག་་འདིའི་བྲོ་བ་ཧ་ཅང་བཟང་།་ཀྲང་ཅི་ཡི་ཡིན་ནམ།",
+        "id": "trans-d_bo_312",
+        "en": "These vegetable buns taste really good. Are they from Zhang's?"
+    },
+    {
+        "zh": "明天可是放假前的最后一天，还能开会吗？",
+        "bo": "སང་ཉིན་ནི་གུང་གསེང་སྔོན་གྱི་ཆེས་མཇུག་མཐའི་ཉིན་མོ་རེད།་ད་རུང་ཚོགས་འདུ་ཡོད་དམ་",
+        "id": "trans-d_bo_48",
+        "en": "Tomorrow is the last day before the holiday. Can we still have a meeting?"
+    },
+    {
+        "zh": "那你最好去梦里找。",
+        "bo": "དེ་ན་ཁྱོད་རྨི་ལམ་ནང་དུ་སོང་ནས་འཚོལ",
+        "id": "trans-d_bo_580",
+        "en": "Then you better look for him in your dreams."
+    },
+    {
+        "zh": "那我们到外面去玩儿吧。",
+        "bo": "དེ་ན་ང་ཚོ་ཕྱི་ལ་རྩེ་རུ་འགྲོ།",
+        "id": "trans-d_bo_182",
+        "en": "Then let's go outside and have fun."
+    },
+    {
+        "zh": "没有啊，我们国家一年四季都很热。所以看到雪我太高兴了。",
+        "bo": "ང་ཚོའི་རྒྱལ་ཁབ་ལོ་གཅིག་གི་དུས་ཚིགས་བཞི་བོར་ཚ་བ་ཆེ།དེའི་ཕྱིར་ཁ་བ་མཐོང་བས་ང་ཧ་ཅང་དགའ་ཡོད།",
+        "id": "trans-d_bo_181",
+        "en": "No, in our country, it's hot all year round. So I'm very happy to see snow."
+    },
+    {
+        "zh": "经理，我昨天感冒发烧了，能请一天假吗?",
+        "bo": "སྤྱི་གཉེར་ལགས།ང་ཁ་སང་ཆམ་པ་ཕོག་ནས་ཚ་བ་རྒྱས་འདུག་དགོངས་པ་ཉིན་གཅིག་གནང་བ་ཞུས་ན་ཆོག་གམ།",
+        "id": "trans-d_bo_349",
+        "en": "Manager, I had a cold and fever yesterday. Can I take a day off?"
+    },
+    {
+        "zh": "我去过苏州、杭州。",
+        "bo": "ང་སུའུ་ཀྲོའུ་དང་ཧང་ཀྲོའུ་ལ་སོང་མྱོང་།",
+        "id": "trans-d_bo_99",
+        "en": "I've been to Suzhou and Hangzhou."
+    },
+    {
+        "zh": "有可能，你先查一下血吧，过一会儿把报告单拿来给我。",
+        "bo": "ཡིན་སྲིད།་ཁྱོད་ཀྱིས་སྔོན་ལ་ཁྲག་ལ་ཞིབ་བཤེར་ཞིག་བྱོས་དང་།་ཅུང་ཙམ་འགོར་རྗེས་སྙན་ཞུའི་ཡི་གེ་ང་ལ་སྟེར་རོགས།",
+        "id": "trans-d_bo_238",
+        "en": "It’s possible. You should have a blood test first, and bring the report to me later."
+    },
+    {
+        "zh": "年轻时爱好游泳、滑冰，老了喜欢读书了。",
+        "bo": "ལོ་ན་གཞོན་པའི་སྐབས་སུ་ཆུ་རྐྱལ་དང་དར་ཤུད་ལ་དགའ།་རྒས་སོང་ན་དཔེ་ཆ་ཀློག་པར་དགའ།",
+        "id": "trans-d_bo_683",
+        "en": "When he was young, he loved swimming and skating, but now that he's older, he enjoys reading."
+    },
+    {
+        "zh": "听说你上中学时，就算没带钥匙，也能开门进去。",
+        "bo": "གོ་ཐོས་ལྟར་ན་ཁྱོད་སློབ་འབྲིང་ལ་འགྲོ་བའི་སྐབས་སུ།་ལྡེ་མིག་ཁྱེར་མེད་རུང་སྒོ་ཕྱེ་ནས་ནང་ལ་འགྲོ་ཐུབ།",
+        "id": "trans-d_bo_159",
+        "en": "I heard that when you were in middle school, you could get in even if you forgot your keys."
+    },
+    {
+        "zh": "寒假就快到了，你有什么打算吗?",
+        "bo": "དགུན་གནང་ཐོན་ལ་ཉེ།་ཁྱོད་ལ་འཆར་གཞི་ཅི་ཞིག་ཡོད་དམ།",
+        "id": "trans-d_bo_302",
+        "en": "The winter break is almost here, do you have any plans?"
+    },
+    {
+        "zh": "你怎么又换工作了?",
+        "bo": "ཁྱོད་ཀྱིས་ཡང་བྱ་བ་བརྗེ་དོན་ཅི་ཡིན།",
+        "id": "trans-d_bo_445",
+        "en": "Why did you change jobs again?"
+    },
+    {
+        "zh": "我的朋友今天就要回国了，以后很难再见面了。",
+        "bo": "ངའི་གྲོགས་པོ་དེ་རིང་རྒྱལ་ནང་དུ་ལོག་རྒྱུ་རེད།་རྗེས་ཕྱོགས་ངོ་འཕྲད་རྒྱུ་ཧ་ཅང་དཀའ",
+        "id": "trans-d_bo_630",
+        "en": "My friend is going back to his country today, it will be difficult to meet again in the future."
+    },
+    {
+        "zh": "没有，您的航班很准时。车在外面，我来帮您拿行李。",
+        "bo": "མེད།་ཁྱེད་ཀྱི་གནམ་གྲུ་དུས་ལྟར་ཐོན་འདུགརླངས་འཁོར་ཕྱི་ན་ཡོད།་ངས་ཁྱོད་ལ་ཅ་ལག་ཁྱེར་རོགས་བྱེད།",
+        "id": "trans-d_bo_86",
+        "en": "No, your flight was on time. The car is outside. I'll help you with your luggage."
+    },
+    {
+        "zh": "也不见得，大部分人的爱情还是很单纯的，只是社会更复杂了。",
+        "bo": "མི་མང་ཆེ་བའི་བརྩེ་དུང་ནི་ཧ་ཅང་ལྷད་མེད་ཡིན་པའི་ངེས་པ་མེད།་སྤྱི་ཚོགས་སྔར་ལས་རྙོག་འཛིང་ཆེ་བ་ཙམ་རེད།",
+        "id": "trans-d_bo_710",
+        "en": "Not necessarily, most people's love is still very pure, it's just that society has become more complex."
+    },
+    {
+        "zh": "今天你准备几点起床？",
+        "bo": "དེ་རིང་ཁྱོད་དུས་ཚོད་དུའི་སྟེང་ནས་མལ་ལས་ལངས་རྩིས་ཡོད།",
+        "id": "trans-d_bo_403",
+        "en": "What time are you planning to get up today?"
+    },
+    {
+        "zh": "你想买点儿什么?",
+        "bo": "ཁྱོད་ཀྱིས་ཅི་ཞིག་ཉོ་འདོད་དམ།",
+        "id": "trans-d_bo_214",
+        "en": "What do you want to buy?"
+    },
+    {
+        "zh": "你中午自己把剩的饺子热一下吃了吧。",
+        "bo": "ཁྱོད་ཀྱིས་ཉིན་གུང་ལྷག་ཡོད་པའི་ཆུ་མོག་དྲོན་པོ་བྱས་ནས་ཟོ།",
+        "id": "trans-d_bo_262",
+        "en": "Warm up the leftover dumplings and eat them yourself for lunch."
+    },
+    {
+        "zh": "小姐，超过200毫升的化妆水是不能带上飞机的。",
+        "bo": "སྲས་མོ།་ཧའོ་ཧྲེང་༢༠༠ལས་བརྒལ་བའི་མཛེས་འཆོས་ཆུ་ནི་གནམ་གྲུའི་སྟེང་དུ་འཁྱེར་མི་རུང་།",
+        "id": "trans-d_bo_611",
+        "en": "Miss, cosmetic liquids exceeding 200ml cannot be taken on the plane."
+    },
+    {
+        "zh": "小赵?别看他长得又高又壮，其实一点儿力气都没有。",
+        "bo": "ཞའོ་ཀྲའོ་ཡིན་ནམ།ཁོ་གཟུགས་རིང་ཞིང་སྟོབས་ཆེ་བར་མ་བལྟ།་དོན་དངོས་སུ་ཤེད་ཤུགས་ཅི་ཡང་མེད།",
+        "id": "trans-d_bo_389",
+        "en": "Xiao Zhao? Despite looking tall and strong, he actually doesn't have any strength."
+    },
+    {
+        "zh": "我是王强啊，听说你来长沙啦?",
+        "bo": "ང་ཝང་བྱང་ཡིན།གོ་ཐོས་ལ་ཁྱེད་རང་ཁྲང་ཧྲའ་ལ་ཡོད་པ་འདྲ།",
+        "id": "trans-d_bo_28",
+        "en": "I'm Wang Qiang. I heard you came to Changsha?"
+    },
+    {
+        "zh": "不顺利吗?不行再想想别的办法吧。",
+        "bo": "བདེ་བླག་མ་རེད་དམ།མི་ཆོག་ན་ད་རུང་ཐབས་གཞན་པ་འཚོལ།",
+        "id": "trans-d_bo_713",
+        "en": "Is it not going well? If not, try to think of other ways."
+    },
+    {
+        "zh": "但是现在是冬天啊。",
+        "bo": "འོན་ཀྱང་ད་ལྟ་དགུན་ཁ་རེད།",
+        "id": "trans-d_bo_372",
+        "en": "But it is winter now."
+    },
+    {
+        "zh": "明天再不开，哪天开呀？",
+        "bo": "སང་ཉིན་ད་དུང་མི་འཚོག་ན་ནམ་ཞིག་ལ་འཚོག་རྒྱུ་ཡིན།",
+        "id": "trans-d_bo_49",
+        "en": "If we're not having it tomorrow, then when can we?"
+    },
+    {
+        "zh": "现在房价这么高，你为什么非得着急买房呢?",
+        "bo": "ད་ལྟ་ཁང་རིན་འདི་འདྲ་མཐོ།་ཁྱོད་ཅིའི་ཕྱིར་ཁང་བ་ཉོ་བར་བྲེལ་བ་ལངས་པ་ཡིན།",
+        "id": "trans-d_bo_88",
+        "en": "The housing prices are so high right now, why are you in such a hurry to buy a house?"
+    },
+    {
+        "zh": "行，我下班后给你打电话。",
+        "bo": "ཆོག་གི་ང་ལས་ཚོགས་གྲོལ་རྗེས་ཁྱོད་ལ་ཁ་པར་གཏོང་།",
+        "id": "trans-d_bo_166",
+        "en": "Sure, I'll call you after work."
+    },
+    {
+        "zh": "服务员，请问卫生间在哪儿?",
+        "bo": "ཞབས་ཞུ་བ།་གསང་སྤྱོད་ཁང་གང་ན་ཡོད་དམ།",
+        "id": "trans-d_bo_743",
+        "en": "Waiter, could you tell me where the restroom is?"
+    },
+    {
+        "zh": "好吧，去那边吧。",
+        "bo": "ཆོག་གི་ཕར་ལ་འགྲོ་",
+        "id": "trans-d_bo_576",
+        "en": "Alright, let's go over there."
+    },
+    {
+        "zh": "喂，请问是孙丽吗?",
+        "bo": "ཝེའི།ཁྱེད་རང་སུན་ལིའི་ཡིན་ནམ།",
+        "id": "trans-d_bo_26",
+        "en": "Hello, is this Sun Li?"
+    },
+    {
+        "zh": "我没把它弄丢，但就是不记得放在哪里了。",
+        "bo": "ངས་དེ་བོར་མེད།་འོན་ཀྱང་གང་དུ་བཞག་པ་ཡིད་ལ་མི་དྲན།",
+        "id": "trans-d_bo_592",
+        "en": "I didn't lose them, I just don't remember where I put them."
+    },
+    {
+        "zh": "你家离学校远吗？",
+        "bo": "ཁྱེད་ཚང་སློབ་གྲྭ་དང་ཐག་རིང་ངམ།",
+        "id": "trans-d_bo_664",
+        "en": "Is your home far from the school?"
+    },
+    {
+        "zh": "以前是这样，现在不需要了。",
+        "bo": "སྔོན་ཆད་འདི་འདྲ་རེད།་ད་ལྟ་མི་དགོ",
+        "id": "trans-d_bo_391",
+        "en": "It used to be like that, but it's not necessary anymore."
+    },
+    {
+        "zh": "上小学的时候。",
+        "bo": "སློབ་གྲྭ་ཆུང་བར་འགྲོ་སྐབས་།",
+        "id": "trans-d_bo_158",
+        "en": "When I was in elementary school."
+    },
+    {
+        "zh": "啊，我想起来了。就是那个笑起来有酒窝的姑娘吧。",
+        "bo": "ཨ།་ངས་དྲན་བྱུང་།བགད་ན་འཛུམ་ཀོང་ཡོད་པའི་མོ་དེ་རེད།",
+        "id": "trans-d_bo_283",
+        "en": "Ah, I remember now. She's the girl with dimples when she smiles, right?"
+    },
+    {
+        "zh": "小弟，你什么时候来北京的?出差还是旅游?怎么不告诉我?",
+        "bo": "གཅུང་པོ།ཁྱེད་ག་དུས་པི་ཅིན་ལ་ཡོང་བ་ཡིན་ནམ།གཞུང་དོན་དུ་ཡོང་བ་ཡིན་ནམ་ཡང་ན་ཡུལ་སྐོར་ལ་ཡོང་བ་ཡིན།ང་ལ་མ་བཤད་པ་གང་ཡིན།",
+        "id": "trans-d_bo_8",
+        "en": "Little brother, when did you come to Beijing? For business or tourism? Why didn't you tell me?"
+    },
+    {
+        "zh": "考是考上了，不过学校不太理想。",
+        "bo": "ཡིག་རྒྱུགས་ལོན་འདུགཡིན་ནའི་སློབ་གྲྭ་འདི་འདྲའི་ཡག་པོ་མིན་འདུག",
+        "id": "trans-d_bo_5",
+        "en": "She did get in, but the university isn't very ideal."
+    },
+    {
+        "zh": "换了，售货员态度挺好的，他们说这次进货时就发现有破的。",
+        "bo": "བརྗེ་སོང་།་ཚོང་ཟོག་འཚོང་མཁན་གྱི་རྣམ་འགྱུར་ཧ་ཅང་བཟང་།་ཁོ་ཚོས་ཐེངས་འདིར་ཚོང་ཟོག་ནང་འདྲེན་བྱེད་སྐབས་ཆག་ཡོད་པ་ཤེས་སོང་ཟེར།",
+        "id": "trans-d_bo_252",
+        "en": "I did, the salesperson was quite nice. They said they found some broken ones when they received the shipment this time."
+    },
+    {
+        "zh": "王姐，你能帮我们公司介绍几个外国客户吗?",
+        "bo": "ཨ་ཅེ་ཝང་།་ཁྱོད་ཀྱིས་ང་ཚོའི་ཀུང་སི་ལ་ཕྱི་རྒྱལ་གྱི་མགྲོན་པོ་འགའ་ངོ་སྤྲོད་བྱེད་ཐུབ་བམ།",
+        "id": "trans-d_bo_615",
+        "en": "Sister Wang, can you help our company introduce a few foreign clients?"
+    },
+    {
+        "zh": "就他那两下子，算了吧。",
+        "bo": "ཁོའི་ལག་རྩེད་ལ་བལྟས་ན་ད་བསྐྱུར་ཞོག",
+        "id": "trans-d_bo_578",
+        "en": "With his limited skills, forget it."
+    },
+    {
+        "zh": "这能赖我吗，都是经济危机闹的。",
+        "bo": "འདི་ང་ལ་ལན་པ་ཡོད་དམ།ཚང་མ་དཔལ་འབྱོར་ཉམས་ཉེན་གྱིས་བཟོས་པ་རེད།",
+        "id": "trans-d_bo_25",
+        "en": "Can you blame me? It's all because of the economic crisis."
+    },
+    {
+        "zh": "她办的那个刊物我也看了，虽然不专业，但选的稿件也有出彩的。",
+        "bo": "ཁོ་མོས་གཉེར་བའི་དུས་དེབ་དེ་ངས་ཀྱང་བལྟས་ཟིན།་ཆེད་ལས་མིན་རུང་།་བདམས་པའི་རྩོམ་ཡིག་ལ་ཡང་མཚར་སྡུག་ལྡན",
+        "id": "trans-d_bo_566",
+        "en": "I've also read the publication she manages. Although it's not professional, there are some outstanding articles."
+    },
+    {
+        "zh": "不用。",
+        "bo": "མི་དགོས།",
+        "id": "trans-d_bo_117",
+        "en": "No need."
+    },
+    {
+        "zh": "那我办理托运可以吗?",
+        "bo": "དེ་ན་ངས་མངགས་འདྲེན་བྱས་ན་ཆོག་གམ་།",
+        "id": "trans-d_bo_612",
+        "en": "Can I check it in?"
+    },
+    {
+        "zh": "当然带了，不然这几天我们怎么拍照？",
+        "bo": "ཁྱེར་ལོས་ཡོད།་དེ་མིན་ན་ཉིན་འདི་དག་ལ་ང་ཚོས་ཅི་ལྟར་པར་ལེན་དགོས།",
+        "id": "trans-d_bo_261",
+        "en": "Of course I did, otherwise how would we take pictures these days?"
+    },
+    {
+        "zh": "好的，谢谢。",
+        "bo": "ཆོག་གི་བཀའ་དྲིན་ཆེ།",
+        "id": "trans-d_bo_156",
+        "en": "Okay, thank you."
+    },
+    {
+        "zh": "您好，我是来应聘的，请问需要哪些材料?",
+        "bo": "སྐུ་ཁམས་བཟང་ང་ནི་གདན་ཞུ་དང་ལེན་བྱེད་དུ་ཡོང་བ་ཡིན།་རྒྱུ་ཆ་གང་དག་དགོས་སམ།",
+        "id": "trans-d_bo_337",
+        "en": "Hello, I am here to apply for a job. What materials do I need to provide?"
+    },
+    {
+        "zh": "走路去多累啊，咱们还是骑自行车去吧!",
+        "bo": "རྐང་ཐང་ལ་སོང་ན་ཅི་འདྲའི་ཐང་ཆད་པ་ལ།་ང་ཚོས་ལྕགས་རྟ་ཞོན་ནས་འགྲོ།",
+        "id": "trans-d_bo_448",
+        "en": "Walking is too tiring, let's ride a bike instead!"
+    },
+    {
+        "zh": "这张合影效果最好，背景选得好，色彩好，你的表情也好。",
+        "bo": "མཉམ་པར་འདིའི་ཕན་འབྲས་ཆེས་བཟང་།་རྒྱབ་ལྗོངས་འདེམས་པ་བཟང་།་ཁ་དོག་བཟང་།་ཁྱོད་ཀྱི་རྣམ་འགྱུར་ཡང་བཟང་།",
+        "id": "trans-d_bo_90",
+        "en": "This group photo turned out the best, the background is well chosen, the colors are good, and your expression is great."
+    },
+    {
+        "zh": "哦，我要见你们的主管厂长，结工程款。",
+        "bo": "ཨོ།་ང་ཁྱོད་ཚོའི་གཙོ་གཉེར་བཟོ་གྲྭའི་འགོ་འཛིན་ལ་ཐུག་དགོས།་ལས་གྲྭའི་དངུལ་སྤྲོད་དགོས།",
+        "id": "trans-d_bo_407",
+        "en": "Oh, I need to see your manager to settle the project payment."
+    },
+    {
+        "zh": "好的，那就后天，先带你去岳麓书院，然后再去橘子洲，怎么样?",
+        "bo": "ཡོང་ང་།བྱས་ན་གནངས་ཉིན་ངས་ཁྱེད་རང་ཡུའེ་ལུའུ་དཔེ་ཁང་ལ་འཁྲིད་ཆོགདེ་ནས་ཡང་ཚ་ལུ་མའི་གླིང་ལ་འགྲོ།གང་འདྲ་འདུག་གམ།",
+        "id": "trans-d_bo_38",
+        "en": "Okay, then the day after tomorrow. I'll first take you to Yuelu Academy, then to Orange Island. How about that?"
+    },
+    {
+        "zh": "那还用说，他们可是我们单位的模范夫妻。",
+        "bo": "དེ་ན་ད་རུང་བཤད་དགོས།་ཁོ་ཚོ་ནི་ང་ཚོའི་ལས་ཁུངས་ཀྱི་མིག་དཔེ་ཅན་གྱི་བཟའ་ཟླ་ཡིན།",
+        "id": "trans-d_bo_178",
+        "en": "That's for sure, they are the model couple in our unit."
+    },
+    {
+        "zh": "看小赵这身板，让他去帮忙是再合适不过了。",
+        "bo": "ཞའོ་ཀྲའོ་ཡི་ལུས་པོ་འདི་ལ་ལྟོས་དང་།་ཁོ་ལ་རོགས་བྱེད་དུ་བཅུག་ན་དེ་ལས་འཚམ་པ་མི་འདུག་།",
+        "id": "trans-d_bo_388",
+        "en": "Look at Xiao Zhao's build; it's perfect for him to help."
+    },
+    {
+        "zh": "我的手机哪儿去了?",
+        "bo": "ངའི་ཁ་པར་གང་ལ་བུད་སོང་།",
+        "id": "trans-d_bo_449",
+        "en": "Where did my phone go?"
+    },
+    {
+        "zh": "我没有你做得好吃。",
+        "bo": "ང་ཁྱོད་ཀྱིས་ལས་པ་དེ་འདྲ་མི་ཞིམ།",
+        "id": "trans-d_bo_546",
+        "en": "I can't cook as well as you do."
+    },
+    {
+        "zh": "放假打算去哪玩啊?",
+        "bo": "གུང་གསེང་ལ་གང་ལ་རྩེ་རུ་འགྲོ་རྩིས་ཡོད།",
+        "id": "trans-d_bo_272",
+        "en": "Where do you plan to go for vacation?"
+    },
+    {
+        "zh": "这件颜色挺好的，但是有点儿瘦，有没有大一号的?",
+        "bo": "ཁ་དོག་འདི་ཧ་ཅང་བཟང་།་འོན་ཀྱང་ཅུང་སྐམ་པོ་འདུག་ཨང་གྲངས་གཅིག་ཅན་ཡོད་དམ།",
+        "id": "trans-d_bo_221",
+        "en": "This color is nice, but it's a bit tight. Do you have a larger size?"
+    },
+    {
+        "zh": "也对，去开会还是应该穿得正式一点儿。",
+        "bo": "ཡང་རེད།་ཚོགས་འདུ་ལ་སོང་ན་ལྭ་བ་ཚད་ལྡན་གྱོན་དགོས།",
+        "id": "trans-d_bo_125",
+        "en": "That's true, it's better to dress more formally for a meeting."
+    },
+    {
+        "zh": "恐怕你不是只喜欢我吧!",
+        "bo": "ཕལ་ཆེར་ཁྱོད་ང་གཅིག་པུ་ལ་དགའ་བ་མ་རེད།",
+        "id": "trans-d_bo_422",
+        "en": "I'm afraid you don't only like me, right!"
+    },
+    {
+        "zh": "这都怪我，是我赶时间。您别生气。咱有话好商量，行吗?",
+        "bo": "འདི་ཚང་མ་ང་ལ་ལན་པ་ཡོད།་ང་རང་མྱུར་དུ་ཕྱིན་པ་ཡིན་།ཁྱོད་ཁོང་ཁྲོ་མ་ལངས་།ང་ཚོར་གྲོས་བྱས་ན་ཆོག་གམ་།",
+        "id": "trans-d_bo_331",
+        "en": "It's all my fault; I was in a hurry. Please don't be angry. Let's talk it over, okay?"
+    },
+    {
+        "zh": "穿这件吧，这件我觉得更漂亮一点儿。",
+        "bo": "འདི་གྱོན་དང་།་འདི་ངས་བསམ་ན་དེ་ལས་ཡག་པོ་འདུག",
+        "id": "trans-d_bo_123",
+        "en": "I'll wear this one. I think this one looks prettier."
+    },
+    {
+        "zh": "你好。我想开立一个账户，但我不知道要开哪种账户。",
+        "bo": "སྐུ་ཁམས་བཟང་ངས་ཐོ་ཁོངས་ཤིག་ཕྱེ་ན་འདོད།་འོན་ཀྱང་ངས་ཐོ་ཁོངས་གང་ཞིག་ཕྱེ་དགོས་པ་མི་ཤེས།",
+        "id": "trans-d_bo_463",
+        "en": "Hello. I want to open an account, but I don't know which type to open."
+    },
+    {
+        "zh": "这桔子真甜，你在哪儿买的?",
+        "bo": "ཚ་ལུ་མ་འདི་ཧ་ཅང་མངར།་ཁྱོད་ཀྱིས་གང་ནས་ཉོས་པ་ཡིན།",
+        "id": "trans-d_bo_339",
+        "en": "These oranges are really sweet. Where did you buy them?"
+    },
+    {
+        "zh": "不对吧?我的孩子不到一米二。",
+        "bo": "མ་རེད་ངའི་བྱིས་པ་སྨི་གཅིག་ཚེག་གཉིས་ལ་སླེབས་མེད་།",
+        "id": "trans-d_bo_720",
+        "en": "That's not right, my child is under 1.2 meters."
+    },
+    {
+        "zh": "语文老师让我们多阅读名著。我想借一本文学方面的书。",
+        "bo": "རྒྱ་ཡིག་དགེ་རྒན་གྱིས་ང་ཚོར་བརྩམས་ཆོས་གྲགས་ཅན་མང་པོ་ཀློག་ཏུ་བཅུག་ངས་རྩོམ་རིག་ཕྱོགས་ཀྱི་དཔེ་ཆ་ཞིག་གཡར་ན་འདོད།",
+        "id": "trans-d_bo_687",
+        "en": "The language teacher advised us to read more classics. I want to borrow a book on literature."
+    },
+    {
+        "zh": "就这首吧，我没事时经常唱的。",
+        "bo": "གླུ་འདི་རེད།་ང་ལ་དོན་དག་མེད་དུས་རྒྱུན་དུ་བླངས་པ་ཡིན།",
+        "id": "trans-d_bo_186",
+        "en": "How about this one? I often sing it when I'm free."
+    },
+    {
+        "zh": "以前喜欢吃，但现在不喜欢了。",
+        "bo": "སྔོན་ཆད་ཟ་རྒྱུར་དགའ་མོད།་འོན་ཀྱང་ད་ལྟ་མི་དགའ།",
+        "id": "trans-d_bo_602",
+        "en": "I used to like it, but not anymore."
+    },
+    {
+        "zh": "那不一定吧，只有提高产品质量才能得到顾客的信任。",
+        "bo": "དེ་ཡིན་པའི་ངེས་པ་མེད།་ཐོན་རྫས་ཀྱི་སྤུས་ཚད་མཐོར་འདེགས་བཏང་ན་ད་གཟོད་མགྲོན་པོའི་ཡིད་ཆེས་ཐོབ་ཐུབ།",
+        "id": "trans-d_bo_61",
+        "en": "That's not necessarily true. Only by improving product quality can you gain customers' trust."
+    },
+    {
+        "zh": "没有，你有什么好的建议吗?",
+        "bo": "མེད།་ཁྱོད་ལ་བསམ་འཆར་བཟང་བོ་ཅི་ཞིག་ཡོད་དམ།",
+        "id": "trans-d_bo_638",
+        "en": "Nothing, do you have any good suggestions?"
+    },
+    {
+        "zh": "真臭。到处都是垃圾!",
+        "bo": "ངོ་མ་བཙོག་གིགང་ས་གང་དུ་གད་སྙིགས་རེད།",
+        "id": "trans-d_bo_239",
+        "en": "It really stinks. There's garbage everywhere!"
+    },
+    {
+        "zh": "您经常存钱和取钱吗?",
+        "bo": "ཁྱེད་ཀྱིས་རྒྱུན་དུ་སྒོར་མོ་གསོག་པ་དང་ལེན་པ་ཡིན་ནམ།",
+        "id": "trans-d_bo_464",
+        "en": "Do you frequently deposit and withdraw money?"
+    },
+    {
+        "zh": "饭还没好吗?",
+        "bo": "ཟ་མ་ད་དུང་འགྲུབམེད་དམ།",
+        "id": "trans-d_bo_485",
+        "en": "Isn't the meal ready yet?"
+    },
+    {
+        "zh": "您请!",
+        "bo": "ཁྱེད་རང་ཕེབས་དང་",
+        "id": "trans-d_bo_517",
+        "en": "Please go ahead!"
+    },
+    {
+        "zh": "最近医院特别忙，下周六吧。",
+        "bo": "ཉེ་ལམ་སྨན་ཁང་ཧ་ཅང་བྲེལ་བ་ཆེ།་གཟའ་འཁོར་རྗེས་མའི་གཟའ་སྤེན་པ་ལ་འགྲོ་།",
+        "id": "trans-d_bo_385",
+        "en": "The hospital has been particularly busy recently, let's go next Saturday."
+    },
+    {
+        "zh": "是的，我和孩子一起去，爬山是他最大的爱好。",
+        "bo": "རེད།་ང་དང་ཕྲུག་གུ་་མཉམ་དུ་སོང་་།་རི་ལ་འཛེགས་པ་ནི་ཁོའི་ཆེས་ཆེ་བའི་དགའ་ཕྱོགས་ཡིན།",
+        "id": "trans-d_bo_503",
+        "en": "Yes, I go with my child. Hiking is his greatest hobby."
+    },
+    {
+        "zh": "在哪儿买的?",
+        "bo": "གང་ནས་ཉོས་པ་ཡིན།",
+        "id": "trans-d_bo_563",
+        "en": "Where did you buy them?"
+    },
+    {
+        "zh": "快点儿，出租车还在下面等着呢。",
+        "bo": "མགྱོགས་པོ་བྱོས།་གླ་གཏོང་རླངས་འཁོར་གྱིས་ད་དུང་འོག་ན་སྒུག་ཡོད།",
+        "id": "trans-d_bo_104",
+        "en": "Hurry up, the taxi is still waiting downstairs."
+    },
+    {
+        "zh": "听说你昨天晚上给安娜过生日去了。",
+        "bo": "གོ་ཐོས་ལྟར་ན་ཁྱོད་མདང་དགོང་ཨན་ན་ལ་སྐྱེས་སྐར་རོལ་དུ་བུད་སོང་ཟེར།",
+        "id": "trans-d_bo_363",
+        "en": "I heard you attended Anna's birthday party last night."
+    },
+    {
+        "zh": "你应该多穿点儿衣服。",
+        "bo": "ཁྱོད་ཀྱིས་ལྭ་བ་མང་ཙམ་གྱོན་དགོས་།",
+        "id": "trans-d_bo_370",
+        "en": "You should wear more clothes."
+    },
+    {
+        "zh": "是吗?那我就不客气了。",
+        "bo": "རེད་དམ།དེ་ན་ངས་འཛེམ་དོགས་མི་བྱེད་།",
+        "id": "trans-d_bo_211",
+        "en": "Really? Then I won't hold back."
+    },
+    {
+        "zh": "除非老李出面。",
+        "bo": "ལའོ་ལིས་དངོས་སུ་ཐོན་ན་མ་གཏོགས།",
+        "id": "trans-d_bo_663",
+        "en": "Unless Old Li steps in."
+    },
+    {
+        "zh": "一天三次，饭后吃。",
+        "bo": "ཉིན་གཅིག་ལ་ཐེངས་གསུམ།་ཟ་མ་ཟས་རྗེས་ཟ།",
+        "id": "trans-d_bo_67",
+        "en": "Three times a day, after meals."
+    },
+    {
+        "zh": "我看我应该把裙子找出来了。",
+        "bo": "བལྟས་ན་ངས་སྨད་གཡོགས་བཙལ་ནས་ཡོང་ན་འགྲིག",
+        "id": "trans-d_bo_344",
+        "en": "I think I should find my skirt."
+    },
+    {
+        "zh": "可以，您先去办行李托运手续吧，一会儿再过来进行安全检查。",
+        "bo": "ཆོག་གི་ཁྱེད་རང་སྔོན་ལ་ལམ་ཆས་མངགས་འདྲེན་གྱི་འགྲོ་ལུགས་སྒྲུབ་ཏུ་སོང་།་ཅུང་ཙམ་འགོར་རྗེས་བདེ་འཇགས་ཞིབ་བཤེར་བྱེད་དུ་ཤོག",
+        "id": "trans-d_bo_613",
+        "en": "Yes, please go check your luggage first, and then come back for the security check."
+    },
+    {
+        "zh": "这个胡同里的房子看起来年代比较久远。",
+        "bo": "སྲང་ལམ་འདིའི་ནང་གི་ཁང་བ་བལྟས་ཡོང་ན་ལོ་རབས་ཅུང་རིང་།",
+        "id": "trans-d_bo_644",
+        "en": "The houses in this alley look quite old."
+    },
+    {
+        "zh": "这头也有吗?这边人少，也近一点儿。",
+        "bo": "འདི་ཡང་ཡོད་དམ།འདི་ན་མི་ཉུང་ལ་ཐག་ཉེ་།",
+        "id": "trans-d_bo_660",
+        "en": "Is there one on this end too? There are fewer people here, and it's a bit closer."
+    },
+    {
+        "zh": "那我们就周日去吧，周日公园里更好玩儿。",
+        "bo": "དེ་ན་ང་ཚོ་གཟའ་ཉི་མར་འགྲོ།་གཟའ་ཉི་མར་སྤྱི་གླིང་དུ་ལྷག་ཏུ་སྐྱིད་པོ་འདུག",
+        "id": "trans-d_bo_130",
+        "en": "Then let's go on Sunday, it's even more fun in the park on Sundays."
+    },
+    {
+        "zh": "我和同学说好一起去打篮球。",
+        "bo": "ང་དང་སློབ་གྲོགས་མཉམ་དུ་ལག་རྩེད་སྤོ་ལོ་རྩེ་རུ་འགྲོ་ཞེས་བཤད་ཡོད།",
+        "id": "trans-d_bo_619",
+        "en": "I agreed with my classmates to go play basketball together."
+    },
+    {
+        "zh": "看来这次聚会浪费了不少粮食啊!",
+        "bo": "བལྟས་ཡོང་ན་ཐེངས་འདིའི་འདུ་འཛོམས་ཀྱིས་འབྲུ་རིགས་མི་ཉུང་བ་ཞིག་འཕྲོ་བརླག་བཏང་འདུག",
+        "id": "trans-d_bo_492",
+        "en": "It seems that this gathering wasted quite a bit of food!"
+    },
+    {
+        "zh": "应该会吧。好像是在一周之后。",
+        "bo": "ཕལ་ཆེར་ཡིན་ཀྱི་རེདརེད།ཕལ་ཆེར་གཟའ་འཁོར་གཅིག་གི་རྗེས་སུ་ཡིན་ཀྱི་རེད་།",
+        "id": "trans-d_bo_528",
+        "en": "It probably will be. It seems like it'll happen in a week."
+    },
+    {
+        "zh": "陈小明，找到工作了吗?",
+        "bo": "ཁྲན་ཞའོ་མིང་།ལས་ཀ་རྙེད་བྱང་ངམ།",
+        "id": "trans-d_bo_10",
+        "en": "Chen Xiaoming, have you found a job?"
+    },
+    {
+        "zh": "是吗?太好了!我五点四十下课，我们六点一刻在学校门口见面。",
+        "bo": "རེད་དམ།ཡག་བྱུང་དུས་ཚོད་ལྔ་དང་སྐར་མ་བཞི་བཅུའི་སྟེང་སློབ་ཁྲིད་གྲོལ་བ་ཡིན།ང་ཚོ་དུས་ཚོད་དྲུག་དང་སྐར་མ་བཅོ་ལྔའི་སྟེང་སློབ་གྲྭའི་སྒོ་ཁ་ནས་ཐུག",
+        "id": "trans-d_bo_642",
+        "en": "Really? That's great! I finish class at 5:40, let's meet at the school gate at 6:15."
+    },
+    {
+        "zh": "请问银行怎么走?",
+        "bo": "དངུལ་ཁང་ལ་ཅི་ལྟར་འགྲོ་དགོས།",
+        "id": "trans-d_bo_198",
+        "en": "Excuse me, how do I get to the bank?"
+    },
+    {
+        "zh": "在中国，结婚以前一定要去检查身体，这是真的吗？",
+        "bo": "ཀྲུང་གོར་གཉེན་སྒྲིག་མ་བྱས་གོང་ངེས་པར་དུ་གཟུགས་པོར་བརྟག་དཔྱད་བྱེད་པར་འགྲོ་དགོས་པ་དེ་ནི་ངོ་མ་ཡིན་ནམ།",
+        "id": "trans-d_bo_390",
+        "en": "In China, is it true that you must get a health check before getting married?"
+    },
+    {
+        "zh": "他今天一直保持沉默，太奇怪了。",
+        "bo": "ཁོས་དེ་རིང་རྒྱུན་དུ་ཁ་རོག་གེར་བསྡད།་ངོ་མ་ཡ་མཚན་ཞིག་རེད།",
+        "id": "trans-d_bo_213",
+        "en": "He stayed silent today, which was really strange."
+    },
+    {
+        "zh": "小张，你知道中国银行什么时候下班吗?",
+        "bo": "ཞའོ་ཀྲང་།་ཁྱོད་ཀྱིས་ཀྲུང་གོའི་དངུལ་ཁང་ནམ་ཞིག་ལ་ལས་ཚོགས་གྲོལ་བ་ཤེས་སམ།",
+        "id": "trans-d_bo_357",
+        "en": "Xiao Zhang, do you know when the Bank of China closes?"
+    },
+    {
+        "zh": "学校对面有商店，你出门往左走就能看到。",
+        "bo": "སློབ་གྲྭའི་ཁ་གཏད་དུ་ཚོང་ཁང་ཡོད།་ཁྱོད་ཕྱི་ལ་སོང་ནས་གཡོན་ཕྱོགས་སུ་སོང་ན་མཐོང་ཐུབ།",
+        "id": "trans-d_bo_460",
+        "en": "There's a shop opposite the school. If you go out and turn left, you'll see it."
+    },
+    {
+        "zh": "对不起，昨天刚卖完。明天还要进货，你再来看看吧?",
+        "bo": "དགོངས་པ་མ་ཚོམ།་ཁ་སང་སོ་མ་བཙོང་ཚར་བ་ཡིན།སང་ཉིན་ད་དུང་ཚོང་ཟོག་ནང་འདྲེན་བྱེད་དགོས།་ཁྱོད་ཡང་བསྐྱར་བལྟ་རུ་ཤོག",
+        "id": "trans-d_bo_381",
+        "en": "Sorry, they just sold out yesterday. We are getting more stock tomorrow, can you come back to check?"
+    },
+    {
+        "zh": "那太可惜了。那还会推迟举办吗?",
+        "bo": "དེ་ངོ་མ་ཡིད་ཕངས་པ་ཞིག་རེད།དེ་ན་ད་རུང་འགོར་འགྱངས་བྱེད་སྲིད་དམ་།",
+        "id": "trans-d_bo_527",
+        "en": "That's a shame. Will it be postponed?"
+    },
+    {
+        "zh": "没在桌子上吗?",
+        "bo": "ཅོག་ཙེ་སྟེང་ན་མེད་དམ།",
+        "id": "trans-d_bo_450",
+        "en": "Isn't it on the table?"
+    },
+    {
+        "zh": "昨天刚买的。",
+        "bo": "ཁ་སང་སོ་མ་ཉོས་པ་ཡིན།",
+        "id": "trans-d_bo_562",
+        "en": "I just bought them yesterday."
+    },
+    {
+        "zh": "招聘单位的条件也是越来越高，要博士，还要有相关工作经历。",
+        "bo": "ལས་མི་བསྡུ་བའི་ལས་ཁུངས་ཁག་གི་ཆ་རྐྱེན་ཡང་ཇི་མཐོ་ཇི་མཐོར་རེད།འབུམ་རམས་པ་དགོས་པ་མ་ཚད།ད་དུང་ལས་ཀའི་ཉམས་མྱོང་ཡང་དགོས་ཀྱིས།",
+        "id": "trans-d_bo_17",
+        "en": "The recruitment companies are setting higher and higher requirements, asking for a PhD, and they also want relevant work experience."
+    },
+    {
+        "zh": "我好色，颜色好看才让人想吃嘛。",
+        "bo": "ང་མདོག་ཡག་པོ་འདུག་ཁ་དོག་ཡག་པས་ད་གཟོད་ཟ་འདོད་པ་རེད།",
+        "id": "trans-d_bo_257",
+        "en": "I'm fond of color, as a good appearance makes you want to eat."
+    },
+    {
+        "zh": "是啊，这是他第一天上班。",
+        "bo": "རེད་ཡ།་འདི་ནི་ཁོ་ཉིན་དང་པོར་ལས་ཚོགས་ལ་ཞུགས་པ་རེད།",
+        "id": "trans-d_bo_271",
+        "en": "Yes, it's his first day at work."
+    },
+    {
+        "zh": "别灰心，慢慢来吧。总会找到的。",
+        "bo": "སེམས་མ་ཕམ།་དལ་མོར་ཤོགགང་ལྟར་རྙེད་ངེས་རེད།",
+        "id": "trans-d_bo_715",
+        "en": "Don't lose heart, take it slow. You will find one eventually."
+    },
+    {
+        "zh": "这照相机怎么坏了？打开就自动关机。",
+        "bo": "པར་ཆས་འདི་ཅིའི་ཕྱིར་ཆག་སོང་བ་རེད།ཁ་ཕྱེ་ན་རང་འགུལ་གྱིས་སྒོ་རྒྱག",
+        "id": "trans-d_bo_258",
+        "en": "What's wrong with this camera? It turns off automatically when I turn it on."
+    },
+    {
+        "zh": "没关系，我平时都坐电梯。",
+        "bo": "སྐྱོན་མེད།་ང་རྒྱུན་དུ་གློག་སྐས་ལ་བསྡད་པ་ཡིན།",
+        "id": "trans-d_bo_440",
+        "en": "It's okay, I usually take the elevator."
+    },
+    {
+        "zh": "医生，我一个晚上拉了六次肚子，现在一点儿力气都没了!",
+        "bo": "སྨན་པ།་ངས་དགོང་མོ་གཅིག་ལ་ཕོ་བ་ཐེངས་དྲུག་ལ་འཐེན་པ་ཡིན།་ད་ལྟ་ཤེད་ཤུགས་ཅི་ཡང་མི་འདུག",
+        "id": "trans-d_bo_235",
+        "en": "Doctor, I had diarrhea six times in one night, and now I have no strength at all!"
+    },
+    {
+        "zh": "王丽的电话号码不知道让我记在哪儿了。",
+        "bo": "ཝང་ལིས་ཀྱི་ཁ་པར་ཨང་གྲངས་ང་ལ་གང་དུ་ཡིད་ལ་འཛིན་དུ་བཅུག་པ་མི་ཤེས",
+        "id": "trans-d_bo_416",
+        "en": "I don't know where I noted down Wang Li's phone number."
+    },
+    {
+        "zh": "真是越忙越出错，我还有很多作业要写呢。",
+        "bo": "ངོ་མ་བྲེལ་བ་ཇི་ལྟར་ཆེ་ན་དེ་ལྟར་ནོར་འཁྲུལ་འབྱུང་།་ང་ལ་ད་དུང་ལས་བྱ་མང་པོ་འབྲི་རྒྱུ་ཡོད།",
+        "id": "trans-d_bo_549",
+        "en": "The busier I get, the more mistakes I make. I still have a lot of homework to do."
+    },
+    {
+        "zh": "小莉，好长时间没去看你父母了，最近工作太忙，常常加班。",
+        "bo": "ཞའོ་ལིས།་དུས་ཡུན་རིང་བོ་ཞིག་ལ་ཁྱོད་ཀྱི་ཕ་མར་བལྟ་རུ་མ་སོང་།་ཉེ་ལམ་བྱ་བ་ཧ་ཅང་བྲེལ་བ་ཆེ།་རྒྱུན་དུ་ལས་སྣོན་བྱེད་བཞིན་ཡོད།",
+        "id": "trans-d_bo_535",
+        "en": "Xiao Li, I haven't visited your parents for a long time. I've been very busy with work lately and often work overtime."
+    },
+    {
+        "zh": "请在这里签个字，一会儿我带你过去面试。",
+        "bo": "འདི་ནས་མིང་རྟགས་འགོད་རོགས།་ཅུང་ཙམ་འགོར་རྗེས་ངས་ཁྱོད་ཁྲིད་ནས་ངོ་རྒྱུགས་ལེན་དུ་འགྲོ།",
+        "id": "trans-d_bo_356",
+        "en": "Please sign here, and I'll take you to the interview in a moment."
+    },
+    {
+        "zh": "那这件事就好办了。",
+        "bo": "དེས་ན་དོན་དག་འདི་སྒྲུབ་སླ་པོ་རེད།",
+        "id": "trans-d_bo_7",
+        "en": "Then this matter will be easy to handle."
+    },
+    {
+        "zh": "明天吧，今天是我妈妈的生日，我得回家吃饭。",
+        "bo": "སང་ཉིནཡིན།དེ་རིང་ནི་ངའི་ཨ་མའི་སྐྱེས་སྐར་རེད།་ང་ནང་་ལ་ཟ་མ་ཟ་རུ་འགྲོ་དགོས།",
+        "id": "trans-d_bo_395",
+        "en": "How about tomorrow, today is my mom's birthday and I have to go home for dinner."
+    },
+    {
+        "zh": "你画的这些画儿真漂亮!一点儿也不像业余爱好者画的。",
+        "bo": "མོ།ཁྱོད་ཀྱིས་བྲིས་པའི་རི་མོ་འདི་དག་ངོ་མ་ཡག་གིལས་ཞོར་དགའ་ཕྱོགས་པས་བྲིས་པ་དང་ཅུང་ཙམ་ཡང་མི་འདྲ།",
+        "id": "trans-d_bo_314",
+        "en": "The paintings you did are really beautiful! They don't look like they were done by an amateur at all."
+    },
+    {
+        "zh": "恐怕不行，厂长正开会呢。",
+        "bo": "ཕལ་ཆེར་མི་ཆོག་བཟོ་གྲྭའི་འགོ་འཛིན་གྱིས་ཚོགས་འདུ་འཚོགས་བཞིན་ཡོད",
+        "id": "trans-d_bo_410",
+        "en": "I'm afraid not, the manager is in a meeting."
+    },
+    {
+        "zh": "不是很贵，每人20。",
+        "bo": "རིན་གོང་དེ་འདྲ་མི་མཐོ།་མི་རེར་20",
+        "id": "trans-d_bo_115",
+        "en": "It wasn't very expensive, 20 each."
+    },
+    {
+        "zh": "所以还是再努努力，到了周末好好休息吧。",
+        "bo": "དེའི་ཕྱིར་ད་རུང་འབད་པ་བྱས་ནས་གཟའ་མཇུག་ལ་ངལ་གསོ་ཡག་པོ་བྱོས།",
+        "id": "trans-d_bo_291",
+        "en": "So, just keep working hard, and take a good rest on the weekend."
+    },
+    {
+        "zh": "赵先生……有您的登记信息，三号桌，我带您过去。",
+        "bo": "སྐུ་ཞབས་ཀྲའོ་ལགས།ཁྱོད་ཀྱི་ཐོ་འགོད་ཆ་འཕྲིན་ཡོད།་ཅོག་ཙེ་གསུམ་པ།་ངས་ཁྱོད་ཁྲིད་ནས་འགྲོ།",
+        "id": "trans-d_bo_657",
+        "en": "Mr. Zhao... I have your registration information. Table number three, I'll take you there."
+    },
+    {
+        "zh": "田芳，你作业做完了吗?",
+        "bo": "ཐེན་ཧྥང་།་ཁྱོད་ཀྱིས་ལས་བྱ་བྲིས་ཚར་སོང་ངམ།",
+        "id": "trans-d_bo_264",
+        "en": "Tian Fang, have you finished your homework?"
+    },
+    {
+        "zh": "差十分六点。",
+        "bo": "སྐར་མ་བཅུ་དང་སྐར་མ་དྲུག་གིས་མི་འདང་།",
+        "id": "trans-d_bo_521",
+        "en": "It's ten minutes to six."
+    },
+    {
+        "zh": "火车晚点了，又赶上早高峰，一直打不到车，后来又遇上堵车。",
+        "bo": "མེ་འཁོར་འགོར་སོང་།་ཡང་སྔ་མོའི་མཐོ་རླབས་ཀྱི་རྗེས་ཆོད་སོང་།་རླངས་འཁོར་གླ་མི་ཐུབ།་རྗེས་ནས་ཡང་རླངས་འཁོར་འཚང་ཁ་ཆེ།",
+        "id": "trans-d_bo_368",
+        "en": "The train was delayed and then it was the morning rush hour. I couldn't get a taxi, and later there was a traffic jam."
+    },
+    {
+        "zh": "所以你不应该乱扔垃圾呀!",
+        "bo": "དེའི་ཕྱིར་ཁྱོད་ཀྱིས་གད་སྙིགས་གང་འདོད་དུ་འཕེན་མི་རུང་",
+        "id": "trans-d_bo_240",
+        "en": "That's why you shouldn't litter!"
+    },
+    {
+        "zh": "真对不起，下次我一定注意。",
+        "bo": "ངོ་མ་དགོངས་པ་མ་ཚོམ།་ཐེངས་རྗེས་མར་ངས་མཉམ་འཇོག་བྱེད་ཁོ་ཐག་ཡིན།",
+        "id": "trans-d_bo_480",
+        "en": "I'm really sorry, I'll definitely pay attention next time."
+    },
+    {
+        "zh": "那场音乐会的票现在打9折，可是还是有点儿贵。",
+        "bo": "གླུ་དབྱངས་སྤྲོ་ཚོགས་དེའི་པ་སེ་ད་ལྟ་རིན་གོང་9་གཅོག་བྱེད་བཞིན་ཡོད།་འོན་ཀྱང་ད་དུང་རིན་གོང་ཅུང་མཐོ།",
+        "id": "trans-d_bo_646",
+        "en": "The tickets for that concert are now at a 10% discount, but they are still a bit expensive."
+    },
+    {
+        "zh": "有，最近我们进了很多款式的羽绒服。",
+        "bo": "ཡོད།་ཉེ་ལམ་ང་ཚོས་བྱ་སྤུའི་ལྭ་བ་རིགས་མང་པོ་ནང་འདྲེན་བྱས་ཡོད།",
+        "id": "trans-d_bo_375",
+        "en": "Yes, we recently got many styles of down jackets."
+    },
+    {
+        "zh": "你觉得这个计划怎样？",
+        "bo": "ཁྱོད་ཀྱིས་བལྟས་ན་འཆར་གཞི་འདི་ཅི་འདྲ་རེད།",
+        "id": "trans-d_bo_529",
+        "en": "What do you think of this plan?"
+    },
+    {
+        "zh": "我小时候的梦想就是开一个自己的画展。",
+        "bo": "ངའི་ཆུང་དུས་ཀྱི་ཕུགས་བསམ་ནི་རང་ཉིད་ཀྱི་རི་མོ་འགྲེམ་སྟོན་ཞིག་སྤེལ་རྒྱུ་དེ་ཡིན།",
+        "id": "trans-d_bo_315",
+        "en": "My dream since childhood was to hold my own art exhibition."
+    },
+    {
+        "zh": "你怎么敢穿这么高的高跟鞋，累不累啊?",
+        "bo": "ཁྱོད་ཀྱིས་རྟིང་མཐོ་ལྷམ་འདི་འདྲ་མཐོན་པོ་ཞིག་གྱོན་ཕོད་དམ།་ཐང་ཆད་དམ།",
+        "id": "trans-d_bo_268",
+        "en": "How dare you wear such high heels, aren't you tired?"
+    },
+    {
+        "zh": "要考试了，哪有心思啊?",
+        "bo": "རྒྱུགས་ལེན་དགོས།་སེམས་ཁམས་གང་ན་ཡོད།",
+        "id": "trans-d_bo_420",
+        "en": "I have exams coming up, how can I have the mood for that?"
+    },
+    {
+        "zh": "不是，刚才儿子回来了，你看，这次考试他只得了四十分。",
+        "bo": "མ་རེད།་ད་སོ་མ་ཕྱིར་ཐོན་བྱུང་།་ཁྱོད་ཀྱིས་ལྟོས་དང་།་ཐེངས་འདིའི་རྒྱུགས་ལ་ཁོ་ལ་སྐར་མ་བཞི་བཅུ་མ་གཏོགས་མ་ཐོབ།",
+        "id": "trans-d_bo_164",
+        "en": "No, my son just came back. Look, he only scored forty on this exam."
+    },
+    {
+        "zh": "伯父，这是我的一点儿心意。",
+        "bo": "ཨ་ཁུ།་འདི་ནི་ངའི་སེམས་མཚོན་བྱེད་ཙམ་ཡིན།",
+        "id": "trans-d_bo_631",
+        "en": "Uncle, this is a small token of my appreciation."
+    },
+    {
+        "zh": "我听说公园里今天晚上有一场演出，我正好有两张票，你有兴趣吗?",
+        "bo": "ངས་གོ་ཐོས་ལྟར་ན་སྤྱི་གླིང་དུ་དོ་དགོང་འཁྲབ་སྟོན་ཞིག་ཡོད་ཟེར།་ང་ལ་ཏག་ཏག་པ་སེ་གཉིས་ཡོད།་ཁྱོད་ལ་སྤྲོ་བ་ཡོད་དམ།",
+        "id": "trans-d_bo_639",
+        "en": "I heard there's a performance in the park tonight, and I happen to have two tickets. Are you interested?"
+    },
+    {
+        "zh": "我袜子不是挺多的吗?",
+        "bo": "ངའི་རྐང་འབོབ་མང་པོ་ཡོད་པ་མིན་ནམ།",
+        "id": "trans-d_bo_740",
+        "en": "Don't I have plenty of socks?"
+    },
+    {
+        "zh": "我好口渴啊，你知道这附近哪儿有卖饮料的吗?",
+        "bo": "ང་ཁ་་ཧ་ཅང་སྐོམ་བཞིན་འདུག་ཁྱོད་ཀྱིས་འདིའི་ཉེ་འཁོར་གྱི་གང་ན་སྐོམ་ཆུ་བཙོང་རྒྱུ་ཡོད་པ་ཤེས་སམ།",
+        "id": "trans-d_bo_459",
+        "en": "I'm so thirsty, do you know where there's a place to buy drinks nearby?"
+    },
+    {
+        "zh": "好，不见不散!",
+        "bo": "བཟང་རྗེས་སུ་རྗེས་སུ་ཡོངས་།",
+        "id": "trans-d_bo_643",
+        "en": "Okay, see you there!"
+    },
+    {
+        "zh": "啊!对不起，我着急去上班，忘了付钱，我马上给。",
+        "bo": "ཨ།དགོངས་པ་མ་ཚོམ།་ང་ལས་ཚོགས་ལ་འགྲོ་བར་བྲེལ་བཞིན་ཡོད་པའི་་སྒོར་མོ་སྤྲོད་རྒྱུ་བརྗེད་སོང་།་ངས་མྱུར་དུ་སྟེར།",
+        "id": "trans-d_bo_336",
+        "en": "Ah! Sorry, I was in a hurry to go to work and forgot to pay. I'll pay right away."
+    },
+    {
+        "zh": "黄色的，看上去更可爱一些。",
+        "bo": "སེར་པོ།་བལྟས་ཡོང་ན་དེ་ལས་སྙིང་རྗེ་བོ་འདུག",
+        "id": "trans-d_bo_649",
+        "en": "The yellow one, it looks cuter."
+    },
+    {
+        "zh": "就是颜色很漂亮、香味很浓、味道很美，这三种缺一不可。",
+        "bo": "ཁ་དོག་ཧ་ཅང་མཛེས་པ་དང་།་དྲི་ཞིམ་ཧ་ཅང་སྟུག་པ།་བྲོ་བ་ཧ་ཅང་མཛེས་པ་བཅས་རིགས་གསུམ་པོ་ལས་གཅིག་ཀྱང་ཆད་མི་རུང་།",
+        "id": "trans-d_bo_255",
+        "en": "It means the color is beautiful, the aroma is strong, and the taste is delicious; these three cannot be lacking."
+    },
+    {
+        "zh": "嗯，要是课前不喝一杯咖啡，很多同学都不能保持清醒。",
+        "bo": "གལ་ཏེ་སློབ་ཁྲིད་སྔོན་ལ་འཚིག་ཇ་ཕོར་བ་གང་མ་འཐུང་ན།་སློབ་གྲོགས་མང་པོ་ཞིག་གིས་རིག་པ་གསལ་བོ་བྱེད་མི་ཐུབ།",
+        "id": "trans-d_bo_582",
+        "en": "Well, if we don't have a cup of coffee before class, many students can't stay awake."
+    },
+    {
+        "zh": "放松点儿，你又不是第一次发言。",
+        "bo": "ལྷོད་ལ་བོབས།་ཁྱོད་ཀྱིས་ཐེངས་དང་པོར་སྐད་ཆ་བཤད་པ་མ་རེད།",
+        "id": "trans-d_bo_574",
+        "en": "Relax a bit, it's not your first time speaking."
+    },
+    {
+        "zh": "我早就出来了，可路上堵车堵得厉害。走走走，我请你吃饭去。",
+        "bo": "ང་སྔ་མོ་ནས་སྒོར་བུད་ཡོང་།་འོན་ཀྱང་ལམ་བར་དུ་རླངས་འཁོར་འཚང་ཁ་ཆེ་པོ་འདུག་།འགྲོ་འགྲོ་འགྲོ་།ངས་ཁྱོད་ལ་ཟ་མ་མགྲོན་བྱེད་།",
+        "id": "trans-d_bo_473",
+        "en": "I left a long time ago, but there was a terrible traffic jam. Let's go, I'll treat you to dinner."
+    },
+    {
+        "zh": "这件让他试试。",
+        "bo": "འདི་ཁོ་ལ་ཚོད་ལྟ་བྱེད་དུ་བཅུག",
+        "id": "trans-d_bo_377",
+        "en": "Let him try this one."
+    },
+    {
+        "zh": "前一阵子工作不忙，出去旅游的时候把手机丢了，电话号码都找不到了。",
+        "bo": "ཉིན་ཤས་གོང་ལས་ཀ་བྲེལ་བ་ཆེན་པོ་མེད་པ་དང་ཡུལ་སྐོར་དུ་འགྲོ་སྐབས་ལག་ཐོགས་ཁ་པར་བོར་བརླག་སོང་བས་ཁ་པར་ཨང་གྲངས་ཀྱང་རྙེད་མ་བྱུང་།",
+        "id": "trans-d_bo_207",
+        "en": "I wasn't busy with work a while ago, and when I went traveling, I lost my phone and couldn't find any phone numbers."
+    },
+    {
+        "zh": "谢谢您。",
+        "bo": "ཁྱེད་ལ་བཀའ་དྲིན་ཆེ།",
+        "id": "trans-d_bo_758",
+        "en": "Thank you."
+    },
+    {
+        "zh": "我昨天跟朋友去唱歌了，今天早上四点才回家。",
+        "bo": "ང་ཁ་སང་གྲོགས་པོ་དང་མཉམ་དུ་གླུ་ལེན་དུ་སོང་བ་ཡིན།་དེ་རིང་ཞོགས་པའི་དུས་ཚོད་བཞིའི་སྟེང་ད་གཟོད་ཡུལ་ལ་ལོག་པ་ཡིན།",
+        "id": "trans-d_bo_628",
+        "en": "I went singing with friends yesterday and only got home at four this morning."
+    },
+    {
+        "zh": "两个成人，孩子两岁半。",
+        "bo": "མི་དར་མ་གཉིས།་བྱིས་པ་ལོ་གཉིས་དང་ཕྱེད་ཀ་ཡིན།",
+        "id": "trans-d_bo_718",
+        "en": "Two adults, child is two and a half years old."
+    },
+    {
+        "zh": "他没有反应。",
+        "bo": "ཁོ་ལ་ཚོར་བ་མི་འདུག",
+        "id": "trans-d_bo_305",
+        "en": "He had no reaction."
+    },
+    {
+        "zh": "别着急，我们可以欣赏一下儿风景。",
+        "bo": "བྲེལ་བ་མ་ལངས།་ང་ཚོས་ཡུལ་ལྗོངས་ལ་རོལ་མྱོང་བྱས་ཆོག",
+        "id": "trans-d_bo_325",
+        "en": "Don't worry, we can enjoy the scenery."
+    },
+    {
+        "zh": "那不一样。",
+        "bo": "དེ་མི་འདྲ།",
+        "id": "trans-d_bo_431",
+        "en": "It's not the same."
+    },
+    {
+        "zh": "还是到正门下吧。",
+        "bo": "ད་དུང་སྒོ་ཆེན་འོག་ཏུ་སོང་།",
+        "id": "trans-d_bo_279",
+        "en": "Let's get off at the main entrance."
+    },
+    {
+        "zh": "这么多歌我都不知道选哪首了。",
+        "bo": "གླུ་འདི་འདྲ་མང་པོ་ཞིག་ངས་གང་འདེམས་དགོས་པ་མི་ཤེས།",
+        "id": "trans-d_bo_185",
+        "en": "There are so many songs, I don't know which one to choose."
+    },
+    {
+        "zh": "是的，谢谢你。还好被你看到了，丢了就麻烦了。",
+        "bo": "རེད།་ཁྱོད་ལ་བཀའ་དྲིན་ཆེ།སྟབས་ལེགས་པ་ཞིག་ལ་ཁྱོད་ཀྱིས་མཐོང་སོང་།་བོར་སོང་ན་དཀའ་ལས་ཡོད་པ་རེད།",
+        "id": "trans-d_bo_737",
+        "en": "Yes, thank you. Luckily, you saw it. It would have been a problem if it was lost."
+    },
+    {
+        "zh": "我很小的时候特别喜欢下象棋，现在大了反而不怎么喜欢了。",
+        "bo": "ང་ཆུང་དུས་མིག་མངས་རྩེ་བར་ཧ་ཅང་དགའ།་ད་ལྟ་ནར་སོང་རྗེས་དེ་འདྲ་མི་དགའ།",
+        "id": "trans-d_bo_443",
+        "en": "I really loved playing chess when I was little, but now that I'm older, I don't like it as much."
+    },
+    {
+        "zh": "你看起来比以前胖了些。",
+        "bo": "ཁྱོད་བལྟས་ཡོང་ན་སྔོན་ཆད་ལས་རྒྱག་པོར་གྱུར་འདུག",
+        "id": "trans-d_bo_763",
+        "en": "You look a bit fatter than before."
+    },
+    {
+        "zh": "对，北京这边好几个客户要跟，大家都走不开，只能我自己去。",
+        "bo": "རེད།་པེ་ཅིན་འདི་ཕྱོགས་ཀྱི་མགྲོན་པོ་མང་པོ་ཞིག་རྗེས་འདེད་དགོས།་ཚང་མ་འགྲོ་མི་ཐུབ་པའི་ང་རང་ཉིད་འགྲོ་རྒྱུ་ལས་མེད།",
+        "id": "trans-d_bo_53",
+        "en": "Yes, several clients in Beijing need to be attended to, and everyone here is occupied, so I have to go myself."
+    },
+    {
+        "zh": "现在房价太贵，再等等看吧。",
+        "bo": "ད་ལྟ་ཁང་རིན་ཧ་ཅང་མཐོ།་ད་དུང་ཅུང་ཙམ་སྒུག་དང་།",
+        "id": "trans-d_bo_74",
+        "en": "The housing prices are too high now, let's wait and see."
+    },
+    {
+        "zh": "今天下午的比赛临时取消了。",
+        "bo": "དེ་རིང་ཕྱི་དྲོའི་འགྲན་བསྡུར་གནས་སྐབས་སུ་མེད་པར་བཟོས་སོང་།",
+        "id": "trans-d_bo_524",
+        "en": "This afternoon's match has been canceled at the last minute."
+    },
+    {
+        "zh": "你都多大了，还看这个? 这都是小孩儿看的。",
+        "bo": "ཁྱོད་ལོ་དུ་ཡིན།་ད་དུང་འདི་ལ་བལྟ་བཞིན་ཡོད་དམ།འདི་ཚང་མ་བྱིས་པས་བལྟས་པ་རེད་།",
+        "id": "trans-d_bo_110",
+        "en": "How old are you, and you're still watching this? These are for kids."
+    },
+    {
+        "zh": "好看。",
+        "bo": "ཡག་གི",
+        "id": "trans-d_bo_742",
+        "en": "It looks nice."
+    },
+    {
+        "zh": "你是怎么弄的?怎么不看路?",
+        "bo": "ཁྱོད་ཀྱིས་ཅི་ལྟར་ལས་པ་ཡིན།ལམ་ལ་མི་བལྟ་དོན་ཅི་ཡིན།",
+        "id": "trans-d_bo_328",
+        "en": "How did you manage that? Why weren't you watching the road?"
+    },
+    {
+        "zh": "这边的面包是免费的。",
+        "bo": "འདི་ཕྱོགས་ཀྱི་བག་ལེབ་ནི་རིན་མེད་ཡིན།",
+        "id": "trans-d_bo_489",
+        "en": "The bread here is free."
+    },
+    {
+        "zh": "没的说，有什么问题你尽管问他。",
+        "bo": "ལབ་དགོད་མི་འདུག་།།་གནད་དོན་ཅི་ཞིག་ཡོད་ན་ཁོ་ལ་དྲིས།",
+        "id": "trans-d_bo_476",
+        "en": "It's excellent. If you have any questions, feel free to ask him."
+    },
+    {
+        "zh": "明天是我妈的生日，我想给她一个惊喜。",
+        "bo": "སང་ཉིན་ནི་ངའི་ཨ་མའི་སྐྱེས་སྐར་རེད།་ངས་མོ་ལ་དགའ་སྣང་ཞིག་སྟེར་ན་འདོད།",
+        "id": "trans-d_bo_675",
+        "en": "Tomorrow is my mom's birthday, I want to give her a surprise."
+    },
+    {
+        "zh": "好的，谢谢。",
+        "bo": "ཆོག་གི་བཀའ་དྲིན་ཆེ།",
+        "id": "trans-d_bo_382",
+        "en": "Okay, thank you."
+    },
+    {
+        "zh": "下一班是十二点半，还剩几张票，不过都不打折。",
+        "bo": "གནམ་གྲུ་རྗེས་མ་ནི་དུས་ཚོད་བཅུ་གཉིས་དང་ཕྱེད་ཀ་རེད།་ད་རུང་པ་སེ་འགའ་ལྷག་འདུག་འོན་ཀྱང་རིན་གོང་ཕབ་གཅོག་མི་བྱེད",
+        "id": "trans-d_bo_500",
+        "en": "The next one is at 12:30, there are a few tickets left, but none of them are discounted."
+    },
+    {
+        "zh": "往前走，两节火车之间，左边的房间就是开水房。",
+        "bo": "མདུན་དུ་སོང་།་མེ་འཁོར་གཉིས་ཀྱི་བར་དུ།་གཡོན་ཕྱོགས་ཀྱི་ཁང་བ་ནི་ཆུ་སྒོ་འབྱེད་པའི་ཁང་བ་ཡིན།",
+        "id": "trans-d_bo_659",
+        "en": "Go straight ahead, between the two train coaches, the room on the left is the hot water room."
+    },
+    {
+        "zh": "谁说的，连我都下得过他。",
+        "bo": "སུས་བཤད་པ་རེད།་ཐ་ན་ང་ཡང་ཁོ་ལས་འབབ་ཐུབ་པ་རེད།",
+        "id": "trans-d_bo_588",
+        "en": "Who says that? Even I can beat him."
+    },
+    {
+        "zh": "习惯了，我也没办法，个子太矮了。",
+        "bo": "གོམས་སོང་།་ང་ལ་ཡང་ཐབས་མི་འདུག་གཟུགས་ཧ་ཅང་ཐུང་།",
+        "id": "trans-d_bo_269",
+        "en": "I'm used to it, I have no choice, I'm too short."
+    },
+    {
+        "zh": "是呀，又可以在家多待一些时间了。",
+        "bo": "རེད་ཡ།་ཡང་ཁྱིམ་ནས་དུས་ཚོད་མང་ཙམ་་བསྡད་ན་ཆོག",
+        "id": "trans-d_bo_511",
+        "en": "Yes, I can stay at home for a bit longer."
+    },
+    {
+        "zh": "我也是。写毕业论文真不容易!",
+        "bo": "ང་ཡང་ཡིན།མཐར་ཕྱིན་དཔྱད་རྩོམ་འབྲི་རྒྱུ་ནི་ལས་སླ་མོ་ཞིག་མ་རེད།",
+        "id": "trans-d_bo_539",
+        "en": "Me too. Writing the thesis is really not easy!"
+    },
+    {
+        "zh": "怎么可能呢?他虽然常常生病，可是我们班上最好的学生。",
+        "bo": "དཔེ་མི་སྲིད།ཁོ་རྒྱུན་དུ་ན་བཞིན་ཡོད་མོད།་འོན་ཀྱང་ང་ཚོའི་འཛིན་གྲྭའི་ནང་གི་ཆེས་བཟང་བའི་སློབ་མ་ཡིན།",
+        "id": "trans-d_bo_725",
+        "en": "How is that possible? Although he often gets sick, he is the best student in our class."
+    },
+    {
+        "zh": "你喜欢参加旅行团还是喜欢自己去旅游?",
+        "bo": "ཁྱོད་ཡུལ་སྐོར་ཚོགས་པར་ཞུགས་པར་དགའ་འམ་རང་ཉིད་ཡུལ་སྐོར་ལ་འགྲོ་བར་དགའ།",
+        "id": "trans-d_bo_183",
+        "en": "Do you prefer joining a travel group or traveling on your own?"
+    },
+    {
+        "zh": "珍妮，来中国后你去哪儿旅游过?",
+        "bo": "ཀྲིན་ནེ།་ཀྲུང་གོར་ཡོང་རྗེས་ཁྱོད་གང་ལ་ཡུལ་སྐོར་དུ་སོང་མྱོང་།ང་སུའུ་ཀྲོའུ་དང་ཧང་ཀྲོའུ་ལ་སོང་མྱོང་།",
+        "id": "trans-d_bo_98",
+        "en": "Jenny, where have you traveled since coming to China?"
+    },
+    {
+        "zh": "办这件事难度挺大，你看能办成吗?",
+        "bo": "དོན་དག་འདི་སྒྲུབ་པར་དཀའ་ཁག་ཧ་ཅང་ཆེ།་ཁྱོད་ཀྱིས་བལྟས་ན་སྒྲུབ་ཐུབ་བམ།",
+        "id": "trans-d_bo_662",
+        "en": "It's quite difficult to handle this matter, do you think it can be done?"
+    },
+    {
+        "zh": "您好!我能帮您什么忙吗?",
+        "bo": "སྐུ་ཁམས་བཟང་ངས་ཁྱོད་ལ་རོགས་ཅི་ཞིག་བྱེད་ཐུབ་བམ་།",
+        "id": "trans-d_bo_406",
+        "en": "Hello! How can I help you?"
+    },
+    {
+        "zh": "差一点就输了，比赛的时候我正好有事没去看，据说很精彩。",
+        "bo": "ཅུང་ཙམ་མིན་ན་ཕམ་སོང་།་འགྲན་བསྡུར་གྱི་སྐབས་སུ་ང་ལ་དོན་དག་ཡོད་པས་བལྟ་རུ་མ་སོང་།་གོ་ཐོས་ལྟར་ན་ཧ་ཅང་ངོ་མཚར་ཆེ།",
+        "id": "trans-d_bo_354",
+        "en": "We almost lost. I happened to have something to do and didn't watch the competition, but I heard it was very exciting."
+    },
+    {
+        "zh": "李阿姨，天气这么冷，您怎么还出来?可别感冒了!",
+        "bo": "ཨ་ནེ་ལིས།་གནམ་གཤིས་འདི་འདྲ་གྲང་བས་ཁྱོད་ད་རུང་སྒོར་ཡོང་དོན་ཅི་ཡིན།ཆམ་པ་ཕོག་ཏུ་མ་འཇུག་།",
+        "id": "trans-d_bo_518",
+        "en": "Auntie Li, it's so cold. Why are you still going out? Don't catch a cold!"
+    },
+    {
+        "zh": "听说你们一家三口去游泳了?",
+        "bo": "གོ་ཐོས་ལྟར་ན་ཁྱེད་ཚང་གི་བཟའ་མི་གསུམ་པོ་ཆུ་རྐྱལ་བྱེད་དུ་བུད་སོང་ཟེར།",
+        "id": "trans-d_bo_112",
+        "en": "I heard your family of three went swimming?"
+    },
+    {
+        "zh": "可以，你千万要把资料都整理好。",
+        "bo": "ཆོག་གི་ཁྱོད་ཀྱིས་ངེས་པར་དུ་རྒྱུ་ཆ་ཚང་མ་ལེགས་སྒྲིག་བྱེད་དགོས",
+        "id": "trans-d_bo_426",
+        "en": "Sure, you must make sure to get all the materials organized."
+    },
+    {
+        "zh": "上午9点，枫林宾馆门口怎么样?",
+        "bo": "སྔ་དྲོའི་ཆུ་ཚོད་དགུ་པར་ཧྥང་ལིན་མགྲོན་ཁང་གི་སྒོ་འགྲམ་དུ་གང་འདྲ་འདུག་གམ།",
+        "id": "trans-d_bo_42",
+        "en": "How about 9 AM at the entrance of Fenglin Hotel?"
+    },
+    {
+        "zh": "有，最近我们进了很多款式的羽绒服。",
+        "bo": "ཡོད།་ཉེ་ལམ་ང་ཚོས་བྱ་སྤུའི་ལྭ་བ་རིགས་མང་པོ་ནང་འདྲེན་བྱས་ཡོད།",
+        "id": "trans-d_bo_216",
+        "en": "Yes, we recently got many styles of down jackets."
+    },
+    {
+        "zh": "是吗?太好了!我五点四十下课，我们六点一刻在学校门口见面。",
+        "bo": "རེད་དམ།དེ་ན་ཡག་བྱུངང་དུས་ཚོད་ལྔ་དང་སྐར་མ་བཞི་བཅུའི་སྟེང་སློབ་ཁྲིད་གྲོལ་བ་ཡིན།ང་ཚོ་དུས་ཚོད་དྲུག་དང་སྐར་མ་བཅོ་ལྔའི་སྟེང་སློབ་གྲྭའི་སྒོ་ཁ་ནས་ཐུག",
+        "id": "trans-d_bo_703",
+        "en": "Really? That's great! I finish class at 5:40, let's meet at the school gate at 6:15."
+    },
+    {
+        "zh": "现在越来越多的大学生有心理问题了。",
+        "bo": "ད་ལྟ་སློབ་ཆེན་སློབ་མ་མང་པོ་ཞིག་ལ་སེམས་ཁམས་ཀྱི་གནད་དོན་ཡོད་པ་རེད།",
+        "id": "trans-d_bo_347",
+        "en": "More and more college students are having mental health issues now."
+    },
+    {
+        "zh": "哦，期待能有好结果。",
+        "bo": "འོ།་མཇུག་འབྲས་བཟང་བོ་ཞིག་ཡོད་པར་རེ་སྒུག་བྱས་ཡོད།",
+        "id": "trans-d_bo_299",
+        "en": "Oh, I hope we have a good result."
+    },
+    {
+        "zh": "刚说到儿童节目数量太少的问题。",
+        "bo": "ད་སོ་མ་བྱིས་པའི་ལེ་ཚན་གྱི་གྲངས་ཀ་ཉུང་བའི་གནད་དོན་བཤད་སོང་།",
+        "id": "trans-d_bo_250",
+        "en": "We were just talking about the issue of there being too few children's programs."
+    },
+    {
+        "zh": "爸爸，明天是“六一”儿童节，你带我去哪儿玩儿?",
+        "bo": "ཨ་ཕ།་སང་ཉིན་ནི་དྲུག་གཅིག་བྱིས་པའི་དུས་ཆེན་རེད།་ཁྱོད་ཀྱིས་ང་ཁྲིད་ནས་གང་ལ་རྩེ་རུ་འགྲོ།",
+        "id": "trans-d_bo_229",
+        "en": "Dad, tomorrow is Children's Day, where will you take me to play?"
+    },
+    {
+        "zh": "对，我准备以后每天都出去跑步。",
+        "bo": "རེད།་ང་རྗེས་ཕྱོགས་ཉིན་རྒྱུན་ཕྱི་ལ་རྒྱུགས་དུ་འགྲོ་རྩིས་ཡོད།",
+        "id": "trans-d_bo_766",
+        "en": "Yes, I plan to go running every day in the future."
+    },
+    {
+        "zh": "谁说的，我刚才还看见他在打球呢。",
+        "bo": "སུས་བཤད་པ་ཡིན།་ངས་ད་སོ་མ་ཁོས་སྤོ་ལོ་རྩེ་བཞིན་པ་མཐོང་།",
+        "id": "trans-d_bo_532",
+        "en": "Who said that? I just saw him playing ball."
+    },
+    {
+        "zh": "房屋出租广告?你看这个干什么?",
+        "bo": "ཁང་བ་གླ་བའི་བརྡ་ཁྱབ།ཁྱོད་ཀྱིས་འདི་ལ་བལྟས་ནས་ཅི་བྱེད་།",
+        "id": "trans-d_bo_284",
+        "en": "House rental advertisement? Why are you looking at this?"
+    },
+    {
+        "zh": "噢，我知道你的感受，我到这里都一年多了，有时还迷路呢。",
+        "bo": "འོ།་ངས་ཁྱོད་ཀྱི་ཚོར་བ་ཤེས།་ང་འདི་ལ་ཐོན་ནས་ལོ་གཅིག་ལྷག་འགོར་སོང་།་སྐབས་ལ་ལར་ད་རུང་ལམ་ནོར་སོང་།",
+        "id": "trans-d_bo_201",
+        "en": "Oh, I know how you feel, I've been here for over a year and sometimes I still get lost."
+    },
+    {
+        "zh": "那中国人结婚以后，是和丈夫的爸爸妈妈一起住吗？",
+        "bo": "དེ་ན་ཀྲུང་གོ་བ་གཉེན་སྒྲིག་རྗེས།་ཁྱོ་གའི་ཕ་མ་གཉིས་དང་མཉམ་དུ་བསྡད་པ་ཡིན་ནམ།",
+        "id": "trans-d_bo_392",
+        "en": "Do Chinese people live with their husband's parents after getting married?"
+    },
+    {
+        "zh": "没有啊，在你包里吗?",
+        "bo": "མེད།་ཁྱོད་ཀྱི་ཁུག་མའི་ནང་དུ་ཡོད་དམ།",
+        "id": "trans-d_bo_451",
+        "en": "No, is it in your bag?"
+    },
+    {
+        "zh": "好吧，我再看看谁有时间。",
+        "bo": "ཆོག་གི་ངས་ད་རུང་སུ་ལ་དུས་ཚོད་ཡོད་པར་བལྟ།",
+        "id": "trans-d_bo_197",
+        "en": "Alright, I'll see who else has time."
+    },
+    {
+        "zh": "你在长沙工作还是?",
+        "bo": "ཁྱེད་རང་ཁྲང་ཧྲའ་ལ་ལས་ཀ་བྱེད་ཀྱི་ཡོད་དམ།ཡང་ན།",
+        "id": "trans-d_bo_31",
+        "en": "Are you working in Changsha or?"
+    },
+    {
+        "zh": "女儿没去，就我和丈夫去了。",
+        "bo": "མོ་མ་སོང་།་ང་དང་ཁྱོ་ག་བུད་སོང་།",
+        "id": "trans-d_bo_113",
+        "en": "Our daughter didn't go, just my husband and I went."
+    },
+    {
+        "zh": "上次看的那个房子你租了吗?",
+        "bo": "ཐེངས་སྔོན་མར་བལྟས་པའི་ཁང་བ་དེ་ཁྱོད་ཀྱིས་གླས་ཡོད་དམ།",
+        "id": "trans-d_bo_767",
+        "en": "Did you rent the house we looked at last time?"
+    },
+    {
+        "zh": "好的，那到时候见。",
+        "bo": "ཡོང་ང་།དེ་དུས་ཐུག",
+        "id": "trans-d_bo_43",
+        "en": "Okay, see you then."
+    },
+    {
+        "zh": "老师说推迟到下个星期了，不着急。",
+        "bo": "དགེ་རྒན་གྱིས་གཟའ་འཁོར་རྗེས་མར་ཕྱིར་འགྱངས་བྱས་སོང་ཟེར།་བྲེལ་བ་མ་ལངས",
+        "id": "trans-d_bo_679",
+        "en": "The teacher said it's postponed to next week, no rush."
+    },
+    {
+        "zh": "早点休息吧，明天再继续写。",
+        "bo": "སྔ་ཙམ་ངལ་གསོ་རྒྱོབ།སང་ཉིན་མུ་མཐུད་བྲིས།",
+        "id": "trans-d_bo_44",
+        "en": "Get some rest early, continue writing tomorrow."
+    },
+    {
+        "zh": "我很爱玩儿，经常和朋友一起踢足球、打篮球、爬山。",
+        "bo": "ང་རྩེད་རྒྱུར་ཧ་ཅང་དགའ།་རྒྱུན་དུ་གྲོགས་པོ་དང་མཉམ་དུ་རྐང་རྩེད་སྤོ་ལོ་རྩེ་བ་དང་།་ལག་རྩེད་སྤོ་ལོ་རྩེ་བ།་རི་ལ་འཛེགས་པ་ཡིན།",
+        "id": "trans-d_bo_442",
+        "en": "I really love playing, often playing soccer, basketball, and hiking with friends."
+    },
+    {
+        "zh": "你今晚有什么安排?",
+        "bo": "ཁྱོད་ལ་དོ་དགོང་བཀོད་སྒྲིག་ཅི་ཞིག་ཡོད་དམ།",
+        "id": "trans-d_bo_637",
+        "en": "What plans do you have for tonight?"
+    },
+    {
+        "zh": "啊?那我们换换吧，你在家里洗衣服做饭，我去上班。",
+        "bo": "ཨ།དེ་ན་ང་ཚོས་བརྗེ་ཡ།་ཁྱོད་ཀྱིས་ཁྱིམ་ནས་ལྭ་བ་བཀྲུས་ནས་ཟ་མ་ལས།་ང་ལས་ཚོགས་ལ་འགྲོ་དགོས།",
+        "id": "trans-d_bo_289",
+        "en": "Huh? Then let's switch. You stay home to do the laundry and cook, and I'll go to work."
+    },
+    {
+        "zh": "月亮为什么会跑呢?",
+        "bo": "ཟླ་བ་ཅིའི་ཕྱིར་རྒྱུགས་པ་ཡིན་ནམ།",
+        "id": "trans-d_bo_320",
+        "en": "Why is the moon moving?"
+    },
+    {
+        "zh": "天气再冷也得去买菜啊，要不晚上吃什么?",
+        "bo": "གནམ་གཤིས་ཇི་འདྲ་གྲང་རུང་ཚོད་མ་ཉོ་རུ་འགྲོ་དགོས།་དགོང་མོ་ཅི་ཞིག་ཟ་དགོས་སམ།",
+        "id": "trans-d_bo_519",
+        "en": "No matter how cold it is, I have to go buy groceries. Otherwise, what will we eat for dinner?"
+    },
+    {
+        "zh": "那您开账户主要想做什么?",
+        "bo": "དེ་ན་ཁྱེད་ཀྱིས་རྩིས་ཐོ་ཕྱེ་ནས་གཙོ་བོ་ཅི་ཞིག་བྱེད་འདོད",
+        "id": "trans-d_bo_466",
+        "en": "Then what is your main purpose for opening an account?"
+    },
+    {
+        "zh": "我明天早上的飞机，今天中午有时间见个面吗？",
+        "bo": "ངའི་སང་ཉིན་ཞོགས་པའི་གནམ་གྲུ་ཡིན་པའི་དེ་རིང་ཉིན་གུང་ངོ་ཐུག་པའི་དུས་ཚོད་ཡོད་དམ།",
+        "id": "trans-d_bo_351",
+        "en": "I have a flight tomorrow morning. Do you have time to meet this afternoon?"
+    },
+    {
+        "zh": "拿一款保暖性能好点儿的。",
+        "bo": "དྲོད་སྲུང་ནུས་པ་ཅུང་བཟང་བ་ཞིག་ཁྱེར་ཤོག",
+        "id": "trans-d_bo_376",
+        "en": "Show me one with good warmth."
+    },
+    {
+        "zh": "你的自行车太旧了，该换辆新的了。",
+        "bo": "ཁྱོད་ཀྱི་ལྕགས་རྟ་ཧ་ཅང་རྙིང་འདུག་གསར་བ་ཞིག་བརྗེ་རན་འདུག",
+        "id": "trans-d_bo_171",
+        "en": "Your bicycle is too old, you should get a new one."
+    },
+    {
+        "zh": "你看看这双怎么样?这是现在最流行的。",
+        "bo": "ཁྱོད་ཀྱིས་ལྟོས་དང་ཆ་འདི་ཅི་འདྲ་རེད།འདི་ནི་ད་ལྟ་ཆེས་དར་ཁྱབ་ཆེ་བ་ཞིགརེད།",
+        "id": "trans-d_bo_398",
+        "en": "How about this pair? These are the most popular right now."
+    },
+    {
+        "zh": "我也这么想，但人家不这样想。",
+        "bo": "ང་ཡང་འདི་ལྟར་བསམ་གྱིས།ཡིན་ནའི་གཞན་གྱིས་འདི་ལྟར་མི་བསམ།",
+        "id": "trans-d_bo_19",
+        "en": "I think so too, but they don't think that way."
+    },
+    {
+        "zh": "你好，我想找一本逻辑方面的书，作者是王东。",
+        "bo": "སྐུ་ཁམས་བཟང་་ངས་གཏན་ཚིགས་ཕྱོགས་ཀྱི་དཔེ་ཆ་ཞིག་བཙལ་ན་འདོད།་རྩོམ་པ་པོ་ནི་ཝང་ཏུང་ཡིན།",
+        "id": "trans-d_bo_512",
+        "en": "Hello, I am looking for a book on logic. The author is Wang Dong."
+    },
+    {
+        "zh": "色香味俱全是什么意思?",
+        "bo": "མདོག་དང་དྲི་ཞིམ་ཚང་བའི་ནང་དོན་ཅི་ཞིག་ཡིན་ནམ།",
+        "id": "trans-d_bo_254",
+        "en": "What does a perfect combination of color, aroma, and taste mean?"
+    },
+    {
+        "zh": "没有经验嘛，以后就好了。快走吧!",
+        "bo": "ཉམས་མྱོང་མེད་ན་རྗེས་སུ་ཡག་པོ་ཡོང་གི་རེད།མྱུར་དུ་འགྲོ་",
+        "id": "trans-d_bo_600",
+        "en": "I'm inexperienced, it'll get better next time. Let's go!"
+    },
+    {
+        "zh": "没有。",
+        "bo": "མེད།",
+        "id": "trans-d_bo_768",
+        "en": "No."
+    },
+    {
+        "zh": "奥迪A6，买完我就后悔了。现在油价涨得真厉害。",
+        "bo": "ཨོ་ཏི་A6་ཉོས་ཚར་རྗེས་ང་འགྱོད་པ་སྐྱེས་སོང་།ད་ལྟ་སྣུམ་གྱི་རིན་གོང་འཕར་བ་ཧ་ཅང་ཚབས་ཆེ།",
+        "id": "trans-d_bo_544",
+        "en": "Audi A6. As soon as I bought it, I regretted it. The gas prices are really rising sharply."
+    },
+    {
+        "zh": "对呀，我还以为是明天呢。",
+        "bo": "རེད་ཡ།་ངས་ད་དུང་སང་ཉིན་ཡིན་པར་འདོད།",
+        "id": "trans-d_bo_636",
+        "en": "Yes, I thought it was tomorrow."
+    },
+    {
+        "zh": "你和公司签劳动合同了吗?",
+        "bo": "ཁྱོད་དང་ཀུང་སིས་ངལ་རྩོལ་གན་རྒྱ་བཞག་ཡོད་དམ།",
+        "id": "trans-d_bo_175",
+        "en": "Did you sign a labor contract with the company?"
+    },
+    {
+        "zh": "你每天怎么去上学？",
+        "bo": "ཁྱོད་ཉིན་རྒྱུན་ཅི་ལྟར་སློབ་གྲྭར་འགྲོ་བཞིན་ཡོད།",
+        "id": "trans-d_bo_666",
+        "en": "How do you go to school every day?"
+    },
+    {
+        "zh": "他去国外出差了，月底才能回来，您有事儿就给他发电子邮件吧。",
+        "bo": "ཁོ་ཕྱི་རྒྱལ་ལ་གཞུང་དོན་སྒྲུབ་ཏུ་བུད་སོང་།་ཟླ་མཇུག་ལ་ད་གཟོད་ཕྱིར་ཡོང་ཐུབ།་ཁྱོད་ལ་དོན་དག་ཡོད་ན་ཁོ་ལ་གློག་རྡུལ་ཡིག་ཟམ་བསྐུར།",
+        "id": "trans-d_bo_242",
+        "en": "He went abroad on a business trip and won’t be back until the end of the month. If you need to contact him, you can send him an email."
+    },
+    {
+        "zh": "估计她是有事情耽搁了吧。",
+        "bo": "ཕལ་ཆེར་མོ་ལ་དོན་དག་ཡོད་པས་འགོར་འགྱངས་བྱས་སོང་།",
+        "id": "trans-d_bo_246",
+        "en": "Maybe he was held up by something."
+    },
+    {
+        "zh": "那我还是以后再读吧。今天先借一本《唐诗三百首》。",
+        "bo": "དེ་ན་ངས་རྗེས་ཕྱོགས་ཀློགདེ་རིང་སྔོན་ལ་<<་ཐང་རྒྱལ་རབས་ཀྱི་སྙན་ངག་སུམ་བརྒྱ་>>་ཞེས་པའི་དཔེ་ཆ་ཞིག་གཡར།",
+        "id": "trans-d_bo_693",
+        "en": "Then I'll read them later. Today I'll borrow 'Three Hundred Tang Poems'."
+    },
+    {
+        "zh": "你每个星期都去爬山吗?",
+        "bo": "ཁྱོད་གཟའ་འཁོར་རེ་ལ་རི་ལ་འགོས་སུ་འགྲོ་འམ།",
+        "id": "trans-d_bo_502",
+        "en": "Do you go hiking every week?"
+    },
+    {
+        "zh": "没准儿，得看谈的情况。",
+        "bo": "གཏན་འཁེལ་མེད་་གནས་ཚུལ་ལ་བལྟ་དགོས།",
+        "id": "trans-d_bo_55",
+        "en": "Not sure, it depends on how the negotiations go."
+    },
+    {
+        "zh": "今天的讨论，他的看法跟你的又不一样吧?",
+        "bo": "དེ་རིང་གི་བགྲོ་གླེང་།་ཁོའི་ལྟ་ཚུལ་ཁྱོད་དང་མི་འདྲ་འམ།",
+        "id": "trans-d_bo_212",
+        "en": "In today's discussion, his views were different from yours again, right?"
+    },
+    {
+        "zh": "对。今天去长城，明天去故宫。",
+        "bo": "བདེན།དེ་རིང་ལྕགས་རི་རིང་བོ་དང་སང་ཉིན་གནའ་བོའི་ཕོ་བྲང་ལ་འགྲོ",
+        "id": "trans-d_bo_671",
+        "en": "Right. Today we go to the Great Wall, tomorrow to the Forbidden City."
+    },
+    {
+        "zh": "请您放心，我会尽快完成，不会延长时间的。",
+        "bo": "ཁྱེད་ཀྱིས་སེམས་བདེ་མོ་བྱོས།་ངས་མྱུར་དུ་འགྲུབ་ངེས་ཡིན།་དུས་ཚོད་ཇེ་རིང་དུ་གཏོང་མི་སྲིད།",
+        "id": "trans-d_bo_168",
+        "en": "Please rest assured, I will finish it as soon as possible and won't take more time."
+    },
+    {
+        "zh": "你最近怎么都没给我打电话啊?",
+        "bo": "ཁྱོད་ཀྱིས་ཉེ་ལམ་ང་ལ་ཁ་པར་མི་གཏོང་དོན་ཅི་ཡིན།",
+        "id": "trans-d_bo_206",
+        "en": "Why haven't you called me lately?"
+    },
+    {
+        "zh": "那就只有秋天了。",
+        "bo": "དེ་ན་སྟོན་ཁ་མ་གཏོགས་མེད།",
+        "id": "trans-d_bo_495",
+        "en": "Then there's only autumn left."
+    },
+    {
+        "zh": "你明天有时间吗，我带你去玩儿。",
+        "bo": "ཁྱེད་རང་ལ་སང་ཉིན་དུས་ཚོས་ཡོད་དམ།ངས་ཁྱེད་རང་རྩེད་མོ་རྩེད་པར་འཁྲིད་གོ",
+        "id": "trans-d_bo_36",
+        "en": "Do you have time tomorrow? I can take you out."
+    },
+    {
+        "zh": "你想买点儿什么?",
+        "bo": "ཁྱོད་ཀྱིས་ཅི་ཞིག་ཉོ་འདོད་དམ།",
+        "id": "trans-d_bo_373",
+        "en": "What do you want to buy?"
+    },
+    {
+        "zh": "好，我帮你看看。",
+        "bo": "ཆོག་གི་ངས་ཁྱོད་ལ་རོགས་བྱས་ནས་བལྟ།",
+        "id": "trans-d_bo_267",
+        "en": "Sure, let me help you take a look."
+    },
+    {
+        "zh": "是啊，能方便不少呢。",
+        "bo": "རེད་ཡ།་སྟབས་བདེ་མི་ཉུང་བ་ཞིག་བསྐྲུན་ཡོད་པ་རེད།",
+        "id": "trans-d_bo_438",
+        "en": "Yeah, it will be much more convenient."
+    },
+    {
+        "zh": "我认为参赛者的年龄应该限制在三十岁以下。",
+        "bo": "ངས་བསམ་ན་འགྲན་ཞུགས་པའི་ལོ་ཚོད་ནི་ལོ་སུམ་ཅུའི་མན་ཡིན་དགོས།",
+        "id": "trans-d_bo_567",
+        "en": "I think the participants' age should be limited to under thirty."
+    },
+    {
+        "zh": "要不是你把钱都买了股票，我们能落到这步田地吗?",
+        "bo": "གལ་ཏེ་ཁྱེད་ཀྱིས་སྒོར་མོ་ཚང་མ་མ་རྐང་འཛིན་ཤོག་ཉོས་མེད་ན།ང་ཚོ་ད་ལྟའི་གནས་འབབ་ལ་རྒྱུར་སྲིད་དམ།",
+        "id": "trans-d_bo_24",
+        "en": "If you hadn't spent all the money on stocks, would we be in this predicament?"
+    },
+    {
+        "zh": "您说得对，我会正视这个问题的，谢谢。",
+        "bo": "ཁྱེད་ཀྱིས་བཤད་པ་བདེན།་ངས་གནད་དོན་འདི་ལ་དོ་སྣང་བྱེད།་བཀའ་དྲིན་ཆེ།",
+        "id": "trans-d_bo_622",
+        "en": "You're right, I will face this problem squarely, thank you."
+    },
+    {
+        "zh": "请问有没有小孩儿穿的羽绒衣服?",
+        "bo": "བྱིས་པས་གྱོན་པའི་སྒྲོ་སྤུ་ཅན་གྱི་ལྭ་བ་ཡོད་དམ།",
+        "id": "trans-d_bo_374",
+        "en": "Do you have any down jackets for children?"
+    },
+    {
+        "zh": "别提了，现在真是最不缺的就是人啊。",
+        "bo": "མ་གླེང་།་ད་ལྟ་ངོ་མ་ཆེས་མི་ཆད་པ་ནི་མི་རེད།",
+        "id": "trans-d_bo_712",
+        "en": "Don't mention it, there really is no shortage of people right now."
+    },
+    {
+        "zh": "那就在北京呆着吧，到6月中旬再回家，就没那么多人了。",
+        "bo": "དེ་ན་པེ་ཅིན་ནས་སྡོད།་ཟླ་དྲུག་པའི་ཟླ་དཀྱིལ་ལ་ཡུལ་ལ་ལོག་ན་མི་དེ་འདྲ་མང་པོ་མེད།",
+        "id": "trans-d_bo_734",
+        "en": "Then stay in Beijing, and go home in mid-June when it won't be as crowded."
+    },
+    {
+        "zh": "她是我同学，要不介绍给你当女朋友吧!",
+        "bo": "མོ་ནི་ངའི་སློབ་གྲོགས་ཡིན།་ཡང་མིན་ན་ཁྱོད་ལ་དགའ་རོགས་ངོ་སྤྲོད་བྱེད།",
+        "id": "trans-d_bo_750",
+        "en": "She is my classmate. How about I introduce her to you as your girlfriend?"
+    },
+    {
+        "zh": "医生，这药怎么吃?",
+        "bo": "སྨན་པ།་སྨན་འདི་ཅི་ལྟར་འཐུང་དགོས།",
+        "id": "trans-d_bo_66",
+        "en": "Doctor, how should I take this medicine?"
+    },
+    {
+        "zh": "我昨天和小玲去郊区爬山了，那里风景特别好。",
+        "bo": "ང་ཁ་སང་ཞའོ་ལིན་དང་མཉམ་དུ་རི་མགོར་འགོས་པ་ཡིན།་དེ་ཡི་ཡུལ་ལྗོངས་ཧ་ཅང་བཟང་།",
+        "id": "trans-d_bo_280",
+        "en": "I went hiking in the suburbs with Xiaoling yesterday, the scenery there is particularly good."
+    },
+    {
+        "zh": "刘老师，我有点儿发烧，可能感冒了，今天不去上课了。",
+        "bo": "དགེ་རྒན་ལུའུ།་ང་ལ་ཚ་བ་ཅུང་ཙམ་རྒྱས་འདུག་ཕལ་ཆེར་ཆམ་པ་ཕོག་འདུག་དེ་རིང་སློབ་ཁྲིད་ལ་མི་འགྲོ།",
+        "id": "trans-d_bo_202",
+        "en": "Teacher Liu, I have a bit of a fever and might have caught a cold, so I won't be going to class today."
+    },
+    {
+        "zh": "好，别催，别催!我再认真找找，啊!找到了。",
+        "bo": "བཟང་གི་མ་འདེད།་མ་འདེད།ངས་ད་རུང་ནན་ཏན་གྱིས་བཙལ་།ཨ་ད་རྙེད་སོང་",
+        "id": "trans-d_bo_598",
+        "en": "Okay, stop rushing me! I'll look carefully again. Ah! Found them!"
+    },
+    {
+        "zh": "有，周三下午我在办公楼124房间，你可以到时候来找我。",
+        "bo": "ཡོད།་གཟའ་ལྷག་པའི་ཕྱི་དྲོ་ང་གཞུང་སྒྲུབ་ཐོག་ཁང་༡༢༤ན་ཡོད།་ཁྱོད་སྐབས་དེར་ང་བཙལ་དུ་ཡོང་ཆོག",
+        "id": "trans-d_bo_148",
+        "en": "Yes, on Wednesday afternoon I am in room 124 of the office building, you can come find me then."
+    },
+    {
+        "zh": "即使你忍不住，也不能表现得太明显。",
+        "bo": "ཁྱོད་ཀྱིས་བཟོད་བསྲན་བྱེད་མི་ཐུབ་རུང་མངོན་གསལ་དོད་པོ་བྱེད་མི་རུང་།",
+        "id": "trans-d_bo_745",
+        "en": "Even if you can't help it, you shouldn't make it too obvious."
+    },
+    {
+        "zh": "你说小王怪不怪，人家请他吃饭都不来。",
+        "bo": "ཁྱོད་ཀྱིས་བཤད་ན་ཞའོ་ཝང་ཡ་མཚན་ཞིག་མ་རེད།་གཞན་གྱིས་ཁོ་ལ་ཟ་མ་མགྲོན་བྱས་ཀྱང་མི་ཡོང་།",
+        "id": "trans-d_bo_76",
+        "en": "Don't you think Xiao Wang is strange? He doesn't come even when people invite him for dinner."
+    },
+    {
+        "zh": "我们要抓紧一切时间，这个工作必须按时完成。",
+        "bo": "ང་ཚོས་དུས་ཚོད་ཡོད་ཚད་དམ་འཛིན་བྱེད་དགོས།་བྱ་བ་འདི་ངེས་པར་དུ་དུས་ལྟར་འགྲུབ་དགོས།",
+        "id": "trans-d_bo_83",
+        "en": "We need to make the most of our time. This work must be completed on time."
+    },
+    {
+        "zh": "请问您要买什么?这些衣服和鞋子是新来的，很不错。",
+        "bo": "ཁྱེད་ཀྱིས་ཅི་ཞིག་ཉོ་རྒྱུ་ཡིན།ལྭ་བ་དང་ལྷམ་འདི་དག་ནི་གསར་དུ་ཡོང་བ་རེད།ཧ་ཅང་བཟང་།",
+        "id": "trans-d_bo_771",
+        "en": "May I ask what you want to buy? These clothes and shoes just arrived and are very nice."
+    },
+    {
+        "zh": "响家电视坏了，我看小张整天在弄电器，请他来看看吧?",
+        "bo": "ཁྱིམ་གྱི་བརྙན་འཕྲིན་ཆག་སྐྱོན་འདུག་ངས་ཞའོ་ཀྲང་གིས་ཉིན་གང་བོར་གློག་ཆས་ལས་བཞིན་པ་མཐོང་པའི་ཁོ་བོས་བལྟ་རུ་བཅུག",
+        "id": "trans-d_bo_577",
+        "en": "The TV at home is broken. I see that Xiao Zhang is always fiddling with electronics; shall we ask him to take a look?"
+    },
+    {
+        "zh": "其实企业没必要要求高学历，又不是科研单位。",
+        "bo": "ངོ་མ་བཤད་ན་ཁེ་ལས་ཁག་ཚན་རིག་ཞིབ་འཇུག་ལས་ཁུངས་མིན་པས།སློབ་གནས་མཐོ་པོ་དགོས་དོན་མེད།",
+        "id": "trans-d_bo_18",
+        "en": "Actually, companies don't need to demand such high education levels, they're not research institutions."
+    },
+    {
+        "zh": "你怎么那么认为?找他谈了吗?要知道沟通是处理人际关系的良药。",
+        "bo": "ཁྱོད་ཀྱིས་དེ་ལྟར་འདོད་དོན་ཅི།ཁོ་བཙལ་ནས་ཁ་བརྡ་བྱས་སམ་།འབྲེལ་འདྲིས་ནི་མི་དང་མིའི་བར་གྱི་འབྲེལ་བ་ཐག་གཅོད་བྱེད་པའི་སྨན་མཆོག་ཡིན་པ་ཤེས་དགོས།",
+        "id": "trans-d_bo_552",
+        "en": "Why do you think so? Have you talked to him? You know, communication is the remedy for handling interpersonal relationships."
+    },
+    {
+        "zh": "嗯，这双样子挺好，颜色也不错，多少钱?",
+        "bo": "རྣམ་པ་འདི་ཡག་པོ་འདུག་ཁ་དོག་ཡང་ཡག་པོ་འདུག་སྒོར་ག་ཚོད་རེད།",
+        "id": "trans-d_bo_399",
+        "en": "Hmm, this pair looks nice, and the color is good too. How much are they?"
+    },
+    {
+        "zh": "好的，我现在就看。",
+        "bo": "ཆོག་གི་ངས་ད་ལྟ་བལྟ།",
+        "id": "trans-d_bo_586",
+        "en": "Okay, I'll read it now."
+    },
+    {
+        "zh": "没关系，以后有空儿了，再来我家做客。",
+        "bo": "སྐྱོན་མེད།་རྗེས་ཕྱོགས་ཁོམ་པ་ཡོད་ན་ངེད་ཚང་ལ་མགྲོན་དུ་ཤོག",
+        "id": "trans-d_bo_536",
+        "en": "It's okay, come to my house to visit when you have time in the future."
+    },
+    {
+        "zh": "那太好了。",
+        "bo": "དེ་ན་ཧ་ཅང་བཟང་།",
+        "id": "trans-d_bo_510",
+        "en": "That's great."
+    },
+    {
+        "zh": "你父亲退休后做什么?",
+        "bo": "ཁྱོད་ཀྱི་ཨ་ཕ་ལས་འཁྱུར་ངལ་གསོ་བྱས་རྗེས་ཅི་ཞིག་བྱེད་དམ།",
+        "id": "trans-d_bo_682",
+        "en": "What does your father do after retirement?"
+    },
+    {
+        "zh": "我不睡了，现在就起。",
+        "bo": "ང་མི་ཉལ།་ད་ལྟ་ཡར་ལངས།",
+        "id": "trans-d_bo_404",
+        "en": "I won't sleep anymore, I'll get up now."
+    },
+    {
+        "zh": "是，我打算周末就去买辆新的，你跟我一起去吗?",
+        "bo": "རེད།་ང་གཟའ་མཇུག་ལ་རླངས་འཁོར་གསར་བ་ཞིག་ཉོ་རུ་འགྲོ་རྩིས་ཡོད།་ཁྱོད་ང་དང་མཉམ་དུ་འགྲོའམ།",
+        "id": "trans-d_bo_172",
+        "en": "Yes, I'm planning to buy a new one this weekend. Would you like to come with me?"
+    },
+    {
+        "zh": "天气预报很准的，你还是带上雨伞吧!",
+        "bo": "གནམ་གཤིས་སྔོན་བརྡ་ཧ་ཅང་ཡང་དག་རེད།་ཁྱོད་ཀྱིས་ཆར་གདུགས་བཟུང་།",
+        "id": "trans-d_bo_170",
+        "en": "The weather forecast is very accurate, you'd better take an umbrella!"
+    },
+    {
+        "zh": "你怎么突然开始关心体育了？",
+        "bo": "ཁྱོད་ཀྱིས་གློ་བུར་དུ་ལུས་རྩལ་ལ་སེམས་ཁུར་བྱེད་དོན་ཅི་ཡིན།",
+        "id": "trans-d_bo_559",
+        "en": "Why did you suddenly start caring about sports?"
+    },
+    {
+        "zh": "刚和他那位吹了，这几天看见谁都烦。",
+        "bo": "ད་སོ་མ་ཁོའི་དེ་དང་ལབ་རྒྱབ་སོང་།་ཉིན་འདི་དག་ལ་སུ་མཐོང་ཡང་སུན་སྣང་སྐྱེས",
+        "id": "trans-d_bo_77",
+        "en": "He just broke up with his girlfriend, so he's annoyed with everyone these days."
+    },
+    {
+        "zh": "怎么忽然想起买花了?",
+        "bo": "གློ་བུར་དུ་མེ་ཏོག་ཉོ་རྒྱུ་དྲན་པ་ཅི་ཡིན་ནམ།",
+        "id": "trans-d_bo_674",
+        "en": "Why did you suddenly think of buying flowers?"
+    },
+    {
+        "zh": "听说考试成绩已经公布了，你们家小丽考上大学了吗?",
+        "bo": "གོ་ཐོས་སུ་ཡིག་རྒྱུགས་སྦྱངས་འབྲས་ཁྱབ་བསྒྲགས་བྱས་ཚར་འདུག་ཟེར།ཁྱེད་ཚོའི་ཁྱིམ་གྱི་ཞའོ་ལི་སློབ་གྲྭ་ཆེན་མོར་ལོན་འདུག་གམ།",
+        "id": "trans-d_bo_4",
+        "en": "I heard that the exam results have been announced. Did your daughter Xiaoli get into university?"
+    },
+    {
+        "zh": "估计快了，今天老师说一个星期以后成绩就出来了。",
+        "bo": "ཕལ་ཆེར་མགྱོགས་སོང་།་དེ་རིང་དགེ་རྒན་གྱིས་གཟའ་འཁོར་གཅིག་གི་རྗེས་ནས་རྒྱུགས་འབྲས་ཐོན་ཡོང་ཟེར།",
+        "id": "trans-d_bo_634",
+        "en": "It should be soon, today the teacher said the results would be out in a week."
+    },
+    {
+        "zh": "晚上我们去跳舞，你要不要一起去？",
+        "bo": "དགོང་མོ་ང་ཚོ་ཞབས་བྲོ་འཁྲབ་ཏུ་འགྲོ།་ཁྱོད་མཉམ་དུ་འགྲོའམ།",
+        "id": "trans-d_bo_300",
+        "en": "We're going dancing tonight, do you want to join us?"
+    },
+    {
+        "zh": "优惠不大嘛!算了，我还是问问麦当劳吧。",
+        "bo": "གཟིགས་སྐྱོང་ཆེན་པོ་མི་འདུགཆོག་གི་ངས་མའེ་ཏང་ལའོ་ལ་འདྲི།",
+        "id": "trans-d_bo_572",
+        "en": "The promotion is not that great! Forget it, I'll check with McDonald's instead."
+    },
+    {
+        "zh": "这时候还找钱包干什么?快走吧。",
+        "bo": "སྐབས་འདིར་ད་དུང་དངུལ་ཁུག་བཙལ་ནས་ཅི་བྱེད།མགྱོགས་པོརའགྲོ་་།",
+        "id": "trans-d_bo_106",
+        "en": "Why are you looking for your wallet at this time? Let's go."
+    },
+    {
+        "zh": "稍等，我马上就来。",
+        "bo": "ཅུང་ཙམ་སྒུག་དང་།་ང་མྱུར་དུ་ཡོང་།",
+        "id": "trans-d_bo_673",
+        "en": "Hold on, I'll be right there."
+    },
+    {
+        "zh": "对，那是他自己刻苦努力取得的成绩。我很为他感到骄傲。",
+        "bo": "དེ་ནི་ཁོ་རང་ཉིད་ཀྱིས་དཀའ་སྤྱད་འབད་བརྩོན་བྱས་ནས་ཐོབ་པའི་གྲུབ་འབྲས་རེད།ང་ཁོའི་ཆེད་དུ་ང་རྒྱལ་སྐྱེས།",
+        "id": "trans-d_bo_275",
+        "en": "Yes, that is the result of his own hard work and effort. I am very proud of him."
+    },
+    {
+        "zh": "商场的挺不错的。前几天我在商场买了餐桌。质量挺不错。",
+        "bo": "ཚོང་ར་ཧ་ཅང་བཟང་།ཉིན་འགའི་སྔོན་ལ་ངས་ཚོང་ར་ནས་ཅོག་ཙེ་ཉོས།སྤུས་ཚད་ཡག་པོ་འདུག",
+        "id": "trans-d_bo_190",
+        "en": "The ones at the mall are pretty good. A few days ago I bought a dining table there. The quality is quite good."
+    },
+    {
+        "zh": "对不起，昨天刚卖完。明天还要进货，你再来看看吧?",
+        "bo": "དགོངས་པ་མ་ཚོམ།་ཁ་སང་སོ་མ་བཙོང་ཚར་བ་ཡིན།སང་ཉིན་ད་དུང་ཚོང་ཟོག་ནང་འདྲེན་བྱེད་དགོས།་ཁྱོད་ཡང་བསྐྱར་བལྟ་རུ་ཤོག",
+        "id": "trans-d_bo_222",
+        "en": "Sorry, they just sold out yesterday. We are getting more stock tomorrow, can you come back to check?"
+    },
+    {
+        "zh": "谁说不是呢!",
+        "bo": "སུ་ཞིག་གིས་མ་རེད་ཟེར།",
+        "id": "trans-d_bo_706",
+        "en": "Exactly!"
+    },
+    {
+        "zh": "抱歉，我现在正忙着呢，一会儿给你回电话。",
+        "bo": "དགོངས་དག་ང་ད་ལྟ་བྲེལ་བཞིན་ཡོད།་ཅུང་ཙམ་ནས་ཁྱོད་ལ་ཁ་པར་གཏོང་།",
+        "id": "trans-d_bo_234",
+        "en": "Sorry, I'm busy right now. I'll call you back later."
+    },
+    {
+        "zh": "实在是抱歉，真不是故意的。",
+        "bo": "མོ་ངོ་མ་དགོངས་དག་ཞུ།་ངོ་མ་བསམ་གཟས་ནས་བྱས་པ་མིན།",
+        "id": "trans-d_bo_329",
+        "en": "I'm really sorry, it wasn't intentional."
+    },
+    {
+        "zh": "是呀，我们说的说，唱的唱，跳的跳，生日晚会热闹极了。",
+        "bo": "ད་ཡ།་ང་ཚོས་བཤད་པ་དང་ལེན་པ།་འཁྲབ་པ།་སྐྱེས་སྐར་དགོང་ཚོགས་ཧ་ཅང་འཁྲུག་ཆ་དོད་པོ་འདུག",
+        "id": "trans-d_bo_364",
+        "en": "Yes, we chatted, sang, danced; the birthday party was extremely lively."
+    },
+    {
+        "zh": "中国菜的特点是色香味俱全。",
+        "bo": "ཀྲུང་གོའི་ཚོད་མའི་ཁྱད་ཆོས་ནི་མདོག་དང་དྲི་ཞིམ་ཆ་ཚང་བ་དེ་རེད།",
+        "id": "trans-d_bo_253",
+        "en": "The characteristic of Chinese cuisine is that it is a perfect combination of color, aroma, and taste."
+    },
+    {
+        "zh": "先生，等一等，您吃完饭还没给钱呢!",
+        "bo": "སྐུ་ཞབས།་ཅུང་ཙམ་སྒུག་དང་།་ཁྱེད་ཀྱིས་ཟ་མ་ཟས་ཚར་རྗེས་ད་དུང་སྒོར་མོ་མ་བྱིན།",
+        "id": "trans-d_bo_335",
+        "en": "Sir, wait a moment, you haven't paid after your meal!"
+    },
+    {
+        "zh": "下一班是什么时候?还有票吗?",
+        "bo": "གནམ་གྲུ་རྗེས་མ་ནི་ནམ་ཞིག་ཡིན་ནམ།ད་རུང་པ་སེ་ཡོད་དམ་།",
+        "id": "trans-d_bo_499",
+        "en": "When is the next flight? Are there any tickets left?"
+    },
+    {
+        "zh": "正好我们下班还有半个小时的时间，我要去取点儿钱。",
+        "bo": "ཏག་ཏག་ང་ཚོ་ལས་ཚོགས་གྲོལ་བར་ད་དུང་དུས་ཚོད་ཕྱེད་ཀའི་དུས་ཚོད་ཡོད།་ང་སྒོར་མོ་ལེན་དུ་འགྲོ་དགོས།",
+        "id": "trans-d_bo_359",
+        "en": "It's just right, we still have half an hour after work. I want to withdraw some money."
+    },
+    {
+        "zh": "不客气。",
+        "bo": "འཛེམ་དོགས་བྱེད་མི་དགོས",
+        "id": "trans-d_bo_383",
+        "en": "You're welcome."
+    },
+    {
+        "zh": "上个月中旬我休了一个星期年假，就和大学同学去了一趟。",
+        "bo": "ཟླ་སྔོན་མའི་ཟླ་དཀྱིལ་ལ་ངས་གཟའ་འཁོར་གཅིག་ལ་དགོང་པ་ཞུས་ནས་སློབ་ཆེན་སློབ་གྲོགས་དང་མཉམ་དུ་ཐེངས་གཅིག་སོང་།",
+        "id": "trans-d_bo_433",
+        "en": "In the middle of last month, I took a week's annual leave and went there with my college classmates."
+    },
+    {
+        "zh": "我也没想起来，下次吧。",
+        "bo": "ངས་ཀྱང་དྲན་མ་བྱུང་།་ཐེངས་རྗེས་མར་བྱེད།",
+        "id": "trans-d_bo_462",
+        "en": "I didn't think of it either, maybe next time."
+    },
+    {
+        "zh": "你昨晚看新闻了吗?",
+        "bo": "ཁྱོད་ཀྱིས་མདང་དགོང་གསར་འགྱུར་ལ་བལྟས་སམ་།",
+        "id": "trans-d_bo_434",
+        "en": "Did you watch the news last night?"
+    },
+    {
+        "zh": "那还不如上班舒服呢。",
+        "bo": "དེ་ལས་ཚོགས་ལ་སོང་ན་སྐྱིད་པོ་འདུག",
+        "id": "trans-d_bo_290",
+        "en": "That would be even less comfortable than going to work."
+    },
+    {
+        "zh": "那就它吧。有意思，为什么选它呢?",
+        "bo": "དེ་ན་དེ་རེད།དོན་སྙིང་ཡོད་།་ཅིའི་ཕྱིར་དེ་འདེམས་པ་ཡིན་ནམ་།",
+        "id": "trans-d_bo_187",
+        "en": "Let's go with it then. Interesting, why did you choose this one?"
+    },
+    {
+        "zh": "听说小王生病住院了？",
+        "bo": "གོ་ཐོས་ལྟར་ན་ཞའོ་ཝང་ན་ནས་སྨན་ཁང་དུ་བསྡད་ཡོད་ཟེར།",
+        "id": "trans-d_bo_531",
+        "en": "I heard Xiao Wang is sick and was hospitalized?"
+    },
+    {
+        "zh": "我下个月要搬家，得赶快找房子。",
+        "bo": "ངས་ཟླ་རྗེས་མར་ཁྱིམ་སྤོར་དགོས།་མྱུར་དུ་ཁང་བ་བཙལ་དགོས།",
+        "id": "trans-d_bo_285",
+        "en": "I'm moving next month, so I need to quickly find a house."
+    },
+    {
+        "zh": "什么局长不局长的，我管他是谁呢!",
+        "bo": "འགོ་འཛིན་ཡིན་ཡང་མིན་ཡང་རུང་ངས་ཁོ་སུ་ཡིན་པར་ཁ་ཡ་མི་བྱེད།",
+        "id": "trans-d_bo_132",
+        "en": "What director or not, I don't care who he is!"
+    },
+    {
+        "zh": "那也难怪，经济不景气，毕业生多，就业压力太大了。",
+        "bo": "དེ་ཡང་ཁག་མི་འདུག་དཔལ་འབྱོར་མི་བཟང་།་མཐར་ཕྱིན་སློབ་མ་མང་།་ལས་ཞུགས་གནོན་ཤུགས་ཧ་ཅང་ཆེ།",
+        "id": "trans-d_bo_348",
+        "en": "It's not surprising, the economy is sluggish, there are many graduates, and the pressure to find jobs is too high."
+    },
+    {
+        "zh": "等会儿，我找我的钱包。",
+        "bo": "ཅུང་ཙམ་སྒུག་དང་།་ངས་ངའི་དངུལ་་ཁུག་བཙལ།",
+        "id": "trans-d_bo_105",
+        "en": "Wait a moment, I'm looking for my wallet."
+    },
+    {
+        "zh": "经理，我生病了，身体不太舒服，明天想请假可以吗?",
+        "bo": "སྤྱི་གཉེར་བ།ང་ན་གི་འདུགགཟུགས་པོ་བདེ་པོ་མིན་འདུགསང་ཉིན་དགོངས་པ་ཞུ་ཆོག་གམ།",
+        "id": "trans-d_bo_20",
+        "en": "Manager, I'm sick and not feeling well. Can I take a day off tomorrow?"
+    },
+    {
+        "zh": "好的，你明天不用来上班了，好好儿在家休息吧。",
+        "bo": "ཆོག་གི་རེད།ཁྱེད་རང་སང་ཉིན་ལས་ཀར་ཡོང་མི་དགོས།་ཁྱིམ་ལ་ངལ་གསོ་ཡག་པོ་རྒྱབ་ཨ།",
+        "id": "trans-d_bo_21",
+        "en": "Okay, you don't need to come to work tomorrow. Have a good rest at home."
+    },
+    {
+        "zh": "来了好几天了，一直忙着开会，这不，刚结束我就来看您了。",
+        "bo": "སླེབས་བྱས་ཉིན་ཁ་ཤས་སོང་།རྒྱུན་དུ་ཚོགས་འདུ་འཚོགས་བཞིན་ཡོད།ལྟོས་དང་ད་ལྟ་མཇུག་སྒྲིལ་མ་ཐག་ཁྱེད་རང་ལ་ལྟ་བར་ཡོང་བ་ཡིན།",
+        "id": "trans-d_bo_9",
+        "en": "I've been here for several days, busy with meetings. See, I came to visit you as soon as it ended."
+    },
+    {
+        "zh": "你好，请问火车站怎么走?",
+        "bo": "ཁྱོད་སྐུ་ཁམས་བཟང་མེ་འཁོར་འབབ་ཚིགས་ལ་ཅི་ལྟར་འགྲོ་དགོས་།",
+        "id": "trans-d_bo_607",
+        "en": "Hello, could you tell me how to get to the train station?"
+    },
+    {
+        "zh": "你好，我前几天订了一个标准间，我姓张。",
+        "bo": "ཁྱོད་བདེ་མོ།་ངས་ཉིན་འགའི་སྔོན་ལ་ཚད་ལྡན་གྱི་ཁང་བ་ཞིག་བླངས་ཡོད།་ངའི་རུས་ཀྲང་ཡིན།",
+        "id": "trans-d_bo_759",
+        "en": "Hello, a few days ago I booked a standard room, my surname is Zhang."
+    },
+    {
+        "zh": "还得谢谢你啊，要不是你打电话叫醒我，我肯定误了这趟车。",
+        "bo": "ད་དུང་ཁྱོད་ལ་བཀའ་དྲིན་ཞུ་དགོས།་ཁྱོད་ཀྱིས་ང་ལ་ཁ་པར་བཏང་ནས་བོས་པ་མིན་ན།་ངས་རླངས་འཁོར་འདིའི་རྗེས་ཆོད་རྒྱུ་མ་རེད།",
+        "id": "trans-d_bo_79",
+        "en": "I really have to thank you. If you hadn't called to wake me up, I definitely would have missed this train."
+    },
+    {
+        "zh": "太好了，第一次出远门旅行你就制造紧张气氛。",
+        "bo": "ངོ་མ་བཟང་གི་ཐེངས་དང་པོར་ཐག་རིང་ལ་ཡུལ་སྐོར་དུ་སོང་དུས་ཁྱོད་ཀྱིས་བྲེལ་འཚུབ་ཀྱི་རྣམ་པ་བཟོས་ཀྱི་འདུག་",
+        "id": "trans-d_bo_599",
+        "en": "Great, it's your first time traveling far and you created a tense atmosphere."
+    },
+    {
+        "zh": "我老公就像我肚子里的蛔虫，什么他都知道。",
+        "bo": "ངའི་ཁྱོ་ག་ནི་ངའི་ཕོ་བའི་ནང་གི་འསྲིན་དང་འདྲ།་ཅི་ཞིག་ཡིན་རུང་ཁོས་ཤེས།",
+        "id": "trans-d_bo_58",
+        "en": "My husband is like a worm in my belly, he knows everything about me."
+    },
+    {
+        "zh": "你看，他们俩个多相爱啊!",
+        "bo": "ཁྱོད་ཀྱིས་ལྟོས་དང་།་ཁོ་གཉིས་ཕན་ཚུན་ལ་ཅི་འདྲའི་དགའ་བ་ལ།",
+        "id": "trans-d_bo_177",
+        "en": "Look, how much they love each other!"
+    },
+    {
+        "zh": "道歉就完了吗?你说怎么办吧，我的车灯都被你撞坏了。",
+        "bo": "དགོངས་དག་ཞུས་ན་ཚར་སོང་ངམ།ཁྱོད་ཀྱིས་ཅི་ཞིག་བྱེད་ཀྱི་ཡིན་།་ངའི་རླངས་འཁོར་གྱི་གློག་ཁྱོད་ཀྱིས་བརྒྱབ་ནས་ཆག་སོང་།",
+        "id": "trans-d_bo_330",
+        "en": "Is an apology enough? What are you going to do about it? My car's headlight is broken because of you."
+    },
+    {
+        "zh": "为什么?这场比赛我已经盼望很久了。",
+        "bo": "ཅིའི་ཕྱིར།འགྲན་སྡུར་འདི་ལ་ངས་ཡུན་རིང་ལ་རེ་སྒུག་བྱས་ཡོད།",
+        "id": "trans-d_bo_525",
+        "en": "Why? I've been looking forward to this match for a long time."
+    },
+    {
+        "zh": "和平常一样，看看书，上上网。",
+        "bo": "རྒྱུན་ལྡན་དང་འདྲ་བར།་དཔེ་ཆ་ལ་ལྟོས་དང་།་དྲ་ཐོག་ལ་ཞུགས།",
+        "id": "trans-d_bo_418",
+        "en": "Same as usual, read some books and browse the internet."
+    },
+    {
+        "zh": "收拾好了，但是我们的身份证不知道被我塞到哪里了。",
+        "bo": "བསྡུ་གསོག་བྱས་ཚར་སོང་།་འོན་ཀྱང་ང་ཚོའི་ཐོབ་ཐང་ལག་ཁྱེར་ངས་གང་ལ་བཞག་པ་མི་ཤེས",
+        "id": "trans-d_bo_590",
+        "en": "Yes, I have packed everything, but I don't know where I put our ID cards."
+    },
+    {
+        "zh": "只能这样了，我们到一边去商量一下吧。",
+        "bo": "འདི་ལྟར་བྱེད་རྒྱུ་ལས་མི་འདུག་ང་ཚོ་ཕྱོགས་གཅིག་ལ་སོང་ནས་གྲོས་ཞིག་བྱེད།",
+        "id": "trans-d_bo_334",
+        "en": "That's all we can do; let's go aside and discuss it."
+    },
+    {
+        "zh": "每天上完班，我的脚都特别累。",
+        "bo": "ཉིན་རྒྱུན་ལས་ཚོགས་ལ་ཞུགས་ཚར་རྗེས་ངའི་རྐང་བ་ཧ་ཅང་ཐང་ཆད།",
+        "id": "trans-d_bo_68",
+        "en": "Every day after work, my feet are especially tired."
+    },
+    {
+        "zh": "这是局长交代的事，你总不能不给面子吧?",
+        "bo": "འདི་ནི་ཅུས་ཀྲང་གིས་རྩིས་སྤྲོད་བྱས་པའི་དོན་དག་རེད།་ཁྱོད་ཀྱིས་ཁ་ངོ་མ་བྱིན་ན་མི་ཆོག་གམ།",
+        "id": "trans-d_bo_131",
+        "en": "This is something the director has instructed, you can't just not give him face?"
+    },
+    {
+        "zh": "你有哪些爱好?",
+        "bo": "ཁྱོད་ལ་དགའ་ཕྱོགས་གང་དག་ཡོད།",
+        "id": "trans-d_bo_441",
+        "en": "What are your hobbies?"
+    },
+    {
+        "zh": "我怕山上没有垃圾桶，总不能乱扔垃圾。",
+        "bo": "ང་རང་རི་མགོར་གད་སྙིགས་སྒམ་མེད་པར་སྐྲག་གང་འདོད་དུ་གད་སྙིགས་འཕེན་མི་རུང་།",
+        "id": "trans-d_bo_584",
+        "en": "I'm afraid there won't be any trash bins on the mountain, and we can't just litter."
+    },
+    {
+        "zh": "你好!我是建筑公司的王励。",
+        "bo": "སྐུ་ཁམསབཟང་ང་ནི་འཛུགས་སྐྲུན་ཀུང་སིའི་ཝང་ལི་ཡིན་།",
+        "id": "trans-d_bo_405",
+        "en": "Hello! I'm Wang Li from the construction company."
+    },
+    {
+        "zh": "没有，他现在可以见我吗?",
+        "bo": "མེད།་ཁོ་ད་ལྟ་ང་ལ་ཐུག་ན་ཆོག་གམ།ཕལ་ཆེར་མི་ཆོག་བཟོ་གྲྭའི་འགོ་འཛིན་གྱིས་ཚོགས་འདུ་འཚོགས་བཞིན་ཡོད།",
+        "id": "trans-d_bo_409",
+        "en": "No, can he see me now?"
+    },
+    {
+        "zh": "我看咱家的花都干了，我明天出差，你记得给它浇点儿水。",
+        "bo": "ངས་བལྟས་ན་ངེད་ཚང་གི་མེ་ཏོག་ཚང་མ་སྐམ་འདུག་ང་སང་ཉིན་གཞུང་དོན་དུ་འགྲོ་དགོས།་ཁྱོད་ཀྱིས་དེ་ལ་ཆུ་ཅུང་ཙམ་ལྡུག་རྒྱུ་མ་བརྗེད།",
+        "id": "trans-d_bo_231",
+        "en": "I noticed that the flowers at home have dried up. I'm going on a business trip tomorrow, so remember to water them."
+    },
+    {
+        "zh": "我主要是想把工资存入这个账户。",
+        "bo": "ངས་གཙོ་བོ་ཟླ་ཕོགས་རྣམས་བྱང་འདིའི་ནང་དུ་འཇོག་འདོད།",
+        "id": "trans-d_bo_467",
+        "en": "I mainly want to deposit my salary into this account."
+    },
+    {
+        "zh": "还以为你不来了，我都等你半天了。",
+        "bo": "ད་དུང་ཁྱོད་མི་ཡོང་བར་འདོད།་ངས་ཁྱོད་ལ་ཉིན་ཕྱེད་ལ་སྒུག་པ་ཡིན།",
+        "id": "trans-d_bo_140",
+        "en": "I thought you weren't coming. I've been waiting for you for a long time."
+    },
+    {
+        "zh": "唁，别提了，今年的毕业生太多了，这不，腿都快跑断了。",
+        "bo": "ཨ་ཙི།མ་བཤོད་དང་།ད་ལོའི་སློབ་ཐོན་སློབ་མ་མང་དྲག་ནས་རྐང་པ་ཡང་ཆད་གྲབ་བྱས་སོང་།",
+        "id": "trans-d_bo_11",
+        "en": "Sigh, don't mention it. There are too many graduates this year, and I've been running around like crazy."
+    },
+    {
+        "zh": "我觉得那儿周围有点儿吵，我担心晚上会睡不好觉。",
+        "bo": "ངས་བསམ་ན་དེའི་ཉེ་འཁོར་དུ་འུར་ཅུང་ཆེ།་ངས་དགོང་མོ་གཉིད་མི་ཁུག་པར་སེམས་ཁུར་བྱེད།",
+        "id": "trans-d_bo_770",
+        "en": "I think the surroundings there are a bit noisy, and I'm worried I won't sleep well at night."
+    },
+    {
+        "zh": "月亮不会跑，其实是天上的云在动。",
+        "bo": "ཟླ་བ་རྒྱུགས་མི་ཤེས།་དོན་དངོས་སུ་ནམ་མཁའི་སྤྲིན་པ་འགུལ་བཞིན་ཡོད།",
+        "id": "trans-d_bo_321",
+        "en": "The moon isn't moving, actually it's the clouds in the sky that are moving."
+    },
+    {
+        "zh": "好的，你最好去看一下医生。",
+        "bo": "ཆོག་གི་ཁྱོད་རབ་ཡིན་ན་སྨན་པར་སྟོན་དུ་སོང་།",
+        "id": "trans-d_bo_203",
+        "en": "Okay, you'd better see a doctor."
+    },
+    {
+        "zh": "你怎么现在才到?我都等了你半个小时了!",
+        "bo": "ཁྱོད་ད་སོ་མ་ཐོན་པ་ཅི་ཡིན་ནམ།ངས་ཁྱོད་དུས་ཚོད་ཕྱེད་ཀ་་སྒུག་པ་ཡིན།",
+        "id": "trans-d_bo_472",
+        "en": "Why are you only here now? I've been waiting for you for half an hour!"
+    },
+    {
+        "zh": "太好了，以后下班不用等那么长时间的车了。",
+        "bo": "ངོ་མ་བཟང་གི་རྗེས་ཕྱོགས་ལས་ཚོགས་གྲོལ་རྗེས་དུས་ཚོད་དེ་འདྲ་རིང་བོ་ཞིག་ལ་རླངས་འཁོར་ལ་སྒུག་མི་དགོས།",
+        "id": "trans-d_bo_437",
+        "en": "Great, I won't have to wait so long for a bus after work."
+    },
+    {
+        "zh": "差一刻九点了，你动作快点儿!",
+        "bo": "ཅུང་ཙམ་མིན་ན་དུས་ཚོད་དགུ་རེད།་ཁྱོད་ཀྱི་འགུལ་སྟངས་མགྱོགས་པོ་བྱོས།",
+        "id": "trans-d_bo_243",
+        "en": "It's a quarter to nine, hurry up!"
+    },
+    {
+        "zh": "你快来看啊，一个晚上，外面那棵树上的叶子都快要落光了。",
+        "bo": "ཁྱོད་མྱུར་དུ་བལྟ་རུ་ཤོག་དགོང་མོ་གཅིག་ལ།་ཕྱི་རོལ་གྱི་སྡོང་བོ་དེའི་སྟེང་གི་ལོ་མ་ཚང་མ་ལྷུང་ལ་ཉེ།",
+        "id": "trans-d_bo_522",
+        "en": "Come and have a look, the leaves on that tree outside are almost all gone overnight."
+    },
+    {
+        "zh": "还没有，你对什么工作感兴趣呢?",
+        "bo": "ད་དུང་མེད།་ཁྱོད་བྱ་བ་ཅི་ཞིག་ལ་སྤྲོ་བ་ཡོད་དམ།",
+        "id": "trans-d_bo_624",
+        "en": "Not yet. What kind of job are you interested in?"
+    },
+    {
+        "zh": "好的，那我们还是老地方见。",
+        "bo": "ཆོག་གི་དེ་ན་ང་ཚོ་སྔར་བཞིན་ས་ཆ་རྙིང་བ་ནས་ཐུག",
+        "id": "trans-d_bo_352",
+        "en": "Sure, let's meet at the usual place."
+    },
+    {
+        "zh": "当然了，当时很多观众都激动地站起来鼓掌了。",
+        "bo": "ལོས་ཡིན།་སྐབས་དེར་ལྟད་མོ་བ་མང་པོ་ཞིག་སེམས་འགུལ་ཐེབས་ནས་ཡར་ལངས་ནས་ཐལ་མོ་རྡེབ།",
+        "id": "trans-d_bo_757",
+        "en": "Of course, many in the audience stood up and applauded excitedly at the time."
+    },
+    {
+        "zh": "剪头发。王林发型师在吗?",
+        "bo": "སྐྲ་བཞར་བ།ཝང་ལིན་སྐྲ་བཞར་མཁན་ཡོད་དམ་།",
+        "id": "trans-d_bo_154",
+        "en": "A haircut. Is hairstylist Wang Lin here?"
+    },
+    {
+        "zh": "这么近，我们就走路去吧，别打车了。",
+        "bo": "འདི་འདྲའི་ཐག་ཉེ་བས་ང་ཚོ་རྐང་ཐང་ལ་འགྲོ།་རླངས་འཁོར་མ་འགོག",
+        "id": "trans-d_bo_447",
+        "en": "It's so close, let's just walk there, no need to take a taxi."
+    },
+    {
+        "zh": "你胡说什么呀，那是他妈!",
+        "bo": "ཁྱོད་ཀྱིས་ཉོག་གཏམ་ཅི་ཞིག་བཤད་བཞིན་ཡོད།་དེ་ནི་ཁོའི་ཨ་མ་རེད།",
+        "id": "trans-d_bo_748",
+        "en": "What nonsense are you talking about? That's his mother!"
+    },
+    {
+        "zh": "谢谢你。",
+        "bo": "བཀའ་དྲིན་ཆེ།",
+        "id": "trans-d_bo_653",
+        "en": "Thank you."
+    },
+    {
+        "zh": "我刚才出去买了几个菜包，赶紧趁热吃吧，冷了就不好吃了。",
+        "bo": "ང་ད་སོ་མ་ཕྱི་ལ་སོང་ནས་ཚོད་མོག་་འགའ་ཉོས་པ་ཡིན།་་ཚ་བའི་སྐབས་དང་བསྟུན་ནས་ཟོ།་གྲང་ན་མི་ཞིམ།",
+        "id": "trans-d_bo_311",
+        "en": "I just went out to buy some vegetable buns. Eat them while they are hot, they don't taste as good when they are cold."
+    },
+    {
+        "zh": "谁的广告花钱多，谁的产品就卖得好。",
+        "bo": "སུ་ཞིག་གི་བརྡ་ཁྱབ་ལ་སྒོར་མོ་མང་ན།་སུ་ཞིག་གི་ཐོན་རྫས་བཙོང་བ་བཟང་།སྐུ་མགྲོན་གྱི་ཡིད་ཆེས།",
+        "id": "trans-d_bo_60",
+        "en": "Whoever spends more on advertising will sell more products."
+    },
+    {
+        "zh": "真的吗?",
+        "bo": "ངོ་མ་ཡིན་ནམ།",
+        "id": "trans-d_bo_756",
+        "en": "Really?"
+    },
+    {
+        "zh": "你明天又要出差?",
+        "bo": "ཁྱོད་སང་ཉིན་ཡང་གཞུང་དོན་དུ་འགྲོ་དགོས་སམ།",
+        "id": "trans-d_bo_50",
+        "en": "Are you going on another business trip tomorrow?"
+    },
+    {
+        "zh": "就是那家的，他们的包子口味很独特，每次都要排队等呢。",
+        "bo": "དེ་ཚང་གི་རེད།་ཁོ་ཚོའི་ཤ་མོག་གི་བྲོ་བ་ཧ་ཅང་ཁྱད་པར་བ་ཞིག་རེད།་ག་དུས་ཡིན་ཡང་གྲལ་སྒྲིག་ནས་སྒུག་དགོས།",
+        "id": "trans-d_bo_313",
+        "en": "Yes, they are from that place. Their buns have a unique flavor, and there’s always a queue waiting for them."
+    },
+    {
+        "zh": "小李看起来很紧张啊。",
+        "bo": "ཞའོ་ལིས་བལྟས་ཡོང་ན་ཧ་ཅང་འཚབ་བཞིན་འདུག",
+        "id": "trans-d_bo_270",
+        "en": "Xiao Li looks very nervous."
+    },
+    {
+        "zh": "站在你左边的是你爸爸吗?他看起来真年轻呀。",
+        "bo": "ཁྱོད་ཀྱི་གཡོན་ཕྱོགས་སུ་ལངས་ཡོད་པ་ནི་ཁྱོད་ཀྱི་ཨ་ཕ་ཡིན་ནམ།ཁོ་བལྟས་ཡོང་ན་ཧ་ཅང་ལོ་ཆུང་ཞིག་རེད་།",
+        "id": "trans-d_bo_345",
+        "en": "Is the person standing on your left your dad? He looks really young."
+    },
+    {
+        "zh": "我喜欢你。",
+        "bo": "ང་ཁྱོད་ལ་དགའ།",
+        "id": "trans-d_bo_421",
+        "en": "I like you."
+    },
+    {
+        "zh": "好，不见不散!",
+        "bo": "རྗེས་སུ་རྗེས་ཡོངས་",
+        "id": "trans-d_bo_704",
+        "en": "Okay, see you there!"
+    },
+    {
+        "zh": "别急，好好找找。",
+        "bo": "བྲེལ་བ་མ་ལངས།་ཡག་པོ་བྱས་ནས་འཚོལ།",
+        "id": "trans-d_bo_548",
+        "en": "Don't worry, just take your time to look for it."
+    },
+    {
+        "zh": "你觉得这个房子怎么样?喜欢吗?",
+        "bo": "ཁྱོད་ཀྱིས་བལྟས་ན་ཁང་བ་འདི་ཇི་འདྲ་རེད་།དགའ་འམ།མཐའ་འཁོར་ཧ་ཅང་ལྷིང་འཇགས་རེད་།",
+        "id": "trans-d_bo_386",
+        "en": "What do you think of this house? Do you like it?"
+    },
+    {
+        "zh": "没事儿，我那病算不了什么，应该通知我。",
+        "bo": "སྐྱོན་མེད།་ངའི་ནད་དེ་ཅི་ཡང་མ་རེད།་ང་ལ་བརྡ་རྒྱག་དགོས།",
+        "id": "trans-d_bo_554",
+        "en": "It's okay, my illness is nothing serious, you should have informed me."
+    },
+    {
+        "zh": "我看看这张校园地图。",
+        "bo": "ངས་སློབ་གྲྭའི་ས་ཁྲ་འདི་ལ་ལྟོས་དང་།",
+        "id": "trans-d_bo_727",
+        "en": "Let me look at this campus map."
+    },
+    {
+        "zh": "这件让他试试。",
+        "bo": "འདི་ཁོ་ལ་ཚོད་ལྟ་བྱེད་དུ་བཅུག",
+        "id": "trans-d_bo_218",
+        "en": "Let him try this one."
+    },
+    {
+        "zh": "我也是，现在看到你们真高兴。",
+        "bo": "ང་ཡང་ཆ་རེད།ད་ལྟ་ཁྱེད་ཚོ་མཐོང་དུས་དངོས་ནས་དགའ་པོ་བྱུང་།",
+        "id": "trans-d_bo_3",
+        "en": "Me too, I'm really happy to see you all now."
+    },
+    {
+        "zh": "今天去购物都买什么了?",
+        "bo": "དེ་རིང་དངོས་པོ་ཉོ་རུ་སོང་ནས་ཅི་ཞིག་ཉོས་སོང་།",
+        "id": "trans-d_bo_738",
+        "en": "What did you buy when you went shopping today?"
+    },
+    {
+        "zh": "姐，您这儿有中国地图吗？",
+        "bo": "ཨ་ཅེ།་ཁྱེད་ཀྱི་འདི་ན་ཀྲུང་གོའི་ས་ཁྲ་ཡོད་དམ།",
+        "id": "trans-d_bo_427",
+        "en": "Sis, do you have a map of China here?"
+    },
+    {
+        "zh": "是的。可能是因为这些天睡得太晚。",
+        "bo": "རེད།ཕལ་ཆེར་ཉིན་འདི་དག་ལ་གཉིད་པ་ཧ་ཅང་འཕྱི་བའི་རྐྱེན་རེད།",
+        "id": "trans-d_bo_538",
+        "en": "Yes. It might be because I've been sleeping too late these days."
+    },
+    {
+        "zh": "凡是毕业生招聘会我都去，但没有一家是双方都满意的。",
+        "bo": "སློབ་ཐོན་སློབ་མའི་ལས་མི་བསྡུ་བའི་ཚོགས་འདུ་ཡོད་ཚད་ལ་ཕྱིན་པ་ཡིན།ཡིན་ནའི་ཕན་ཚུན་གཉིས་ཀ་བློ་ཡིད་ཚིམ་པགཅིག་ཀྱང་མིན་འདུག",
+        "id": "trans-d_bo_15",
+        "en": "I've been to all the graduate job fairs, but none of them are satisfactory for both sides."
+    },
+    {
+        "zh": "当然有，我还给她买了一条裙子。",
+        "bo": "ལོས་ཡོད།་ངས་ད་དུང་མོ་ལ་སྨད་གཡོགས་ཤིག་ཉོས་ཡོད།",
+        "id": "trans-d_bo_677",
+        "en": "Of course, I also bought her a dress."
+    },
+    {
+        "zh": "还好还好，谢谢你来机场接我，等了很长时间吧？",
+        "bo": "ཡག་པ་ལ་ཁྱོད་གནམ་གྲུ་ཐང་ལ་ང་ལེན་དུ་ཡོང་བར་བཀའ་དྲིན་ཆེ།་དུས་ཡུན་རིང་བོ་ཞིག་ལ་སྒུག་སོང་ངམ།",
+        "id": "trans-d_bo_85",
+        "en": "Not really, not really. Thank you for coming to pick me up at the airport. Have you been waiting long?"
+    },
+    {
+        "zh": "说的是，不过你可以打折的时候去买，会便宜很多。",
+        "bo": "བཤད་པ་ནི།་འོན་ཀྱང་ཁྱོད་ཀྱིས་རིན་གོང་ཕབ་གཅོག་བྱེད་པའི་སྐབས་སུ་ཉོས་ན་རིན་གོང་སླ་མོ་ཡིན།",
+        "id": "trans-d_bo_192",
+        "en": "That's true, but you can buy them during sales, and it will be much cheaper."
+    },
+    {
+        "zh": "明天有一个会，我今晚要加班了，你自己先去吃饭吧。",
+        "bo": "སང་ཉིན་ཚོགས་འདུ་ཞིག་ཡོད།་ངས་དོ་དགོང་ལས་སྣོན་བྱེད་དགོས།་ཁྱོད་རང་ཉིད་སྔོན་ལ་ཟ་མ་ཟ་རུ་སོང་།",
+        "id": "trans-d_bo_425",
+        "en": "There is a meeting tomorrow, so I have to work overtime tonight. You go ahead and have dinner by yourself."
+    },
+    {
+        "zh": "没办法，有一笔大单子要去谈。",
+        "bo": "ཐབས་མི་འདུག་ཤོག་བྱང་ཆེན་པོ་ཞིག་གླེང་རྒྱུ་འདུག",
+        "id": "trans-d_bo_51",
+        "en": "There's no choice, I have to negotiate a big deal."
+    },
+    {
+        "zh": "会不会和机票放在一起了?",
+        "bo": "གནམ་གྲུའི་པ་སེ་དང་མཉམ་དུ་བཞག་ཡོད་དམ།",
+        "id": "trans-d_bo_595",
+        "en": "Could they be with the plane tickets?"
+    },
+    {
+        "zh": "啊，还真是。",
+        "bo": "ཨ།་ངོ་མ།",
+        "id": "trans-d_bo_319",
+        "en": "Ah, it really is."
+    },
+    {
+        "zh": "成人40，儿童一米二以下免费，一米二以上半票。",
+        "bo": "མི་དར་མ།་བྱིས་པ།་སྨི་གཅིག་ཚེག་གཉིས་མན་ཆད་ལ་རིན་མི་དགོས།་སྨི་གཅིག་ཚེག་གཉིས་ཡན་ཆད་ལ་པ་སེ་ཕྱེད་ཀ་དགོས།",
+        "id": "trans-d_bo_717",
+        "en": "Adults 40, children under 1.2 meters are free, over 1.2 meters half price."
+    },
+    {
+        "zh": "你哪一天才能把马大哈的毛病改掉呢?",
+        "bo": "ཁྱོད་ཀྱིས་ནམ་ཞིག་ལ་ཚབ་ཚུབ་ཡི་སྐྱོན་ཆ་བསྒྱུར་ཐུབ་བམ།",
+        "id": "trans-d_bo_506",
+        "en": "When will you be able to change your forgetful ways?"
+    },
+    {
+        "zh": "太好了!我常听人说，没到过长城就等于没来过中国。",
+        "bo": "ངོ་མ་བཟང་གིངས་རྒྱུན་དུ་གོ་ཐོས་ལྟར་ན་ལྕགས་རི་རིང་བོར་མ་ཐོན་ན་ཀྲུང་གོར་མ་ཡོང་བ་དང་འདྲ།",
+        "id": "trans-d_bo_670",
+        "en": "Great! I've often heard people say that if you haven't been to the Great Wall, it's like you haven't been to China."
+    },
+    {
+        "zh": "我们得有十年没见了吧?你胖了很多，我都快认不出来了。",
+        "bo": "ང་ཚོ་ལོ་བཅུ་ལྷག་ཙམ་ཐུགས་མ་བྱུང་ངམ།ཁྱེད་རང་རྒྱགས་ཏུ་ཞེ་དྲག་ཕྱིན་འདུགངས་ཁྱེད་རང་ཏིག་ཙམ་མ་ཏོག་ངོ་ཤེས་པ་མིན་འདུག",
+        "id": "trans-d_bo_0",
+        "en": "We haven't seen each other for about ten years, right? You've gained a lot of weight, I almost didn't recognize you."
+    },
+    {
+        "zh": "我们希望你明天就能来上班。",
+        "bo": "ང་ཚོའི་རེ་བར་ཁྱོད་སང་ཉིན་ལས་ཚོགས་ལ་ཡོང་ཐུབ་ན་བསམ།",
+        "id": "trans-d_bo_650",
+        "en": "We hope you can start working tomorrow."
+    },
+    {
+        "zh": "小李要结婚了，你送他什么礼物啊?",
+        "bo": "ཞའོ་ལི་གཉེན་སྒྲིག་བྱེད་རྒྱུ་རེད།་ཁྱོད་ཀྱིས་ཁོ་ལ་ལེགས་སྐྱེས་ཅི་ཞིག་སྟེར་རྒྱུ་ཡིན།",
+        "id": "trans-d_bo_457",
+        "en": "Xiao Li is getting married. What gift are you going to give him?"
+    },
+    {
+        "zh": "小姐，这件衣服有大一点儿的吗？",
+        "bo": "སྲས་མོ།་ལྭ་བ་འདི་ཅུང་ཆེ་བ་ཡོད་དམ།",
+        "id": "trans-d_bo_161",
+        "en": "Miss, do you have this piece of clothing in a larger size?"
+    },
+    {
+        "zh": "怎么没租呢?哪儿不合适?",
+        "bo": "ཅིའི་ཕྱིར་གླས་མེད་པ་རེད།གང་ནས་འོས་འཚམ་མ་རེད།",
+        "id": "trans-d_bo_769",
+        "en": "Why didn't you rent it? What didn't suit you?"
+    },
+    {
+        "zh": "坐公交和地铁的人太多了，大夏天的多热啊，我看还是打车过去算了!",
+        "bo": "སྤྱི་སྤྱོད་རླངས་འཁོར་དང་ས་འོག་ལྕགས་ལམ་ལ་འདུག་མཁན་ཧ་ཅང་མང་།་དབྱར་ཁ་ཅི་འདྲའི་ཚ་བ་ལ།་ངས་བལྟས་ན་རླངས་འཁོར་གླས་ནས་སོང་ན་བཟང་།",
+        "id": "trans-d_bo_65",
+        "en": "There are too many people on the bus and subway, and it's too hot in the summer. I think we should just take a taxi!"
+    },
+    {
+        "zh": "都已经跌成白菜价了，这一年又白忙活了。",
+        "bo": "ཚང་མ་ཚོད་མ་དཀར་པོའི་རིན་གོང་ལ་ལྷུང་སོང་།་ལོ་འདི་ལ་ཡང་དོན་མེད་དུ་ལས་ཀ་ལས་སོང་།",
+        "id": "trans-d_bo_456",
+        "en": "They've all dropped to rock-bottom prices. This year has been a waste of effort."
+    },
+    {
+        "zh": "天气预报说今天下午有大雨，但看现在的天气，不太可能啊!",
+        "bo": "གནམ་གཤིས་སྔོན་བརྡ་ལས་དེ་རིང་ཕྱི་དྲོ་ཆར་བ་ཆེན་པོ་འབབ་རྒྱུ་རེད་ཟེར།་འོན་ཀྱང་ད་ལྟའི་གནམ་གཤིས་ལ་བལྟས་ན་དཔེ་མི་སྲིད།",
+        "id": "trans-d_bo_169",
+        "en": "The weather forecast says there will be heavy rain this afternoon, but looking at the current weather, it doesn't seem likely!"
+    },
+    {
+        "zh": "没办法，你先睡吧，我马上就写完了。",
+        "bo": "ཐབས་ཤེས་མེད།ཁྱེད་རང་སྔོན་ལ་ཉོལ།ང་མྱུར་ཏུ་བྲིས་ཚར་བ་འདུག",
+        "id": "trans-d_bo_47",
+        "en": "There's no way, you go to sleep first, I'm almost finished."
+    },
+    {
+        "zh": "没有，你要地图做什么？",
+        "bo": "མེད།་ཁྱོད་ལ་ས་ཁྲ་ཡིས་ཅི་ཞིག་བྱེད་དགོས།",
+        "id": "trans-d_bo_428",
+        "en": "No, why do you need a map?"
+    },
+    {
+        "zh": "那他什么时候有空儿?",
+        "bo": "དེ་ན་ཁོ་ལ་ནམ་ཞིག་ལ་ཁོམ་པ་ཡོད་དམ།",
+        "id": "trans-d_bo_411",
+        "en": "Then when will he be available?"
+    },
+    {
+        "zh": "我考了研究生，现在在这边读研呢。",
+        "bo": "ང་འདིར་ཞིབ་འཇུག་སློབ་མའི་ཡིག་རྒྱུགས་བཏང་བ་ཡིན།ད་ལྟ་འདིར་ཞིབ་འཇུག་སློབ་གཉེར་བྱེད་བཞིན་ཡོད།",
+        "id": "trans-d_bo_32",
+        "en": "I got into graduate school and I am studying here now."
+    },
+    {
+        "zh": "嗨!你真是骑驴找驴，钢笔不是在你耳朵上夹着呢吗!",
+        "bo": "ཧེ།ཁྱོད་ཀྱིས་ངོ་མ་བོང་ཞོན་ནས་བོང་བུ་བཙལ་བཞིན་འདུག་ལྕགས་སྨྱུག་ཁྱོད་ཀྱི་རྣ་བའི་སྟེང་དུ་བཙིར་ཡོད་པ་མིན་ནམ།",
+        "id": "trans-d_bo_550",
+        "en": "Hey! You're looking for something that's right in front of you. Isn't the pen tucked behind your ear!"
+    },
+    {
+        "zh": "喜欢，一出门就能看见大海，太棒了!",
+        "bo": "དགའ་བ།་ཕྱི་ལ་སོང་མ་ཐག་རྒྱ་མཚོ་མཐོང་ཐུབ།་ངོ་མ་ཡག་པོ་འདུག་།",
+        "id": "trans-d_bo_387",
+        "en": "I like it. As soon as you step out, you can see the sea. It's fantastic!"
+    },
+    {
+        "zh": "现代社会，那样单纯的爱情可能只能在电影里找了。",
+        "bo": "དེང་རབས་སྤྱི་ཚོགས།་དེ་འདྲའི་ལྷད་མེད་ཀྱི་བརྩེ་དུང་ནི་གློག་བརྙན་ནང་ནས་མ་གཏོགས་བཙལ་མི་ཐུབ།",
+        "id": "trans-d_bo_709",
+        "en": "In modern society, such pure love might only be found in movies."
+    },
+    {
+        "zh": "没忘，可是这边的问题还没解决，回不去啊。",
+        "bo": "བརྗེད་མེད།་འོན་ཀྱང་འདི་ཕྱོགས་ཀྱི་གནད་དོན་ད་དུང་ཐག་གཅོད་བྱས་མེད།་ཕྱིར་འགྲོ་མི་ཐུབ།",
+        "id": "trans-d_bo_228",
+        "en": "I haven't forgotten, but the problem here still isn't solved, I can't go back."
+    },
+    {
+        "zh": "你先去吧，下午的会议很重要，我还没准备好呢。",
+        "bo": "ཁྱོད་སྔོན་ལ་སོང་།་ཕྱི་དྲོའི་ཚོགས་འདུ་ཧ་ཅང་གལ་ཆེ།་ངས་ད་དུང་གྲ་སྒྲིག་བྱས་མེད།",
+        "id": "trans-d_bo_558",
+        "en": "You go ahead, the afternoon meeting is very important and I'm not ready yet."
+    },
+    {
+        "zh": "你怎么了?好像不太高兴，工作遇到问题了吗?",
+        "bo": "ཁྱོད་ལ་ཅི་ཞིག་བྱུང་སོང་།ཕལ་ཆེར་དེ་འདྲ་མི་དགའ་བ་འདྲ།་བྱ་བར་གནད་དོན་ལ་འཕྲད་སོང་ངམ།",
+        "id": "trans-d_bo_163",
+        "en": "What's wrong? You don't seem very happy. Did you encounter any problems at work?"
+    },
+    {
+        "zh": "是，前几天地上的草还没有绿呢。",
+        "bo": "རེད།་ཉིན་འགའ་ཤས་སྔོན་ལ་རྩྭ་ད་དུང་ལྗང་ཁུ་རེད་མི་འདུག་།",
+        "id": "trans-d_bo_342",
+        "en": "Yes, just a few days ago the grass on the ground wasn't green yet."
+    },
+    {
+        "zh": "要是有时间就好了，可惜最近忙着考试呢。",
+        "bo": "གལ་ཏེ་དུས་ཚོད་ཡོད་ན་བཟང་།་ཡིད་ཕངས་པ་ཞིག་ལ་ཉེ་ལམ་རྒྱུགས་ལེན་པར་བྲེལ་བཞིན་ཡོད།",
+        "id": "trans-d_bo_196",
+        "en": "I wish I had time, but unfortunately I'm busy with exams lately."
+    },
+    {
+        "zh": "那我约你们下次一起吃饭。",
+        "bo": "དེ་ན་ངས་ཁྱོད་ཚོ་ཐེངས་རྗེས་མར་མཉམ་དུ་ཟ་མ་ཟ་བར་དུས་བཅད་བྱེད།",
+        "id": "trans-d_bo_752",
+        "en": "Then I'll arrange for us to have a meal together next time."
+    },
+    {
+        "zh": "今天咱们去爬长城。",
+        "bo": "དེ་རིང་ང་ཚོ་ལྕགས་རི་རིང་བོར་འགོས་སུ་འགྲོ།",
+        "id": "trans-d_bo_669",
+        "en": "Today we are going to climb the Great Wall."
+    },
+    {
+        "zh": "这得问你自己，你心里比谁都清楚!",
+        "bo": "འདི་ཁྱོད་རང་ཉིད་ལ་འདྲི་དགོས།་ཁྱོད་ཀྱི་སེམས་སུ་སུ་ལས་ཀྱང་གསལ་བོ་རེད",
+        "id": "trans-d_bo_424",
+        "en": "You should ask yourself, you know better than anyone!"
+    },
+    {
+        "zh": "你好!这里是肯德基宅急送。",
+        "bo": "སྐུ་ཁམས་བཟང་འདི་ནི་ཁིན་ཏི་ཅེ་ཡི་མྱུར་སྐྱེལ་ཡིན།",
+        "id": "trans-d_bo_569",
+        "en": "Hello! This is KFC delivery service."
+    },
+    {
+        "zh": "昨天和我们一起看电影的那个女孩真漂亮，性格也很活泼。",
+        "bo": "ཁ་སང་ང་ཚོ་དང་མཉམ་དུ་གློག་བརྙན་ལ་བལྟ་བའི་མོ་དེ་ཧ་ཅང་ཡག་གཤིས་ཀ་ཡང་ཧ་ཅང་གྲུང་ཤ་དོད་པོ་འདུག",
+        "id": "trans-d_bo_749",
+        "en": "The girl we watched the movie with yesterday was really pretty and very lively."
+    },
+    {
+        "zh": "太好了！太谢谢您了！",
+        "bo": "ངོ་མ་བཟང་གིངོ་མ་ཁྱོད་ལ་བཀའ་དྲིན་ཆེ།",
+        "id": "trans-d_bo_135",
+        "en": "That's great! Thank you so much!"
+    },
+    {
+        "zh": "您好，我在报纸上看到贵公司的招聘广告，不知道现在招聘结束了吗?",
+        "bo": "ཁྱོད་བདེ་མོ།་ངས་ཚགས་པར་སྟེང་ནས་ཁྱེད་ཀུང་སིའི་ལས་མི་བསྡུ་བའི་བརྡ་ཁྱབ་མཐོང་།་ད་ལྟ་ལས་མི་བསྡུ་བ་མཇུག་རྫོགས་སོང་བ་མི་ཤེས་སམ།",
+        "id": "trans-d_bo_623",
+        "en": "Hello, I saw your company's job advertisement in the newspaper. I wonder if the recruitment has ended?"
+    },
+    {
+        "zh": "其实我还想读一读四大名著。",
+        "bo": "དོན་དངོས་སུ་ངས་ད་དུང་བརྩམས་ཆོས་གྲགས་ཅན་བཞི་ཀློག་ན་འདོད།",
+        "id": "trans-d_bo_691",
+        "en": "Actually, I also want to read the Four Great Classical Novels."
+    },
+    {
+        "zh": "离我们医院最近的一个就在杭州大学旁边。",
+        "bo": "ང་ཚོའི་སྨན་ཁང་དང་ཆེས་ཐག་ཉེ་བ་ནི་ཧང་ཀྲོའུ་སློབ་ཆེན་གྱི་འགྲམ་ན་ཡོད།",
+        "id": "trans-d_bo_360",
+        "en": "The nearest one to our hospital is next to Hangzhou University."
+    },
+    {
+        "zh": "你喜欢哪个季节?",
+        "bo": "ཁྱོད་དུས་ཚིགས་གང་ལ་དགའ།",
+        "id": "trans-d_bo_493",
+        "en": "Which season do you like?"
+    },
+    {
+        "zh": "真是的，每次他都要迟到，下次再不想跟他出来了。",
+        "bo": "ངོ་མ།་ཐེངས་རེ་རེར་ཁོ་རྗེས་སུ་ལུས་རྒྱུ་རེད།་ཐེངས་རྗེས་མར་ཁོ་དང་མཉམ་དུ་སྒོར་ཡོང་མི་འདོད།",
+        "id": "trans-d_bo_245",
+        "en": "Really, he is late every single time. I don't want to go out with him again next time."
+    },
+    {
+        "zh": "你没有和我一起去看真是太可惜了。",
+        "bo": "ཁྱོད་ང་དང་མཉམ་དུ་བལྟ་རུ་མ་སོང་བ་ངོ་མ་ཡིད་ཕངས་པ་ཞིག་རེད།",
+        "id": "trans-d_bo_138",
+        "en": "It's a pity you couldn't come with me to see it."
+    },
+    {
+        "zh": "房东给我打电话了，他要卖房子。",
+        "bo": "ཁང་བདག་གིས་ང་ལ་ཁ་པར་བཏང་བྱུང་།་ཁོས་ཁང་བ་བཙོང་རྒྱུ་རེད།",
+        "id": "trans-d_bo_287",
+        "en": "The landlord called me; he wants to sell the house."
+    },
+    {
+        "zh": "你可以从这儿坐1路公共汽车去，一小时就到了。",
+        "bo": "ཁྱོད་འདི་ནས་སྤྱི་སྤྱོད་རླངས་འཁོར་གཅིག་ལ་བསྡད་ནས་སོང་ན་ཆོག་དུས་ཚོད་གཅིག་གི་རྗེས་ནས་ཐོན་ཐུབ།",
+        "id": "trans-d_bo_608",
+        "en": "You can take the No. 1 bus from here, it takes an hour to get there."
+    },
+    {
+        "zh": "看你这孩子，来就来吧，还带什么东西?",
+        "bo": "ཁྱོད་ཀྱི་བྱིས་པ་འདི་ལ་ལྟོས་དང་།་ཡོང་ན་ཤོག་ད་རུང་དངོས་པོ་ཅི་ཞིག་ཁྱེར་ཡོད་དམ།",
+        "id": "trans-d_bo_632",
+        "en": "Look at you, child, just come, why bring anything?"
+    },
+    {
+        "zh": "别担心，我们有学生证，可以打7折。",
+        "bo": "སེམས་ཁུར་མ་བྱེད།་ང་ཚོར་སློབ་མའི་དཔང་ཡིག་ཡོད།་ཕབ་གཅོག་7་བྱེད་ཆོག",
+        "id": "trans-d_bo_647",
+        "en": "Don't worry, we have student IDs and can get a 30% discount."
+    },
+    {
+        "zh": "麻烦你把声音关小一点好吗，我准备睡觉了。",
+        "bo": "ཁྱོད་ཀྱིས་སྐད་དམའ་མོ་བྱས་ན་ཆོག་གམ།་ང་གཉིད་རྩིས་ཡོད།",
+        "id": "trans-d_bo_80",
+        "en": "Could you please turn down the volume? I'm getting ready to sleep."
+    },
+    {
+        "zh": "那给您办张银行卡吧。您认为怎么样?",
+        "bo": "དེ་ན་ཁྱོད་ལ་དངུལ་བྱང་ཞིག་ལས།ཁྱེད་ཀྱིས་བལྟས་ན་ཅི་འདྲ་རེད་།",
+        "id": "trans-d_bo_468",
+        "en": "Then let's get you a bank card. What do you think?"
+    },
+    {
+        "zh": "别着急，慢慢来，好事多磨嘛!",
+        "bo": "བྲེལ་བ་མ་བྱེད།ག་ལེར་བྱེད་དང་།བྱ་བཟང་ལས་ལ་བར་ཆད་མང་ཞེས་པ་ལྟར།",
+        "id": "trans-d_bo_12",
+        "en": "Don't worry, take your time, good things take time!"
+    },
+    {
+        "zh": "你还会跟人打架打到医院?那是什么时候的事?",
+        "bo": "ཁྱོད་ཀྱིས་ད་དུང་མི་གཞན་དང་རྡུང་རེས་བྱས་ནས་སྨན་ཁང་དུ་འགྲོ་སྲིད་དམ།དེ་ནི་ནམ་ཞིག་རེད་།",
+        "id": "trans-d_bo_157",
+        "en": "You got into a fight and ended up in the hospital? When did that happen?"
+    },
+    {
+        "zh": "我的男朋友要一米八以上，很有钱，长得帅，性格好，对我也好。",
+        "bo": "ངའི་དགའ་རོགས་ཀྱི་གཟུགས་ཚད་ལ་སྨི་གཅིག་ཚེག་བརྒྱད་ཡན་དགོས།་སྒོར་མོ་མང་པོ་ཡོད།་སྐྱེས་གཟུགས་ཡག་གཤིས་ཀ་བཟང་།་ང་ལ་ཡང་བཟང་།",
+        "id": "trans-d_bo_579",
+        "en": "My boyfriend must be taller than 1.8 meters, very rich, handsome, have a good personality, and treat me well."
+    },
+    {
+        "zh": "我想买双鞋，厚一点儿的，冬天穿。",
+        "bo": "ངས་ལྷམ་ཆ་གཅིག་ཉོ་འདོད།་ཅུང་མཐུག་པོ་ཞིག་དགུན་ཁར་གྱོན་འདོད།",
+        "id": "trans-d_bo_397",
+        "en": "I would like to buy a pair of shoes, a bit thicker, for winter wear."
+    },
+    {
+        "zh": "先生，这是你的登机牌吗?刚才掉地上了。",
+        "bo": "སྐུ་ཞབས།་འདི་ནི་ཁྱོད་ཀྱི་གནམ་གྲུར་འཛེག་པའི་བྱང་ཡིན་ནམ།ད་སོ་མ་ས་ལ་ལྷུང་སོང་།",
+        "id": "trans-d_bo_736",
+        "en": "Sir, is this your boarding pass? It just fell to the ground."
+    },
+    {
+        "zh": "你看，月亮在跑呢。",
+        "bo": "ཁྱོད་ཀྱིས་ལྟོས་དང་།་ཟླ་བ་རྒྱུགས་བཞིན་འདུག",
+        "id": "trans-d_bo_318",
+        "en": "Look, the moon is moving."
+    },
+    {
+        "zh": "这些衣服大的大小的小，没有一件我穿着合适的!",
+        "bo": "ལྭ་བ་འདི་དག་ཆེ་ཆུང་ཆུང་།་ངས་གོན་ན་འཚམ་པ་གཅིག་ཀྱང་མེད།",
+        "id": "trans-d_bo_705",
+        "en": "These clothes, whether large or small, not a single one fits me well!"
+    },
+    {
+        "zh": "大过节的，出去玩儿玩儿吧。",
+        "bo": "དུས་ཆེན་རོལ་མཁན་ཕྱི་ལ་རྩེ་རུ་སོང་།",
+        "id": "trans-d_bo_419",
+        "en": "It's a big holiday, you should go out and have some fun."
+    },
+    {
+        "zh": "小张生病了，小王同意帮我请假。",
+        "bo": "ཞའོ་ཀྲང་ལ་ན་ཚ་བྱུང་འདུག་ཞའོ་ཝང་གིས་ང་ལ་དགོངས་པ་ཞུ་རྒྱུ་མོས་འཐུན་བྱེད་བྱུང་།",
+        "id": "trans-d_bo_482",
+        "en": "Xiao Zhang is sick, Xiao Wang agreed to help me request leave."
+    },
+    {
+        "zh": "还磨呢，什么时候是个头呀!",
+        "bo": "ད་དུང་བར་ཆད་ཡོག་རེད་དམ།དཱ་ནམ་ཞིག་ལ་མཇུག་སྒྲིལ་ལམ།",
+        "id": "trans-d_bo_13",
+        "en": "Still taking time, when will this end?"
+    },
+    {
+        "zh": "啊，下雪了。你看，真漂亮。",
+        "bo": "ཨ།་ཁ་བ་བབས་བྱུང་།ཁྱོད་ཀྱིས་ལྟོས་དང་།་ངོ་མ་ཡག་གི",
+        "id": "trans-d_bo_179",
+        "en": "Ah, it's snowing. Look, it's really beautiful."
+    },
+    {
+        "zh": "是，在我包里呢。",
+        "bo": "རེད།་ངའི་ཁུག་མའི་ནང་ན་ཡོད།",
+        "id": "trans-d_bo_452",
+        "en": "Yes, it is in my bag."
+    },
+    {
+        "zh": "明天下午你去唱歌吗？",
+        "bo": "སང་ཉིན་ཕྱི་དྲོ་ཁྱོད་གླུ་ལེན་དུ་འགྲོའམ།",
+        "id": "trans-d_bo_120",
+        "en": "Are you going to sing tomorrow afternoon?"
+    },
+    {
+        "zh": "我女儿考上大学了，今天的午饭我请了。",
+        "bo": "ངའི་མོས་སློབ་ཆེན་ལ་རྒྱུགས་འཕྲོད་སོང་།་དེ་རིང་གི་གུང་ཟས་ངས་མགྲོན་བྱས་ཡོད།",
+        "id": "trans-d_bo_754",
+        "en": "My daughter got into college, today's lunch is on me."
+    },
+    {
+        "zh": "大学一毕业我就参加了律师资格考试，通过之后就拿到了。",
+        "bo": "སློབ་ཆེན་མཐར་ཕྱིན་མ་ཐག་ང་ཁྲིམས་རྩོད་པའི་ཐོབ་ཐང་རྒྱུགས་ལ་ཞུགས་པ་ཡིན།་རྒྱུགས་འཕྲོད་རྗེས་ལེན་ཐུབ་སོང་།",
+        "id": "trans-d_bo_542",
+        "en": "I took the bar exam right after graduating from university, and I got it after passing."
+    },
+    {
+        "zh": "当然可以，再多休一天吧。好好养病，多喝水，注意休息。",
+        "bo": "ལོས་ཆོག་ད་རུང་ཉིན་གཅིག་ལ་ངལ་གསོ་བྱོས།ནད་ཡག་པོ་གསོས།་ཆུ་མང་པོ་འཐུང་།་ངལ་གསོ་ལ་མཉམ་འཇོག་བྱོས།",
+        "id": "trans-d_bo_350",
+        "en": "Of course, you can take one more day off. Take good care of yourself, drink plenty of water, and get some rest."
+    },
+    {
+        "zh": "晚上有安排吗?去打羽毛球吧?好久没去运动了。",
+        "bo": "དགོང་མོར་བཀོད་སྒྲིག་ཡོད་དམ།བྱ་སྒྲོ་སྤོ་ལོ་རྩེ་རུ་འགྲོའམ།ཡུན་རིང་ཞིག་ལ་འགུལ་སྐྱོད་བྱེད་དུ་མ་སོང་།",
+        "id": "trans-d_bo_165",
+        "en": "Do you have any plans for the evening? Want to play badminton? It's been a long time since we last exercised."
+    },
+    {
+        "zh": "真对不起，这是最后一件了。",
+        "bo": "ངོ་མ་དགོངས་པ་མ་ཚོམ།་འདི་ནི་ཆེས་མཐའ་མཇུག་ཡིན།",
+        "id": "trans-d_bo_162",
+        "en": "I'm really sorry, this is the last one."
+    },
+    {
+        "zh": "那你就好好守着你的“蛔虫”吧。",
+        "bo": "དེ་ན་ཁྱོད་ཀྱིས་རང་གི་འསྲིན་ཡག་པོ་སྲུང་",
+        "id": "trans-d_bo_59",
+        "en": "Then you should really take care of your 'worm'."
+    },
+    {
+        "zh": "我一定按时还书。",
+        "bo": "ངས་ངེས་པར་དུ་དུས་ལྟར་དཔེ་ཆ་ཕྱིར་སྤྲོད་དགོས།",
+        "id": "trans-d_bo_695",
+        "en": "I will definitely return the book on time."
+    },
+    {
+        "zh": "你去上海上学，要注意身体，多给家里打电话，别让我跟你妈担心。",
+        "bo": "ཁྱོད་ཧྲང་ཧེ་ལ་སློབ་གྲྭར་འགྲོ་ན།་ལུས་ཕུང་ལ་བདག་སྐྱོང་བྱེད་དགོས།་ཁྱིམ་ལ་ཁ་པར་མང་ཙམ་གཏོང་།་ང་ལ་ཁྱོད་ཀྱི་ཨ་མ་ལ་སེམས་ཕྲལ་་བྱེད་དུ་མ་འཇུག།",
+        "id": "trans-d_bo_173",
+        "en": "You're going to study in Shanghai, take care of yourself, call home often, don't make your mom and me worry."
+    },
+    {
+        "zh": "我们是去爬山，你拿塑料袋干什么啊?",
+        "bo": "ང་ཚོ་རི་མགོར་འགོས་སུ་འགྲོ་རྒྱུ་ཡིན།་ཁྱོད་ཀྱིས་འགྱིག་ཁུག་བཟུང་ནས་ཅི་བྱེད།",
+        "id": "trans-d_bo_583",
+        "en": "We're going hiking, why are you bringing a plastic bag?"
+    },
+    {
+        "zh": "你准备自己去请假还是让小张帮你请?",
+        "bo": "ཁྱོད་རང་ཉིད་སོང་ནས་དགོངས་པ་་ཞུ་རྒྱུ་ཡིན་ནམ་ཞའོ་ཀྲང་ལ་ཁྱོད་ལ་རོགས་བྱེད་དུ་འཇུག་རྒྱུ་ཡིན།",
+        "id": "trans-d_bo_481",
+        "en": "Are you going to request leave yourself or have Xiao Zhang help you?"
+    },
+    {
+        "zh": "你怎么这么晚才来呀，上午的会都结束了。",
+        "bo": "ཁྱོད་ཅིའི་ཕྱིར་འདི་འདྲ་འགོར་ནས་ཡོང་བ་ཡིན།་སྔ་དྲོའི་ཚོགས་འདུ་མཇུག་རྫོགས་སོང་།",
+        "id": "trans-d_bo_367",
+        "en": "Why are you coming so late? The morning meeting has already ended."
+    },
+    {
+        "zh": "这盘录像带才卖11块钱。可惜买了衣服以后，我只剩7块钱了。",
+        "bo": "བརྙན་འབེབས་སྤྱིན་ཐག་འདི་ལ་སྒོར་11་མ་གཏོགས་མི་དགོས།ཡིད་ཕངས་པ་ཞིག་ལ་ལྭ་བ་ཉོས་རྗེས།ང་ལ་སྒོར་7་ལས་ལྷག་མེད།",
+        "id": "trans-d_bo_605",
+        "en": "This videotape is only sold for 11 yuan. Unfortunately, after buying clothes, I only have 7 yuan left."
+    },
+    {
+        "zh": "知道了，我让刘雪把昨天的作业带给您。",
+        "bo": "ཤེས་སོང་།་ངས་ལོའུ་ཞའེ་ལ་ཁ་སང་གི་ལས་བྱ་ཁྱོད་ལ་ཁྱེར་ཡོང་དུ་འཇུག",
+        "id": "trans-d_bo_204",
+        "en": "Got it, I'll have Liu Xue bring you yesterday's homework."
+    },
+    {
+        "zh": "逃避解决不了问题，你得勇敢地去面对。",
+        "bo": "བྲོས་བྱོལ་བྱས་ན་གནད་དོན་ཐག་གཅོད་བྱེད་མི་ཐུབ།་ཁྱོད་ཀྱིས་སྤོབས་པ་ཆེན་པོས་གདོང་གཏོད་དགོས།",
+        "id": "trans-d_bo_621",
+        "en": "Escaping won't solve the problem, you have to face it bravely."
+    },
+    {
+        "zh": "我这里还有钱呢。你拿去用吧。",
+        "bo": "ངའི་འདི་ན་ད་དུང་སྒོར་མོ་ཡོད།ཁྱོད་ཀྱིས་ཁྱེར་དང་།",
+        "id": "trans-d_bo_606",
+        "en": "I still have money here. You can take it and use it."
+    },
+    {
+        "zh": "我们大概有三年没见面了吧。好期待看看咱班的班花啊。",
+        "bo": "ང་ཚོ་ཕལ་ཆེར་ལོ་གསུམ་འཕྲད་མ་བྱུང་།ང་ཚོའི་འཛིན་གྲྭའི་ནང་གི་མེ་ཏོག་ལ་ངོ་མ་རེ་སྒུག་ཆེན་པོ་ཡོད།",
+        "id": "trans-d_bo_40",
+        "en": "It's been about three years since we last met, right? I'm looking forward to seeing the class beauty."
+    },
+    {
+        "zh": "他会要吗?又不是外人。",
+        "bo": "ཁོ་ལ་དགོས་སམ།ཕྱི་མི་ནི་མ་རེད།",
+        "id": "trans-d_bo_478",
+        "en": "Will he take it? He's not an outsider."
+    },
+    {
+        "zh": "不是，这是十二号，十四号在里边。",
+        "bo": "མ་རེད།་འདི་ནི་ཚེས་བཅུ་གཉིས་རེད།་ཚེས་བཅུ་བཞི་ནང་ན་ཡོད།",
+        "id": "trans-d_bo_515",
+        "en": "No, this is twelve, fourteen is inside."
+    },
+    {
+        "zh": "这里有中国文学和外国文学，你对哪个更有兴趣呢?",
+        "bo": "འདི་ན་ཀྲུང་གོའི་རྩོམ་རིག་དང་ཕྱི་རྒྱལ་གྱི་རྩོམ་རིག་ཡོད།་ཁྱོད་གང་ལ་སྤྲོ་བ་ཡོད།",
+        "id": "trans-d_bo_688",
+        "en": "There is Chinese literature and foreign literature here, which are you more interested in?"
+    },
+    {
+        "zh": "后者更加吸引我。",
+        "bo": "རྗེས་མས་ངའི་ཡིད་དབང་འཕྲོག",
+        "id": "trans-d_bo_184",
+        "en": "The latter is more appealing to me."
+    },
+    {
+        "zh": "我有什么办法，待遇太差了，工资交完房租就没剩多少了。",
+        "bo": "ང་ལ་ཐབས་ཤེས་ཅི་ཞིག་ཡོད།་གླ་ཕོགས་ཧ་ཅང་ཞན།་གླ་ཕོགས་སྤྲད་ཚར་རྗེས་ཁང་གླ་མང་པོ་ལྷག་མེད།",
+        "id": "trans-d_bo_446",
+        "en": "What choice do I have? The benefits were too poor. There wasn’t much left after paying rent."
+    },
+    {
+        "zh": "五点半吧。",
+        "bo": "དུས་ཚོད་ལྔ་དང་ཕྱེད་ཀ་རེད།",
+        "id": "trans-d_bo_358",
+        "en": "Around half past five."
+    },
+    {
+        "zh": "有歌舞、小品，还有京剧。",
+        "bo": "གླུ་གར་དང་གར་ཆུང་།་ད་དུང་ཅིན་ཅུས་ཟློས་གར་ཡོད།",
+        "id": "trans-d_bo_702",
+        "en": "There are songs and dances, skits, and also Beijing opera."
+    },
+    {
+        "zh": "还没呢，我一会儿去吃，还要打印几份文件。",
+        "bo": "ད་དུང་མེད།་ང་ཅུང་ཙམ་འགོར་རྗེས་ཟ་རུ་འགྲོ་དགོས།་ད་དུང་ཡིག་ཆ་འགའ་དཔར་དགོས།",
+        "id": "trans-d_bo_73",
+        "en": "Not yet. I will eat in a little while. I also need to print a few documents."
+    },
+    {
+        "zh": "其实小李这人哪儿都好，就是有时说话没轻没重，容易得罪人。",
+        "bo": "དོན་དངོས་སུ་ཞའོ་ལི་ནི་གང་ནས་ཀྱང་བཟང་།་སྐབས་འགར་སྐད་ཆ་བཤད་ན་ཡང་ལྕི་མེད་པས་མི་ལ་ཕོག་ཐུག་གཏོང་སླ།",
+        "id": "trans-d_bo_226",
+        "en": "Actually, Xiao Li is a good person in every way, it's just that sometimes he talks without restraint and easily offends people."
+    },
+    {
+        "zh": "说明书上写得很清楚，按照上面的步骤来。还不行的话，我明天去帮你。",
+        "bo": "གསལ་བཤད་ཡི་གེའི་ཐོག་ཧ་ཅང་གསལ་པོར་བྲིས་ཡོད་པས་གོང་གསལ་གྱི་གོ་རིམ་ལྟར་བྱེད་དགོས།ད་རུང་མི་ཆོག་ན་ང་སང་ཉིན་ཁྱོད་ལ་རོགས་བྱེད་དུ་ཡོང་།",
+        "id": "trans-d_bo_71",
+        "en": "The instructions are written clearly. Follow the steps on it. If it still doesn't work, I'll come and help you tomorrow."
+    },
+    {
+        "zh": "光送花儿，没有别的礼物?",
+        "bo": "མེ་ཏོག་ཁོ་ན་སྟེར་བ།་ལེགས་སྐྱེས་གཞན་པ་མེད་དམ།",
+        "id": "trans-d_bo_676",
+        "en": "Just giving flowers, no other gifts?"
+    },
+    {
+        "zh": "哎?你不是今天要去火车站接朋友吗?",
+        "bo": "ཨེ།ཁྱོད་དེ་རིང་མེ་འཁོར་འབབ་ཚིགས་ལ་གྲོགས་པོ་ལེན་དུ་འགྲོ་དགོས་པ་མིན་ནམ།",
+        "id": "trans-d_bo_635",
+        "en": "Oh? Weren't you supposed to go to the train station to pick up your friend today?"
+    },
+    {
+        "zh": "没有啊，怎么了?",
+        "bo": "མེད་ཡ།་ཅི་ཞིག་བྱུང་སོང་།",
+        "id": "trans-d_bo_435",
+        "en": "No, what's up?"
+    },
+    {
+        "zh": "我们去喝杯咖啡吧。",
+        "bo": "ང་ཚོ་འཚིག་ཇ་འཐུང་དུ་འགྲོ།",
+        "id": "trans-d_bo_557",
+        "en": "Let's go have a cup of coffee."
+    },
+    {
+        "zh": "你别不相信，是真的。",
+        "bo": "ཁྱེད་རང་ཡིད་ཆེད་མེད་པ་མ་བྱེད་དང་།དངོས་ནས་རེད།",
+        "id": "trans-d_bo_23",
+        "en": "Don't doubt it, it's true."
+    },
+    {
+        "zh": "你准备好了没，准备好了我们就出发吧!",
+        "bo": "ཁྱོད་ཀྱིས་གྲ་སྒྲིག་བྱས་ཡོད་དམ།་གྲ་སྒྲིག་བྱས་ཚར་རྗེས་ང་ཚོ་ལམ་ལ་ཆས།",
+        "id": "trans-d_bo_62",
+        "en": "Are you ready? If you are, let's head out!"
+    },
+    {
+        "zh": "请问有没有小孩儿穿的羽绒衣服?",
+        "bo": "བྱིས་པས་གྱོན་པའི་སྒྲོ་སྤུ་ཅན་གྱི་ལྭ་བ་ཡོད་དམ།",
+        "id": "trans-d_bo_215",
+        "en": "Do you have any down jackets for children?"
+    },
+    {
+        "zh": "那边的包子也是吗?",
+        "bo": "ཕ་གིའི་མོག་མོག་ཡང་ཡིན་ནམ།",
+        "id": "trans-d_bo_490",
+        "en": "Are the buns over there also free?"
+    },
+    {
+        "zh": "明天我要和一个朋友一起去北海公园。",
+        "bo": "སང་ཉིན་ང་གྲོགས་པོ་ཞིག་དང་མཉམ་དུ་པེ་ཧེ་སྤྱི་གླིང་ལ་འགྲོ་དགོས།",
+        "id": "trans-d_bo_126",
+        "en": "Tomorrow I'm going to Beihai Park with a friend."
+    },
+    {
+        "zh": "我家的家具太旧了，我想买套新的，你觉得去哪买好呢?",
+        "bo": "ངེད་ཚང་གི་ཁྱིམ་ཆས་ཧ་ཅང་རྙིང་བ་རེད།་ངས་གསར་བ་ཞིག་ཉོ་འདོད།་ཁྱོད་ཀྱིས་བལྟས་ན་གང་ལ་སོང་ནས་ཉོས་ན་བཟང་ངམ།",
+        "id": "trans-d_bo_189",
+        "en": "The furniture in my house is too old, I want to buy a new set. Where do you think is a good place to buy?"
+    },
+    {
+        "zh": "往那边走，过两个街区，然后再向右拐。银行就在街角的邮局对面。",
+        "bo": "དེ་རུ་སོང་།་སྲང་ལམ་གཉིས་བརྒྱུད་རྗེས་གཡས་ཕྱོགས་སུ་འཁོར།དངུལ་ཁང་ནི་སྲང་ཟུར་གྱི་སྦྲགས་སྲིད་ཁང་གི་ཁ་གཏད་ན་ཡོད།",
+        "id": "trans-d_bo_199",
+        "en": "Go that way, cross two blocks, and then turn right. The bank is across from the post office on the corner."
+    },
+    {
+        "zh": "你确定张强考了全班第一名吗?",
+        "bo": "ཁྱེད་རང་གི་དངོས་ནས་ཀྲང་བྱང་འཛིན་གྲྭའི་ནང་ཡིག་རྒྱུགས་ཨང་དང་པོ་རེད་ཟེར་གྱི་ཡོད་དམ།",
+        "id": "trans-d_bo_22",
+        "en": "Are you sure Zhang Qiang got the first place in the class?"
+    },
+    {
+        "zh": "明天周四，已经有安排了，后天才有时间。",
+        "bo": "སང་ཉིན་གཟའ་ཕུར་བུ་ལ་ལས་བཀོད་ཡོད།གནངས་ཉིན་དུས་ཚོད་ཡོད།",
+        "id": "trans-d_bo_37",
+        "en": "Tomorrow is Thursday; I already have plans. I'm free the day after tomorrow."
+    },
+    {
+        "zh": "好的，没问题。",
+        "bo": "ཆོག་གི་གནད་དོན་མེད།",
+        "id": "trans-d_bo_651",
+        "en": "Okay, no problem."
+    },
+    {
+        "zh": "这款羽绒服深色的都卖完了，那你再让他试试这件吧。",
+        "bo": "བྱ་སྤུའི་ལྭ་བ་འདིའི་མདོག་ཟབ་པ་ཚང་མ་བཙོང་ཚར་སོང་།་དེ་ན་ཁྱོད་ཀྱིས་ཁོ་ལ་འདི་ཚོད་ལྟ་བྱེད་དུ་བཅུག",
+        "id": "trans-d_bo_379",
+        "en": "All the dark-colored down jackets are sold out, please let him try this one instead."
+    },
+    {
+        "zh": "还是中国文学吧。",
+        "bo": "སྔར་བཞིན་ཀྲུང་གོའི་རྩོམ་རིག་རེད།",
+        "id": "trans-d_bo_689",
+        "en": "Chinese literature."
+    },
+    {
+        "zh": "有时候坐公共汽车，有时候走路去。",
+        "bo": "སྐབས་འགར་སྤྱི་སྤྱོད་རླངས་འཁོར་ལ་འདུག་པ་དང་།་སྐབས་འགར་རྐང་ཐང་ལ་འགྲོ་བ་རེད།",
+        "id": "trans-d_bo_667",
+        "en": "Sometimes I take the bus, sometimes I walk."
+    },
+    {
+        "zh": "你决定穿哪一件衣服去参加明天的会议?",
+        "bo": "ཁྱོད་ཀྱིས་ལྭ་བ་གང་ཞིག་གྱོན་ནས་སང་ཉིན་གྱི་གྲོས་ཚོགས་ལ་ཞུགས་རྒྱུ་ཐག་བཅད་པ་ཡིན།",
+        "id": "trans-d_bo_122",
+        "en": "Have you decided which outfit to wear to attend tomorrow's meeting?"
+    },
+    {
+        "zh": "对面那个房间就是。",
+        "bo": "ཁ་གཏད་ཀྱི་ཁང་བ་དེ་རེད",
+        "id": "trans-d_bo_685",
+        "en": "It's the room opposite."
+    },
+    {
+        "zh": "好，那你快洗洗脸睡吧。",
+        "bo": "ཆོག་གི་དེ་ན་ཁྱོད་ཀྱིས་མྱུར་དུ་ངོ་བཀྲུས་ནས་གཉིད།",
+        "id": "trans-d_bo_620",
+        "en": "Okay, then quickly wash your face and go to sleep."
+    },
+    {
+        "zh": "好了，我知道了，你真哕嗦!",
+        "bo": "ཆོག་གི་ངས་ཤེས་སོང་།་ཁྱོད་ངོ་མ་ཉོག་གཏམ་མང་པ་ལ་།",
+        "id": "trans-d_bo_681",
+        "en": "Okay, I got it, you're so naggy!"
+    },
+    {
+        "zh": "没有，你有什么好的建议吗?",
+        "bo": "མེད།་ཁྱོད་ལ་བསམ་འཆར་བཟང་བོ་ཅི་ཞིག་ཡོད་དམ།",
+        "id": "trans-d_bo_699",
+        "en": "Nothing, do you have any good suggestions?"
+    },
+    {
+        "zh": "是的，请问你是?",
+        "bo": "ཡིན།ཁྱེད་རང་སུ་ཡིན་ནམ།",
+        "id": "trans-d_bo_27",
+        "en": "Yes, may I ask who you are?"
+    },
+    {
+        "zh": "可是这个老板说话太无聊了，我们没必要浪费时间。",
+        "bo": "འོན་ཀྱང་སྦྱིན་བདག་འདིས་སྐད་ཆ་བཤད་ན་ཧ་ཅང་སུན་པོ་འདུག་ང་ཚོས་དུས་ཚོད་འཕྲོ་བརླག་བྱེད་དགོས་དོན་མི་འདུག",
+        "id": "trans-d_bo_746",
+        "en": "But this boss is so boring, we don't need to waste our time."
+    },
+    {
+        "zh": "太好了!我就喜欢这样的女生。",
+        "bo": "ངོ་མ་བཟང་གིང་འདི་ལྟ་བུའི་མོ་ལ་དགའ་།",
+        "id": "trans-d_bo_751",
+        "en": "That would be great! I like girls like her."
+    },
+    {
+        "zh": "咦，我的钢笔找不着了。",
+        "bo": "ཡེ།་ངའི་ལྕགས་སྨྱུག་རྙེད་མ་བྱུང་།",
+        "id": "trans-d_bo_547",
+        "en": "Oh, I can't find my pen."
+    },
+    {
+        "zh": "你哥哥的棋下得真不错。",
+        "bo": "ཁྱོད་ཀྱི་ཕུ་བོའི་མིག་མངས་རྩེ་བ་ཧ་ཅང་བཟང་།",
+        "id": "trans-d_bo_587",
+        "en": "Your brother plays chess really well."
+    },
+    {
+        "zh": "可是你的身体健康也很重要啊。",
+        "bo": "འོན་ཀྱང་ཁྱེད་རང་གི་གཟུགས་པོ་བདེ་ཐང་ཧ་ཅང་གི་གལ་ཆེ།",
+        "id": "trans-d_bo_46",
+        "en": "But your health is also very important."
+    },
+    {
+        "zh": "不客气。",
+        "bo": "འཛེམ་དོགས་བྱེད་མི་དགོས།",
+        "id": "trans-d_bo_224",
+        "en": "You're welcome."
+    },
+    {
+        "zh": "现在正好9点半，恐怕我得走了。",
+        "bo": "ད་ལྟ་དུས་ཚོད་དགུ་དང་ཕྱེད་ཀ་རེད།་ཕལ་ཆེར་ང་འགྲོ་དགོས།",
+        "id": "trans-d_bo_149",
+        "en": "It's exactly 9:30 now, I'm afraid I have to leave."
+    },
+    {
+        "zh": "多什么呀，没有一双不破的。还买了个帽子，好看吗?",
+        "bo": "ཅི་ཞིག་མང་།་མི་རལ་བ་གཅིག་ཀྱང་མེད།ད་རུང་ཞྭ་མོ་ཞིག་ཉོས་ཡོད།་ཡག་གམ།",
+        "id": "trans-d_bo_741",
+        "en": "Plenty? You don't have a single pair that's not torn. I also bought a hat. Does it look nice?"
+    },
+    {
+        "zh": "知道了，我们从办公楼向南走就是图书馆。",
+        "bo": "ཤེས་སོང་།་ང་ཚོ་གཞུང་སྒྲུབ་ཐོག་ཁང་ནས་ལྷོ་ཕྱོགས་སུ་སོང་ན་དཔེ་མཛོད་ཁང་ཡིན།",
+        "id": "trans-d_bo_729",
+        "en": "Got it, we'll head south from the office building to get to the library."
+    },
+    {
+        "zh": "新闻说，下个月我市要增加300辆公共汽车。",
+        "bo": "གསར་འགྱུར་གྱིས་བཤད་ན།་ཟླ་རྗེས་མར་ང་ཚོའི་གྲོང་ཁྱེར་དུ་སྤྱི་སྤྱོད་རླངས་འཁོར་༣༠༠ཁ་སྣོན་བྱེད་དགོས་ཟེར།",
+        "id": "trans-d_bo_436",
+        "en": "The news said that next month our city will have 300 more buses."
+    },
+    {
+        "zh": "我渴了，来一瓶矿泉水就行。",
+        "bo": "ང་སྐོམ་བྱུང་།་གཏེར་ཆུ་དམ་བེ་གང་ཁྱེར་ཡོང་ན་ཆོག",
+        "id": "trans-d_bo_697",
+        "en": "I'm thirsty. A bottle of mineral water will do."
+    },
+    {
+        "zh": "我会照顾好自己的，您就放心吧!",
+        "bo": "ངས་རང་ཉིད་ལ་བདག་སྐྱོང་ཡག་པོ་བྱེད་ངེས།་ཁྱེད་ཀྱིས་སེམས་བདེ་མོ་བྱོས།",
+        "id": "trans-d_bo_174",
+        "en": "I'll take good care of myself, you can rest assured!"
+    },
+    {
+        "zh": "这件颜色挺好的，但是有点儿瘦，有没有大一号的?",
+        "bo": "ཁ་དོག་འདི་ཧ་ཅང་བཟང་།་འོན་ཀྱང་ཅུང་སྐམ་པོ་འདུག་ཨང་གྲངས་གཅིག་ཅན་ཡོད་དམ།",
+        "id": "trans-d_bo_380",
+        "en": "This color is nice, but it's a bit tight. Do you have a larger size?"
+    },
+    {
+        "zh": "小李怎么这么说话呀，真让人生气!",
+        "bo": "ཞའོ་ལིས་ཀྱིས་འདི་ལྟར་སྐད་ཆ་བཤད་དོན་ཅི།་ངོ་མ་ཁོང་ཁྲོ་ལངས་བྱེད་ཅིག་རེད།",
+        "id": "trans-d_bo_225",
+        "en": "Why does Xiao Li talk like that? It really makes people angry!"
+    },
+    {
+        "zh": "跟周末没关系，我们9月28号才开学呢。",
+        "bo": "གཟའ་མཇུག་དང་འབྲེལ་བ་མེད།་ང་ཚོ་ཟླ་དགུ་བའི་ཚེས་ཉེར་བརྒྱད་ཉིན་ད་གཟོད་སློབ་འགོ་ཚུགས་པ་ཡིན།",
+        "id": "trans-d_bo_119",
+        "en": "It's not related to the weekend, we start school on September 28th."
+    },
+    {
+        "zh": "那就坐火车吧，不过你可别嫌火车人多。",
+        "bo": "དེ་ན་མེ་འཁོར་ལ་སྡོད།་འོན་ཀྱང་ཁྱོད་ཀྱིས་མེ་འཁོར་ལ་མི་མང་བར་མ་འདོད།",
+        "id": "trans-d_bo_277",
+        "en": "Then take the train, but don't complain about the crowds on the train."
+    },
+    {
+        "zh": "说真的，我很同情你，现在的确是工作越来越难找了。",
+        "bo": "ངོ་མ་བཤད་ན།ངས་ཁྱེད་རང་སྙིང་རྗེ་སྐྱེས་ཀྱི་འདུགད་ལྟ་ལས་ཀ་འཚོལ་བ་དངོས་ནས་ཇེ་དཀའ་ཇེ་དཀའ་རེད་འདུག",
+        "id": "trans-d_bo_16",
+        "en": "To be honest, I really sympathize with you, it's indeed getting harder to find a job now."
+    },
+    {
+        "zh": "马上就到山顶了，再坚持一会儿，到了山顶我们再休息。",
+        "bo": "མྱུར་དུ་རི་རྩེར་ཐོན་ལ་ཉེ།་ད་རུང་ཅུང་ཙམ་ལ་རྒྱུན་འཁྱོངས་བྱོས།་རི་རྩེར་ཐོན་ན་ང་ཚོས་ངལ་གསོ་བྱེད།",
+        "id": "trans-d_bo_248",
+        "en": "We're almost at the top. Just hold on a little longer; we can rest when we reach the summit."
+    },
+    {
+        "zh": "下周就有优惠活动，你可以去看看。",
+        "bo": "གཟའ་འཁོར་རྗེས་མར་གཟིགས་སྐྱོང་བྱ་འགུལ་ཡོད།་ཁྱོད་སོང་ནས་བལྟས་ཆོག",
+        "id": "trans-d_bo_194",
+        "en": "There's a promotion next week, you can go and have a look."
+    },
+    {
+        "zh": "春天来了，天气一下子就变热了。",
+        "bo": "དཔྱིད་ཀ་སླེབས་བྱུང་།་གནམ་གཤིས་གློ་བུར་དུ་ཇེ་དྲོ་ལ་སོང",
+        "id": "trans-d_bo_343",
+        "en": "Spring has arrived, and the weather has suddenly turned hot."
+    },
+    {
+        "zh": "是，听长辈们说，这些房子都是十九世纪初修建的。",
+        "bo": "རེད།་རྒན་རབས་པ་རྣམས་ཀྱིས་བཤད་པ་ལྟར་ན།་ཁང་བ་འདི་དག་ནི་དུས་རབས་བཅུ་དགུ་བའི་དུས་འགོར་བསྐྲུན་པ་རེད།",
+        "id": "trans-d_bo_645",
+        "en": "Yes, according to the elders, these houses were all built in the early 19th century."
+    },
+    {
+        "zh": "那个对你来说可能有点儿难。",
+        "bo": "དེ་ཁྱོད་ལ་མཚོན་ནས་བཤད་ན་ཅུང་དཀའ་མོ་ཞིག་རེད།",
+        "id": "trans-d_bo_692",
+        "en": "That might be a bit difficult for you."
+    },
+    {
+        "zh": "八点零五，已经起飞了。",
+        "bo": "དུས་ཚོད་བརྒྱད་དང་སྐར་མ་ལྔའི་སྟེང་འཕུར་སོང་",
+        "id": "trans-d_bo_498",
+        "en": "8:05, it has already taken off."
+    },
+    {
+        "zh": "哦，我忘了今天是周末了。",
+        "bo": "ཨོ།་ངས་དེ་རིང་ནི་གཟའ་མཇུག་ཡིན་པ་བརྗེད་སོང་།",
+        "id": "trans-d_bo_118",
+        "en": "Oh, I forgot today is the weekend."
+    },
+    {
+        "zh": "明天就考试了，你还在玩!",
+        "bo": "སང་ཉིན་རྒྱུགས་ལེན་རྒྱུ་རེད།་ཁྱོད་ད་རུང་རྩེ་བཞིན་ཡོད་དམ།",
+        "id": "trans-d_bo_678",
+        "en": "The exam is tomorrow, and you're still playing!"
+    },
+    {
+        "zh": "话说得容易，这可是我新买的车，怎么能不生气?",
+        "bo": "སྐད་ཆ་བཤད་པ་སླ་མོ་རེད།་འདི་ནི་ངས་གསར་དུ་ཉོས་པའི་རླངས་འཁོར་ཡིན།ང་ཁོང་ཁྲོ་མི་ལངས་དོན་ཅི་ཡོད་།",
+        "id": "trans-d_bo_332",
+        "en": "It's easy to say, but this is my newly bought car. How can I not be angry?"
+    },
+    {
+        "zh": "王教授您好，路上辛苦了。",
+        "bo": "དགེ་རྒན་ཆེན་མོ་ཝང་ཁྱོད་བདེ་མོ།་ལམ་ནས་དཀའ་ལས་མྱངས་སོང་།",
+        "id": "trans-d_bo_84",
+        "en": "Professor Wang, hello. You must be tired from the journey."
+    },
+    {
+        "zh": "先生可以上菜了吗?",
+        "bo": "སྐུ་ཞབས་ཀྱིས་ཚོད་མ་ཁྱེར་ཡོང་ན་ཆོག་གམ།",
+        "id": "trans-d_bo_365",
+        "en": "Sir, can we start serving the dishes?"
+    },
+    {
+        "zh": "我们小区在11月要举办戏剧小品大赛。你要不要去报个名?",
+        "bo": "ང་ཚོའི་སྡོད་ཁུལ་གྱིས་ཟླ་བཅུ་གཅིག་པར་ཟློས་གར་གར་ཆུང་འགྲན་བསྡུར་སྤེལ་རྒྱུ་རེད།ཁྱོད་སོང་ནས་མིང་ཐོ་འགོད་དགོས་སམ་།",
+        "id": "trans-d_bo_504",
+        "en": "Our residential community is going to hold a short play competition in November. Do you want to sign up?"
+    },
+    {
+        "zh": "刚刚想起来，下午去超市忘记给你买帽子了。",
+        "bo": "ད་་དྲན་བྱུང་།་ཕྱི་དྲོ་ཚོང་ཁང་དུ་སོང་ཡིནཡིན་ཡང་ཁྱོད་ལ་ཞྭ་མོ་ཉོ་རྒྱུ་བརྗེད་སོང་།",
+        "id": "trans-d_bo_461",
+        "en": "I just remembered, I forgot to buy you a hat when I went to the supermarket this afternoon."
+    },
+    {
+        "zh": "是吗，有机会我也要去看一看。不过，小玲是谁啊?",
+        "bo": "རེད་དམ།་གོ་སྐབས་ཡོད་ན་ང་ཡང་བལྟ་རུ་འགྲོ་དགོས།འོན་ཀྱང་།་ཞའོ་ལིན་ནི་སུ་རེད།",
+        "id": "trans-d_bo_281",
+        "en": "Really, I want to go and see it when I have the chance. But, who is Xiaoling?"
+    },
+    {
+        "zh": "看看钱包，会不会在里面?",
+        "bo": "སྒོར་ཁུག་ལ་ལྟོས་དང་།་ནང་ན་ཡོད་དམ།",
+        "id": "trans-d_bo_593",
+        "en": "Check your wallet, could they be in there?"
+    },
+    {
+        "zh": "我想看看长江都经过了哪些省市，你知道吗？",
+        "bo": "ངས་འབྲི་ཆུ་ཞིང་ཆེན་དང་གྲོང་ཁྱེར་གང་དག་བརྒྱུད་ཡོད་པར་བལྟ་འདོད།་ཁྱོད་ཀྱིས་ཤེས་སམ།",
+        "id": "trans-d_bo_429",
+        "en": "I want to see which provinces and cities the Yangtze River passes through. Do you know?"
+    },
+    {
+        "zh": "为什么?",
+        "bo": "ཅིའི་ཕྱིར།",
+        "id": "trans-d_bo_603",
+        "en": "Why?"
+    },
+    {
+        "zh": "这款羽绒服深色的都卖完了，那你再让他试试这件吧。",
+        "bo": "བྱ་སྤུའི་ལྭ་བ་འདིའི་མདོག་ཟབ་པ་ཚང་མ་བཙོང་ཚར་སོང་།་དེ་ན་ཁྱོད་ཀྱིས་ཁོ་ལ་འདི་ཚོད་ལྟ་བྱེད་དུ་བཅུག",
+        "id": "trans-d_bo_220",
+        "en": "All the dark-colored down jackets are sold out, please let him try this one instead."
+    },
+    {
+        "zh": "小李换号了吗?怎么手机总是打不通?",
+        "bo": "ཞའོ་ལིས་ཀྱིས་ཨང་གྲངས་བརྗེ་ཡོད་དམ།ཁ་པར་རྒྱུན་དུ་མི་འཕྲོད་པ་ཅི་རེད།",
+        "id": "trans-d_bo_241",
+        "en": "Did Xiao Li change his number? Why can't I ever reach his phone?"
+    },
+    {
+        "zh": "还可以，坐出租车二十分钟就能到。",
+        "bo": "ད་རུང་ཆོག་གླ་གཏོང་རླངས་འཁོར་ལ་བསྡད་ན་སྐར་མ་ཉི་ཤུའི་ནང་ཐོན་ཐུབ།",
+        "id": "trans-d_bo_534",
+        "en": "It's okay, you can get there in twenty minutes by taxi."
+    },
+    {
+        "zh": "就是那天和我在火锅店吃饭的那个女孩。",
+        "bo": "ཉིན་དེར་ང་དང་མཉམ་དུ་རྒྱ་ཁོག་ཟ་ཁང་ནས་ཟ་མ་ཟ་བའི་མོ་དེ་རེད།",
+        "id": "trans-d_bo_282",
+        "en": "It's the girl who was eating with me at the hot pot restaurant that day."
+    },
+    {
+        "zh": "你看起来瘦多了。",
+        "bo": "ཁྱོད་བལྟས་ཡོང་ན་ཤ་རིད་འདུག",
+        "id": "trans-d_bo_537",
+        "en": "You look much thinner."
+    },
+    {
+        "zh": "你如果能买，就给我200块钱吧!",
+        "bo": "གལ་ཏེ་ཁྱོད་ཀྱིས་ཉོ་ན།་ང་ལ་སྒོར་༢༠༠བྱིན།",
+        "id": "trans-d_bo_400",
+        "en": "If you buy them, just give me 200 yuan."
+    },
+    {
+        "zh": "我要一杯咖啡。你喝什么?果汁怎么样?我记得你喜欢甜的。",
+        "bo": "ང་ལ་འཚིག་ཇ་ཕོར་བ་གང་དགོས།ཁྱོད་ཀྱིས་ཅི་ཞིག་འཐུང་བཞིན་ཡོད་།སིལ་ཁུ་ཅི་འདྲ་རེད་།ངས་ཁྱོད་མངར་མོ་ལ་དགའ་བ་དྲན།",
+        "id": "trans-d_bo_696",
+        "en": "I want a cup of coffee. What would you like to drink? How about some juice? I remember you like sweet things."
+    },
+    {
+        "zh": "这部电影让我想起了我第一次牵你手时的情景。",
+        "bo": "གློག་བརྙན་འདིས་ང་ལ་ཐེངས་དང་པོར་ཁྱོད་ཀྱི་ལག་པར་འཇུས་པའི་རྣམ་པ་དྲན་དུ་བཅུག",
+        "id": "trans-d_bo_707",
+        "en": "This movie reminds me of the time when I first held your hand."
+    },
+    {
+        "zh": "哈哈。很久之前就听过这两个地方了，好期待啊。",
+        "bo": "ཧ་་ཧ།དེ་སྔོན་ནས་ས་ཆ་དེ་གཉིས་གོ་མྱོང་ཡོད།རེ་སྒུག་ཆེན་པོ་ཡོད།",
+        "id": "trans-d_bo_39",
+        "en": "Haha, I've heard about these two places a long time ago, I'm really looking forward to it."
+    },
+    {
+        "zh": "欢迎光临，请问您是剪发还是烫发?",
+        "bo": "ཕེབས་པར་དགའ་བསུ་ཞུ།་ཁྱེད་ཀྱིས་སྐྲ་བཞར་རྒྱུ་ཡིན་ནམ་བསྲེགས་རྒྱུ་ཡིན།",
+        "id": "trans-d_bo_153",
+        "en": "Welcome, would you like a haircut or a perm?"
+    },
+    {
+        "zh": "大夫您好，我妻子的情况怎么样？",
+        "bo": "སྨན་པ་ཁྱོད་བདེ་མོ།་ངའི་ཆུང་མའི་གནས་ཚུལ་ཅི་འདྲ་རེད།",
+        "id": "trans-d_bo_133",
+        "en": "Doctor, how is my wife doing?"
+    },
+    {
+        "zh": "那就放大这张吧，放在我们客厅里。",
+        "bo": "དེ་ན་འདི་ཇེ་ཆེར་བཏང་ནས་ང་ཚོའི་མགྲོན་ཁང་ནང་དུ་འཇོག་རོགས།",
+        "id": "trans-d_bo_91",
+        "en": "Then let's enlarge this one and put it in our living room."
+    },
+    {
+        "zh": "我在网上买了一个简易书柜，可是怎么都装不好。",
+        "bo": "ངས་དྲ་ཐོག་ནས་སྟབས་བདེའི་དཔེ་སྒྲོམ་ཞིག་ཉོས་ཡོད།་འོན་ཀྱང་ཅི་ལྟར་བྱས་ཀྱང་འཇོག་མི་ཐུབ།",
+        "id": "trans-d_bo_70",
+        "en": "I bought a simple bookshelf online, but I can't assemble it properly."
+    },
+    {
+        "zh": "我喜欢游泳、滑冰，还喜欢跑步。你呢?",
+        "bo": "ང་ཆུ་རྐྱལ་དང་དར་ཤུད་ལ་དགའ།་ད་དུང་རྒྱུགས་པར་དགའ།ཁྱོད་གང་ལ་དགའ་།",
+        "id": "trans-d_bo_487",
+        "en": "I like swimming, ice skating, and also like running. How about you?"
+    },
+    {
+        "zh": "放假了，你怎么没回家?",
+        "bo": "གུང་གསེང་བཏང་སོང་།་ཁྱོད་ཅིའི་ཕྱིར་ཡུལ་ལ་མ་ལོག་པ་ཡིན།",
+        "id": "trans-d_bo_730",
+        "en": "The holiday is here, why haven't you gone home?"
+    },
+    {
+        "zh": "小明，你能帮我开一下门吗?我买了很多东西，开门不方便。",
+        "bo": "ཞའོ་མིན།་ཁྱོད་ཀྱིས་ང་ལ་རོགས་བྱས་ནས་སྒོ་ཕྱེ་ན་ཆོག་གམ།ངས་དངོས་པོ་མང་པོ་ཉོས་ཡོད་པའིསྒོ་ཕྱེ་སྟབས་མི་བདེ།",
+        "id": "trans-d_bo_672",
+        "en": "Xiao Ming, can you help me open the door? I've bought a lot of things, and it's inconvenient for me to open it."
+    },
+    {
+        "zh": "你昨天晚上没睡好吗?",
+        "bo": "ཁྱོད་མདང་དགོང་གཉིད་ཡག་པོ་མ་ཁུག་གམ།",
+        "id": "trans-d_bo_627",
+        "en": "Didn't you sleep well last night?"
+    },
+    {
+        "zh": "真的啊，你太棒了，我毕业后就直接找了份工作呢，现在是来长沙出差。",
+        "bo": "དངོས་ནས་ཨས།ཁྱེད་རང་འདི་འདྲིའི་གྱོང་བ་ལ།ང་སློབ་ཐོན་བྱས་རྗེས་ལམ་སེང་ལས་བཞུགས་བྱས་པ་ཡིན།ད་ལྟ་ཁྲང་ཧྲའ་ལ་གཞུང་དོན་སྒྲུབ་པར་ཡོང་བ་ཡིན།",
+        "id": "trans-d_bo_33",
+        "en": "Really? That's great! I found a job right after graduation. I'm in Changsha on a business trip now."
+    },
+    {
+        "zh": "商场里的太贵了，买不起啊。",
+        "bo": "ཚོང་རའི་ནང་གི་རིན་གོང་ཧ་ཅང་མཐོ་བས་ཉོ་མི་ཐུབ།",
+        "id": "trans-d_bo_191",
+        "en": "The ones at the mall are too expensive, I can't afford them."
+    },
+    {
+        "zh": "一般什么时候打折呀?",
+        "bo": "སྤྱིར་བཏང་དུ་ནམ་ཞིག་ལ་ཕབ་གཅོག་བྱེད་དམ།",
+        "id": "trans-d_bo_193",
+        "en": "When do they usually have sales?"
+    },
+    {
+        "zh": "因为只有这首我不用看歌词就能唱。",
+        "bo": "རྒྱུ་མཚན་ནི་ངས་གླུ་ཚིག་ལ་བལྟ་མི་དགོས་པར་ལེན་ཐུབ།",
+        "id": "trans-d_bo_188",
+        "en": "Because this is the only song I can sing without looking at the lyrics."
+    },
+    {
+        "zh": "好的，看来今天这个会议很重要呀。",
+        "bo": "ཆོག་གི་བལྟས་ཡོང་ན་དེ་རིང་གི་ཚོགས་འདུ་འདི་ཧ་ཅང་གལ་ཆེ།",
+        "id": "trans-d_bo_297",
+        "en": "Okay, it seems this meeting is very important today."
+    },
+    {
+        "zh": "孩子好像有点儿累了，咱们先休息一下再继续爬吧。",
+        "bo": "བྱིས་པ་ཕལ་ཆེར་ཅུང་ཙམ་ཐང་ཆད་འདུག་ང་ཚོས་སྔོན་ལ་ངལ་གསོས་རྗེས་མུ་མཐུད་དུ་འགོས།",
+        "id": "trans-d_bo_247",
+        "en": "The child seems a bit tired. Let's take a break before we continue climbing."
+    },
+    {
+        "zh": "东西都收拾好了吗?",
+        "bo": "དངོས་པོ་ཚང་མ་བསྡུ་གསོག་བྱས་ཚར་སོང་ངམ།",
+        "id": "trans-d_bo_589",
+        "en": "Have you packed everything?"
+    },
+    {
+        "zh": "这么远啊，北京真大。",
+        "bo": "འདི་འདྲའི་ཐག་རིང་བ་ལ།་པེ་ཅིན་ངོ་མ་ཆེ།",
+        "id": "trans-d_bo_324",
+        "en": "It's so far, Beijing is really big."
+    },
+    {
+        "zh": "谢谢，我想问问，小王今天来上班了吗?",
+        "bo": "བཀའ་དྲིན་ཆེ།་ངས་འདྲི་འདོད་པ་ནི།་ཞའོ་ཝང་དེ་རིང་ལས་ཚོགས་ལ་ཡོང་ཡོད་དམ།",
+        "id": "trans-d_bo_772",
+        "en": "Thank you, I want to ask, did Xiao Wang come to work today?"
+    },
+    {
+        "zh": "那你可以坐出租车，虽然有一点儿贵，但是二十分钟就到了。",
+        "bo": "དེ་ན་ཁྱོད་གླ་གཏོང་རླངས་འཁོར་ལ་བསྡད་ན་ཆོག་རིན་གོང་ཅུང་ཙམ་མཐོ་ན་ཡང་སྐར་མ་ཉི་ཤུའི་རྗེས་ནས་ཐོན་ཐུབ།",
+        "id": "trans-d_bo_610",
+        "en": "Then you can take a taxi. Although it's a bit expensive, it only takes twenty minutes."
+    },
+    {
+        "zh": "是啊，电影拍得很真实，把我带回了那个年代。",
+        "bo": "རེད་ཡ།་གློག་བརྙན་ཕབ་སྐྲུན་བྱས་པ་ཧ་ཅང་དོན་དངོས་རེད།་ང་རང་ལོ་རབས་དེར་ཁྲིད་སོང་།",
+        "id": "trans-d_bo_708",
+        "en": "Yes, the movie is very realistic and takes me back to that era."
+    },
+    {
+        "zh": "最近大盘波动比较大，你那几支股票怎么样了啊?",
+        "bo": "ཉེ་ལམ་གཡོ་འགུལ་ཅུང་ཆེ།་ཁྱོད་ཀྱི་མ་རྐང་དེ་དག་ཅི་འདྲ་རེད།",
+        "id": "trans-d_bo_455",
+        "en": "The stock market has been quite volatile recently. How are those stocks of yours doing?"
+    },
+    {
+        "zh": "本来是下午四点，但是因为校长有事，所以就推迟了一小时。",
+        "bo": "མ་གཞི་ཕྱི་དྲོའི་དུས་ཚོད་བཞི་རེད།་འོན་ཀྱང་སློབ་གཙོ་ལ་དོན་དག་ཡོད་པའི་རྐྱེན་གྱིས་དུས་ཚོད་གཅིག་ཕྱིར་འགྱངས་བྱས་པ་རེད།",
+        "id": "trans-d_bo_294",
+        "en": "It was originally at four, but because the principal has something to attend to, it has been postponed by an hour."
+    },
+    {
+        "zh": "你很喜欢吃巧克力吗?",
+        "bo": "ཁྱོད་ཁྲོག་ལེ་ཟ་བར་ཧ་ཅང་དགའ་འམ།",
+        "id": "trans-d_bo_601",
+        "en": "Do you like eating chocolate?"
+    },
+    {
+        "zh": "你今晚有什么安排?",
+        "bo": "ཁྱོད་ལ་དོ་དགོང་བཀོད་སྒྲིག་ཅི་ཞིག་ཡོད་དམ།",
+        "id": "trans-d_bo_698",
+        "en": "What plans do you have for tonight?"
+    },
+    {
+        "zh": "妈，明天六点一刻叫我起床。",
+        "bo": "ཨ་མ།་སང་ཉིན་དུས་ཚོད་དྲུག་དང་སྐར་མ་བཅོ་ལྔའི་སྟེང་ང་མལ་ལས་ལངས་སུ་བཅུག",
+        "id": "trans-d_bo_617",
+        "en": "Mom, wake me up at 6:15 tomorrow."
+    },
+    {
+        "zh": "你看这里有各种各样的灯，多漂亮啊!",
+        "bo": "ཁྱོད་ཀྱིས་ལྟོས་དང་།་འདི་ན་གློག་སྣ་ཚོགས་འདུག་ཅི་འདྲའི་ཡག་པ་ལ།",
+        "id": "trans-d_bo_208",
+        "en": "Look, there are all kinds of lamps here, how beautiful!"
+    },
+    {
+        "zh": "小金，我们都觉得你还没恢复过来，所以这次志愿者活动就没通知你。",
+        "bo": "ཞའོ་ཅིན།་ང་ཚོ་ཚང་མས་ཁྱོད་ད་དུང་སླར་གསོ་བྱུང་མེད་པར་འདོད།་དེའི་ཕྱིར་ཐེངས་འདིའི་དང་བླངས་པའི་བྱ་འགུལ་གྱིས་ཁྱོད་ལ་བརྡ་མ་བཏང་།",
+        "id": "trans-d_bo_553",
+        "en": "Xiao Jin, we all think you haven't recovered yet, so we didn't inform you about this volunteer activity."
+    },
+    {
+        "zh": "在郊外。上周末我们去郊区玩儿，路过一大片桔园，就在那儿买了一箱。",
+        "bo": "ཕྱི་རོལ་ན་ཡོད།གཟའ་འཁོར་སྔོན་མའི་གཟའ་མཇུག་ལ་ང་ཚོ་གྲོང་མཐའ་ལ་རྩེ་རུ་སོང་དུསཚ་ལུ་མའི་ར་བ་ཆེན་པོ་ཞིག་བརྒྱུད་ནས་དེ་ནས་སྒམ་གཅིག་ཉོས།",
+        "id": "trans-d_bo_340",
+        "en": "In the suburbs. We went to the countryside last weekend and passed by a large orange orchard, where we bought a box."
+    },
+    {
+        "zh": "我的男朋友喜欢看足球比赛，是他影响了我。",
+        "bo": "ངའི་དགའ་རོགས་རྐང་རྩེད་སྤོ་ལོའི་འགྲན་བསྡུར་ལ་བལྟ་བར་དགའ།་ཁོས་ང་ལ་ཤུགས་རྐྱེན་ཐེབས་སོང་།",
+        "id": "trans-d_bo_560",
+        "en": "My boyfriend likes to watch football matches, he influenced me."
+    },
+    {
+        "zh": "北海公园？我听说那里非常漂亮。",
+        "bo": "པེ་ཧེ་སྤྱི་གླིང་།ངས་གོ་ཐོས་ལྟར་ན་དེ་ཧ་ཅང་མཛེས་ཟེར་།",
+        "id": "trans-d_bo_127",
+        "en": "Beihai Park? I've heard it's very beautiful there."
+    },
+    {
+        "zh": "嗯，会议要讨论我们学校扩建的问题，当然很重要。",
+        "bo": "འུན།་གྲོས་ཚོགས་ཀྱིས་ང་ཚོའི་སློབ་གྲྭ་རྒྱ་བསྐྱེད་པའི་གནད་དོན་ལ་གྲོས་བསྡུར་བྱེད་དགོས།་ཧ་ཅང་གལ་ཆེན་ལོས་ཡིན།",
+        "id": "trans-d_bo_298",
+        "en": "Yes, the meeting is to discuss the expansion of our school, so it's very important."
+    },
+    {
+        "zh": "昨天下班经过那家新开的店，进去看了看，觉得不错，就买了。",
+        "bo": "ཁ་སང་ལས་ཚོགས་གྲོལ་རྗེས་གསར་དུ་ཕྱེ་བའི་ཚོང་ཁང་དེ་བརྒྱུད་ནས་ནང་དུ་སོང་ནས་བལྟས་རྗེས་ཡག་པོ་འདུག་པའི་་ཉོས་པ་ཡིན",
+        "id": "trans-d_bo_564",
+        "en": "After work yesterday, I passed by that newly opened store, went in to take a look, thought they were nice, and bought them."
+    },
+    {
+        "zh": "我明天下午去你们公司附近开会，要不要接你下班？",
+        "bo": "ང་སང་ཉིན་ཕྱི་དྲོ་ཁྱོད་ཚོའི་ཀུང་སིའི་ཉེ་འགྲམ་དུ་ཚོགས་འདུར་འགྲོ་དགོས་པས་ཁྱོད་བསུ་བ་ཡོང་དགོས་སམ།",
+        "id": "trans-d_bo_308",
+        "en": "I'm going to a meeting near your company tomorrow afternoon. Do you want a ride after work?"
+    },
+    {
+        "zh": "就是要看小孩儿看的动画片，才能保持年轻嘛!",
+        "bo": "བྱིས་པས་བལྟས་པའི་འགུལ་རིས་བརྙན་འཕྲིན་ལ་བལྟས་ན་ད་གཟོད་ན་གཞོན་རྒྱུན་འཁྱོངས་བྱེད་ཐུབ།",
+        "id": "trans-d_bo_111",
+        "en": "You have to watch kids' cartoons to stay young!"
+    },
+    {
+        "zh": "没关系，我要一张。",
+        "bo": "སྐྱོན་མེད།་ང་ལ་གཅིག་དགོས",
+        "id": "trans-d_bo_501",
+        "en": "No problem, I would like one."
+    },
+    {
+        "zh": "现在几点了?",
+        "bo": "ད་ལྟ་དུས་ཚོད་ག་ཚོད་རེད།",
+        "id": "trans-d_bo_520",
+        "en": "What time is it now?"
+    },
+    {
+        "zh": "不去，你顺便给我买点儿水果。",
+        "bo": "མི་འགྲོ།་ཁྱོད་ཀྱིས་ཞོར་དུ་ང་ལ་སིལ་ཏོག་འགའ་ཉོས།",
+        "id": "trans-d_bo_327",
+        "en": "No, please buy some fruit for me while you're there."
+    },
+    {
+        "zh": "离规定时间只有一个星期了，我们来得及吗?",
+        "bo": "གཏན་འཁེལ་བྱས་པའི་དུས་ཚོད་ལ་གཟའ་འཁོར་གཅིག་མ་གཏོགས་མེད།་ང་ཚོར་ཁོམ་པ་ཡོད་དམ།",
+        "id": "trans-d_bo_82",
+        "en": "There's only one week left before the deadline. Can we make it?"
+    },
+    {
+        "zh": "看你说的，不知道看过多少遍了。",
+        "bo": "ཁྱོད་ཀྱིས་བཤད་པ་ལ་ལྟོས་དང་།་ཐེངས་ག་ཚོད་ལ་བལྟས་པ་མི་ཤེས།",
+        "id": "trans-d_bo_93",
+        "en": "As you say, I don't know how many times I've watched it."
+    },
+    {
+        "zh": "我朋友上次给我的包很不错，我昨天又去买了一个。",
+        "bo": "ངའི་གྲོགས་པོས་ཐེངས་སྔོན་མར་ང་ལ་བྱིན་པའི་ཁུག་མ་ཧ་ཅང་བཟང་།་ང་ཁ་སང་ཡང་གཅིག་ཉོ་རུ་སོང་།",
+        "id": "trans-d_bo_458",
+        "en": "The bag my friend gave me last time was really nice, so I went and bought one yesterday."
+    },
+    {
+        "zh": "不用寄，传真给我就可以。",
+        "bo": "བསྐུར་མི་དགོས།་ང་ལ་བརྙན་སྐྱེལ་བྱས་ན་ཆོག",
+        "id": "trans-d_bo_556",
+        "en": "No need to mail it, just fax it to me."
+    },
+    {
+        "zh": "张老师，我有几个问题想问您一下。",
+        "bo": "དགེ་རྒན་ཀྲང་།་ང་ལ་དྲི་བ་འགའ་ཁྱོད་ལ་འདྲི་རྒྱུ་ཡོད།",
+        "id": "trans-d_bo_145",
+        "en": "Teacher Zhang, I have a few questions I'd like to ask you."
+    },
+    {
+        "zh": "急什么，离飞机起飞还有一个小时呢。",
+        "bo": "ཅི་ཞིག་ལ་བྲེལ་བཞིན་ཡོད།་གནམ་གྲུ་འཕུར་བར་ད་དུང་དུས་ཚོད་གཅིག་ཡོད",
+        "id": "trans-d_bo_244",
+        "en": "Why rush, there is still an hour before the flight takes off."
+    },
+    {
+        "zh": "你怎么还没回来?忘了今天是爷爷的生日了?",
+        "bo": "ཁྱོད་ད་དུང་ཕྱིར་མི་ཡོང་དོན་ཅི་ཡིན།དེ་རིང་ནི་ཨ་མྱེས་ཀྱི་སྐྱེས་སྐར་ཡིན་པ་བརྗེད་སོང་ངམ།",
+        "id": "trans-d_bo_227",
+        "en": "Why haven't you come back yet? Did you forget that today is Grandpa's birthday?"
+    },
+    {
+        "zh": "听说你在上王教授的课，感觉怎么样?",
+        "bo": "གོ་ཐོས་ལྟར་ན་ཁྱོད་ཀྱིས་དགེ་རྒན་ཆེན་མོ་ཝང་གི་སློབ་ཁྲིད་ཚོགས་བཞིན་ཡོད་ཟེར།་ཚོར་བ་ཅི་འདྲ་རེད།།",
+        "id": "trans-d_bo_581",
+        "en": "I heard you're taking Professor Wang's class, how do you feel about it?"
+    },
+    {
+        "zh": "好的，下周你有时间吗，可以陪我一起去不?",
+        "bo": "ཆོག་གི་གཟའ་འཁོར་རྗེས་མར་ཁྱོད་ལ་དུས་ཚོད་ཡོད་དམ།་ང་དང་མཉམ་དུ་སོང་ན་ཆོག་གམ།",
+        "id": "trans-d_bo_195",
+        "en": "Okay, do you have time next week? Can you come with me?"
+    },
+    {
+        "zh": "我们坐公交车去吧，要不就先走一段再坐地铁过去。",
+        "bo": "ང་ཚོ་སྤྱི་སྤྱོད་རླངས་འཁོར་ལ་བསྡད་ནས་འགྲོ།་ཡང་མིན་ན་སྔོན་ལ་ཅུང་ཙམ་སོང་རྗེས་ས་འོག་ལྕགས་ལམ་ལ་བསྡད་ནས་འགྲོ།",
+        "id": "trans-d_bo_64",
+        "en": "Let's take the bus, or we could walk a bit and then take the subway."
+    },
+    {
+        "zh": "真对不起，我一定会合理赔偿的。",
+        "bo": "ངོ་མ་དགོངས་པ་མ་ཚོམ།་ངས་ལུགས་མཐུན་གྱིས་སྐྱིན་ཚབ་སྤྲོད་ཁོ་ཐག་ཡིན།",
+        "id": "trans-d_bo_333",
+        "en": "I'm truly sorry. I will definitely provide reasonable compensation."
+    },
+    {
+        "zh": "对不起，让您久等了，我们刚才聊到哪儿了?",
+        "bo": "དགོངས་པ་མ་ཚོམ།་ཁྱོད་ལ་ཡུན་རིང་སྒུག་ཏུ་བཅུག་སོང་།་ང་ཚོས་ད་སོ་མ་གང་ལ་ཁ་བརྡ་བྱས་སོང་།",
+        "id": "trans-d_bo_249",
+        "en": "Sorry to keep you waiting, where were we in our conversation?"
+    },
+    {
+        "zh": "你有没有觉得街道两边的树突然就绿了?",
+        "bo": "ཁྱོད་ཀྱིས་བལྟས་ན་་སྲང་ལམ་འགྲམ་གཉིས་ཀྱི་སྡོང་བོ་གློ་བུར་དུ་ལྗང་མདོག་ཏུ་གྱུར་ཡོད་དམ་།",
+        "id": "trans-d_bo_341",
+        "en": "Do you think the trees on both sides of the street have suddenly turned green?"
+    },
+    {
+        "zh": "就我这水平还是算了吧。",
+        "bo": "ངའི་ཆུ་ཚད་འདི་ཡིན་ན་བསྐྱུར་ཞོག",
+        "id": "trans-d_bo_505",
+        "en": "I'll pass, considering my level."
+    },
+    {
+        "zh": "好的，请你本周四下午来我们公司，我们见面再谈。",
+        "bo": "ཆོག་གི་ཁྱོད་གཟའ་འཁོར་འདིའི་གཟའ་ཕུར་བུའི་ཕྱི་དྲོ་ང་ཚོའི་ཀུང་སིར་ཤོག་ང་ཚོ་ངོ་ཐུག་ནས་ཁ་བརྡ་བྱེད།",
+        "id": "trans-d_bo_626",
+        "en": "Okay, please come to our company this Thursday afternoon, and we will discuss it further in person."
+    },
+    {
+        "zh": "是啊，离开学校后就没见过了。我还记得离开学校时，你还哭了呢。",
+        "bo": "རེད།སློབ་གྲྭ་ནས་ཁ་བྲལ་རྗེས་ཐུགས་མ་བྱུང་།ངས་དྲན་གསལ་དུ་སློབ་གྲྭ་ནས་ཁ་བྲལ་དུས།ཁྱེད་རང་ངུས་སོང་།",
+        "id": "trans-d_bo_1",
+        "en": "Yeah, we haven't seen each other since leaving school. I still remember you cried when we left school."
+    },
+    {
+        "zh": "好啊，我很喜欢看演出。都有些什么节目呢?",
+        "bo": "ཆོག་གི་ང་འཁྲབ་སྟོན་ལ་བལྟ་བར་ཧ་ཅང་དགའ།ལེ་ཚན་ཅི་ཞིག་ཡོད་དམ།",
+        "id": "trans-d_bo_640",
+        "en": "Sure, I really enjoy watching performances. What kind of programs do they have?"
+    },
+    {
+        "zh": "请问，你们游泳馆存包的地方在哪儿?",
+        "bo": "བཀའ་འདྲི་ཞུ་རྒྱུར།་ཁྱོད་ཚོའི་ཆུ་རྐྱལ་ཁང་དུ་ཁུག་མ་འཇོག་ས་གང་དུ་ཡོད།",
+        "id": "trans-d_bo_684",
+        "en": "Excuse me, where is the place to store bags in your swimming pool?"
+    },
+    {
+        "zh": "您约好了吗，王先生?",
+        "bo": "ཁྱེད་ཀྱིས་དུས་བཅད་བྱས་ཡོད་དམ།་སྐུ་ཞབས་ཝང་།",
+        "id": "trans-d_bo_408",
+        "en": "Do you have an appointment, Mr. Wang?"
+    },
+    {
+        "zh": "再等两分钟，我还有个朋友没到。",
+        "bo": "ད་རུང་སྐར་མ་གཉིས་ལ་སྒུག་དང་།་ང་ལ་ད་རུང་གྲོགས་པོ་ཞིག་ཐོན་མེད།",
+        "id": "trans-d_bo_95",
+        "en": "Let's wait for another two minutes, I'm still waiting for a friend."
+    },
+    {
+        "zh": "最近有好几场招聘会，你去投投简历应聘一下吧。",
+        "bo": "དེང་སང་ལས་མི་བསྡུ་བའི་ཚོགས་ཆེན་འགའ་ཡོག་རེད།རང་གི་ངོ་སྤྲོད་མདོར་བསྡུས་གྱི་ཡི་གེ་འཕེན་དང་།",
+        "id": "trans-d_bo_14",
+        "en": "There are several job fairs recently, why don't you submit your resume and apply?"
+    },
+    {
+        "zh": "你这条裤子什么时候买的?",
+        "bo": "ཁྱོད་ཀྱི་རྐང་ལམ་འདི་ནམ་ཞིག་ལ་ཉོས་པ་ཡིན།",
+        "id": "trans-d_bo_561",
+        "en": "When did you buy these pants?"
+    },
+    {
+        "zh": "马上就好。对了，我们怎么过去啊?",
+        "bo": "མགྱོགས་པོ་ཚར་པ་འདུག་རེད།་ང་ཚོ་ཅི་ལྟར་འགྲོ་དགོས་སམ།",
+        "id": "trans-d_bo_63",
+        "en": "I'll be ready soon. By the way, how are we getting there?"
+    },
+    {
+        "zh": "这几道题真难，你给我讲讲吧。",
+        "bo": "འདྲི་གཞི་འདི་དག་ཧ་ཅང་དཀའ།་ཁྱོད་ཀྱིས་ང་ལ་ཤོད་དང་།",
+        "id": "trans-d_bo_266",
+        "en": "These questions are really difficult, can you explain them to me?"
+    },
+    {
+        "zh": "火车站离这儿远吗?",
+        "bo": "མེ་འཁོར་འབབ་ཚིགས་འདི་ནས་ཐག་རིང་ངམ།",
+        "id": "trans-d_bo_533",
+        "en": "Is the train station far from here?"
+    },
+    {
+        "zh": "听说你决定在地铁附近买房了。",
+        "bo": "གོ་ཐོས་ལྟར་ན་ཁྱོད་ཀྱིས་ས་འོག་ལྕགས་ལམ་གྱི་ཉེ་འགྲམ་ནས་ཁང་བ་ཉོ་རྒྱུ་ཐག་བཅད་སོང་ཟེར།",
+        "id": "trans-d_bo_453",
+        "en": "I heard you decided to buy a house near the subway."
+    },
+    {
+        "zh": "是的，吃得多又不锻炼，而且天天也没什么事情做，你说能不胖吗？",
+        "bo": "ཟ་རྒྱུ་མང་ན་སྦྱོང་བརྡར་མི་བྱེད་པ་མ་ཟད་ཉིན་རྒྱུན་བྱ་བ་ཅི་ཡང་སྒྲུབ་རྒྱུ་མེད།་ཁྱོད་ཀྱིས་བཤད་ན་ཤ་མི་གསོགས་སམ།",
+        "id": "trans-d_bo_764",
+        "en": "Yes, eating a lot without exercising, and having nothing much to do every day. Do you think I wouldn't gain weight?"
+    },
+    {
+        "zh": "一个编辑需要有耐心，她的个性倒是挺符合。",
+        "bo": "རྩོམ་སྒྲིག་པ་ཞིག་ལ་བཟོད་སེམས་དགོས།་མོའི་རང་གཤིང་བལྟས་ན་ཧ་ཅང་འཚམ།",
+        "id": "trans-d_bo_565",
+        "en": "An editor needs to be patient, and her personality fits quite well."
+    },
+    {
+        "zh": "就是贵了一些，否则我们就买一个了。",
+        "bo": "རིན་གོང་ཅུང་མཐོ་འདུག་དེ་མིན་ན་ང་ཚོས་གཅིག་ཉོ་རྒྱུ་ཡིན།",
+        "id": "trans-d_bo_209",
+        "en": "They're just a little expensive, otherwise we would have bought one."
+    },
+    {
+        "zh": "行，没问题。",
+        "bo": "ཆོག་གི་གནད་དོན་མེད།",
+        "id": "trans-d_bo_655",
+        "en": "Sure, no problem."
+    },
+    {
+        "zh": "售货员。",
+        "bo": "ཚོང་ཟོག་འཚོང་མཁན།",
+        "id": "trans-d_bo_625",
+        "en": "Salesperson."
+    },
+    {
+        "zh": "五站。",
+        "bo": "འབབ་ཚིགས་ལྔ།",
+        "id": "trans-d_bo_323",
+        "en": "Five stops."
+    },
+    {
+        "zh": "你呀，干什么能坚持到底啊。",
+        "bo": "ཁྱོད་ཀྱིས་ཅི་ཞིག་ལ་རྒྱུན་འཁྱོངས་བྱེད་ཐུབ་བམ།",
+        "id": "trans-d_bo_444",
+        "en": "You, huh, what can you stick with until the end?"
+    },
+    {
+        "zh": "花那么多钱买的，还没戴半年就坏了。",
+        "bo": "སྒོར་མོ་དེ་འདྲ་མང་པོ་ཞིག་བཀོལ་ནས་ཉོས་པ་ཡིན།་ད་རུང་ལོ་ཕྱེད་ལ་བཏགས་མེད།",
+        "id": "trans-d_bo_362",
+        "en": "I spent so much money on them, and they broke in less than half a year."
+    },
+    {
+        "zh": "多亏大家这么热心地照顾我，否则我这条命就捡不回来了啊。",
+        "bo": "ཚང་མས་འདི་འདྲའི་སྤྲོ་སེམས་འཁོལ་བའི་ངང་ནས་ང་ལ་བདག་སྐྱོང་བྱས་པ་བཀའ་དྲིན་ཆེ།་དེ་མིན་ན་ངའི་སྲོག་འདི་ཕྱིར་རྙེད་མི་ཐུབ།",
+        "id": "trans-d_bo_103",
+        "en": "Thanks to everyone's enthusiastic care, otherwise I wouldn't have survived."
+    },
+    {
+        "zh": "明天要在总结会上发言，我还是觉得自己准备得不够。",
+        "bo": "སང་ཉིན་ཕྱོགས་བསྡོམས་ཚོགས་འདུའི་ཐོག་གཏམ་བཤད་བྱེད་དགོས།་ངས་ད་དུང་རང་ཉིད་ཀྱིས་གྲ་སྒྲིག་བྱས་པ་མི་འདང་བར་བསམཀྱི་འདུག་།",
+        "id": "trans-d_bo_573",
+        "en": "I have to speak at the summary meeting tomorrow, and I still feel like I'm not prepared enough."
+    },
+    {
+        "zh": "田姐心灵手巧，人长得也秀气，工作还不错，她还愁什么?",
+        "bo": "ཨ་ཅེ་ཐེན་ནི་བློ་རིག་ལྡན་ལ་ལག་བདེ་བ་ཞིག་རེད།་མི་ཡང་ཡག་པོ་འདུག་བྱ་བ་མི་ཆོག་རྒྱུ་མི་འདུག་མོ་ད་རུང་ཅི་ཞིག་ལ་སེམས་ཁུར་བྱེད་བཞིན་འདུག",
+        "id": "trans-d_bo_483",
+        "en": "Sister Tian is both clever and skillful, she is also pretty, and her job is not bad. What is she worried about?"
+    },
+    {
+        "zh": "请让我看一下你的简历、毕业证书和推荐信。",
+        "bo": "ང་ལ་ཁྱོད་ཀྱི་ངོ་སྤྲོད་མདོར་བསྡུས་དང་མཐར་ཕྱིན་དཔང་ཡིག་ངོ་སྤྲོད་ཡི་གེ་བཅས་ལ་བལྟ་རུ་འཇུག་རོགས།",
+        "id": "trans-d_bo_338",
+        "en": "Please let me see your resume, diploma, and recommendation letter."
+    },
+    {
+        "zh": "我听说公园里今天晚上有一场演出，我正好有两张票，你有兴趣吗?",
+        "bo": "ངས་གོ་ཐོས་ལྟར་ན་སྤྱི་གླིང་དུ་དོ་དགོང་འཁྲབ་སྟོན་ཞིག་ཡོད་ཟེར།་ང་ལ་ཏག་ཏག་པ་སེ་གཉིས་ཡོད།་ཁྱོད་ལ་སྤྲོ་བ་ཡོད་དམ།",
+        "id": "trans-d_bo_700",
+        "en": "I heard there's a performance in the park tonight, and I happen to have two tickets. Are you interested?"
+    },
+    {
+        "zh": "你要等到什么时候呀?还是早做打算吧。",
+        "bo": "ཁྱོད་ཀྱིས་ནམ་ཞིག་ལ་སྒུག་རྒྱུ་ཡིན།ད་དུང་སྔ་མོ་ནས་བསམ་བློ་གཏོང་།",
+        "id": "trans-d_bo_75",
+        "en": "How long are you going to wait? You should plan ahead."
+    },
+    {
+        "zh": "楼上的小李真不像话，老婆不在家就带别的女人回家。",
+        "bo": "ཐོག་ཁང་གི་ཞའོ་ལིས་ངོ་མ་གནས་ལུགས་དང་མི་མཐུན།་ཆུང་མ་ཁྱིམ་ན་མེད་ན་བུད་མེད་གཞན་པ་ཁྲིད་ནས་ནང་ལ་སོང་།",
+        "id": "trans-d_bo_747",
+        "en": "That Xiao Li upstairs is really inappropriate, bringing another woman home when his wife is not around."
+    },
+    {
+        "zh": "最近我还要去趟黄山，听说黄山的风景也很美。",
+        "bo": "ཉེ་ལམ་ང་ད་དུང་ཧོང་ཧྲན་ལ་ཐེངས་གཅིག་འགྲོ་དགོས།་གོ་ཐོས་ལྟར་ན་ཧོང་ཧྲན་གྱི་ཡུལ་ལྗོངས་ཀྱང་ཧ་ཅང་མཛེས་ཟེར།",
+        "id": "trans-d_bo_101",
+        "en": "I’m also planning to go to Huangshan soon. I heard the scenery there is beautiful."
+    },
+    {
+        "zh": "我担心我的水平还是不够专业。",
+        "bo": "ངས་རང་གི་ཆུ་ཚད་ད་དུང་ཆེད་ལས་མིན་པར་སེམས་ཁུར་བྱེད།",
+        "id": "trans-d_bo_317",
+        "en": "I'm afraid my level is still not professional enough."
+    },
+    {
+        "zh": "急什么呀，离飞机起飞时间还有2个多小时呢!",
+        "bo": "ཅི་ཞིག་ལ་བྲེལ་བཞིན་ཡོད།་གནམ་གྲུ་འཕུར་བའི་དུས་ཚོད་ལ་ད་དུང་དུས་ཚོད་གཉིས་ལྷག་ཡོད།",
+        "id": "trans-d_bo_150",
+        "en": "What's the rush? There are still more than two hours until the flight takes off!"
+    },
+    {
+        "zh": "没问题，我做出口生意这么多年，找几个外国人还不容易!",
+        "bo": "གནད་དོན་མེད།་ངས་ཕྱིར་གཏོང་ཚོང་ལས་གཉེར་ནས་ལོ་འདི་འདྲ་མང་པོ་འགོར་སོང་།་ཕྱི་རྒྱལ་བ་འགའ་བཙལ་རྒྱུ་ནི་ལས་སླ་མོ་ཞིག་མ་རེད།",
+        "id": "trans-d_bo_616",
+        "en": "No problem, I've been in the export business for so many years, finding a few foreigners is not difficult at all!"
+    },
+    {
+        "zh": "老公，明天陪我去买衣服吧。",
+        "bo": "ཁྱོ་ག་སང་ཉིན་ང་དང་འགྲོགས་ནས་ལྭ་བ་ཉོ་རུ་འགྲོ།",
+        "id": "trans-d_bo_722",
+        "en": "Honey, come with me to buy clothes tomorrow."
+    },
+    {
+        "zh": "晚上公司有事情，我可能晚点儿回来，你做饭吧。",
+        "bo": "དགོང་མོ་ཀུང་སི་ལ་དོན་དག་ཡོད།་ང་ཕལ་ཆེར་ཅུང་འགོར་ནས་ཕྱིར་ཡོང་།་ཁྱོད་ཀྱིས་ཟ་མ་ལས",
+        "id": "trans-d_bo_545",
+        "en": "There's something at the company tonight, so I might come back late. You cook dinner."
+    },
+    {
+        "zh": "那你最喜欢哪一种?",
+        "bo": "དེ་ན་ཁྱོད་ཆེས་དགའ་ས་ནི་གང་ཡིན།",
+        "id": "trans-d_bo_256",
+        "en": "Then which one do you like the most?"
+    },
+    {
+        "zh": "考试结束已经两个月了，怎么还不告诉我们成绩?",
+        "bo": "རྒྱུགས་བླངས་ནས་ཟླ་གཉིས་འགོར་སོང་།་ད་རུང་ང་ཚོ་ལ་རྒྱུགས་འབྲས་མི་བཤད་དོན་ཅི་ཡིན།",
+        "id": "trans-d_bo_633",
+        "en": "It's been two months since the exam ended, why haven't we been told the results?"
+    },
+    {
+        "zh": "他能发生什么事情呀。",
+        "bo": "ཁོ་ལ་དོན་དག་ཅི་ཞིག་བྱུང་སྲིད་དམ།",
+        "id": "trans-d_bo_97",
+        "en": "What could possibly happen to him?"
+    },
+    {
+        "zh": "你今天都去了哪些地方?",
+        "bo": "ཁྱོད་དེ་རིང་ས་ཆ་གང་དག་ལ་བུད་སོང་།",
+        "id": "trans-d_bo_143",
+        "en": "Which places did you go to today?"
+    },
+    {
+        "zh": "我每星期总有六七天不想上班。",
+        "bo": "ང་གཟའ་འཁོར་རེར་ཉིན་དྲུག་བདུན་ལ་ལས་ཚོགས་ལ་འགྲོ་མི་འདོད།",
+        "id": "trans-d_bo_288",
+        "en": "There are six or seven days every week that I don't want to go to work."
+    },
+    {
+        "zh": "我知道，你得让我先把病人扶下车吧?",
+        "bo": "ངས་ཤེས།་ཁྱོད་ཀྱིས་ང་ལ་སྔོན་ལ་ནད་པ་རླངས་འཁོར་ལས་འབབ་ཏུ་འཇུག་དགོས་སམ།",
+        "id": "trans-d_bo_142",
+        "en": "I know, but could you let me help the patient out of the car first?"
+    },
+    {
+        "zh": "谢谢!请让我进去一下，好吗?",
+        "bo": "བཀའ་དྲིན་ཆེ།ང་ནང་དུ་འགྲོ་རུ་བཅུག་ན་ཆོག་གམ་།",
+        "id": "trans-d_bo_516",
+        "en": "Thank you! May I go in for a moment?"
+    },
+    {
+        "zh": "好的，谢谢。",
+        "bo": "ཆོག་གི་བཀའ་དྲིན་ཆེ།",
+        "id": "trans-d_bo_223",
+        "en": "Okay, thank you."
+    },
+    {
+        "zh": "快，好好找找，出租车司机还在楼下等着我们呢!",
+        "bo": "མགྱོགས་པོ།་ཡག་པོ་ཞིག་འཚོལ།་གླ་གཏོང་རླངས་འཁོར་གྱི་ཁ་ལོ་བས་ད་དུང་ཐོག་ཁང་འོག་ན་ང་ཚོར་སྒུག་ཡོད།",
+        "id": "trans-d_bo_597",
+        "en": "Hurry, look carefully, the taxi driver is still waiting for us downstairs!"
+    },
+    {
+        "zh": "再等等，人还没到齐呢。",
+        "bo": "ད་རུང་ཅུང་ཙམ་སྒུག་དང་།་མི་ད་རུང་ཐོན་མེད།",
+        "id": "trans-d_bo_366",
+        "en": "Let's wait a bit longer, not everyone has arrived yet."
+    },
+    {
+        "zh": "你喜欢的运动中除了滑冰以外，其他的我都喜欢。",
+        "bo": "ཁྱོད་དགའ་བའི་ལུས་རྩལ་ཁྲོད་དར་ཤུད་ཕུད་་གཞན་པ་ཚང་མ་ང་དགའ།",
+        "id": "trans-d_bo_488",
+        "en": "I like all the sports you mentioned except for ice skating."
+    },
+    {
+        "zh": "今天早上吃什么啊?",
+        "bo": "དེ་རིང་ཞོགས་པར་ཅི་ཞིག་ཟ་རྒྱུ་ཡིན།",
+        "id": "trans-d_bo_310",
+        "en": "What are we having for breakfast this morning?"
+    },
+    {
+        "zh": "等等，王先生，你等等……",
+        "bo": "སྒུག་དང་།་སྐུ་ཞབས་ཝང་།་ཁྱོད་ཀྱིས་སྒུག་དང་།",
+        "id": "trans-d_bo_414",
+        "en": "Wait, Mr. Wang, wait..."
+    },
+    {
+        "zh": "你好，请问今天飞往上海最早的航班是几点?",
+        "bo": "ཁྱོད་བདེ་མོ།་དེ་རིང་ཧྲང་ཧེ་ལ་འཕུར་བའི་ཆེས་སྔ་བའི་གནམ་གྲུ་ནི་དུས་ཚོད་དུའི་སྟེང་ཡིན་ནམ།",
+        "id": "trans-d_bo_497",
+        "en": "Hello, may I ask what time is the earliest flight to Shanghai today?"
+    },
+    {
+        "zh": "昨晚的风刮得确实挺大的，冬天就要到了。",
+        "bo": "མདང་དགོང་གི་རླུང་གཡུགས་པ་ཧ་ཅང་ཆེ།་དགུན་ཁ་སླེབས་ལ་ཉེ།",
+        "id": "trans-d_bo_523",
+        "en": "The wind was really strong last night, winter is coming."
+    },
+    {
+        "zh": "做完了，怎么啦?",
+        "bo": "སྒྲུབ་ཚར་སོང་།་ཅི་ཞིག་བྱུང་སོང་།",
+        "id": "trans-d_bo_265",
+        "en": "Yes, I have. What's up?"
+    },
+    {
+        "zh": "什么班花啊，老得不成样子了，那后天在哪见面比较好呢?",
+        "bo": "འཛིན་གྲྭའི་ནང་གི་མེ་ཏོག་ཟེར་ན།རྒས་སོང་ནས་གང་མ་རེད།།གནངས་ཉིན་གང་དུ་ཐུག་ན་ཡག་གམ།",
+        "id": "trans-d_bo_41",
+        "en": "What class beauty? I've aged badly. Where would be a good place to meet the day after tomorrow?"
+    },
+    {
+        "zh": "真笨！上网一查不就知道了吗？",
+        "bo": "ངོ་མ་གླེན་པ་རེད།དྲ་ཐོག་ནས་བཙལ་ན་ཤེས་སོང་བ་མིན་ནམ།",
+        "id": "trans-d_bo_430",
+        "en": "How silly! Why don't you just look it up online?"
+    },
+    {
+        "zh": "今天晚上你有时间吗?学校旁边有一家新饭馆，你有兴趣吗?",
+        "bo": "དོ་དགོང་ཁྱོད་ལ་དུས་ཚོད་ཡོད་དམ།སློབ་གྲྭའི་འགྲམ་ན་ཟ་ཁང་གསར་བ་ཞིག་ཡོད།ཁྱོད་ལ་སྤྲོ་བ་ཡོད་དམ།",
+        "id": "trans-d_bo_394",
+        "en": "Do you have time tonight? There's a new restaurant next to the school, are you interested?"
+    }
+]

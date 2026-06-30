@@ -1,0 +1,112 @@
+[
+    {
+        "id": "math_kk_2",
+        "question": "حور ۇيىرمەسى ەر 20 ادام، ايەل 50 ادام. ۇل وقۋشىلار مەن قىز وقۋشىلار جيىنى قانشا ادام بار؟",
+        "zh_translation": "合唱队有男生20人，女生50人。男生和女生一共有多少人？",
+        "answer": "70",
+        "cot": {
+            "zh": "男生和女生一共有20+50=70人. 答案是70",
+            "en": "The total number of boys and girls is 20 + 50 = 70. The answer is 70"
+        },
+        "en_translation": "There are 20 boys and 50 girls in the choir. How many people are there in total?"
+    },
+    {
+        "id": "math_kk_166",
+        "question": "6. ٴبىر ميكرو تولقىندى پەش 450 يۋان بولىپ، قايتالاي وقيتىن ماشينادان 75 يۋان قىمبات، ٴبىر توڭازىتقىشتىڭ باعاسى قايتالاي وقيتىن ماشينانىڭ 8 ەسەسىندەي، توڭازىتقىشتىڭ باعاسى قانشا يۋان؟",
+        "zh_translation": "一只微波炉450元，比一台复读机贵75元，一台电冰箱的价钱是复读机的8倍，电冰箱多少元钱？",
+        "answer": "3000",
+        "cot": {
+            "zh": "微波炉的价格是450元，复读机的价格是450-75=375元，电冰箱的价格是375×8=3000元. 答案是3000",
+            "en": "The price of the microwave oven is 450 yuan. The price of the tape recorder is 450 - 75 = 375 yuan. The price of the refrigerator is 375 × 8 = 3000 yuan. The answer is 3000"
+        },
+        "en_translation": "A microwave oven costs 450 yuan, which is 75 yuan more expensive than a tape recorder. The price of a refrigerator is 8 times that of the tape recorder. How much does the refrigerator cost?"
+    },
+    {
+        "id": "math_kk_44",
+        "question": ". شەشەسى 6 مەتر اق كەزدەمە ساتىپ الدى، ساتىپ العان قارا كەزدەمەنىڭ 3 ەسەسىندەي، شەشەسى قانشا مەتر قارا كەزدەمە ساتىپ الدى؟",
+        "zh_translation": "妈妈买了6米白布，买的黑布米数是白布的3倍，妈妈买了多少米黑布？",
+        "answer": "18",
+        "cot": {
+            "zh": "妈妈买的黑捕长度6×3=18米. 答案是18",
+            "en": "The length of black cloth Mom bought is 6 × 3 = 18 meters. The answer is 18"
+        },
+        "en_translation": "Mom bought 6 meters of white cloth, and the meters of black cloth purchased are 3 times that of the white cloth. How many meters of black cloth did Mom buy?"
+    },
+    {
+        "id": "math_kk_70",
+        "question": ". دەنە تاربيە بۇيىمدارى شەكتى سەرىكتىگى 900 باسكەتبول ٴوندىرىپ، 222 ى ٴوندىردى، قالعانىن 6 كۇن ىشىندە ورىنداپ، ورتا ەسەپپەن كۇنىنە قانشا باسكەتبول وندىرەدى؟",
+        "zh_translation": "体育用品有限公司要生产900个篮球，已经生产了222个，剩下的要6天完成，平均每天要生产多少个篮球？",
+        "answer": "113",
+        "cot": {
+            "zh": "剩下未生产的篮球个数是900-222=678个，平均每天要生产678/6=113个篮球. 答案是113",
+            "en": "The number of basketballs remaining to be produced is 900 - 222 = 678. On average, 678 / 6 = 113 basketballs need to be produced each day. The answer is 113"
+        },
+        "en_translation": "A sporting goods company needs to produce 900 basketballs, and they have already produced 222. The rest need to be completed in 6 days. On average, how many basketballs should be produced each day?"
+    },
+    {
+        "id": "math_kk_250",
+        "question": "0. بەلگىلى تراكتور زاۆودى تۇتاس جىلدا 1200 تراكتور وندىرەدى، ٴىس جۇزىندە الدىڭعى 4 ايدا 480 تراكتور وندىرەدى، وسىلاي ەسەپتەگەندە، تۇتاس جىلدا قانشا تراكتور وندىرۋگە بولادى؟",
+        "zh_translation": "某拖拉机厂全年计算生产拖拉机1200台，实际前4个月生产了480台，照这样计算，全年可以多生产拖拉机多少台？",
+        "answer": "240",
+        "cot": {
+            "zh": "实际前四个月生产了480台，每个月生产480/4=120台，所以预计全年可以生产120×12=1440台，所以全年可以多生产1440-1200=240台. 答案是240",
+            "en": "In the first four months, it produced 480 tractors, which means it produced 480/4=120 tractors per month. So, it is expected to produce 120×12=1440 tractors in the entire year. Therefore, it can produce 1440-1200=240 more tractors in the whole year. The answer is 240"
+        },
+        "en_translation": "A tractor factory planned to produce 1200 tractors in a year. In the first four months, it actually produced 480 tractors. At this rate, how many more tractors can be produced in the whole year?"
+    },
+    {
+        "id": "math_kk_52",
+        "question": ". ٴبىر سان 214 قوسىلىپ، بۇرىنعى 3 ەسە ارتتى، بۇرىنعى سانى نە؟",
+        "zh_translation": "一个数加上14，得到的数是原来的3倍，原来的数是什么？",
+        "answer": "7",
+        "cot": {
+            "zh": "设原来的数为x，则x+14=3x，14=2x，7=x，所以原来的数是7. 答案是7",
+            "en": "Let the original number be x, then x + 14 = 3x. This simplifies to 14 = 2x, giving x = 7. Therefore, the original number is 7. The answer is 7"
+        },
+        "en_translation": "A number added to 14 results in a number that is 3 times the original number. What is the original number?"
+    },
+    {
+        "id": "math_kk_179",
+        "question": "9.   16 ساباقتاس جاساندى كولگە بارىپ كەمە مايلاپ ويناپ جۇرگەندە، ٴار قايىققا 7 ادام وتىرسا، كەمىندە قانشا كەمە مايعا الادى؟",
+        "zh_translation": "16个同学到人工湖租船玩耍，每船能坐7人，至少要租多少艘船？",
+        "answer": "3",
+        "cot": {
+            "zh": "16/7=2余2，所以至少要租3艘船. 答案是3",
+            "en": "16 divided by 7 equals 2 with a remainder of 2, so at least 3 boats need to be rented. The answer is 3"
+        },
+        "en_translation": "16 students go to an artificial lake to rent boats for fun. Each boat can hold 7 people. What is the minimum number of boats that need to be rented?"
+    },
+    {
+        "id": "math_kk_170",
+        "question": "0. نانگاڭ باستاۋىش مەكتەبىنىڭ 9-ايدا سۋ اقىسىن 10-ايدىڭ 1.2 ەسەسىندەي تولەيدى، 10-ايدا سۋ اقىسى 340 يۋان بولادى، وسى 2 ايدا جيىنى قانشا يۋان تولەيدى؟",
+        "zh_translation": "南港小学九月份付水费是十月份的1.2倍，十月份付水费340元，这两个月共付水费多少元？",
+        "answer": "748",
+        "cot": {
+            "zh": "十月份付水费340元，所以九月份付水费340×1.2=408元，这两个月共付水费340+408=748元. 答案是748",
+            "en": "The water bill for October is 340 yuan, so the water bill for September is 340 × 1.2 = 408 yuan. The total water bill for these two months is 340 + 408 = 748 yuan. The answer is 748"
+        },
+        "en_translation": "In Nangang Primary School, the water bill for September is 1.2 times that of October. The October water bill was 340 yuan. How much did they pay in total for these two months?"
+    },
+    {
+        "id": "math_kk_41",
+        "question": ". ٴاربىر پوچتا بەلەتى 8 يۋان، شياۋفاڭ 4 پوچتا بەلەتىن ساتىپ الماقشى بولسا، جيىنى قانشا يۋان جۇمسايدى؟",
+        "zh_translation": "每张邮票8元，小芳想买4张邮票，一共需用多少元？",
+        "answer": "32",
+        "cot": {
+            "zh": "一共需要8×4=32元. 答案是32",
+            "en": "In total, she needs 8×4=32 yuan. The answer is 32"
+        },
+        "en_translation": "Each stamp costs 8 yuan. Xiaofang wants to buy 4 stamps. How many yuan does she need in total?"
+    },
+    {
+        "id": "math_kk_50",
+        "question": ". 816دان ارت-ارتىنان 6 رەت كەمەيتىلگەننەن كەيىن قانشا رەت سانى 0 بولادى؟",
+        "zh_translation": "从816里连续减去6，减多少次后得数是0？",
+        "answer": "136",
+        "cot": {
+            "zh": "816/6=136，所以减136次后得数是0. 答案是136",
+            "en": "816/6=136, so after subtracting 136 times, the result is 0. The answer is 136"
+        },
+        "en_translation": "Starting from 816, by continuously subtracting 6, how many times do you need to subtract to get the result 0?"
+    }
+]

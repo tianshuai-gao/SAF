@@ -1,0 +1,1402 @@
+[
+    {
+        "id": "math_kk_7",
+        "question": "ٴبىر ۆاليبول 30 يۋان، ٴبىر فۋتبول 40 يۋان، ٴبىر باسكەتبول 50 يۋان. ٴبىر فۋتبول جانە ٴبىر ۆاليبول ساتىپ الىپ، 100 يۋان ساتۋشىعا تولەسە، قانشا يۋان شاندىرادى ؟",
+        "zh_translation": "一个排球30元，一个足球40元，一个篮球50元。 买一个足球和一个排球，付给售货员100元，应找回多少元？",
+        "answer": "30",
+        "en_translation": "A volleyball costs 30 yuan, a football costs 40 yuan, and a basketball costs 50 yuan. If you buy a football and a volleyball and give the seller 100 yuan, how much change should you receive back?"
+    },
+    {
+        "id": "math_kk_138",
+        "question": "8. قۇرىلعالى تۇرعان شيڭفۋ شاعىن اۋماعىنىڭ اۋماعى 800 مەتر، ەنى 500 مەتر كەلەتىن ۇزىن تەڭبىل، ونىڭ يەلەگەن جەر اۋماعى قانشا شارشى مەتر؟",
+        "zh_translation": "即将建成的幸福小区占地是一个长800米、宽500米的长方形，它的占地面积是多少平方米？",
+        "answer": "400000",
+        "en_translation": "What is the area in square meters of the rectangular land for the soon-to-be-completed Xingfu Community, which is 800 meters long and 500 meters wide?"
+    },
+    {
+        "id": "math_kk_68",
+        "question": ". ۇزىندىعى 50 سانتيمەتر كەلەتىن گۇلدەن ۇزىندىعى 10 سانتيمەتر كەلەتىن تىك ٴتورتبۇرىشتى رامكانى ٴبىر اينالىپ شىعادى، گۇل جيەگىندەگى قانشا سانتيمەتر قالعان؟",
+        "zh_translation": "用一根长50厘米的花边将边长10厘米的正方形相框围一圈，花边还剩下多少厘米？",
+        "answer": "10",
+        "en_translation": "How many centimeters of lace are left after using a 50-centimeter piece to go around a square picture frame with a side length of 10 centimeters?"
+    },
+    {
+        "id": "math_kk_30",
+        "question": ". اپەكەسىنىڭ 6 يۋان اقشاسى بار ەدى،ٴبىر ورامال ساتىپ الىپ، 4 يۋان 3 ماۋ  اقشا كەتتى ، بىر قول پاشا ساتىپ الىپ 8 ماۋ اقشا كەتتى ، تاعى قانشە  تيىن قالعان؟",
+        "zh_translation": "姐姐有6元钱，买一条围巾用了4元3角，买一块手帕用了8角，还剩几角钱？",
+        "answer": "9",
+        "en_translation": "Sister has 6 yuan. She spent 4 yuan and 3 jiao on a scarf, and 8 jiao on a handkerchief. How many jiao does she have left?"
+    },
+    {
+        "id": "math_kk_33",
+        "question": ".ەيجيڭ قالالىق بەلگىلى ورتا مەكتەپ كەيبىر ساباقتاستاردى تاڭداپ ويىن قويۋعا قاتىناستىردى، ءار كلاستا 8 ادام تاڭدالدى، 6 كلاستا جيىنى قانشا ادام تاڭدالدى؟",
+        "zh_translation": "北京市某中学选派一些同学参加表演，每班选上8人，6个班共选上多少人？",
+        "answer": "48",
+        "en_translation": "A certain middle school in Beijing selected some students to participate in a performance. If 8 students are selected from each class, how many students are selected from 6 classes in total?"
+    },
+    {
+        "id": "math_kk_87",
+        "question": ". شەشەسى بيىل 40 جاستا، قىزى 14 جاستا، قىزى قانشا جاسقا كەلگەندە، شەشەسىنىڭ جاسى قىزىنىڭ 3 ەسەسىندەي؟",
+        "zh_translation": "妈妈今年40岁，女儿14岁，女儿多少岁时，妈妈的年龄是女儿的3倍？",
+        "answer": "13",
+        "en_translation": "How old will the daughter be when the mother's age is three times the daughter's age?"
+    },
+    {
+        "id": "math_kk_119",
+        "question": "9. ءۇش بۇرىش ءپىشىندى جەردىڭ اۋدانى 3600 شارشى مەتر، ءتۇبى 120 مەتر، بيىكتىگى قانشا مەتر؟",
+        "zh_translation": "一块三角形地面积是3600平方米，底是120米，高是多少米？",
+        "answer": "60",
+        "en_translation": "The area of a triangular plot is 3600 square meters, the base is 120 meters, what is the height in meters?"
+    },
+    {
+        "id": "math_kk_168",
+        "question": "8. 62سۋ ستاكانىنا قوراپتىڭ ىشىنە، ٴار قوراپقا 8 ى سالىنادى، ەڭ سوڭعى ٴبىر قوراپقا قانشا قوراپتالادى؟",
+        "zh_translation": "62个水杯装在盒子里，每盒装8个，最后一盒装多少个？",
+        "answer": "6",
+        "en_translation": "How many cups are there in the last box if 62 cups are packed in boxes with 8 cups each?"
+    },
+    {
+        "id": "math_kk_175",
+        "question": "5. ٴبىر كيىمنىڭ 6 تۇيمەسى بار، ەكى كيىمنىڭ جيىنى قانشا تۇيمە بار؟",
+        "zh_translation": "一件衣服有6个扣子，两件衣服共有多少个扣子？",
+        "answer": "12",
+        "en_translation": "If one piece of clothing has 6 buttons, how many buttons do two pieces of clothing have in total?"
+    },
+    {
+        "id": "math_kk_20",
+        "question": ". ساۋدا دۇكەنى 98 قاربىز كىرىپ، 9 تال ساتىپ، تاعى قانشا قاربىز قالدى؟",
+        "zh_translation": "商店进了98个西瓜，卖出去9个，还剩多少个西瓜？",
+        "answer": "89",
+        "en_translation": "The store received 98 watermelons and sold 9. How many watermelons are left?"
+    },
+    {
+        "id": "math_kk_120",
+        "question": "0. تاۋ ەتەگىنەن تاۋ باسىنا دەيىن 378 مەتر، تاۋعا شىعىۋ  18 مينۋت، تاۋدان ٴتۇسىۋ  14 مينۋت، تاۋدان تۇسەردىڭ ورتاشا قارقىنى مينۋتىنا قانشا مەتر؟",
+        "zh_translation": "从山下到山顶有378米，上山用了18分钟，下山用了14分钟，上下山的平均速度是多少米/分钟？",
+        "answer": "23.625",
+        "en_translation": "What is the average speed in meters per minute for going up and down the mountain, if the distance from the bottom to the top of the mountain is 378 meters, it took 18 minutes to go up, and 14 minutes to go down?"
+    },
+    {
+        "id": "math_kk_129",
+        "question": "9. ٴمالىم ٴبىر ماركاداعى اياق كيىم ساتۋدى جەبەۋ قيمىلىمەن شۇعىلدانىپ، A ساۋدا سارايىندا 100 يۋانعا تولسا 30 يۋان ازايتۋ ٴتاسىلى بويىنشا ساتىپ، B ساۋدا سارايىنان %70 ارزانداتىپ ساتىپ، شەشەسى 320 يۋان  وسى ماركاداعى اياق كيىمدى ساتىپ الىپ، A ساۋدا سارايىنا قانشا يۋان تولەيدى؟",
+        "zh_translation": "某品牌的鞋子搞促销活动，在甲商场按满100元减30元的方式销售，在乙商场打七折销售，妈妈要买标价320元的这种品牌的鞋子，在甲商场要付多少元？",
+        "answer": "230",
+        "en_translation": "A certain brand of shoes is on a promotional sale; in Store A, it's sold with a discount of 30 yuan for every 100 yuan spent, while in Store B, it's sold at a 30% discount. Mom wants to buy a pair of this brand's shoes, which is marked at 320 yuan. How much does she need to pay in Store A?"
+    },
+    {
+        "id": "math_kk_77",
+        "question": ". بولاشاقتا باستاۋش مەكتەپ يۇشۋ اپات رايونىنداعى كىشكەنە دوستارعا اقشا جىلۋ، ساداقا شىعاردى (قىلدى). 300 دانا اڭگىمە كىتابى، 178 دانا اينالمالى سۋرەت بار. اڭگىمە كىتاپتارى ۇلاسپالى سۋرەتتەردەن قانشا كىتاپ بار؟",
+        "zh_translation": "未来小学为玉树灾区的小朋友捐书。故事书300本，连环画178本。故事书比连环画多多少本？",
+        "answer": "122",
+        "en_translation": "How many more storybooks than comics did Future Elementary School donate to the children in the Yushu disaster area? They donated 300 storybooks and 178 comics."
+    },
+    {
+        "id": "math_kk_210",
+        "question": "210ٴبىر اۆتوموبيل A جەردەن B جەرگە بارىپ، ساعاتىنا 70 كيلومەتر جول باسىپ، 6 ساعات جەتتى؛ B جەردەن قايتىپ كەلىپ، ساعاتىنا 60 كيلومەتر جول باسىپ، نەشە ساعاتتان A جەرگە جەتەدى؟",
+        "zh_translation": "一辆汽车从甲地开往乙地，每小时行70千米，6小时到达；从乙地沿路返回，每小时行60千米，问几小时能到达甲地？",
+        "answer": "7",
+        "en_translation": "A car travels from location A to location B at a speed of 70 km per hour, taking 6 hours to reach. On the return journey from location B, it travels at a speed of 60 km per hour. How many hours will it take to reach location A?"
+    },
+    {
+        "id": "math_kk_189",
+        "question": "9. ەرەكشە تەز پويەز ءبىر مينۋتتا 160 كيلومەتر جول باسادى، ءبىر ساعاتتا قانشا مىڭ كيلومەتر جول باسادى؟",
+        "zh_translation": "特快列车1分钟约行160千米，1小时可行多少千米？",
+        "answer": "9600",
+        "en_translation": "The express train travels about 160 kilometers in one minute, how many kilometers can it travel in one hour?"
+    },
+    {
+        "id": "math_kk_98",
+        "question": ". ٴبىر اۆتوموبيل 3 رەت 18 توننا كومىر تاسيدى، وسى بويىنشا 90 توننا كومىر تاسيدى، بۇعان قانشا اۆتوموبيل ٴبىر جولدا تاسىپ بولادى؟",
+        "zh_translation": "一辆汽车3次可运煤18吨，照这样计算，一堆煤90吨，需要多少辆汽车一次运完？",
+        "answer": "15",
+        "en_translation": "If a car can transport 18 tons of coal in 3 trips, how many cars are needed to transport a pile of 90 tons of coal in one trip?"
+    },
+    {
+        "id": "math_kk_100",
+        "question": "0. 4-جىلدىقتىڭ 165 ساباقتاسى اۆتوكولىكپەن قالا ماڭىنا ساياحاتتاي باردى، ٴار اۆتوموبيلگە 24 ادام وتىردى، ولار كەمىندە وسىنداي اۆتوموبيلدەردى قاجەت ەتەدى؟",
+        "zh_translation": "四年级165名同学乘车去郊游，每辆车限乘24人，他们至少需要几辆这样的车？",
+        "answer": "7",
+        "en_translation": "How many of such buses are needed at least if 165 fourth-grade students, with each bus having a capacity of 24 people, go on a field trip?"
+    },
+    {
+        "id": "math_kk_234",
+        "question": "4. جاڭ يۋە تۋعان كۇنىن وتكىزىپ،   پەرىمەتر ۇزىندىعى 50 سانتيمەتر كەلەتىن دوڭگەلەك بالكۇلشەنى ساتىپ الىپ، ونىڭ توڭىرەگىندەگى ٴار 5 سانتيمەتر ٴبىر بالاۋىز شامدى شانشىپ، قانشا بالاۋىز شامدى قاجەت ەتەدى؟",
+        "zh_translation": "张悦过生日，买了一个周长为50厘米的圆形蛋糕，在它的四周每隔5厘米插一根小蜡烛，需要多少根蜡烛？",
+        "answer": "10",
+        "en_translation": "Zhang Yue is celebrating a birthday and bought a round cake with a circumference of 50 cm. If a small candle is inserted around it every 5 cm, how many candles are needed?"
+    },
+    {
+        "id": "math_kk_152",
+        "question": "2. ٴار ەكى ادام ٴبىر رەت قول ۇستاسسا، 4 ادام جيىنى قانشا رەت قول ۇستاسسادى ؟",
+        "zh_translation": "每两个人握一次手，4个人一共握多少次手？",
+        "answer": "6",
+        "en_translation": "If every two people shake hands once, how many times do 4 people shake hands in total?"
+    },
+    {
+        "id": "math_kk_27",
+        "question": ". يۇشۋ اپات رايونىنا جىلۋ اتادى. شياۋ گاڭ 49 يۋان، شياۋفاڭ 50 يۋان، شياۋحۇڭ 57 يۋان جىلۋ اتادى. شياۋحۇڭ شياۋگاڭنان قانشا اقشا جىلۋ اتادى؟",
+        "zh_translation": "为玉树灾区捐款。小刚捐了49元，小芳捐了50元，小红捐了57元。小红比小刚多捐了多少钱？",
+        "answer": "8",
+        "en_translation": "How much more money did Xiaohong donate than Xiaogang?"
+    },
+    {
+        "id": "math_kk_149",
+        "question": "9. قىزىل جۇلدىز توپ ساتۋ ٴبولىمى ورتا ەسەپپەن كۇنىنە 37 جاشىك مينەرال سۋ ساتتى، ٴار ساندىق مينەرال سۋدا 24 قۇمىرا بار، ٴبىر اپتادا قانشا قۇمىرا مينەرال سۋ ساتىلادى؟",
+        "zh_translation": "红星批发部平均一天卖出37箱矿泉水，每箱矿泉水有24瓶，一周可以卖出多少瓶矿泉水？",
+        "answer": "6216",
+        "en_translation": "The Red Star Wholesale Department sells an average of 37 cases of mineral water per day, with each case containing 24 bottles. How many bottles of mineral water can be sold in one week?"
+    },
+    {
+        "id": "math_kk_174",
+        "question": "4. تىك ٴتورتبۇرىشتى كوكونىس اتىزىنا ٴبايساي ەگىلگەن، كوكونىس اتىزىنىڭ ۇزىندىعى 13 مەتر، كەڭدىگى 5 مەتر. ەگەر ٴار شارشى مەترگە 6 كيلوگرام ٴبايساي جيناپ السا، جيىنى قانشا كيلوگرام ٴبايساي الۋعا بولادى؟",
+        "zh_translation": "一块长方形菜地里种满了白菜，菜地的长为13米，宽为5米。如果每平方米收白菜6千克，一共可以收多少千克白菜？",
+        "answer": "390",
+        "en_translation": "A rectangular vegetable plot is filled with Chinese cabbage. The plot is 13 meters long and 5 meters wide. If 6 kilograms of cabbage are harvested per square meter, how many kilograms of cabbage can be harvested in total?"
+    },
+    {
+        "id": "math_kk_154",
+        "question": "4. شياۋليڭ سەمياسىنان حىشان باقشاسىنا بارادى، الدىمەن الەۋمەتتىك اۆتوبۋزعا وتىرىپ 2 مىڭ كيلومەتر جول جۇرپ، اۆتوموبيلدەن تۇسىپ جانە 300 مەتر جاياۋ جۇرەدى، ٴۇيى حىشان باقشاسىنا قانشا مەتر كەلەدى؟",
+        "zh_translation": "小玲从家去鹤山公园，先乘公共汽车走了2千米，下车又步行了300米，家到鹤山公园有多少米？",
+        "answer": "2300",
+        "en_translation": "How many meters are there from Xiaoling's home to Heshan Park if she first took a bus for 2 kilometers and then walked 300 meters after getting off?"
+    },
+    {
+        "id": "math_kk_183",
+        "question": "3. ەكى عيماراتتىڭ اراسىندا ٴار ٴبىر مەتر ٴبىر ٴتۇپ اعاش ەگىلىپ، جيىنى 8 ٴتۇپ اعاش ەگىلدى، بۇل ەكى عيماراتتىڭ ارالىعى قانشا مەتر؟",
+        "zh_translation": "两幢楼之间每隔1米种一棵树，一共种了8棵树，这两幢楼之间相距多少米？",
+        "answer": "27",
+        "en_translation": "Between the two buildings, trees are planted at intervals of 1 meter, with a total of 8 trees planted. What is the distance between the two buildings?"
+    },
+    {
+        "id": "math_kk_110",
+        "question": "0. يەلەگەن جەر كولەمى 1 گەكتار قاراپايىم، ٴتورت شەتتىك قالامشا باقشاسى، تۇگى 500 مەتر، بيىكتىگى قانشا مەتر؟",
+        "zh_translation": "占地1公顷的平行四边形苗圃，底是500米，高是多少米？",
+        "answer": "20",
+        "en_translation": "What is the height of a 1-hectare parallelogram nursery with a base of 500 meters?"
+    },
+    {
+        "id": "math_kk_5",
+        "question": "مەكتەپ تەشۋىقات ئەترىتىدە 12ئادەم بار، ئۇلاردىن 4ئادەم ناخشا ئېيتىدۇ، قالغىنى ئۇسۇل ئوينايدۇ، ئۇنداقتا ئۇسۇل ئوينايدىغان ئادەمدىن قانچىسى بار؟",
+        "zh_translation": "学校宣传队里面一共有12人。唱歌的有4人，其余的跳舞，跳舞的有多少人？",
+        "answer": "8",
+        "en_translation": "In the school's publicity team, there are a total of 12 people. There are 4 people who sing, and the rest dance. How many people dance?"
+    },
+    {
+        "id": "math_kk_107",
+        "question": "7. مەكتەپ 100 مەترگە جۇگىرۋ جارىسىن وتكىزدى، ميڭ مىيىڭ 12.95 سەكۋند جۇگىردى، 13.17 سەكۋند اشىق جۇگىردى، چۇن چۇن  13.02 سەكۋند جۇگىردى، بۇل رەتكى جارىستا ٴبىرىنشى ۇچىنچى  ادامنان قانشا سەكۋند تەز بولدى؟",
+        "zh_translation": "学校进行100米跑步比赛，明明跑了12.95秒，亮亮跑了13.17秒，军军跑了13.02秒．这次比赛中第一名比第三名快了多少秒？",
+        "answer": "0.22",
+        "en_translation": "In the 100-meter race held by the school, Mingming ran for 12.95 seconds, Liangliang ran for 13.17 seconds, and Junjun ran for 13.02 seconds. How many seconds faster was the first place compared to the third place in this race?"
+    },
+    {
+        "id": "math_kk_241",
+        "question": "1. مەكتەپ كيىمىنە 68.5 يۋان قاجەت، 5 (1) كلاستا 56 وقۋشى بار، مەكتەپ كيىمىنە جيىنى قانشا يۋان قاجەت؟",
+        "zh_translation": "订做一套校服需68.5元，五（1）班有学生56人，订校服共需多少元钱？",
+        "answer": "3836",
+        "en_translation": "How much money is needed to order school uniforms if one set costs 68.5 yuan and there are 56 students in Class 5(1)?"
+    },
+    {
+        "id": "math_kk_12",
+        "question": ". اۆتوموبيل جوندەۋ زاۆودىندا 18 اۆتوموبيل قاتىناپ، 8 اۆتوموبيل قاتىناي باستادى، تاعى قانشا اۆتوموبيل قالدى؟",
+        "zh_translation": "修车厂有汽车18辆，开走8辆，还剩多少辆？",
+        "answer": "10",
+        "en_translation": "The repair shop has 18 cars, 8 cars are driven away, how many are left?"
+    },
+    {
+        "id": "math_kk_51",
+        "question": ". سيىردىڭ سالماعى 500 كيلوگرام، ٴبىر ٴپىلدىڭ سالماعى سيىردىڭ 3 ەسەسىنەن 200 كيلوگرام كەلەدى، ٴپىلدىڭ دەنە سالماعى قانشا كيلوگرام؟",
+        "zh_translation": "一头牛重500千克，一头大象的体重比牛的3倍多200千克，大象的体重是多少千克？",
+        "answer": "1700",
+        "en_translation": "A cow weighs 500 kg, an elephant weighs 200 kg more than three times the cow's weight, what is the weight of the elephant in kilograms?"
+    },
+    {
+        "id": "math_kk_162",
+        "question": "2. ۇزىندىعى تىك نۇسقاسىنىڭ كەڭدىگى 4 سانتيمەتر، ۇزىندىعى كەڭدىگى 3 ەسە بولادى. بۇل تىك ٴتورتبۇرىش ۇزىندىعى قانشا سانتيمەتر؟",
+        "zh_translation": "一个长方形的宽是4厘米，长是宽的3倍．这个长方形的周长是多少厘米？",
+        "answer": "32",
+        "en_translation": "The width of a rectangle is 4 cm, and its length is 3 times the width. What is the perimeter of this rectangle in centimeters?"
+    },
+    {
+        "id": "math_kk_93",
+        "question": ". ەگەر ۋاڭ ۇستاز ءبىر توپ بولشەكتەردى وندىرسە، كۇنىنە 320 دانا، 15 كۇندە ورىندالسا، 12 كۇندە قانشالىقتى ءوندىرىس جۇرگىزىلەدى؟",
+        "zh_translation": "王师傅生产一批零件，如果每天生产320个，15天完成．如果要想12天完成，每天要生产多少个？",
+        "answer": "400",
+        "en_translation": "Master Wang produces a batch of parts. If he produces 320 parts per day, it will take 15 days to complete. How many parts per day does he need to produce to complete it in 12 days?"
+    },
+    {
+        "id": "math_kk_96",
+        "question": ".ٴبىر اۆتوموبيل A قالادان B قالاعا بارىپ، 4 ساعاتتا 300 كيلومەتر جول باسىپ، ورتا ەسەپپەن ساعاتىنا قانشا كيلومەتر جول باسادى؟",
+        "zh_translation": "一辆汽车从甲城开往乙城，4小时行驶了300千米，平均每小时行驶多少千米？",
+        "answer": "75",
+        "en_translation": "A car travels from City A to City B, covering 300 kilometers in 4 hours. What is the average speed in kilometers per hour?"
+    },
+    {
+        "id": "math_kk_207",
+        "question": "7. لي دابونىڭ ۇيىندە 260  مەكيەن ، 108 تاۋىق، 46 قاز باعىلدى، چالپى تاۋىقتىڭ سانى قازدىڭ نەشە ەسەسى ؟",
+        "zh_translation": "李大伯家养了260只母鸡，108只公鸡，还养了46只鹅，鸡的只数是鹅的多少倍？",
+        "answer": "8",
+        "en_translation": "How many times the number of chickens is the number of geese, if Uncle Li's family has 260 hens, 108 roosters, and 46 geese?"
+    },
+    {
+        "id": "math_kk_235",
+        "question": "5. ۇزىندىعى 8 مەتر، كەڭدىگى 6 مەتر، بيىكتىگى 2.8 مەتر كەلەتىن كەڭسەگە ۇنتاقتاۋ قاجەت، ەسىك-تەرەزەنىڭ جالپى 42 شارشى مەتر ەكەنىن، قانشا شارشى مەتر شوتكەلەۋ  ەكەنىن ٴبىلۋ كەرەك (جەر بەتى شوتكىلەمەيدى)؟",
+        "zh_translation": "一间长8米、宽6米、高2.8米的办公室需要粉刷，已知门窗共42平方米，需要粉刷的面积有多少平方米（地面不刷）？",
+        "answer": "84.4",
+        "en_translation": "How many square meters of wall space need to be painted in an office measuring 8 meters long, 6 meters wide, and 2.8 meters high, given that the door and windows occupy a total of 42 square meters (the floor is not painted)?"
+    },
+    {
+        "id": "math_kk_197",
+        "question": "7. لي مۇعالىم 78 وقۋشىنى كەمە سىزۋعا ەرتىپ باردى، ٴاربىر كەمەدە 12 ادام وتىرادى، كەم دەگەندە قانشا كەمە ارەڭ وتىرادى؟",
+        "zh_translation": "李老师带78名学生去划船，每条船坐12人，至少要多少条船才能坐完？",
+        "answer": "7",
+        "en_translation": "Teacher Li takes 78 students boating. Each boat holds 12 people. What is the minimum number of boats needed to accommodate everyone?"
+    },
+    {
+        "id": "math_kk_248",
+        "question": "8. مەكتەپ ساباقتان سىرتقى قيمىل ورىستەتتى، حاتكەرلىك كلاسىنان 54 ادام بار، مۋزيكا كلاسىنداعى ادام سانىنان 2 ەسە از 18 ادام، مۋزيكا كلاسىنان قانشا ادام بار؟",
+        "zh_translation": "学校开展课外活动，书法班有54人，比音乐班人数的2倍少18人，音乐班有多少人？",
+        "answer": "36",
+        "en_translation": "The school is conducting extracurricular activities. The calligraphy class has 54 students, which is 18 fewer than twice the number of students in the music class. How many students are in the music class?"
+    },
+    {
+        "id": "math_kk_222",
+        "question": "2. جول جوندەۋ اترەتىنىڭ ٴبىرىنشى كۇنى 450 مەتر جول جاسادى، ەكىنشى كۇنى ٴبىرىنشى كۇنى سالىنعان جول 1.2 ەسە بولىپ، ەكى كۇندە جول قانشا مەتر جول جاسالدى؟",
+        "zh_translation": "修路队第一天修路450米，第二天修的路是第一天修的1.2倍，两天共修路多少米？",
+        "answer": "990",
+        "en_translation": "How many meters of road did the construction team build in total over the two days if they built 450 meters on the first day and 1.2 times that amount on the second day?"
+    },
+    {
+        "id": "math_kk_88",
+        "question": ". 5مايمىل 64 شاپتولدى ٴبىر رامكا مەن ٴۇش شارباق، سەمەنتتەن 28 ى، قالعاندارى ٴۇش شارباق ىشىنە قويىلىپ، ٴاربىر شارباق ىشىندە ورتا ەسەپپەن قانشا شاپتول بار؟",
+        "zh_translation": "5只猴采了64个桃装在一个框和三个篮子里，筐里装28个，其余放在三个篮子里，平均每个篮子里有多少个桃？",
+        "answer": "12",
+        "en_translation": "Five monkeys picked 64 peaches and placed them in one box and three baskets. The box contains 28 peaches, and the rest are placed in the three baskets. How many peaches are there on average in each basket?"
+    },
+    {
+        "id": "math_kk_167",
+        "question": "7. ديڭ ديڭ ٴبىر اڭگىمە كىتابىن وقيدى، الدىڭعى 3 كۇندە ورتا ەسەپپەن 15 بەت وقيدى، كەيىن ٴار كۇنى الدىڭعى 3 كۇندەگىدەن 5 بەت كوپ وقىيدى ، تاعى 2 كۇندە  وقىپ بولادى، بۇل اڭگىمە كىتابى ديڭ ديڭ ٴار كۇنى ورتا ەسەپپەن قانشا بەت وقيدى؟",
+        "zh_translation": "丁丁读一本故事书，前3天平均每天读15页，以后每天比前3天多读5页，又读2天正好读完，这本故事书丁丁平均每天读了多少页？",
+        "answer": "17",
+        "en_translation": "Dingding reads a storybook. In the first 3 days, he reads an average of 15 pages per day. He then reads 5 more pages each day than in the first 3 days, and finishes the book in 2 more days. On average, how many pages does Dingding read per day?"
+    },
+    {
+        "id": "math_kk_69",
+        "question": ". ۇستاز بەن شاكىرت 680 دانا ۇساق-تۇيەك مانەرلەيدى، ۇستاز ساعاتىنا 48 دانا مانەرلەيدى، شاكىرتتەرى ٴار ساعاتتا 37 دانا مانەرلەيدى. ولار نەشە ساعاتتا بۇل بولشەكتەردى مانەرلەپ بولادى؟",
+        "zh_translation": "师徒共同加工零件680个，师傅每小时可加工48个，徒弟每小时可加工37个。他们几小时可加工完这批零件？",
+        "answer": "8",
+        "en_translation": "The master and apprentice jointly processed 680 parts. The master can process 48 parts per hour, and the apprentice can process 37 parts per hour. How many hours will it take them to finish processing these parts?"
+    },
+    {
+        "id": "math_kk_215",
+        "question": "5. ٴبىر قۇمىرا اپەلسين شىرىنى تۇڭعىش رەت 0.9 ليتر توڭكەرىلىپ شىقتى، ەكىنشى رەت 0.76 ليتر، قۇمىرانىڭ ىشىندە تاعى 0.34 ليتر بار، بۇل قۇمىرانىڭ اپەلسين شىرىنىنىڭ بۇرىن قانشا ميلليليتر بار؟",
+        "zh_translation": "一瓶橙汁第一次倒出0.9升，第二次倒出0.76升，瓶中还有0.34升，这瓶橙汁原有多少毫升？",
+        "answer": "2000",
+        "en_translation": "A bottle of orange juice was poured out 0.9 liters the first time and 0.76 liters the second time, and there is still 0.34 liters in the bottle. How many milliliters of orange juice were originally in the bottle?"
+    },
+    {
+        "id": "math_kk_156",
+        "question": "6. 3 (1)  كلاستاعى وقۋشىلار شاتىپ-قوبۇ ماشىعىن ىستەپ جاتىرسىڭ،ءبىر مينۋت ىشىندە شياۋحۋا 17 گە جاسادى ، شياۋچاڭ  ءبىر سانى ءدال شياۋحۋانىڭ 2 ەسەسىندەي جاسادى ، شياۋجۇن شياۋحۋانىن  3 ەسەسى جاساعابىنان 10 دى ن از بولدى،شياۋچاڭ قانشانى ىستەدى ؟",
+        "zh_translation": "三（1）班学生练习仰卧起坐．在1分钟内，小华做了17个，小强做的个数正好是小华的2倍，小军做的比小华的3倍少10个．小强做了多少个？",
+        "answer": "34",
+        "en_translation": "Class 3(1) students are practicing sit-ups. In one minute, Xiaohua did 17, Xiaoqiang did exactly twice as many as Xiaohua, and Xiaojun did 10 fewer than three times what Xiaohua did. How many did Xiaoqiang do?"
+    },
+    {
+        "id": "math_kk_6",
+        "question": "مەكتەپ 52 قوراپتاعى ٴتۇستى بوقشانى ساتىپ الىپ، ونى تاعى ءبىرسپىرا ىستەتۋ چانە 20قالدى ، قانشا قوراپ ىستەلدى ؟",
+        "zh_translation": "学校买来52盒彩色粉笔，用去一些还剩下20盒，用去了多少盒？",
+        "answer": "32",
+        "en_translation": "How many boxes were used if the school bought 52 boxes of colored chalk, and after using some, 20 boxes are left?"
+    },
+    {
+        "id": "math_kk_105",
+        "question": "5. مەكتەپ اعاش ەگۋ قيمىلىن ۇيىمداستىرىپ، وقۋشىلاردى 18 گرۋپپاعا ٴبولىپ، جيىنى 567 ٴتۇپ اعاش ەگىپ، ورتا ەسەپپەن ٴار گرۋپپاعا قانشا اعاش ەكتى؟",
+        "zh_translation": "学校组织植树活动，把学生分成18个小组，一共要植567棵，平均每组植多少棵树？",
+        "answer": "31.5",
+        "en_translation": "The school organized a tree planting activity, dividing the students into 18 groups. A total of 567 trees need to be planted. How many trees on average does each group need to plant?"
+    },
+    {
+        "id": "math_kk_242",
+        "question": "2. بەلگىلى جول جوندەۋ اترەتى ٴبىر تاس جول سالىپ، كۇنىنە 2.25 مىڭ كيلومەتر جول سالۋدى جوسپارلاپ، 30 كۇندە مىندەتتى ورىنداۋعا بولادى، ٴىس جۇزىندە ٴار كۇنى جوندەيتىنى جوسپاردىڭ 1.2 ەسەسىندەي، ٴىس جۇزىندىك قانشە  كۇندە مىندەتتى ورىنداۋعا بولادى؟",
+        "zh_translation": "某修路队要修一条公路，计划每天修2.25千米，30天可以完成任务，实际每天修的是计划的1.2倍，实际几天可以完成任务？",
+        "answer": "36",
+        "en_translation": "A road construction team is planning to build a highway, with a plan to construct 2.25 kilometers per day, completing the task in 30 days. In reality, they are completing 1.2 times the planned amount each day. How many days will it actually take to complete the task?"
+    },
+    {
+        "id": "math_kk_214",
+        "question": "4. شياۋگاڭ مەن شياۋميڭ جيىنى 90 دانا پوچتا ماركاسى بار، شياۋگاڭ شياۋميڭگە 18دى وعان بەرگەن  كەيىن ەكەۋىنىڭ پوچتا ماركاسى وقساس بولدى   ، شياۋميڭنىڭ بۇرىنعى پوچتا ماركاسى قانشا؟",
+        "zh_translation": "小刚和小明共有邮票90张，小刚送给小明18张后两人的邮票同样多，小明原有邮票多少张？",
+        "answer": "27",
+        "en_translation": "How many stamps did Xiao Ming originally have if Xiaogang and Xiaoming together have 90 stamps, and after Xiaogang gives Xiaoming 18 stamps, they have the same number of stamps?"
+    },
+    {
+        "id": "math_kk_13",
+        "question": ". زات 8 يۋان، 10 يۋان تولەپ، قانشا يۋان جاندىرادى ؟",
+        "zh_translation": "买东西8元，付10元，找回多少元？",
+        "answer": "2",
+        "en_translation": "If you paid 10 yuan for an item that costs 8 yuan, how much change should you receive?"
+    },
+    {
+        "id": "math_kk_8",
+        "question": "شياۋميڭ بىلتىر 8 جاستا، بيىل شياۋميڭ جاسى قانشا؟",
+        "zh_translation": "小明去年8岁，今年小明多少岁？",
+        "answer": "9",
+        "en_translation": "Last year Xiaoming was 8 years old, how old is Xiaoming this year?"
+    },
+    {
+        "id": "math_kk_55",
+        "question": ".ءبىر قالتا ۇننىڭ سالماعى 25 كيلوگرام، قانشا دوربا ۇننىڭ سالماعى ءبىر توننا؟",
+        "zh_translation": "一袋面粉重25千克，多少袋袋面粉重正好是1吨？",
+        "answer": "40",
+        "en_translation": "A bag of flour weighs 25 kilograms, how many bags of flour weigh exactly 1 ton?"
+    },
+    {
+        "id": "math_kk_225",
+        "question": "5. تاكسيدىڭ باستالۋ باعاسى 5 يۋان، 2 كيلومەتردەن كەيىن ٴار كيلومەترىنەن 1.8 يۋان اقى الىنادى، شياۋميڭ 15 كيلومەتر شالعايداعى جەرگە بارىپ، كىرە كولىگى قاراجاتىن قانشا يۋان تولەيدى؟",
+        "zh_translation": "出租车的起步价是5元，2千米以后每千米收费1.8元，小明要到15千米远的地方，应付出租车费多少元？",
+        "answer": "28.4",
+        "en_translation": "The starting fare of a taxi is 5 yuan, and after 2 kilometers, it charges 1.8 yuan per kilometer. How much should Xiaoming pay for a taxi ride to a place 15 kilometers away?"
+    },
+    {
+        "id": "math_kk_22",
+        "question": ". ٴبىر بولەك تاس جول سالىنىپ، ٴبىرىنشى ايدا 1200 مەتر جول سالىندى، ەكىنشى ايدا 1600 مەتر جول سالىندى، ونىڭ ۇستىنە 800 مەتر عانا جوندەلمەدى، بۇل تاس جولدىڭ ۇزىندىعى قانشا مەتر؟",
+        "zh_translation": "修一段公路，第一个月修了1200米，第二个月修了1600米，还剩800米没有修，这段公路长多少米？",
+        "answer": "3600",
+        "en_translation": "To build a stretch of road, 1,200 meters were constructed in the first month, 1,600 meters in the second month, and 800 meters remain unconstructed. How long is this stretch of road in total?"
+    },
+    {
+        "id": "math_kk_239",
+        "question": "239ٴبىر اتتىڭ جۇگىرۋ جىلدامدىعى ساعاتىنا 62 كيلومەتر، ٴبىر قابىلاننىڭ جىلدامدىعى جىلقىنىڭ 1.4 ەسەسىندەي، الاۋدىڭ جىلدامدىعى ساعاتىنا قانشا كيلومەتر؟",
+        "zh_translation": "一匹马的奔跑的速度每小时是62千米，一只猎豹的速度是马的1.4倍，猎豹的速度每小时是多少千米？",
+        "answer": "86.8",
+        "en_translation": "What is the speed in kilometers per hour of a cheetah if a horse runs at a speed of 62 km/h and the cheetah's speed is 1.4 times that of the horse?"
+    },
+    {
+        "id": "math_kk_145",
+        "question": "5. ٴبىر جاپالاق: ٴبىر ايدا 35 تىشقان جەۋگە بولادى، ٴبىر جىلدا قانشا تىشقاندى جەۋگە بولادى؟",
+        "zh_translation": "一只猫头鹰一个月能吃35只老鼠，一年可以吃掉多少只老鼠？",
+        "answer": "420",
+        "en_translation": "How many mice can an owl eat in a year if it can eat 35 mice in a month?"
+    },
+    {
+        "id": "math_kk_29",
+        "question": ". 36تەگەنە بار. بۇل تەگەنە كورىنىسىن 4 قاتار قويىپ، ورتا ەسەپپەن ٴار قاتار  قانشا   تەگەنە قويادى؟",
+        "zh_translation": "有36盆盆景。 把这些盆景摆成4排，平均每排摆几盆？",
+        "answer": "9",
+        "en_translation": "There are 36 pot plants. If these pot plants are arranged in 4 rows, how many pots are there in each row on average?"
+    },
+    {
+        "id": "math_kk_220",
+        "question": "0. جەمىس باعىندا 23 ٴتۇپ الما اعاشى، المۇرت اعاشى 77 ٴتۇپ، الما اعاشى مەن المۇرت اعاشىنىڭ جالپى سانى شيە اعاشىنىڭ 2 ەسەسىندەي، شيە اعاشىنىڭ قانشا ٴتۇپ بار ؟",
+        "zh_translation": "果园里有苹果树23棵，梨树77棵，苹果树和梨树的总数是樱桃树的2倍，樱桃树有多少棵？",
+        "answer": "50",
+        "en_translation": "There are 23 apple trees and 77 pear trees in the orchard, and the total number of apple and pear trees is twice the number of cherry trees. How many cherry trees are there?"
+    },
+    {
+        "id": "math_kk_124",
+        "question": "4.ٴبىر اۆتوموبيلدىڭ 2.5 ساعاتتىق مايى شامامەن 20 ليتر بولادى، ورتا ەسەپپەن ٴار ساعاتتا ماي قانشالىق ليتر ؟",
+        "zh_translation": "一辆汽车2.5小时耗油大约20升，平均每小时耗油多少升？",
+        "answer": "8",
+        "en_translation": "How many liters of fuel does a car consume on average per hour if it consumes about 20 liters in 2.5 hours?"
+    },
+    {
+        "id": "math_kk_35",
+        "question": ".ٴاربىر ٴسۇت جاپىراقشاسى 6 يۋان، 2 ٴسۇت جاپىراقشاسى قانشا اقشا؟",
+        "zh_translation": "每包奶片6元，2包奶片多少钱？",
+        "answer": "12",
+        "en_translation": "Each pack of milk tablets costs 6 yuan. How much for 2 packs of milk tablets?"
+    },
+    {
+        "id": "math_kk_94",
+        "question": ". جاڭ ۇستاز 9 كۇندە 171 قالام جاساپ، 912 قالام ٴوندىرىپ، بىرنەشە كۇن ۋاقىت كەتەدى؟",
+        "zh_translation": "张师傅9天可制笔171支，要生产912支笔，需要几天的时间？",
+        "answer": "48",
+        "en_translation": "Master Zhang can make 171 pens in 9 days. How many days are needed to produce 912 pens?"
+    },
+    {
+        "id": "math_kk_3",
+        "question": "12 تەگەنە قىزىل ٴتۇستى راۋشانگۇل، ٴار ەكى تەگەنەنىڭ اراسىنا ٴبىر تەگەنە سارى ٴتۇستى راۋشانگۇل قويىلادى. جيىنى قانشا تەگەنە سارى ٴتۇستى راۋشانگۇلدى قاجەت ەتەدى؟",
+        "zh_translation": "有12盆红色的月季花，每两盆之间放一盆黄色的月季花。一共需要多少盆黄色的月季花？",
+        "answer": "11",
+        "en_translation": "There are 12 pots of red roses, with one pot of yellow roses placed between every two pots of red roses. How many pots of yellow roses are needed in total?"
+    },
+    {
+        "id": "math_kk_204",
+        "question": "4. ءبىر اۆتوموبيل توقتاتۋ الاڭىندا 25 ۇلكەن اۆتوموبيل بار، ورتا اۆتوموبيلدىڭ سانى ۇلكەن اۆتوموبيلدىڭ 2 ەسەسىندەي، جەڭىل اۆتوموبيلدىڭ سانى ۇلكەن اۆتوموبيل مەن ورتاشا اۆتوموبيل سانىنىڭ جالپى سانىنان 13 ى بار، جەڭىل اۆتوموبيلدەردىڭ سانى قانشا؟",
+        "zh_translation": "一个停车场，有25辆大巴，中巴的辆数是大巴的2倍，小轿车的辆数比大巴和中巴辆数的总和还多13辆．小轿车有多少辆？",
+        "answer": "88",
+        "en_translation": "A parking lot has 25 buses, the number of minibuses is twice that of the buses, and the number of cars exceeds the total number of buses and minibuses by 13. How many cars are there?"
+    },
+    {
+        "id": "math_kk_226",
+        "question": "6. ۋاڭ مۇعالىم بۇگىن اي ماۋسىمى مەن جۇنزىلانعا ٴبىر ۋاقىتتا سۋارادى، ەگەر اي ماۋسىمىندا ٴار 3 كۇندە ٴبىر رەت سۋارسا، جۇنزىلان ٴار 5 كۇندە ٴبىر رەت سۋارادى، كەم دەگەندە قانشا كۇن كەيىن وسى ەكى ٴتۇرلى گۇلدى ٴبىر ۋاقىتتا سۋارادى؟",
+        "zh_translation": "王老师今天同时给月季和君子兰浇水，如果月季每3天浇一次水，君子兰每5天浇一次水．至少多少天以后给这两种花同时浇水？",
+        "answer": "15",
+        "en_translation": "If Teacher Wang waters both the monthly rose and the clivia today, and the monthly rose is watered every 3 days and the clivia every 5 days, after at least how many days will both flowers be watered at the same time again?"
+    },
+    {
+        "id": "math_kk_109",
+        "question": "9. كوگالدىڭ اۋماعى 420 شارشى مەتر، ونىڭ كەڭدىگى 8.4 مەتر، كوگالدىڭ ۇزىندىعى قانشا مەتر؟",
+        "zh_translation": "一块草坪的面积是420平方米，它的宽是8.4米．草坪的长是多少米？",
+        "answer": "50",
+        "en_translation": "What is the length of a lawn if its area is 420 square meters and its width is 8.4 meters?"
+    },
+    {
+        "id": "math_kk_43",
+        "question": ". 6200 كيلوگرامنان 1000 كيلوگرامنان ارتىق، قانشا كيلوگرام بولۋعا ٴتيىس؟",
+        "zh_translation": "比6200千克多1000千克，应该是多少千克？",
+        "answer": "7200",
+        "en_translation": "How many kilograms are 1000 kilograms more than 6200 kilograms?"
+    },
+    {
+        "id": "math_kk_206",
+        "question": "6. چا ،يى  نىڭ ارالىعى 522 كيلومەتر، ٴبىر اۆتوموبيل چا  جەردەن يى  جەرگە بارادى، ساعاتىنا 87 كيلومەتر جول جۇرەدى، قانشە ساعاتتا تولىق جولدى باسىپ بولادى ؟",
+        "zh_translation": "甲乙两地相距522千米，一辆汽车从甲地开往乙地，每小时行驶87千米，几小时能行完全程？",
+        "answer": "6",
+        "en_translation": "What is the total time required for a car to travel from location A to location B, which are 522 kilometers apart, if the car travels at a speed of 87 kilometers per hour?"
+    },
+    {
+        "id": "math_kk_76",
+        "question": ". چين مۇعالىم 8 جىپتەن سەكىرىپ 100 يۋان زات ساتۋشىعا بەرەدى، ساتۋشى چين مۇعالىمعا 4 يۋان تاۋىپ بەرەدى، ورتا ەسەپپەن ٴاربىر جىپتەن قانشا يۋان تۇسەدى؟",
+        "zh_translation": "秦老师买8根跳绳给售货员100元，售货员找给秦老师4元，平均每根跳绳多少元？",
+        "answer": "12",
+        "en_translation": "How much did each jump rope cost on average if Teacher Qin bought 8 jump ropes, paid the salesperson 100 yuan, and received 4 yuan in change?"
+    },
+    {
+        "id": "math_kk_184",
+        "question": "4. چا ،يى ەكى شارباق المانىڭ سالماعى قاتارلىلار، قازىر نەگىزگى شارباقتان 12 مىڭ گرام المانى الىپ شىعپ  يى شارباققا سالادى، ناتيجەدە يى شارباقتىڭ سالماعى چا شارباقتىڭ 3 ەسەسىنەن 2 كيلوگرام از بولادى. ەكى شارباق المانىڭ ٴارقايسىسىندا قانشا كيلوگرام بولادى؟",
+        "zh_translation": "甲、乙两筐苹果重量相等．现在从甲筐拿出12千克苹果放入乙筐，结果乙筐苹果的重量就比甲筐的3倍少2千克．两筐苹果原来各有多少千克？",
+        "answer": "25",
+        "en_translation": "The weights of apples in baskets A and B are equal. Now, 12 kilograms of apples are taken from basket A and placed into basket B, resulting in the weight of apples in basket B being 2 kilograms less than three times that of basket A. What was the original weight of apples in each basket?"
+    },
+    {
+        "id": "math_kk_15",
+        "question": ".ٴبىر اڭگىمە كىتابىن، شياۋميڭ ٴۇش كۇندە جيىنى 10 بەت كوردى. ول الدىڭعى كۇنى 5 بەت، كەشە 4 بەت، بۇگىن قانشا  بەت كوردى؟",
+        "zh_translation": "一本故事书，小明三天一共看了10页。他前天看了5页，昨天看了4页，今天看了几页？",
+        "answer": "1",
+        "en_translation": "A storybook, Xiaoming read a total of 10 pages in three days. The day before yesterday, he read 5 pages, and yesterday, he read 4 pages. How many pages did he read today?"
+    },
+    {
+        "id": "math_kk_79",
+        "question": ". شيانتاۋ قالاسى ازيا-تىنىق مۇحيت ازىق-تۇلىك زاۆودى وندىرگەن شيانتاۋ ماركالى دامدەندىرگىش 6 قاپاستىڭ سالماعى 1200 گرام، 10 قاپشىق سياقتى دامدەندىرگىشتەردىڭ سالماعى قانشا گرام؟",
+        "zh_translation": "仙桃市亚太食品厂生产的仙桃牌味精6包刚好重1200克，10包这样的味精重多少克？",
+        "answer": "2000",
+        "en_translation": "How much does 10 packs of Xiantao brand monosodium glutamate, produced by Xiantaoshi Asia-Pacific Food Factory, weigh if 6 packs weigh exactly 1200 grams?"
+    },
+    {
+        "id": "math_kk_42",
+        "question": ".ٴبىرىنشى ساندىق 27، ەكىنشى ساندىق 39، ٴۇشىنشى ساندىق 15، جيىنى قانشا؟",
+        "zh_translation": "第一箱有27个，第二箱有39个，第三箱15个，总共有多少个？ ",
+        "answer": "81",
+        "en_translation": "The first box has 27, the second box has 39, and the third box has 15. How many are there in total?"
+    },
+    {
+        "id": "math_kk_245",
+        "question": "5. شياۋميڭنىڭ 38 پوچتا ماركاسى بار، شياۋحۋاعا 8 ماركا ۇسىنعاننان كەيىن، ەكەۋىنىڭ پوچتا ماركاسى دا كوپ، شياۋحۋانىڭ بۇرىنعى قانشا پوچتا ماركاسى بار؟",
+        "zh_translation": "小明有38张邮票，送给小华8张后，两人的邮票同样多，小华原有多少张邮票？",
+        "answer": "22",
+        "en_translation": "Xiaoming has 38 stamps, and after giving 8 stamps to Xiaohua, they have the same number of stamps. How many stamps did Xiaohua originally have?"
+    },
+    {
+        "id": "math_kk_46",
+        "question": ". جيىنى 32 كيلوگرام الما بولىپ، ورتا ەسەپپەن 4 ادامعا ٴبولىنىپ، ورتا ەسەپپەن ٴار ادامعا قانشا كيلوگرام الما بولەدى؟",
+        "zh_translation": "一共有32千克苹果，平均分给4个人，平均每人分多少千克?",
+        "answer": "8",
+        "en_translation": "There are a total of 32 kilograms of apples, evenly distributed among 4 people. How many kilograms does each person get on average?"
+    },
+    {
+        "id": "math_kk_102",
+        "question": "2. شەشەم جەمىس-جيدەك ەرەن بازارىنان 25.60 يۋاندىق ماڭگو جەمىسىن ساتىپ الدى، 18.80 يۋاندىق قۇمىل قاۋىنىن ول 50 يۋان اقشا تولەدى، قانشا يۋان اقشانى قاەتەرەدى ؟",
+        "zh_translation": "妈妈在水果超市买了25.60元的芒果，18.80元的哈密瓜，她付给收银员50元，应找回多少元钱？",
+        "answer": "5.6",
+        "en_translation": "Mom bought mangoes for 25.60 yuan and cantaloupe for 18.80 yuan at the fruit supermarket. She gave 50 yuan to the cashier. How much change should she receive?"
+    },
+    {
+        "id": "math_kk_118",
+        "question": "8.   10kg كۇرىش ساتىپ العاندا 56.5 يۋان تولەيدى، 4 k g سياقتى كۇرىشتى ساتىپ الۋعا قانشا يۋان كەتەدى؟",
+        "zh_translation": "买10kg大米需付56.5元，买5.4kg同样的大米需要多少元？",
+        "answer": "30.51",
+        "en_translation": "To buy 10 kg of rice costs 56.5 yuan, how much does it cost to buy 5.4 kg of the same rice?"
+    },
+    {
+        "id": "math_kk_90",
+        "question": ". شياۋميڭ كىتاپ دۇكەنىنە بارىپ، 20.6 يۋان سوزدىك ساتىپ الدى، تاعى ٴبىر ٴوسپىرىم ەنتسيكلوپەديا، ورەندەر ەنتسيكلوپەدياسىنىڭ 3 ەسەسىندەي تاعى 8.15 يۋان قىمبات، شياۋميڭ كىتاپ ساتىپ الۋعا قانشا يۋان جۇمسايدى؟",
+        "zh_translation": "小明去书店，买了一本字典用20.6元，还买了一本《少年百科全书》，《少年百科全书》比字典的3倍还贵8.15元，小明买书共花多少元？",
+        "answer": "69.95",
+        "en_translation": "Xiaoming went to the bookstore and bought a dictionary for 20.6 yuan, and also bought a \"Junior Encyclopedia,\" which was 8.15 yuan more expensive than three times the price of the dictionary. How much did Xiaoming spend in total on the books?"
+    },
+    {
+        "id": "math_kk_83",
+        "question": ". اپتالىق ۇزىندىعى 16.c m تىك ٴتورتبۇرىش، ونىڭ اۋدانى قانشا شارشى سانتيمەتر؟",
+        "zh_translation": "周长是16cm的正方形，它的面积多少平方厘米？",
+        "answer": "16",
+        "en_translation": "What is the area in square centimeters of a square with a perimeter of 16 cm?"
+    },
+    {
+        "id": "math_kk_212",
+        "question": "12ٴبىر اۆتوموبيل گۋاڭحۋا قىستاعىنان اۋدان قالاشىعىنا بارىپ، ساعاتىنا 42 كيلومەتر جول باسادى، شوفەر جولدى بىلمەگەندىكتەن، 2 ساعات وتكەننەن كەيىن عانا اۋدان قالاشىعىنان 15 كيلومەتر جول جۇرگەنىن بىلەدى ، گۋاڭحۋا قىستاعىنان اۋدان قالاشىعىنا دەيىنگى تاس جولدىڭ ۇزىندىعى قانشا كيلومەتر ؟",
+        "zh_translation": "一辆汽车从光华村开往县城，每小时行42千米，由于司机对路线不悉，开出2小时后才发现已经开出县城15千米．光华村到县城的公路长多少千米？",
+        "answer": "69",
+        "en_translation": "A car travels from Guanghua Village to the county town at a speed of 42 km per hour. After 2 hours, the driver realizes that they have already driven 15 km past the county town due to unfamiliarity with the route. How many kilometers is the highway from Guanghua Village to the county town?"
+    },
+    {
+        "id": "math_kk_186",
+        "question": "6. ٴبىر پويەز ار  سەكۋندىنا 34 مەتر جول جۇرگەندە، ٴبىر مينۋتتا قانشا مەتر جول جۇرەسىڭ؟",
+        "zh_translation": "一列火车每秒行驶34米，1分钟能行驶多少米？",
+        "answer": "2040",
+        "en_translation": "How many meters can a train traveling at 34 meters per second travel in 1 minute?"
+    },
+    {
+        "id": "math_kk_116",
+        "question": "6. ءبىر سان ءارى 8 دڭ ەسەلىكى ، ءارى 40 بولۋ  سانى، بۇل سان ەڭ كوپ بولعاندا قانشا مۇمكىن؟",
+        "zh_translation": "一个数既是8的倍数，又是40的因数，这个数最大可能是多少？",
+        "answer": "40",
+        "en_translation": "What is the largest possible number that is both a multiple of 8 and a factor of 40?"
+    },
+    {
+        "id": "math_kk_199",
+        "question": "9. ۇزىندىعى 300 مەتر كەلەتىن تاس جولدىڭ ەكى جاعىنا اعاش ەگۋ (ەكى باسىنا ەگۋ) ،ارى 4 مەتىركە ءبىر ءتۇپ كۇرىش ەككەندە قانشا ءتۇپ اعاش ەگۋ كەرەك؟",
+        "zh_translation": "在一条长300米的公路两边栽树（两端要栽），每隔4米栽一棵，这样一共要栽多少棵树？",
+        "answer": "152",
+        "en_translation": "On both sides of a 300-meter-long road, trees are planted (including the ends), with one planted every 4 meters. How many trees are needed in total?"
+    },
+    {
+        "id": "math_kk_246",
+        "question": "6. شياۋفاڭ ساۋدا سارايىنا بارىپ فۋۋا اعاتىن سىم سومكاسىن ساتىپ الىپ، الىپ جۇرگەن اقشانىڭ جارىمىن الىپ، ٴبىر فۋۋا مادەنيەت قۇرالى قورابىن ساتىپ الىپ 36 يۋان جۇمسايدى، وسى كەزدە 92 يۋان قالعان ەدى، شياۋفاڭ ٴاسىلى قانشا يۋان العان ەكەن؟",
+        "zh_translation": "小芳到商场买了一个福娃流线型书包用去所带钱的一半，买一个福娃文具盒用去36元，这时还剩92元．小芳原来带了多少元钱？",
+        "answer": "256",
+        "en_translation": "Xiaofang went to the mall and bought a Fuwawa streamlined backpack, spending half of the money she had with her. She then bought a Fuwawa pencil case for 36 yuan and had 92 yuan left. How much money did Xiaofang originally have?"
+    },
+    {
+        "id": "math_kk_232",
+        "question": "2. مەكتەپ ەكى ويىن گرۋپپاسىن قۇردى، 3 (2) كلاستاعى 39 ادام قيمىلعا قاتىناستى، مۇنىڭ ىشىندە 21 ادام حاتكەرلىك، سۋرەت گرۋپپاسىنا قاتىناستى 24 ادام، ەكى گرۋپپا قاتىناسقان قانشا ادام بار؟",
+        "zh_translation": "学校开设两个兴趣小组，三（2）班39人都参加了活动，其中21人参加书画小组，24人参加美术小组，两个小组都参加的有多少人？",
+        "answer": "6",
+        "en_translation": "The school has set up two interest groups, and all 39 students from Class 3(2) participated in the activities. Among them, 21 students joined the calligraphy and painting group, and 24 students joined the art group. How many students joined both groups?"
+    },
+    {
+        "id": "math_kk_61",
+        "question": ". شياۋميڭنىڭ ۇيىندە 11-ايدىڭ 20-كۇنى تۇستەن كەيىن توك توقتايدى، ۋاقىتى 2: 45-4: 30 بولادى. شياۋميڭ تۇستەن كەيىن ساعات 4: 15 تە وقۋدان تاراعان ول ۇيىنە كەلگەننەن كەيىن قانشا مينۋتتا عانا توك شىعادى؟",
+        "zh_translation": "小明家11月20日下午停电，时间是2：45--4：30。小明下午4：15放学，他到家后过多少分钟才有电？",
+        "answer": "15",
+        "en_translation": "Xiaoming's home experienced a power outage on the afternoon of November 20, from 2:45 to 4:30. Xiaoming finishes school at 4:15 PM. How many minutes after he gets home will the power be back on?"
+    },
+    {
+        "id": "math_kk_71",
+        "question": ".ٴبىر جۇمىسشى 3 ساعاتتا 120 دانا ۇساق-تۇيەك بولشەك وندىرەدى، ورتا ەسەپپەن ٴار ساعاتتا قانشا ۇساق-تۇيەك بولشەك وندىرەدى؟",
+        "zh_translation": "一个工人3小时生产零件120个，平均每小时生产零件多少个？",
+        "answer": "40",
+        "en_translation": "If a worker produces 120 parts in 3 hours, how many parts does he produce on average per hour?"
+    },
+    {
+        "id": "math_kk_101",
+        "question": "1. ۇننىڭ ءار كيلوگرامى 0.92 يۋان، كۇرىشتىڭ ءار كيلوگرامى 0.80 يۋان، ۇن جانە كۇرىشى 15 كيلوگرام، 30 يۋان بەرسەك، قانشا يۋان تاۋىپ قايتەرەدى ؟",
+        "zh_translation": "面粉每千克0.92元，大米每千克0.80元．买面粉和大米各15千克，付出30元，应找回多少元？",
+        "answer": "4.2",
+        "en_translation": "Flour costs 0.92 yuan per kilogram, rice costs 0.80 yuan per kilogram. If you buy 15 kilograms each of flour and rice and pay 30 yuan, how much change should you receive?"
+    },
+    {
+        "id": "math_kk_190",
+        "question": "90مال فەرماسىندا ٴبىر شوق، 27 سيىر 6 اپتا نەمەسە 23 سيىر 9 اپتا تۇتىنسا، ەگەر ٴشوپ اپتاسىنا ٴبىر قالىپتى تەز وسەتىن بولسا، 21 سيىر قانشا  اپتا جەيتىن بولادى ؟",
+        "zh_translation": "牧场上一片牧草，可供27头牛吃6周，或者供23头牛吃9周．如果牧草每周匀速生长，可供21头牛吃几周？",
+        "answer": "12",
+        "en_translation": "A pasture can feed 27 cows for 6 weeks, or 23 cows for 9 weeks. If the grass grows at a uniform rate each week, how many weeks can it feed 21 cows?"
+    },
+    {
+        "id": "math_kk_10",
+        "question": ". شياۋگاڭ بالالار مەرەكەسىن قۇتتىقتاۋ مەنەن گۇل ىستەدى ، 1-كۇنى 10 دال  ىستەدى، بۇدان كەيىن كۇنىنە 10 دال  ارتىق ىستەدى، 3 كۇندە جيىنى قانشا گۇل ىستەلدى؟",
+        "zh_translation": "小刚做红花庆祝六一儿童节，第一天做了10朵，以后每天都比前一天多做10朵，3天一共做了多少朵？",
+        "answer": "60",
+        "en_translation": "How many flowers did Xiaogang make in total over three days for celebrating Children's Day, if he made 10 flowers on the first day and then made 10 more flowers each subsequent day than the previous day?"
+    },
+    {
+        "id": "math_kk_39",
+        "question": ". شياۋگاڭنىڭ ٴۇيى مەكتەپتىڭ باتىسىنان 40 مەتر قاشىقتىقتا، شياۋچياڭنىڭ ٴۇيى مەكتەپتىڭ شىعىسىنداعى 60 مەتر جەردە، ەكى وتباسىنىڭ ارالىعى قانشا مەتر؟",
+        "zh_translation": "小刚家在学校正西40米处，小强家在学校正东60米处，两家相距多少米？",
+        "answer": "100",
+        "en_translation": "How many meters apart are Xiaogang’s house, which is 40 meters due west of the school, and Xiaoqiang’s house, which is 60 meters due east of the school?"
+    },
+    {
+        "id": "math_kk_34",
+        "question": ". شياۋ ميڭ بويىنىڭ بيىكتىگى 128 سانتيمەتر، اكەسىنىڭ بويىنىڭ بيىكتىگى 45 سانتيمەتر، اكەسىنىڭ بويىنىڭ بيىكتىگى قانشا سانتيمەتر؟",
+        "zh_translation": "小明身高128厘米，爸爸的身高比小明高45厘米，爸爸身高多少厘米？",
+        "answer": "173",
+        "en_translation": "Xiaoming's height is 128 cm, and his father is 45 cm taller than Xiaoming. What is his father's height in centimeters?"
+    },
+    {
+        "id": "math_kk_23",
+        "question": ". ۇزىندىعى 900 مەتر، تۇستەن بۇرىن 275 مەترىستەلدى ، تۇستەن كەيىن 345 مەترىستەلدى ، قانشا مەتر قالدى ؟",
+        "zh_translation": "有1根电线长900米，上午用去275米，下午用去345米，还剩多少米？",
+        "answer": "280",
+        "en_translation": "There is a wire 900 meters long. In the morning, 275 meters were used, and in the afternoon, 345 meters were used. How many meters are left?"
+    },
+    {
+        "id": "math_kk_18",
+        "question": ". كوبەيتىندى نومەر35،ەندى باسقا كوبەيتىندى نومەر وعان قاراعاندا 30 ۇلكەن ، ولاردىڭ تاتۋلىعى قانشا؟",
+        "zh_translation": "一个加数是35，另一个加数比它大30，它们的和是多少？",
+        "answer": "100",
+        "en_translation": "One addend is 35, and the other addend is 30 more than it. What is their sum?"
+    },
+    {
+        "id": "math_kk_122",
+        "question": "2. جوعارى قارقىندى تاس جولدىڭ ۇزىندىعى 432 كيلومەتر، ءبىر جولاۋشىلار اۆتوموبيلى 4.5 ساعات ءجۇرىپ بۇكىلدەي جول باسادى؛ ٴبىر جۇك اۆتوموبيلى 5.4 ساعات جول باسىپ، جۇك اۆتوموبيلىنە قاراعاندا قانشا كيلومەتر تەز بولادى؟",
+        "zh_translation": "一条高速公路长432千米，一辆客车4.5小时行完全程；一辆货车5.4小时行完全程．客车的速度比货车快多少千米/时？",
+        "answer": "16",
+        "en_translation": "How many kilometers per hour is the bus faster than the truck, if a highway is 432 kilometers long, a bus travels the entire distance in 4.5 hours, and a truck travels the entire distance in 5.4 hours?"
+    },
+    {
+        "id": "math_kk_198",
+        "question": "8. جەمىس-جيدەك دۇكەنى 23 شارباق الما اكەلىپ، جيىنى 598 يۋان ساتسا، ەگەر ٴاربىر شارباقتىڭ باعاسى بۇرىنعى جارىمىنا تۇسەدى، 598 يۋان قانشا شارباق ساتۋعا بولادى؟",
+        "zh_translation": "水果店运来23筐苹果，一共卖了598元．如果每筐苹果的价格降到了原来的一半，598元可以卖多少筐？",
+        "answer": "46",
+        "en_translation": "A fruit store transported 23 baskets of apples and sold them for a total of 598 yuan. If the price of each basket of apples is reduced to half of the original price, how many baskets can be sold for 598 yuan?"
+    },
+    {
+        "id": "math_kk_9",
+        "question": "بالالار قاتارعا تۇرىپ، ميڭ ميڭ  الدىندا 7 ادام، ميڭ ميڭ قانشالارىندا تۇرادى؟",
+        "zh_translation": "小朋友们排队，明明前面有7个人，明明排在第几个？",
+        "answer": "8",
+        "en_translation": "Children are standing in line, there are 7 people in front of Mingming, what position is Mingming in line?"
+    },
+    {
+        "id": "math_kk_147",
+        "question": "7. شياۋ ۋاڭ 24 يۋانمەن 6 ەستەلىك داپتەردى ساتىپ الادى، جاڭ ميڭ دا بىرنەشە داپتەردى ساتىپ الماقشى بولادى، ٴبىراق شەشەسى وعان 15 يۋان عانا بەرەدى، ول ەڭ كوپ بولعاندا قانشا ەستەلىك داپتەردى ساتىپ الۋعا بولادى؟",
+        "zh_translation": "小王用24元买了6个笔记本，张明也想买几本，可是他妈妈只给他15元，他最多可以买到多少个笔记本？",
+        "answer": "3",
+        "en_translation": "Xiao Wang bought 6 notebooks for 24 yuan. Zhang Ming also wants to buy some, but his mother only gave him 15 yuan. How many notebooks can he buy at most?"
+    },
+    {
+        "id": "math_kk_180",
+        "question": "0. تىك ٴتورتبۇرىشتى دەنە تاربيە الاڭىنىڭ ۇزىندىعى 55 مەتر، ەنى 35 مەتر، شياۋحۋا دەنە تاربيە الاڭىنىڭ جانىندا 3 رەت جۇگىرىپ، قانشا مەتر جۇگىرەدى؟",
+        "zh_translation": "长方形操场，长55米，宽35米．小华沿操场的边跑3圈，跑了多少米？",
+        "answer": "540",
+        "en_translation": "A rectangular playground measures 55 meters in length and 35 meters in width. Xiao Hua runs 3 laps along the edges of the playground. How many meters did he run?"
+    },
+    {
+        "id": "math_kk_48",
+        "question": ". 3ادام تاق-تۇق دوپ جارىسىن  وتكىزەدى، ٴار 2 ادام ٴبىر مايدان جارىسقا تۇسەدى، جيىنى قانشا مايدان سوعىسادى؟",
+        "zh_translation": "有3个人要进行乒乓球比赛，每2人都要对打一场，一共要对打多少场？",
+        "answer": "3",
+        "en_translation": "There are 3 people who want to have a ping pong match. Each pair of people will play against each other once. How many matches will there be in total?"
+    },
+    {
+        "id": "math_kk_165",
+        "question": "5. ەگەر بىر توننا كەرەكسىز قاعاز جىيىپ السا 800 كيلوگرام قايتا تۋىندايتىن قاعاز ىستەپ شىعارعالى بولادى، مولشەرمەن 18 ءتۇپ اعاش كەسىلۋدەن كەشىرىم ىستەلەدى. مۇنداي بويىنشا ەسەپتەگەندە، وندايدا مەكتەپ ٴار ايدا 500 كيلوگرام كەرەكسىز قاعاز جىيىپ الادى، بىر جىلدا قانشا كيلوگرام قايتا تۋىندايتىن قاعاز ىستەپ شىعارۋعا بولادى؟",
+        "zh_translation": "如果回收1吨废纸能生产800千克再生纸，大约能让18棵树免受砍伐．照这样计算，那么学校每月回收废纸500千克，一年共可生产多少千克再生纸？",
+        "answer": "4800",
+        "en_translation": "If recycling 1 ton of waste paper can produce 800 kilograms of recycled paper and save approximately 18 trees from being cut down, then how many kilograms of recycled paper can the school produce in a year if it recycles 500 kilograms of waste paper each month?"
+    },
+    {
+        "id": "math_kk_177",
+        "question": "7. باعىمشىلىق فەرماسىندا 42 مەكيەن بار، 6 مەكيەن بار، اتەشتىڭ سانى اتەجەنىڭ قانشا ەسەسىنە تەڭ؟",
+        "zh_translation": "饲养场有母鸡42只，有公鸡6只．母鸡只数是公鸡只数的多少倍？",
+        "answer": "7",
+        "en_translation": "How many times is the number of hens the number of roosters on the farm, if there are 42 hens and 6 roosters?"
+    },
+    {
+        "id": "math_kk_148",
+        "question": "8. شياۋ ۋاڭ 24 يۋانمەن 6 ەستەلىك داپتەردى ساتىپ الادى، جاڭ ميڭ دا بىرنەشە داپتەردى ساتىپ الماقشى بولادى، ٴبىراق شەشەسى وعان 15 يۋان عانا بەرەدى، ول ەڭ كوپ بولعاندا قانشا ەستەلىك داپتەردى ساتىپ الۋعا بولادى؟",
+        "zh_translation": "爸爸开车去奶奶家，去时用了3小时，回来时用了2小时．如果爸爸去时的速度是48千米/时，那么离奶奶家有多少千米？",
+        "answer": "144",
+        "en_translation": "Dad drove to grandma's house, taking 3 hours, and took 2 hours to come back. If dad's speed was 48 km/h on the way there, how many kilometers away is grandma's house?"
+    },
+    {
+        "id": "math_kk_171",
+        "question": "1. مەكتەپتىڭ 3-جىلدىعىنداعى 9 كلاس جيىنى 504 ٴتۇپ اعاش، ٴاربىر كلاسقا قانشا ٴتۇپ اعاش ەكتى؟",
+        "zh_translation": "学校三年级9个班共栽了504棵树，每个班栽了多少棵树？",
+        "answer": "56",
+        "en_translation": "How many trees did each of the 9 third-grade classes plant if they planted 504 trees in total?"
+    },
+    {
+        "id": "math_kk_249",
+        "question": "9. شياۋگاڭنىڭ ٴۇيى مەن شياۋپونىڭ ٴۇيى جەكە-جەكە مەكتەپتىڭ شىعىس، باتىس ەكى جاعىندا، ەكەۋى ٴبىر ۋاقىتتا مەكتەپتەن قايتىپ كەلەدى، شياۋگاڭنىڭ ٴار جولى 70 مەتر جۇرەدى، شياۋبو ٴار جولى 75 مەتر جۇرەدى. 6 ادام ٴبىر ۋاقىتتا ۇيگە كەلدى، ەكى وتباسىنىڭ ارالىعى قانشا مەتر؟",
+        "zh_translation": "小刚家和小波家分别在学校的东、西两面，两人同时离校回家，小刚每分走70米，小波每分走75米。经过6分两人同时到家，两家相距多少米？",
+        "answer": "870",
+        "en_translation": "How far apart are Xiaogang's home and Xiaobo's home if Xiaogang's home is to the east of the school and Xiaobo's home is to the west, and they both leave school at the same time? Xiaogang walks 70 meters per minute, and Xiaobo walks 75 meters per minute. After 6 minutes, they both arrive home at the same time. How far apart are the two homes?"
+    },
+    {
+        "id": "math_kk_153",
+        "question": "3. دەنە-تاربيە سىناعىنان ٴار رەت 6 ساباقتاس، شياۋميڭ 35شىنشى ، ول نەشىنشى رەت سىناق ىستەۋى كەرەك؟",
+        "zh_translation": "体育测试每次测试6名同学，小明是第35个，他应该在第几次测试？",
+        "answer": "6",
+        "en_translation": "In a physical test, each test involves 6 students. Xiao Ming is the 35th student. In which test should he participate?"
+    },
+    {
+        "id": "math_kk_173",
+        "question": "3. تىك ٴتورتبۇرىشتى كوكونىس اتىزىنىڭ ۇزىندىعى 196 مەتر بولىپ، كوكونىس اتىزىنىڭ توڭىرەگىن بويلاپ ٴبىر اينالىپ، جيىنى قانشا مەتر جول ٴجۇردى؟",
+        "zh_translation": "正方形菜地的边长是196米，沿菜地的四周走一圈，共走了多少米？",
+        "answer": "784",
+        "en_translation": "What is the total distance walked around the perimeter of a square vegetable garden if each side is 196 meters long?"
+    },
+    {
+        "id": "math_kk_200",
+        "question": "0. لي مۇعالىم كلاستاعى 49 وقۋشىنى ەرتىپ حايۋاناتتار باقشاسىنا بارىپ، جول بويى كەمەگە وتىرىپ وزەننەن وتەدى، ٴبىر كەمەگە 4 ادام عانا وتىرادى، كەم دەگەندە قانشا كەمەنى الىپ بولۋعا بولادى؟",
+        "zh_translation": "李老师带班上49名学生去参考动物园，途中要坐船过河，一只小船只能坐4人，至少需要多少只小船才能把他们渡完？",
+        "answer": "13",
+        "en_translation": "Teacher Li is taking 49 students to the zoo, and they need to take a boat across the river. If a small boat can only hold 4 people, what is the minimum number of boats required to get everyone across?"
+    },
+    {
+        "id": "math_kk_74",
+        "question": ". مىنا 5 سان كىشكەنەدەن ۇلكەيگەنگە قاراي تىزىلەدى: 3، 5، 8، 10، 1. بۇل گرۋپپانىڭ ورىن سانى قانشا؟",
+        "zh_translation": "有5个数按从小到大排列为：3、5、8、10、11．这组数的中位数是多少？",
+        "answer": "8",
+        "en_translation": "What is the median of the following set of numbers arranged in ascending order: 3, 5, 8, 10, 11?"
+    },
+    {
+        "id": "math_kk_151",
+        "question": "1. بىر تال سىم ۇزىندىعى 65 مەتر بولىپ، كولەمى 18 مەتر ۇزىندىقتاعى تىك ٴتورتبۇرىش بولىپ قالعاننان كەيىن، قالعان 3 مەتر ۇزىندىقتاعى تىك ٴتورتبۇرىش كەڭدىگى قانشا مەتر بولادى؟",
+        "zh_translation": "一根铁丝长65米，围成一个长为18米的长方形后，还余下3米铁丝．围成的长方形的宽是多少米？",
+        "answer": "13",
+        "en_translation": "A piece of iron wire is 65 meters long. After forming a rectangle with a length of 18 meters, there are 3 meters of iron wire left. What is the width of the rectangle in meters?"
+    },
+    {
+        "id": "math_kk_163",
+        "question": "3. پويەزدىڭ ٴاربىر ۆاگونىنا 123 ادام وتىرادى، مۇنداي 8 ۆاگونعا قانشا ادام وتىرۋعا بولادى؟",
+        "zh_translation": "一列火车每节车厢坐123人，这样8节车厢可以坐多少人？",
+        "answer": "984",
+        "en_translation": "If each train car seats 123 people, how many people can 8 train cars seat?"
+    },
+    {
+        "id": "math_kk_219",
+        "question": "9.ەگەر 10 كيلوگرام سارى بۇرشاق 4.3 كيلوگرام ماي تارتسا، وندا ٴبىر توننا سارى بۇرشاقتى قانشا مىڭ گرام الۋعا بولادى؟",
+        "zh_translation": "如果10千克黄豆可以榨油4.3千克，那么1吨黄豆可以榨油多少千克？",
+        "answer": "430",
+        "en_translation": "If 10 kilograms of soybeans can produce 4.3 kilograms of oil, how many kilograms of oil can be produced from 1 ton of soybeans?"
+    },
+    {
+        "id": "math_kk_203",
+        "question": "3. مەكتەپتە جاڭادان 210 جاڭا ۇستەل، ورىندىقاكەلدى ، ۇستەلدىڭ ٴار پاراعى 110 يۋان، ورىندىعى 40 يۋان بولىپ، وسى ۇستەل، ورىندىق قوسىلدى، مەكتەپ قانشا اقشا ىستەتتى؟",
+        "zh_translation": "学校新添置了210套新课桌椅，桌子每张110元，椅子每张40元，添置这批课桌椅，学校共用了多少钱？",
+        "answer": "31500",
+        "en_translation": "The school has purchased 210 sets of new desks and chairs, with each desk costing 110 yuan and each chair costing 40 yuan. How much did the school spend in total on these desks and chairs?"
+    },
+    {
+        "id": "math_kk_139",
+        "question": "9. ٴبىردەن بىر3،   ءبىر پروتسە نتدەن5 ،  مىڭ پروتسەنتدەن4دەن قۇرالعان سان قانشا؟",
+        "zh_translation": "3个一，5个百分之一，4个千分之一组成的数是多少？",
+        "answer": "3.054",
+        "en_translation": "What is the number composed of 3 ones, 5 hundredths, and 4 thousandths?"
+    },
+    {
+        "id": "math_kk_193",
+        "question": "3. اكەسى بيىل 39 جاستا، ۇلىنىڭ جاسىنان 3 ەسەسىنەن 3 جاس چوڭ ، ۇلى بيىل نەشە جاستا؟",
+        "zh_translation": "爸爸今年39岁，比儿子年龄的3倍多3岁，儿子今年几岁？",
+        "answer": "12",
+        "en_translation": "This year, the father is 39 years old, which is 3 years more than 3 times the son's age. How old is the son this year?"
+    },
+    {
+        "id": "math_kk_196",
+        "question": "6. جوۋ جۋاڭ 1600 مەترلىك ۇلكەن جول سالىپ، 12 كۇن جوندەلدى، 652 مەتر قالعان، ورتا ەسەپپەن كۇنىنە قانشا مەتر جوندەيدى؟",
+        "zh_translation": "周庄要修一条1600米的大路，已经修了12天，还剩652米．平均每天修多少米？",
+        "answer": "79",
+        "en_translation": "Zhouzhuang is building a 1600-meter road, with 12 days already spent and 652 meters remaining. On average, how many meters are constructed each day?"
+    },
+    {
+        "id": "math_kk_32",
+        "question": ".ياۋميڭ ۇلكەن ٴارىپ جازىپ، ٴار كۇنى 3 ماقالا، 5 كۇندە قانشا ماقالا جازادى؟",
+        "zh_translation": "小明写大字，每天写3篇，5天共写多少篇？",
+        "answer": "15",
+        "en_translation": "How many pieces of calligraphy does Xiaoming write in 5 days if he writes 3 pieces each day?"
+    },
+    {
+        "id": "math_kk_75",
+        "question": ". لي اعاي ۇزىندىعى 3 مەتر كەلەتىن بامبۇك سىرىقتى سۋعا تىك سۇعىپ، بامبۇك سىرىقتىڭ باتپاققا كىرگەن بولەگى 0.5 مەتر بولىپ، سۋ بەتىنىڭ ٴبىر بولەگى 0.2 مەتر، سۋ تەرەڭدىگى قانشا مەتر؟",
+        "zh_translation": "李叔叔把一根3米长的竹竿竖直插入水中，竹竿入泥部分是0.5米，露出水面部分是0.2米，水深多少米？",
+        "answer": "2.3",
+        "en_translation": "Uncle Li inserted a 3-meter-long bamboo pole vertically into the water. The portion of the pole embedded in the mud is 0.5 meters, and the portion exposed above the water is 0.2 meters. How deep is the water in meters?"
+    },
+    {
+        "id": "math_kk_202",
+        "question": "2. اۆتوموبيلدىڭ تاۋعا شىعۋ جىلدامدىعى 40 كيلومەتر/ساعات ، 6 ساعات تاۋ باسىنا بارۋ. اۋەلگى جولدان قايتۋ جىلدامدىعى 48 كيلومەتر / ساعات بولادى، بۇل اۆتوموبيلدىڭ قايتىپ كەلۋىنە قانشا ساعات ۋاقىت كەتەدى؟",
+        "zh_translation": "汽车上山速度是40千米/时，用了6小时到山顶．原路返回速度是48千米/时，这辆汽车返回时用了多少小时？",
+        "answer": "5",
+        "en_translation": "The speed of a car going uphill is 40 km/h, and it takes 6 hours to reach the top. On the way back, the speed is 48 km/h. How many hours does it take for the car to return?"
+    },
+    {
+        "id": "math_kk_237",
+        "question": "7. داي مۇعالىم 400 يۋان ەرتىپ، شينحۋا كىتاپ دۇكەنىنە بارىپ، «باستاۋىش مەكتەپ ماتەماتيكا جارىسى سۇراۋلارىن» ساتىپ الادى، «باستاۋىش مەكتەپ ماتەماتيكا جارىسى سۇراۋلارىنىڭ ءاربىر سوزدىگى» 38.50 يۋان، مۇعالىم قانەشە داپتەر ساتىپ الا الادى؟",
+        "zh_translation": "戴老师带了400元钱去新华书店买《小学数学竞赛题典》，每本《小学数学竞赛题典》38.50元．戴老师可以买回几本？",
+        "answer": "10",
+        "en_translation": "How many copies of \"Elementary School Math Competition Question Book\" can Teacher Dai buy at Xinhua Bookstore if each copy costs 38.50 yuan and Teacher Dai brings 400 yuan?"
+    },
+    {
+        "id": "math_kk_28",
+        "question": ". مەن 3بش  بانان ساتىپ الدىم ، ءبىر دە 6 تال بانان بار ، 1 ادامعا بىروۋ عە 1 تال بانان  بولىپ 2-جىلدىق  (1)كلاستىڭ  ساباقتاستارىما ءبولىپ بەردى.  2-جىلدىق  (1)كلاستىڭ گرۋپپاسىندا قانشا ادام بار؟",
+        "zh_translation": "我买了3把香蕉，1把6个，1人1个刚好分给二（1）班第一小组的同学。二（1）班第一小组有多少人？",
+        "answer": "18",
+        "en_translation": "I bought 3 bunches of bananas, each bunch has 6 bananas, enough to give one banana per person to the first group of class 2(1). How many people are in the first group of class 2(1)?"
+    },
+    {
+        "id": "math_kk_126",
+        "question": "6. ەكى پويەز ەكى بەكەتتەن ٴبىر ۋاقىتتا ٴبىر باعىتتا شىقتى. A اۆتوموبيل ساعاتىنا 95 كيلومەتر جول باستى، B اۆتوموبيلى ساعاتىنا 85 كيلومەتر جول باستى، 3 ساعاتتا  ەكى پويەز جولىعادى ، ەكى پويەز بەكەتى اراسىنداعى تەمىر جول ۇزىندىعى قانشا كيلومەتر؟",
+        "zh_translation": "两列火车从两个车站同时相向开出．甲车每小时行95千米，乙车每小时行85千米，经过3小时两车相遇．两个车站之间的铁路长多少千米？",
+        "answer": "540",
+        "en_translation": "Two trains depart from two stations simultaneously towards each other. Train A travels at 95 km/h and Train B travels at 85 km/h. They meet after 3 hours. What is the length of the railway between the two stations?"
+    },
+    {
+        "id": "math_kk_243",
+        "question": "3. بىر تال اعاش ماتەريالىن 3 كە 3.6 مينۋت ارالاۋعا تۋرا كەلەدى، ەگەر 5 ساتىعا قانشا مينۋت ۋاقىت كەتەدى؟",
+        "zh_translation": "一根木料锯成3段需要3.6分钟，如果锯成5段需要多少分钟？",
+        "answer": "7.2",
+        "en_translation": "To cut a piece of wood into 3 sections, it takes 3.6 minutes. How many minutes are needed to cut it into 5 sections?"
+    },
+    {
+        "id": "math_kk_82",
+        "question": ".ٴبىر اپتانىڭ باستىعى 40cm، ۇزىندىعى 13cm، ۇزىندىعى ۇزىندىعى قانشا..؟",
+        "zh_translation": "一个周长是40cm，长是13cm的长方形，宽是多少cm？",
+        "answer": "7",
+        "en_translation": "What is the width of a rectangle with a perimeter of 40 cm and a length of 13 cm?"
+    },
+    {
+        "id": "math_kk_21",
+        "question": ". 26بالىق ورتا ەسەپپەن 2 كىشكەنتاي گۇل مىسىعىنا بولىنەدى، ٴاربىر كىشكەنتاي گۇل مىسىعى بىرنەشە تارماققا بولىنەدى؟",
+        "zh_translation": "26条鱼平均分给2只小花猫，每只小花猫分到几条？",
+        "answer": "13",
+        "en_translation": "How many fish does each kitten get if 26 fish are equally divided between 2 kittens?"
+    },
+    {
+        "id": "math_kk_227",
+        "question": "7. سۋ توعانىن جوندەۋدە بۇرىن كۇنىنە 0.24 كيلومەتر جول جوندەۋ جوسپارلاندى، ءىس جۇزىندە كۇنىنە بۇرىنعى جوسپارداعىدان 0.06 كيلومەتر، 12 كۇننەن كەيىن تاعى 0.4 كيلومەتر كەم بولىپ، جوندەلمەگەن، بۇل توعاننىڭ ۇزىندىعى قانشا كيلومەتر؟",
+        "zh_translation": "修一条水渠，原计划每天修0.24千米，实际每天比原计划多修0.06千米．12天后还差0.4千米没修．这条水渠长是多少千米？",
+        "answer": "4",
+        "en_translation": "To construct a water channel, the original plan was to build 0.24 kilometers per day, but in fact, 0.06 kilometers more was built each day than originally planned. After 12 days, there was still 0.4 kilometers left to build. How long is the water channel in total?"
+    },
+    {
+        "id": "math_kk_115",
+        "question": "5. ءبىر تەگىس، ءتورت قىرلى جارناما تاقتاسىنىڭ ءتۇبى 12 مەتر، بيىكتىگى 6 مەتر، ەگەر سىر دەگەن جارناما تاقتاسىنا تۋرا كەلسە، ءار شارشى مەترىنە 16 مىڭ گرام سىرمەن قانشا كيلوگرام سىر كەتەدى؟",
+        "zh_translation": "一块平行四边形的广告牌，底是12米，高是6米．如果要油漆这块广告牌，每平方米用油漆1.6千克，需要多少千克油漆？",
+        "answer": "115.2",
+        "en_translation": "A parallelogram-shaped billboard has a base of 12 meters and a height of 6 meters. If painting this billboard requires 1.6 kilograms of paint per square meter, how many kilograms of paint are needed?"
+    },
+    {
+        "id": "math_kk_140",
+        "question": "0. لي شين اڭگىمە كورەدى ، 8 كۇندە 64 بەت وقىپ، وسى بويىنشا ەسەپتەگەندە، ول وسى 240 بەتتىك اڭگىمە كىتابىن وقىپ بولۇ ۇشۇن  قانشا كۇن كەتەدى؟",
+        "zh_translation": "李新看故事书，8天看了64页，照这样计算，他看完这本240页的故事书要用多少天？",
+        "answer": "30",
+        "en_translation": "Li Xin reads storybooks, and he read 64 pages in 8 days. Based on this calculation, how many days will it take him to finish this 240-page storybook?"
+    },
+    {
+        "id": "math_kk_37",
+        "question": ". شياۋلي بيىل 12 جاستا، ول 3 جىلدا  ٴبىر رەت بەيجيڭگە بارادى، وندا ول 12 جىلدا قانشا رەت بەيجيڭگە بارادى؟",
+        "zh_translation": "小丽今年12岁，她每3年去一次北京，那么她12年中去了多少次北京？",
+        "answer": "4",
+        "en_translation": "Xiaoli is 12 years old this year. She goes to Beijing once every three years, so how many times did she go to Beijing in 12 years?"
+    },
+    {
+        "id": "math_kk_62",
+        "question": ".ٴبىر قالام 5 يۋان، 200 قالام قانشا يۋان؟",
+        "zh_translation": "1支钢笔5元钱，200支钢笔多少元？",
+        "answer": "1000",
+        "en_translation": "If one pen costs 5 yuan, how much do 200 pens cost?"
+    },
+    {
+        "id": "math_kk_57",
+        "question": ".ۇزىندىعى 22 مەتر كەلەتىن ٴبىر ارقاندى 9 مەتر كەسىپ ٴبىر ۇزىن ارقان جاسايدى، قالعان ٴار 2 مەتر ٴبىر تال قىسقا ارقان جاسايدى، بىرنەشە تال قىسقا ارقان جاساۋعا بولادى؟",
+        "zh_translation": "一根长22米的绳子，剪下9米做一根长绳，剩下的每2米做一根短绳，可以做几根短绳？",
+        "answer": "6",
+        "en_translation": "A rope is 22 meters long. After cutting off 9 meters to make a long rope, how many short ropes, each 2 meters long, can be made from the remaining length?"
+    },
+    {
+        "id": "math_kk_146",
+        "question": "6. ساۋىن سيىر فەرماسىندا 5 جىلىجاي بار، ءار جىلىجايدا 8 ساۋىن سيىر بار، ءبىر كۇندە جيىنى 800 كيلوگرام جەم-ءشوپ بەرىلەدى، ءار ادامعا ورتا ەسەپپەن قانشا كيلوگرام جەم-ءشوپ بەرىلەدى؟",
+        "zh_translation": "奶牛场有5个大棚，每个大棚有8头奶牛．一天共喂800千克饲料，平均每头喂多少千克饲料？",
+        "answer": "20",
+        "en_translation": "The dairy farm has 5 sheds, each with 8 cows. A total of 800 kilograms of feed is given in one day. On average, how many kilograms of feed is given to each cow?"
+    },
+    {
+        "id": "math_kk_49",
+        "question": ". ەكولوگيالىق حايۋاناتتار باقشاسىندا تۇستەن بۇرىن 842 ساياحاتشى بار ەدى، تۇستە 266 ادام كەتكەننەن كەيىن تاعى 315 ادام كەلدى، بۇل كەزدە باقشادا قانشا ساياحاتشى بار؟",
+        "zh_translation": "生态动物园上午有游客842人，中午有266人离去．下午又来了315人，这时园内有多少游客？",
+        "answer": "891",
+        "en_translation": "In the morning, there were 842 visitors in the ecological zoo. By noon, 266 people left. In the afternoon, 315 more people arrived. How many visitors are there in the zoo now?"
+    },
+    {
+        "id": "math_kk_17",
+        "question": ". حۇان حۇاندىن 15 اۋا شارىبار ، 6 شار ۇشىپ كەتىپ، تاعى قانشاسى قالدى؟",
+        "zh_translation": "欢欢有15个气球，飞走了6个，还剩几个？",
+        "answer": "9",
+        "en_translation": "Huanhuan has 15 balloons, 6 flew away, how many are left?"
+    },
+    {
+        "id": "math_kk_221",
+        "question": "1. الەم كەمەسى 5 سەكۋندتا 60 كيلومەتر ۇشادى ، مۇنداي جىلدامدىقپەن جۇزگەندە، 300 كيلومەتر ۇشىپ، قانشا سەكۋند شىعادى؟",
+        "zh_translation": "宇宙飞船5秒航行60千米．照这样的速度，它飞行300千米要多少秒？",
+        "answer": "25",
+        "en_translation": "A spaceship travels 60 kilometers in 5 seconds. At this speed, how many seconds will it take to travel 300 kilometers?"
+    },
+    {
+        "id": "math_kk_84",
+        "question": ".تاق-تۇق دوپ سالماعى 4 گرام، 50 تاق-تۇق دوپ سالماعى قانشا گرام؟",
+        "zh_translation": "一只乒乓球重4克，50只乒乓球重多少克？",
+        "answer": "200",
+        "en_translation": "A ping pong ball weighs 4 grams. How many grams do 50 ping pong balls weigh?"
+    },
+    {
+        "id": "math_kk_63",
+        "question": ".  6ساندىق بال اراسى ٴبىر جىلدا 372 كيلوگرام بال اشسا، وسى بويىنشا ەسەپتەگەندە، 9 ساندىق بال اراسى ٴبىر جىلدا قانشا كيلوگرام بال اشىتا الادى؟",
+        "zh_translation": "6箱蜜蜂一年可以酿372千克蜂蜜．照这样计算，9箱蜜蜂一年可以酿多少千克蜂蜜？",
+        "answer": "558",
+        "en_translation": "If 6 beehives can produce 372 kilograms of honey in one year, how many kilograms of honey can 9 beehives produce in one year at the same rate?"
+    },
+    {
+        "id": "math_kk_86",
+        "question": ". كلاستاردى ورنالاستىرۋعا كەيبىر قاعاز تىرنالار قاجەت، ٴار تىزبەك 12 تىزبەك، 12كەتەدى،جيىنى قانشا قاعاز تىرنا قاجەت؟",
+        "zh_translation": "布置教室需要一些纸鹤，每串12只，需要12串，一共需要多少只纸鹤？",
+        "answer": "144",
+        "en_translation": "To decorate the classroom, some paper cranes are needed. Each string has 12 cranes, and 12 strings are needed. How many paper cranes are needed in total?"
+    },
+    {
+        "id": "math_kk_127",
+        "question": "7. شياۋلي وتباسىنىڭ اۋا رەتتەگىش ساعاتىنا 1.2 كيلوۆاتتىق توك سارىپ ەتەدى، ونىڭ ٴۇيى 8-ايدا ورتا ەسەپپەن كۇنىنە 5 ساعات اۋا رەتتەگىشتى اشادى،0.75 ەلەكتر باعاسى كيلوۆات ساعات بويىنشا ەسەپتەگەندە، ونىڭ ٴۇيى 8-ايدا اۋا رەتتەگىشتى ايداپ ىستەتكەن توك اقىسى قانشا يۋان؟",
+        "zh_translation": "小丽家的空调每小时耗电1.2千瓦，她家八月份平均每天开空调5小时，电价按0.75元/千瓦时计算，她家八月份开空调所用的电费是多少元？",
+        "answer": "139.5",
+        "en_translation": "How much is the electricity cost in August for Xiao Li's air conditioner, which consumes 1.2 kW per hour, is used on average 5 hours per day, and the electricity price is calculated at 0.75 yuan/kWh?"
+    },
+    {
+        "id": "math_kk_224",
+        "question": "4. مەكتەپ ءبىر ساباقحانانىڭ ءتورت بەتى  مەن اشەكەيلى تاقتاسىن سىر شوتكىلەۋ كەرەك، ساباقحانانىڭ ۇزىندىعى 9 مەتر، كەڭدىگى 7 مەتر، بيىكتىگى 3 مەتر، ەسىك-تەرەزەنىڭ اۋدانى 12.5 شارشى مەتردەن باسقا ، ەگەر ءار شارشى مەترلىك جۇمىس باعاسى 0.4 يۋان بولسا، وسى كلاستىڭ جالپى جۇمىس باعاسى قانشا يۋان بولادى؟",
+        "zh_translation": "学校要粉刷一间教室的四壁和天花板．教室的长9米，宽7米，高是3米，扣除门窗的面积12.5平方米，如果每平方米工价0.4元，粉刷这间教室共需工价多少元？",
+        "answer": "58.6",
+        "en_translation": "The school wants to paint the four walls and the ceiling of a classroom. The classroom is 9 meters long, 7 meters wide, and 3 meters high, with the area of doors and windows being 12.5 square meters. If the cost of labor is 0.4 yuan per square meter, how much total labor cost is needed to paint this classroom?"
+    },
+    {
+        "id": "math_kk_1",
+        "question": "4 ون مەن 6 بىر نىڭ قۇرالعان سانى نە؟",
+        "zh_translation": "4个十和6个一组成的数是什么？",
+        "answer": "46",
+        "en_translation": "What is the number composed of 4 tens and 6 ones?"
+    },
+    {
+        "id": "math_kk_161",
+        "question": "1.  8 عىنشى ايدا  كولشىگىنىڭ جالپى كىرىسى 35154 يۋان بولدى، وسى ايدا ورتا ەسەپپەن كۇنىنە قانشا يۋان كىرىس كىرگىزەدى؟",
+        "zh_translation": "八月份，游泳池的总收入为35154元，这个月平均每天收入多少元？",
+        "answer": "1134",
+        "en_translation": "In August, the total income of the swimming pool was 35,154 yuan. What was the average daily income for this month?"
+    },
+    {
+        "id": "math_kk_172",
+        "question": "2. تىك ٴتورتبۇرىشتى كوكونىس اتىزى، ۇزىندىعى 7 مەتر، كەڭدىگى 3 مەتر، ۋاڭ اعاي كوكونىس اتىزىنىڭ توڭىرەگىنە قورشاۋ تۇرعىزۋى كەرەك، ەگەر ٴبىر جاعى داۋال بولسا، قورشاۋ كەم دەگەندە قانشا مەتر بولادى؟",
+        "zh_translation": "一块长方形菜地，长7米，宽3米，王叔叔要在菜地周围围上篱笆，如果一面靠墙，篱笆至少要多少米？",
+        "answer": "48",
+        "en_translation": "A rectangular vegetable garden is 7 meters long and 3 meters wide. Uncle Wang wants to put a fence around the garden, with one side against a wall. What is the minimum length of the fence needed?"
+    },
+    {
+        "id": "math_kk_182",
+        "question": "2.ٴبىر شاپان 106 يۋان، شەشەسى وسىنداي ەكى كيىم ساتىپ السا، جيىنى قانشا يۋان كەتەدى؟",
+        "zh_translation": "一件上衣106元，妈妈买了两件这样的上衣，一共要多少元钱？",
+        "answer": "212",
+        "en_translation": "A jacket costs 106 yuan, and mom bought two of these jackets. How much money does she need in total?"
+    },
+    {
+        "id": "math_kk_103",
+        "question": "3. مەكتەپتە راديو گيمناستيكاسى جارىسى وتكىزىلدى، 24 كلاس قاتىناسىپ، ٴار كلاستا 5 گرۋپپا بولىپ ٴتىزىلدى، ٴار گرۋپپادا 11 ادام، جيىنى قانشا ادام جارىسقا قاتىناستى؟",
+        "zh_translation": "学校举行广播操比赛，有24个班参加，每个班排成5组，每组有11人，一共有多少人参加比赛？",
+        "answer": "1320",
+        "en_translation": "How many people participated in the radio gymnastics competition at the school if there were 24 classes participating, each class was divided into 5 groups with 11 people in each group?"
+    },
+    {
+        "id": "math_kk_185",
+        "question": "5. ساۋدا دۇكەندەرى كۇنىنە 24  قيىم ساتىلدى، ٴاربىر سىرتقى كيىمنىڭ ساتىلۋ باعاسى 268 يۋان، بولشەك ساتۋ باعاسى 346 يۋان، ساۋدا دۇكەندەرى بۇگىن قانشا يۋان پايدا تاپتى؟",
+        "zh_translation": "商店一天卖出皮夹克24件，每件皮夹克进价为268元，零售价为346元，商店今天赚了多少元？",
+        "answer": "1872",
+        "en_translation": "How much did the shop earn today if it sold 24 leather jackets in one day, with each jacket having a cost price of 268 yuan and a retail price of 346 yuan?"
+    },
+    {
+        "id": "math_kk_24",
+        "question": ". شياۋميڭ بيىل 7 جاستا، شەشەسى شياۋميڭنىڭ 24 جاستا، اكەسىنىڭ جاسى شياۋميڭنىڭ 5 ەسەسىندەي. اكەسى بيىل جاس قانشا جاستا؟",
+        "zh_translation": "小明今年7岁，妈妈比小明大24岁，爸爸的岁数是小明的5倍。 爸爸今年多少岁？",
+        "answer": "35",
+        "en_translation": "Xiaoming is 7 years old this year. Xiaoming's mother is 24 years older than Xiaoming, and Xiaoming's father's age is 5 times Xiaoming's age. How old is Xiaoming's father this year?"
+    },
+    {
+        "id": "math_kk_4",
+        "question": ".شياۋدۇڭدا اۋمىننىڭ وتان قۇشاعىنا ورالعاندىعىنىڭ ون  جىلدىعى ەستەلىك پوچتا ماركاسىنان10 بار، 5 تى دوسىنا ۇسىنىلعاننان كەيىن، شەشەسى شياۋدۇڭعا تاعى 4 دانا ساتىپ الدى، شياۋدۇڭ قازىر قانشا دانابار ؟",
+        "zh_translation": "小冬有10张澳门回归十周年纪念邮票，送给朋友5张后，妈妈又给小冬买来4张，小冬现在有多少张？",
+        "answer": "9",
+        "en_translation": "Xiao Dong has 10 commemorative stamps for the 10th anniversary of Macau's return. After giving 5 to his friends, Xiao Dong's mother bought him 4 more. How many does Xiao Dong have now?"
+    },
+    {
+        "id": "math_kk_141",
+        "question": "1. ٴبىر جوعارى قارقىندى تاس جول سالىنىپ،%60 جوندەلدى، تاعى 20 كيلومەتر عانا جوندەلمەدى، بۇل جوعارى قارقىندى تاس جولدىڭ ۇزىندىعى قانشا كيلومەتر؟",
+        "zh_translation": "修一段高速公路，已经修了60%，还剩下20千米没有修，这段高速公路长多少千米？",
+        "answer": "50",
+        "en_translation": "To build a highway, 60% has already been completed, and there are still 20 kilometers left unfinished. How long is this highway?"
+    },
+    {
+        "id": "math_kk_16",
+        "question": ". ءبىر قوسۋ مولشەرى 42 بولسا، تاعى ءبىر قوسۋ مولشەرى 20 بولادى، ولار بارلىعى قانشالىق بولادى؟",
+        "zh_translation": "一个加数是42，另一个加数是20，和是多少？",
+        "answer": "62",
+        "en_translation": "One addend is 42, the other addend is 20, what is the sum?"
+    },
+    {
+        "id": "math_kk_244",
+        "question": "4. حۇڭحى جەمىس باقشاسىندا 240 ٴتۇپ الما اعاشى بار، ول شاپتول اعاشىنىڭ 2 ەسەسىنەن 40 ٴتۇپ، جەمىس باعىندا قانشالىق شاپتول اعاشى بار؟",
+        "zh_translation": "红河果园有苹果树240棵，比桃树的2倍少40棵，果园有桃树多少棵？",
+        "answer": "140",
+        "en_translation": "The Honghe Orchard has 240 apple trees, which is 40 fewer than twice the number of peach trees. How many peach trees are there in the orchard?"
+    },
+    {
+        "id": "math_kk_134",
+        "question": "4. الكىشكەنە قاراعاي تىشقانى كەيبىر قاراعاي جەمىسىن ساقتايدى. كىشكەنتاي تيىن ءاسىلى كۇنىنە 6 قاراعاي جەمىسىن جەۋدى جوسپارلاعان، ءىس جۇزىندە ءار كۇنى بۇرىنعى جوسپارداعىدان 2 جەمىستى كوبىرەك جەيدى، ناتيجەدە 5 كۇن بۇرىن جەپ  بولادى، كىشكەنە قاراعاي تىشقانى جيىنى قانشا قاراعاي ساقتايدى؟",
+        "zh_translation": "小松鼠储藏了一些松果过冬．小松鼠原计划每天吃6个松果，实际每天比原计划多吃2个，结果提前5天吃完了松果．小松鼠一共储藏了多少个松果？",
+        "answer": "120",
+        "en_translation": "The little squirrel stored some pinecones for the winter. The little squirrel originally planned to eat 6 pinecones a day, but actually ate 2 more than planned each day, and as a result, finished the pinecones 5 days earlier. How many pinecones did the little squirrel store in total?"
+    },
+    {
+        "id": "math_kk_114",
+        "question": "4. تاجىريبە باستاۋىش مەكتەبى 5(1)كلاسىندا 42 ادام، 5(2)كلاسىندا 48 ادام بار، قازىر ەكى كلاستاعى وقۋشىلاردى ادام سانى قاتارلى گرۋپپالارعا ٴبولىپ، قالعان جوق، ٴار گرۋپپاداعى ەڭ كوپ بولعاندا قانشە ادام بولىنەدى ؟",
+        "zh_translation": "实验小学五（1）班有42人，五（2）班有48人，现在把两个班的学生分成人数相等的小组而没有剩余，每组最多分几人？",
+        "answer": "6",
+        "en_translation": "There are 42 students in Class Five (1) and 48 students in Class Five (2) of the Experimental Primary School. Now, if the students from the two classes are divided into groups of equal size without any remainder, what is the maximum number of students that can be in each group?"
+    },
+    {
+        "id": "math_kk_240",
+        "question": "0. مەكتەپ 500 كىتاپتان اسىپ كەتپەي كلاستىڭ ساباقتان سىرتقى وقۋىنا بەرەدى، ٴار كلاسعا  25 كىتاپ قارىز بەرەدى ، ٴدال قارىز الىپ بولعاننان كەيىن، ٴار كلاستا 30 كىتاپ قارىز بەرەدى ، ٴدال وسى كىتاپتاردى قارىزعا الىپ بولا دى الىپ، جا لپى  قانشا كىتابى بار؟",
+        "zh_translation": "学校把不超过500册书借给班级课余阅读，每班借25本，正好借完，每班借30本，也正好借完．这批书最多有多少本？",
+        "answer": "450",
+        "en_translation": "The school lends no more than 500 books to classes for extracurricular reading, lending 25 books to each class, and all the books are lent out; lending 30 books to each class, and all the books are also lent out. What is the maximum number of books in this batch?"
+    },
+    {
+        "id": "math_kk_142",
+        "question": "2. ۋاڭ اعاي بانكەدە 10 مىڭ يۋان امانات قويادى، مەرزىمدى 3 جىل، جىلدىق پايداسى%4.5 بولادى، مەرزىمى تولعاننان كەيىن ناقتى ٴوسىمى قانشا يۋان بولادى؟",
+        "zh_translation": "王叔叔在银行存入10000元，定期三年，年利润4.5%，到期后实得利息多少元？",
+        "answer": "1350",
+        "en_translation": "Uncle Wang deposited 10,000 yuan in the bank as a fixed term for three years, with an annual interest rate of 4.5%. How much interest will he earn upon maturity?"
+    },
+    {
+        "id": "math_kk_53",
+        "question": ". مەكتەپ چەزى 365 كيلوگرام، ساتىپ اكەلگەن بالدىركوك چيەزىدان 39 كيلوگرام از، بالدىركوك قانشا كيلوگرام ساتىپ الدى؟",
+        "zh_translation": "学校食堂买来茄子36.50千克，买来的芹菜比茄子少3.91千克，买来芹菜多少千克？",
+        "answer": "32.59",
+        "en_translation": "The school cafeteria bought 36.50 kilograms of eggplant, and the celery they bought was 3.91 kilograms less than the eggplant. How many kilograms of celery did they buy?"
+    },
+    {
+        "id": "math_kk_164",
+        "question": "4. وقىتۋشى بالاباقشاداعى كىشكەنتاي دوستارعا جەمىس-جيدەك ءبولىپ بەرەدى، المانىڭ ءبىر سانى المۇرتتىڭ 2 ەسەسىندەي بولادى، ەگەر ءار ادامعا 3 المۇرت بولىسىندە 2 المۇرت ارتىق بەرىلەدى؛ ەگەر ٴار ادامعا 7 الما بولىنسە، وندا 6 الما كەم بولسا، وندا قانشا الما بار؟",
+        "zh_translation": "老师给幼儿园小朋友分水果，苹果的个数是梨的个数的2倍．如果给每人分3个梨，就多出2个梨；如果给每人分7个苹果，那么还少6个苹果．问共有多少个苹果？",
+        "answer": "64",
+        "en_translation": "The teacher distributes fruits to the kindergarten children. The number of apples is twice the number of pears. If each person is given 3 pears, 2 pears are left over; if each person is given 7 apples, there are 6 apples short. How many apples are there in total?"
+    },
+    {
+        "id": "math_kk_157",
+        "question": "7. ۋىنجياڭ رايوندىق وقۋ-اعارتۋ مەكەمەسى 6 جاشىك قارىنداشپەن ” جازۋ جازۋ جارىسى “ رەتىندەگى ءبىر ءبولىم سيلىق بۇيىمى رەتىندە ساتىپ الدى، ءار قوراپتا 8 قوراپ، ءار قوراپتا 9 تال، جيىنى قانشا بۇتاقتى قارىنداش بار؟",
+        "zh_translation": "温江区教育局买来6箱铅笔作为“写字比赛”的部分奖品．每箱有8盒，每盒有9枝．一共有多少枝铅笔？",
+        "answer": "432",
+        "en_translation": "How many pencils are there in total if the Education Bureau of Wenjiang District bought 6 boxes of pencils as part of the prizes for a \"penmanship contest,\" with each box containing 8 packs and each pack containing 9 pencils?"
+    },
+    {
+        "id": "math_kk_81",
+        "question": ". تىك ٴتورتبۇرىشتى گۇل تەكشەسى 10 مەتر، ۇزىندىعى كەڭدىگى 2 ەسە، شياۋيا گۇل تەكشەسىنىڭ توڭىرەگىن بويلاپ ٴبىر اينالىپ، قانشا مەتر ٴجۇرۋ كەرەك؟",
+        "zh_translation": "一个长方形花坛，宽为10米，长是宽的2倍．小亚沿花坛四周走一圈，要走多少米？",
+        "answer": "60",
+        "en_translation": "A rectangular flower bed has a width of 10 meters and a length that is twice the width. How many meters does Xiao Ya walk when walking around the flower bed once?"
+    },
+    {
+        "id": "math_kk_112",
+        "question": "2. ٴبىر كيىم جاساۋ ٴۇشىن 1.2 مەترلىك كەزدەمە قاجەت، 39 مەترلىك كەزدەمە قانشا كيىم جاساۋعا بولادى؟",
+        "zh_translation": "做一件衣服需要1.2米布，39米布可以做多少件衣服？",
+        "answer": "32",
+        "en_translation": "To make one piece of clothing requires 1.2 meters of fabric. How many pieces of clothing can be made with 39 meters of fabric?"
+    },
+    {
+        "id": "math_kk_91",
+        "question": ". لي ۇستاز 500 يۋان اقشا الىپ، فۋتبول ساتىپ الۋعا 140 يۋان جۇمسايدى، قالعانىن 5 باسكەتبول ساتىپ الادى، ورتا ەسەپپەن ٴاربىر باسكەتبول قانشا يۋان بولادى؟",
+        "zh_translation": "李师傅带了500元钱，买足球用去了140元，剩下的钱正好买5个篮球，平均每个篮球多少元？",
+        "answer": "72",
+        "en_translation": "Master Li brought 500 yuan and spent 140 yuan on buying a soccer ball. With the remaining money, he bought 5 basketballs. How much does each basketball cost on average?"
+    },
+    {
+        "id": "math_kk_216",
+        "question": "6. مەكتەپ باسكەتبولدان 4 ىن ساتىپ الدى، باسكەتبول ساتىپ العانداردىڭ سانى ۆاليبول دىڭ تەڭ جارىمى، فۋتبول ساتىپ العانداردىڭ سانى باسكەتبول، ۆاليبول جالپى سانىنىڭ 3 ەسەسىنەن 7 دەن استى، مەكتەپ قانشا فۋتبول ساتىپ الدى؟",
+        "zh_translation": "学校买来篮球4个，买来篮球的数量是排球的一半，买来足球的数量比篮球、排球的总数的3倍多7个，学校买来多少个足球？",
+        "answer": "43",
+        "en_translation": "How many footballs did the school buy if it bought 4 basketballs, the number of basketballs is half the number of volleyballs, and the number of footballs is 7 more than 3 times the total number of basketballs and volleyballs?"
+    },
+    {
+        "id": "math_kk_144",
+        "question": "4. ماڭىزدى ٴجۇز ساۋدا سارايى «جاڭا جىل»دى قۇتتىقتاۋ قيمىلىندا، بىر كيىم %40ارزاندايدى ، جانە 100 يۋان پايدا بەرەدى، ساتىلۋ باعاسى 300 يۋان بولادى، بۇل كيىمنىڭ ٴاسىلى باعاسى قانشا يۋان؟",
+        "zh_translation": "重百商场在庆“元旦”的促销活动中，一件衣服打4折后，还让利100元，售价为300元，这件衣服原价多少元？",
+        "answer": "1000",
+        "en_translation": "In the New Year's Day promotion at the Chongqing Department Store, an article of clothing is sold at a 60% discount, with an additional 100 yuan off, and the sale price is 300 yuan. What was the original price of this article of clothing?"
+    },
+    {
+        "id": "math_kk_121",
+        "question": "1. بەيجيڭدەگى گۋگۇڭ دۇنيە جۇزىندەگى ەڭ ۇلكەن ساراي، يەلەگەن جەر اۋماعى 0.72 شارشى كيلومەتر، قانشا شارشى مەترگە تەڭ؟",
+        "zh_translation": "北京的故宫是世界上最大的宫殿，占地面积是0.72平方千米，等于多少平方米？",
+        "answer": "720000",
+        "en_translation": "The Forbidden City in Beijing is the largest palace in the world, covering an area of 0.72 square kilometers, which is equal to how many square meters?"
+    },
+    {
+        "id": "math_kk_85",
+        "question": ". 18  اق قويان ٴبىر قاتار تۇرادى، ٴاربىر ەكى اق قوياننىڭ ورتاسىندا ٴبىر ساڭىراۋقۇلاق بار، جيىنى قانشا ساڭىراۋقۇلاق بار؟",
+        "zh_translation": "18只小白兔站成一排，每两只小白兔中间有一个蘑菇，一共有多少个蘑菇？",
+        "answer": "17",
+        "en_translation": "Eighteen little white rabbits stand in a row, with a mushroom between every two rabbits. How many mushrooms are there in total?"
+    },
+    {
+        "id": "math_kk_176",
+        "question": "6.ٴبىر كىتاپتىڭ 143 بەتى بار، شياۋميڭ ٴار كۇنى 5 بەت كورۋدى، كەمىندە قانشا كۇن كورىپ بولۋدى جوسپارلادى؟",
+        "zh_translation": "一本书有143页，小明计划每天看5页，至少要多少天看完？",
+        "answer": "29",
+        "en_translation": "A book has 143 pages, if Xiaoming plans to read 5 pages every day, at least how many days will it take to finish?"
+    },
+    {
+        "id": "math_kk_19",
+        "question": ". ەڭ ۇلكەن ەكى ورىندى سانى ەڭ  ۇلكەن بىر  ورىنددان قانشەلىق كوپ ؟",
+        "zh_translation": "最大的两位数比最大的一位数多多少？",
+        "answer": "90",
+        "en_translation": "How much larger is the largest two-digit number compared to the largest one-digit number?"
+    },
+    {
+        "id": "math_kk_187",
+        "question": "7. ٴبىر قاپشىق تۇز سالماعى 500 گرام، ٴبىر قاپشىق دامدەندىرگىشتىڭ سالماعى 200 گرام، 4 قاپتالعان تۇز جالپى سالماعى قانشا گرام؟",
+        "zh_translation": "一包盐重500克，一包味精重200克，4包盐一共重多少克？",
+        "answer": "2000",
+        "en_translation": "A pack of salt weighs 500 grams, and a pack of MSG weighs 200 grams. How many grams do 4 packs of salt weigh in total?"
+    },
+    {
+        "id": "math_kk_26",
+        "question": ". كۇلكى ٴۇيىرىلىپ ٴۇي ىشىندەگىلەر ساياحاتتاي باردى، اكە ـ شەشەسى 800 يۋان جەلىم جاسادى. ەسەپ داپتەرىنە: 380 يۋانشاتاعا كەتتى ، 210 يۋان تاماقا كەتتى . تاعى قانشا اقشا قالدى؟",
+        "zh_translation": "笑笑全家去旅游，爸爸妈妈共带了800元饯。记帐单上记着：住宿380元，用餐210元。还剩多少钱？",
+        "answer": "210",
+        "en_translation": "The whole family of Xiaoxiao went on a trip, and the parents brought 800 yuan in total. The account ledger records: accommodation 380 yuan, dining 210 yuan. How much money is left?"
+    },
+    {
+        "id": "math_kk_80",
+        "question": ". كۇتۋشى شياۋۋاڭ اس ۇستەلىندە تۇتىكشە قويادى، العاشىندا ٴار ۇستەلگە 5 ٴتۇيىپ قويۋدى تالاپ ەتەدى، ناتيجەدە 3 كومپاس كەم بولادى؛ كەيىن كەلە ٴاربىر ۇستەلدەن 8 تۇتا قويا بەرۋدى تالاپ ەتەدى، وسىلاي بولعاندا 24 تەڭبىل كەم بولادى، بۇل اسحانادا جيىنى قانشە ۇستەل بار؟",
+        "zh_translation": "服务员小王在饭桌上放碟子，开始的时候要求每张桌子放5个碟子，结果发现缺3个碟子；后来要求每张桌子放8个碟子，这样就会缺24个碟子．请问，这个饭店一共有几张桌子？",
+        "answer": "7",
+        "en_translation": "Waiter Xiao Wang placed plates on tables and initially required placing 5 plates on each table, resulting in a shortage of 3 plates; later required placing 8 plates on each table, which would lead to a shortage of 24 plates. How many tables are there in the restaurant?"
+    },
+    {
+        "id": "math_kk_38",
+        "question": ". مەكتەپ جاسىلدانسا، 18 ٴتۇپ قاراعاي مايساسىن تاسيدى، 9 ٴتۇپ تال اعاشى مايساسىن تاسيدى، اكەلگەن قاراعاي مايساسى تال مايساسىنىڭ قانشە ەسەسىنە تۋرا كەلەدى؟",
+        "zh_translation": "学校绿化，运来18棵松树苗，9棵柳树苗，运来的松树苗是柳树苗的几倍？",
+        "answer": "2",
+        "en_translation": "How many times the number of pine saplings is the number of willow saplings if 18 pine saplings and 9 willow saplings are transported to school for greening?"
+    },
+    {
+        "id": "math_kk_155",
+        "question": "5. كولشىگىنىڭ ۇزىندىعى 35 مەتر، شياۋميڭ ٴار كۇنى ەكى رەت سۇۇزەدى ، ٴبىر اپتادا (7 كۇن)جالپى  قانشا مەتر ۇزەدى ؟",
+        "zh_translation": "游泳池长35米，小明每天游两个来回，一周（7天）共游多少米？",
+        "answer": "980",
+        "en_translation": "The swimming pool is 35 meters long. Xiaoming swims two laps every day. How many meters does he swim in total in a week (7 days)?"
+    },
+    {
+        "id": "math_kk_208",
+        "question": "8. بەلگىلى تەلەۆيزيا ماشينا زاۆودى بۇرىن كۇنىنە 116 تەلەۆيزور وندىرەدى، قازىر ٴار كۇنى وندىرگەن ورىن سانى بۇرىنعى 12 ەسە، قازىر كۇنىنە قانشا تەلەۆيزور وندىرە الادى؟",
+        "zh_translation": "某电视机厂原来每天生产116台电视机，现在每天生产的台数是原来的12倍，现在每天能生产多少台电视机？",
+        "answer": "1392",
+        "en_translation": "A certain TV factory originally produced 116 TVs per day. Now the daily production is 12 times the original amount. How many TVs can be produced daily now?"
+    },
+    {
+        "id": "math_kk_181",
+        "question": "1. جەمىس باعىنداعى الما اعاشتارى 456 ءتۇپ، المۇرت اعاشتارىنىڭ 3 ەسەسى، المۇرت اعاشتارى قانشا ءتۇپ؟",
+        "zh_translation": "果园里的苹果树有456棵，是梨树的3倍，梨树有多少棵？",
+        "answer": "152",
+        "en_translation": "In the orchard, there are 456 apple trees, which is three times the number of pear trees. How many pear trees are there?"
+    },
+    {
+        "id": "math_kk_137",
+        "question": "7. ۇساق-تۇيەك بۇيىمدار دۇكەنىندەگى ىدىس-اياقتاردىڭ باعاسى: شىنىداعى ٴار 3 يۋان، ساقپىنىڭ ٴار جۇپ 5 مۇيىزى. شەشەسى 16 ىدىس-اياق ساتىپ الىپ، جيىنى قانشا اقشا جۇمسايدى؟",
+        "zh_translation": "杂货店里碗筷的标价为：碗每只3元，筷子每双5角．妈妈买了16套碗筷，一共花了多少钱？",
+        "answer": "56",
+        "en_translation": "The marked price at the grocery store is 3 yuan per bowl and 0.5 yuan per pair of chopsticks. Mom bought 16 sets of bowls and chopsticks. How much did she spend in total?"
+    },
+    {
+        "id": "math_kk_65",
+        "question": ".ناعاشى اپاسىنىڭ ۇيىندە 8 تاۋىق بار، باققان انا تاۋىق اتەشتىڭ 3 ەسەسىندەي، جيىنى قانشا تاۋىق بار؟",
+        "zh_translation": "外婆家养着8只公鸡，养的母鸡是公鸡的3倍，一共有多少只鸡？",
+        "answer": "32",
+        "en_translation": "At Grandma's house, there are 8 roosters being raised, and the number of hens is three times that of the roosters. How many chickens are there in total?"
+    },
+    {
+        "id": "math_kk_205",
+        "question": "5. چىنگۋاڭ مۇناي ايىرۋ زاۆودى 872 ليتر مۇنايدى سيىمدىلىعى 5 ليتر ماي شەلەگىنە ٴبولىپ ساتادى، كەمىندە قانشە   وسىنداي  مۇناي شەلەگى كەرەك ؟",
+        "zh_translation": "晨光炼油厂把872升的油分装在容量为5升的油桶中出售，至少要多少个这样的油桶？",
+        "answer": "175",
+        "en_translation": "How many of these 5-liter oil barrels are needed to sell 872 liters of oil from the Chenguang Refinery, which is packaged in 5-liter barrels?"
+    },
+    {
+        "id": "math_kk_159",
+        "question": "9. ۇزىندىعى 5 سانتيمەتر، كەڭدىگى 3 سانتيمەتر، ماڭايىنىڭ ۇزىندىعى قانشا سانتيمەتر؟",
+        "zh_translation": "一个长方形的长是5厘米，宽是3厘米，它的周长是多少厘米？",
+        "answer": "16",
+        "en_translation": "The length of a rectangle is 5 cm, the width is 3 cm, what is its perimeter in centimeters?"
+    },
+    {
+        "id": "math_kk_25",
+        "question": ". شياۋميڭنىڭ 6 سۋرەت فيلمى بار، ٴاربىر 3 دانا، جالپى قانشە  دانا؟",
+        "zh_translation": "小明有6套画片，每套3张，共有几张？",
+        "answer": "18",
+        "en_translation": "Xiaoming has 6 sets of picture cards, each set contains 3 cards. How many cards are there in total?"
+    },
+    {
+        "id": "math_kk_194",
+        "question": "4.ٴپىلدىڭ سالماعى 992 كيلوگرام بولىپ، جولبارىس سالماعىنىڭ 16 ەسەسىنە كەلەدى ەكەن،جولبارىس سالماعى قانشا ؟",
+        "zh_translation": "一只大象的体重是992千克，是一只老虎体重的16倍．这只老虎的体重是多少千克？",
+        "answer": "62",
+        "en_translation": "The weight of an elephant is 992 kilograms, which is 16 times the weight of a tiger. What is the weight of the tiger in kilograms?"
+    },
+    {
+        "id": "math_kk_230",
+        "question": "0. شياۋلين ٴار كۇنى ۆەلوسيپەدپەن وقۋعا تۇسەدى. ۆەلوسيپەتتىڭ سىرتقى دوڭگەلەگى 0.5 مەتر بولىپ، ٴار مينۋتتا شامامەن 80 رەت اينالىپ، ٴبىر ۇلكەن كوپىردەن ٴوتىپ 2 مينۋت ۋاقىت كەتەدى، بۇل كوپىردىڭ ۇزىندىعى قانشا مەتر؟",
+        "zh_translation": "小林每天骑自行车上学．自行车的外轮直接是0.5米，车轮每分钟大约转80圈，通过一座大桥需要2分钟，这座大桥长多少米？",
+        "answer": "251.2",
+        "en_translation": "Xiaolin rides a bicycle to school every day. The bicycle's outer wheel has a diameter of 0.5 meters, and the wheel rotates about 80 times per minute. It takes 2 minutes to cross a bridge. How long is the bridge in meters?"
+    },
+    {
+        "id": "math_kk_73",
+        "question": ". ۇزىندىعى 10 سانتيمەتر، كەڭدىگى 5 سانتيمەتر، ۇزىندىعى ەكى شەبىنىڭ ۇزىندىعى قانشا سانتيمەتر؟",
+        "zh_translation": "一个长方形长10厘米，宽5厘米，这个长方形周长是多少厘米？",
+        "answer": "30",
+        "en_translation": "A rectangle has a length of 10 cm and a width of 5 cm. What is the perimeter of this rectangle in centimeters?"
+    },
+    {
+        "id": "math_kk_36",
+        "question": ".   56 كيلوگرام 100 كيلوگرامنان قانشا كيلوگرام از؟",
+        "zh_translation": "56千克比100千克少多少？",
+        "answer": "44",
+        "en_translation": "How much less is 56 kilograms than 100 kilograms?"
+    },
+    {
+        "id": "math_kk_130",
+        "question": "0. جاڭ گاڭنىڭ مەكتەپكە باراتىن جولى 580 مەتر، ول ٴبىر اپتادا (5 كۇن) قانشا مەتر جۇرەدى؟",
+        "zh_translation": "张刚家到学校的路程是580米，他一星期（5天）上学要走多少米？",
+        "answer": "5800",
+        "en_translation": "What is the total distance Zhang Gang walks to school in a week (5 days) if the distance from his home to the school is 580 meters?"
+    },
+    {
+        "id": "math_kk_56",
+        "question": ".دەنە شىنىقتىرۋ جاتتىعۋىنا 5 ادام قاتىناستى، باسكەتبول جاتتىعۋىنا قاتىناسقاندار دەنە گيمناستيكاسى ادام سانىنىڭ 6 ەسەسىندەي، ۇزاققا جۇگىرۋ جاتتىعۋىنا قاتىناسقان ادام سانى باسكەتبول جاتتىعۋىنا قاتىناسقان ادام سانىنىڭ 7 ەسەسىندەي، ۇزاققا جۇگىرۋگە قاتىناسقان قانشا ادام بار؟",
+        "zh_translation": "参加体操训练的有5人，参加篮球训练的是体操人数的6倍，参加长跑训练的人数是参加篮球训练人数的7倍，参加长跑的有多少人？",
+        "answer": "210",
+        "en_translation": "There are 5 people participating in gymnastics training, and the number of people participating in basketball training is 6 times the number of people in gymnastics. The number of people participating in long-distance running training is 7 times the number of people in basketball training. How many people are participating in long-distance running?"
+    },
+    {
+        "id": "math_kk_229",
+        "question": "9. شيڭگۋاڭ حيميا ونەركاسىپ زاۆودى الدىڭعى جارتى جىلدا 12.34 توننا كومىر ۇنەمدەپ، سوڭعى جارتى جىلدا 7.8 توننا كومىر ۇنەمدەدى، بۇل زاۆود بيىل قانشا توننا كومىر ۇنەمدەدى؟",
+        "zh_translation": "星光化工厂上半年节约用煤12.34吨，下半年节约用煤7.8吨，这个厂今年节约用煤多少吨？",
+        "answer": "20.14",
+        "en_translation": "How many tons of coal did Xingguang Chemical Plant save this year if it saved 12.34 tons in the first half and 7.8 tons in the second half of the year?"
+    },
+    {
+        "id": "math_kk_150",
+        "question": "0. ءبىر تىك ٴتورتبۇرىشتى ۇزىندىعى شەكاراسى  8 مەتر، ەگەر شەكارا ۇزىندىعى 3 مەتر ازايۋبولسا ، اپتالىق ۇزىندىعى قانشا مەتر؟",
+        "zh_translation": "一个正方形的边长是8分米，如果边长减少3分米，周长是多少分米？",
+        "answer": "20",
+        "en_translation": "The side length of a square is 8 decimeters. If the side length is reduced by 3 decimeters, what is the perimeter in decimeters?"
+    },
+    {
+        "id": "math_kk_92",
+        "question": ".ٴمالىم اياق كيىم دۇكەنىنە 5 اياق كيىم سورەسىن قويعان، ٴاربىر اياق كيىم سورەسىنىڭ 6 قاباتى بار، ٴار قاباتىنا 12 پار اياق كيىم قويۋعا بولادى، بۇل اياق كيىم دۇكەنىنەن قانشا اياق كيىم قويۋعا بولادى؟",
+        "zh_translation": "在某鞋店放着5个鞋架，每个鞋架有6层，每层可以摆放12双鞋，问这家鞋店可以摆放多少双鞋？",
+        "answer": "360",
+        "en_translation": "In a shoe store, there are 5 shoe racks, each with 6 shelves, and each shelf can hold 12 pairs of shoes. How many pairs of shoes can be stored in the store?"
+    },
+    {
+        "id": "math_kk_123",
+        "question": "3. ولشەمدى بولشەكتەر زاۆودى بيىل 6-ايدا ونەركاسىپتە ىستەتىلەتىن توك مولشەرى 4.5 مىڭ كيلوۆات بولىپ، 7-ايدا ىستەتىلگەن توك مولشەرى 6-ايداعى 2.6 ەسە، ەكى  ايدا ىستەتىلگەن توك قانشا  مىڭ كيلوۆات  جەتەدى؟",
+        "zh_translation": "标准件厂今年6月份工业用电4.5万度，7月份用电量是6月份的2.6倍，两个月共用电多少万度？",
+        "answer": "16.2",
+        "en_translation": "The standard parts factory used 45,000 kilowatt-hours of industrial electricity in June this year, and the electricity consumption in July was 2.6 times that in June. What was the total electricity consumption in these two months in ten thousand kilowatt-hours?"
+    },
+    {
+        "id": "math_kk_78",
+        "question": ". ساياحاتشىلار سەرۋەن كولىگىنە وتىرىپ كورىنىس تاماشالايدى، ٴار سەرۋەن كولىگىنە 4 ادام وتىرادى، 403 ساياحاتشى قانشا ساياحات اۆتوموبيلىن قاجەت ەتەدى؟",
+        "zh_translation": "游客们坐游览车看风景，每辆游览车乘坐4人，403名游客需要多少辆游览车？",
+        "answer": "101",
+        "en_translation": "Tourists take a sightseeing bus to see the scenery, with each bus seating 4 people. How many buses are needed for 403 tourists?"
+    },
+    {
+        "id": "math_kk_213",
+        "question": "3. بىر اۆتوموبيل بىر مينوتتا 0.8 كيلومەتر جۇرسە، بۇل اۆتوموبيل بىر ساعات 40 مينوتتا قانشا مىڭ كيلومەتر جول جۇرەالادى؟",
+        "zh_translation": "一辆汽车一分钟可以行使0.8千米，这辆汽车一小时四十分钟可以行驶多少千米？",
+        "answer": "80",
+        "en_translation": "If a car can travel 0.8 kilometers in one minute, how many kilometers can this car travel in one hour and forty minutes?"
+    },
+    {
+        "id": "math_kk_201",
+        "question": "1. مەكتەپ جاڭادان 4 ۇستەل، ورىندىق ساتىپ الدى، ٴار ۇستەل 65 يۋان، ٴار ورىندىق 35 يۋان، وسى ۇستەل، ورىندىق ساتىپ الۋعا جيىنى قانشا اقشا قاجەت؟",
+        "zh_translation": "学校新买了课桌椅4套，每张桌子65元，每把椅子35元．购买这些课桌椅一共需要多少钱？",
+        "answer": "400",
+        "en_translation": "The school bought 4 sets of desks and chairs. Each desk costs 65 yuan, and each chair costs 35 yuan. How much did it cost in total to purchase these desks and chairs?"
+    },
+    {
+        "id": "math_kk_236",
+        "question": "6. جىلدىق 3 كلاستاعى وقۋشىلار اعاش ەگۋ قيمىلىنا قاتىناسىپ، جيىنى 220 ٴتۇپ اعاش ەكتى، ٴبىر كلاستا ەگىلگەن ٴتۇپ سانى 2-كلاستىڭ 2 ەسەسىندەي، 2-كلاس 3-كلاستان 20 ٴتۇپ، 2-كلاستا قانشا ٴتۇپ اعاش ەكتى؟",
+        "zh_translation": "五年级三个班的同学们参加植树活动，共植树220棵树，一班植的棵数是二班的2倍，二班比三班多值20棵．二班植了多少棵树？",
+        "answer": "60",
+        "en_translation": "How many trees did the students from Class 2 plant if the fifth-grade students from three classes participated in a tree-planting activity and planted a total of 220 trees? The number of trees planted by Class 1 is twice that of Class 2, and Class 2 planted 20 more trees than Class 3."
+    },
+    {
+        "id": "math_kk_104",
+        "question": "4. بەلگىلى باعىمشىلىق فەرماسىندا تاۋىق پەن ۇيرەك جيىنى 250 بولىپ، 25 ۇيرەك الىپ كەتكەننەن كەيىن، ۇيرەكتىڭ سانى ٴدال تاۋىقتىڭ 4 ەسەسىندەي بولىپ، باققان تاۋىقتاردىڭ سانى قانشا؟",
+        "zh_translation": "某饲养场中养鸡和鸭一共250只，拿走25只鸭以后，鸭的只数正好是鸡的4倍，问养的鸡有多少只？",
+        "answer": "45",
+        "en_translation": "In a certain farm, there are a total of 250 chickens and ducks. After taking away 25 ducks, the number of ducks is exactly four times the number of chickens. How many chickens are there?"
+    },
+    {
+        "id": "math_kk_125",
+        "question": "5. بىر جۇرس سۋ تازالاۋ اسپابى 5 ساعاتتا 320 توننا سۋدى تازالاعالى بولادى، ەگەر وسى جىلدامدىق بويىنشا ەسەپتەگەندە، 512 توننا سۋدى تازالاۋعا قانشا ساعات ۋاقىت كەتەدى؟",
+        "zh_translation": "一套净水处理设备5小时可以净化320吨水，若按这样的速度计算，净化512吨水需要多少小时？",
+        "answer": "8",
+        "en_translation": "A set of water purification equipment can purify 320 tons of water in 5 hours. At this rate, how many hours will it take to purify 512 tons of water?"
+    },
+    {
+        "id": "math_kk_131",
+        "question": "1. ۇش جيەكتىڭ ۇزىندىعى 4 سانتيمەتر كەلەتىن تىك ٴتورتبۇرىش جاساپ بىر تىك نۇسقاعا اينالدىرعاننان كەيىن، اپتا باستعى قانشا سانتيمەتر ازايعان؟",
+        "zh_translation": "把3个边长为4厘米的正方形拼成一个长方形后，周长减少了多少厘米？",
+        "answer": "16",
+        "en_translation": "After combining three squares with side length of 4 cm each into a rectangle, by how many centimeters does the perimeter decrease?"
+    },
+    {
+        "id": "math_kk_67",
+        "question": ". ءبىر سان 54 ادام ازايىپ، 67 از بولدى، بۇل سان قانشا؟",
+        "zh_translation": "一个数减去54，差是67，这个数是多少？",
+        "answer": "121",
+        "en_translation": "A number minus 54, the difference is 67, what is this number?"
+    },
+    {
+        "id": "math_kk_11",
+        "question": ". پيڭ پيڭ بيىل 18 جاستا، اپەكەسى وزىنەن 6 جاس ۇلكەن، ەكى جىلدىڭ الدىندا اپەكەسى قانشا جاس؟",
+        "zh_translation": "平平今年18岁，姐姐比她大6岁，两年前姐姐多少岁？",
+        "answer": "22",
+        "en_translation": "Pingping is 18 years old this year, her older sister is 6 years older than her, how old was her sister two years ago?"
+    },
+    {
+        "id": "math_kk_108",
+        "question": "8. ۇزىندىعى 3 مەتر كەلەتىن فاڭ گاڭ ونى 3 بولەككە كەسكەندە، ونىڭ كولدەنەڭ نۇكتەسى 80 شارشى سانتيمەتر، ٴاسىلى بولاتتىڭ كولەمى قانشا شارشى سانتيمەتر بولادى؟",
+        "zh_translation": "一根3米长的方钢，把它横截成3段时，表面积增加80平方厘米，原来方钢的体积是多少立方厘米？",
+        "answer": "6000",
+        "en_translation": "What is the original volume of a 3-meter-long square steel bar if cutting it into 3 sections increases its surface area by 80 square centimeters?"
+    },
+    {
+        "id": "math_kk_228",
+        "question": "8. قۇرىلىس اترەتىندە 28.5 كيلومەتر جول جاسالىپ، 3 كۇن جوندەلدى، قالعان 9.3 كيلومەتر جول جوندەلمەدى، جول جوندەۋ اترەتى قانشا كيلومەتر جول سالدى؟",
+        "zh_translation": "工程队要修一条28.5千米的路，修了3天，还剩下9.3千米没有修，修路队已经修了多少千米？",
+        "answer": "19.2",
+        "en_translation": "How many kilometers of the road has the construction team completed if they are supposed to build a 28.5-kilometer road, have been working for 3 days, and 9.3 kilometers are still unfinished?"
+    },
+    {
+        "id": "math_kk_195",
+        "question": "5. مەكتەپتە فۋتبول ساتىپ الۋ، ۆاليبول شىعارۋ جانە باسكەتبول ساتىپ الۋ ٴۇشىن 820 يۋان كەتى ، مۇنىڭ ىشىندە فۋتبول اقشاسى باسكەتبولدىڭ 2 ەسەسىندە، ۆاليبول باسكەتبولدان 20 يۋان ارتىق ، ۆاليبول ساتىپ الۋعا قانشا اقشا بولادى ؟",
+        "zh_translation": "学校买足球、排球和篮球一共用去820元，其中足球用的钱是篮球的2倍，排球比篮球多用20元．买排球用去多少钱？",
+        "answer": "220",
+        "en_translation": "How much money was spent to buy volleyballs if the school spent a total of 820 yuan on soccer balls, volleyballs, and basketballs, with the amount spent on soccer balls being twice that spent on basketballs, and 20 yuan more being spent on volleyballs than on basketballs?"
+    },
+    {
+        "id": "math_kk_99",
+        "question": ". التىن دۇن بالالار قۇراستىرۋ زاۆودى 1032 دانا بالالار كيىمىن جاسايدى، الدىڭعى 10 كۇندە 60 دانا قالعان 6 كۇندە كۇنىنە ورتا ەسەپپەن قانشا كيىم ىستەيدى؟",
+        "zh_translation": "金盾童装厂，要做1032套童装，前10天每天做60套．剩下的要6天做完，平均每天做多少套？",
+        "answer": "72",
+        "en_translation": "The Jin Dun children's clothing factory needs to make 1,032 sets of children's clothes. For the first 10 days, they make 60 sets each day. How many sets do they need to make on average each day for the remaining 6 days?"
+    },
+    {
+        "id": "math_kk_217",
+        "question": "7. ويىنشىق دۇكەنى جاڭادان 160 قۋىرشاق بالا ساتىپ الدى، ٴار 72 يۋان بولسا، ەگەر ٴاربىر بالانىڭ 88 يۋاندىق باعاسى بويىنشا تۇگەلدەي ساتىلعان بولسا ، ساۋداگەر بۇل ساۋدادان جيىنى قانشا يۋان پايدا الا الادى؟",
+        "zh_translation": "玩具商店新购进160个芭芘娃娃，每个72元．如果以每个娃娃88元的价格全部卖出，商家这笔生意一共可以赢利多少元？",
+        "answer": "2560",
+        "en_translation": "How much profit can the toy store make if it sells all 160 newly purchased Barbie dolls, which cost 72 yuan each, at a price of 88 yuan each?"
+    }
+]

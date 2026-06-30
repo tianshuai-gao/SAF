@@ -1,0 +1,142 @@
+[
+    {
+        "id": "math_bo_72",
+        "question": "ལྕགས་སྐུད་གཅིག་གིས་རིང་ཚད་ལ་སྨི་20དང་ཞེང་ཚད་ལ་སྨི་16ཡོད་པའི་གྲུ་བཞི་ནར་མོ་ཞིག་བསྐོར་བ་དང་གལ་ཏེ་གྲུ་བཞི་ཁ་གང་དབྱིབས་སུ་བསྒྱུར་ཚེ་གྲུ་བཞི་ཁ་གང་དབྱིབས་ཀྱི་མཐའ་སྐོར་བའི་རིང་ཚད་ལ་སྨི་ག་ཚོད་ཡོད་དམ།",
+        "zh_translation": "用一根铁丝围成一个长20米，宽16米的长方形，如果改成正方形，围成正方形的边长是 多少米？",
+        "answer": "18",
+        "en_translation": "If a piece of iron wire is used to form a rectangle with a length of 20 meters and a width of 16 meters, what would be the side length of the square if it is reshaped into a square?"
+    },
+    {
+        "id": "math_bo_188",
+        "question": "ལོ་རིམ་གསུམ་པའི་སློབ་མ་སྡེ་ཁུལ་གྱི་བྱ་འགུལ་ལ་ཞུགས།བུད་མེད་ལ་མི་48ཡོད།སྐྱེས་པ་ལ་མི་52ཡོད།མི་5ཚོ་ཆུང་གཅིག=་ལ་བགོས་ན་བསྡོམས་པས་ཚོ་ཆུང་ག་ཚོད་ལ་བགོས་ཆོག།",
+        "zh_translation": "三年级的学生参加社区活动．女生有48人，男生有52人．5人分成一组，一共可以分成多少组？",
+        "answer": "20",
+        "en_translation": "How many groups can be formed if third-grade students, consisting of 48 girls and 52 boys, participate in a community activity and are divided into groups of 5 people each?"
+    },
+    {
+        "id": "math_bo_178",
+        "question": "གྲུ་གཟིངས་གཉིས་གྲུ་ཁ་གཉིས་ནས་ལྟོས་བཅས་ཡིན།འཕྲད་པའི་སྐབས་སུ་གྲུ་གཟིངས་དང་པོ་ནི་སྟོང་སྨི་520ལ་བསྐྱོད་པ་དང་།་གཉིས་པ་ནི་སྟོང་སྨི་48ལས་ཉུང་། གྲུ་གཟིངས་གཉིས་པར་སྟོང་སྨི་ག་ཚོད་བསྐྱོད་པ་རེད་།",
+        "zh_translation": "两艘轮船从两个码头相对行驶．相遇时，第一艘轮船行驶了520千米，第二艘比第一艘少行48千米．第二艘轮船行了多少千米？",
+        "answer": "48",
+        "en_translation": "Two ships are traveling towards each other from two docks. When they meet, the first ship has traveled 520 kilometers, and the second ship has traveled 48 kilometers less than the first ship. How many kilometers has the second ship traveled?"
+    },
+    {
+        "id": "math_bo_95",
+        "question": "ཞའོ་ཧྭ་དང་།་ཞའོ་དབྱིན།་ཞའོ་མིང་བཅས་ཀྱིས་ཉིན་5ཡི་ནང་ཁྱོན་བསྡོམས་ཡི་གེ་ཆེན་པོ་300བྲིས་ཡོད་པ་དང་།་ཆ་སྙོམས་བྱས་ན་མི་རེར་ཉིན་རེར་ཡི་གེ་ག་ཚོད་འབྲི་དགོས་སམ།",
+        "zh_translation": "小华、小英和小明5天一共写了300个大字，平均每人每天写多少个字？",
+        "answer": "20",
+        "en_translation": "How many characters did Xiaohua, Xiaoying, and Xiaoming write on average per person per day given that they wrote a total of 300 large characters in 5 days?"
+    },
+    {
+        "id": "math_bo_106",
+        "question": "སྐས་དབྱིབས་ཤིང་འབྲས་ར་བ་ཞིག་གི་ཞབས་ནི་སྨི་54དང་འོག་ནི་སྨི་82ཡིན་པ་དང་མཐོ་ཚད་ནི་སྨི་18ཟིན་གྱི་ཡོད་པས་སྨི་ངོས་གྲུ་6རེར་ཤིང་འབྲས་སྡོང་པོ་རེ་བཙུགས་པ་དང་ཤིང་འབྲས་ར་བ་དེར་ཁྱོན་ཤིང་འབྲས་སྡོང་པོ་ག་ཚོད་བཙུགས་ཡོད་དམ།",
+        "zh_translation": "一个梯形果园，上底是54米，下底是82米，高是18米，每6平方米栽一棵果树，这个果园共栽果树多少棵？",
+        "answer": "204",
+        "en_translation": "A trapezoidal orchard has an upper base of 54 meters, a lower base of 82 meters, and a height of 18 meters. If one fruit tree is planted every 6 square meters, how many fruit trees are planted in the whole orchard?"
+    },
+    {
+        "id": "math_bo_47",
+        "question": "ཐོག་ཁང་གསར་པ་ཞིག་ཡོད་པར་ཁྱོན་ཚན་པ་6ཡོད་པ་དང་ཚན་པ་རེར་དུད་ཚང་8ཡོད་པ་དང་དུད་ཚང་39བསྡད་ཟིན་པ་དང་ད་དུང་དུད་ཚང་ག་ཚོད་ལ་སྡོད་མཁན་མེད་དམ།",
+        "zh_translation": "有一幢新楼房，共有6个单元，每个单元有8户，已经入住了39户，还有多少户没有人住？",
+        "answer": "9",
+        "en_translation": "There is a newly built building with 6 units, each unit has 8 households. 39 households have already moved in. How many households are still unoccupied?"
+    },
+    {
+        "id": "math_bo_223",
+        "question": "ཨ་མས་རས་ཁྲ་སྨི་37.6ཉོས་ནས་བྱིས་པའི་གྱོན་ཆས་སུ་ལས་སྣོན་བྱེད་རྩིས་ཡོད།གལ་ཏེ་བྱིས་པའི་གྱོན་ཆས་ཆ་ཚང་རེར་རས་སྨི་1.5དགོས་ན། རས་འདི་དག་གིས་ཆེས་མང་ན་བྱིས་པའི་ལྭ་བ་ག་ཚོད་བཟོ་ཐུབ།",
+        "zh_translation": "妈妈买回37.6米花布，准备加工成童装，如果每套童装需要用布1.5米．这些布最多可做童装多少套？",
+        "answer": "25",
+        "en_translation": "Mom bought 37.6 meters of floral fabric, intending to make children's clothing. If each set of children's clothing requires 1.5 meters of fabric, how many sets of children's clothing can be made from this fabric at most?"
+    },
+    {
+        "id": "math_bo_192",
+        "question": "འབྲས་སྟོང་ཁེ་450ཡོད།་ཉིན་རེར་སྟོང་ཁེ་60ཟ་དགོས།་ཆེས་མང་ན་ཉིན་ག་ཚོད་ལ་ཟ་ཐུབ།",
+        "zh_translation": "有450千克大米，每天吃60千克，最多能吃几天？",
+        "answer": "7",
+        "en_translation": "There are 450 kilograms of rice. If 60 kilograms are consumed each day, for how many days can it last?"
+    },
+    {
+        "id": "math_bo_40",
+        "question": "གཅེན་པོར་སྒོར་6དང་ཟུར་5ཡོད་པ་དང་སྐེ་དཀྲིས་ཤིག་ཉོ་བར་སྒོར་3དང་ཟུར་3སྤྱད་པ་དང་ལག་ཕྱིས་ཤིག་ཉོ་བར་སྒོར་8སྤྱད་པས་ད་དུང་ཟུར་ག་ཚོད་ལྷག་ཡོད་དམ།",
+        "zh_translation": "哥哥有6元5角钱，买一条围巾用了3元3角，买一块手帕用了8角，还剩多少角？",
+        "answer": "24",
+        "en_translation": "The elder brother has 6 yuan and 5 jiao. He spent 3 yuan and 3 jiao on a scarf, and 8 jiao on a handkerchief. How many jiao does he have left?"
+    },
+    {
+        "id": "math_bo_135",
+        "question": "སྒུལ་འཁོར་ཞིག་གི་མྱུར་ཚད་ནི་སྟོང་སྨི་240ཡིན།སྒུལ་འཁོར་འདི་དུས་ཚོད་4ལ་སྟོང་སྨི་ག་ཚོད་འགྲོ་ཐུབ།",
+        "zh_translation": "一列动车的速度是240千米/时，这列动车4小时可以行多少千米？",
+        "answer": "960",
+        "en_translation": "What is the distance a high-speed train traveling at 240 km/h can cover in 4 hours?"
+    },
+    {
+        "id": "math_bo_132",
+        "question": "ལོ་རིམ་དྲུག་པའི་(་3་)་འཛིན་གྲྭའི་སློབ་གྲོགས་44ཡིས་རྐང་འཁོར་བཞོན་ནས་རྒན་གསོ་ཁང་དུ་བྱ་བ་བཟང་པོ་སྒྲུབ་པར་བསྐྱོད་པ་དང་གཏན་འབེབས་ལྟར་ན་སློབ་གྲོགས་གཉིས་ཀྱིས་མཉམ་དུ་རྐང་འཁོར་གཅིག་བཞོན་ཚེ་རྐང་འཁོར་ག་ཚོད་གྲ་སྒྲིག་བྱེད་དགོས་སམ།",
+        "zh_translation": "六年级（3）班的44名同学骑自行车去敬老院做好事，按规定，两个同学合骑一辆自行车，要准备多少辆自行车？",
+        "answer": "22",
+        "en_translation": "How many bicycles need to be prepared for 44 students in Grade 6 (3) who are riding bicycles to the nursing home to do good deeds, with the rule that two students share one bicycle?"
+    },
+    {
+        "id": "math_bo_14",
+        "question": "ཨ་ཅག་ད་ལོ་ལོ་10ཡིན། གཅུང་མོ་ད་ལོ་ལོ་6ཡིན། ལོ་5ཡི་རྗེས་སུ་ཨ་ཅག་གཅུང་མོ་ལས་ལོ་ག་ཚོད་ཀྱི་ཆེ་བ་ཡོད་དམ།",
+        "zh_translation": "姐姐今年10岁，妹妹今年6岁，5年后姐姐比妹妹大多少岁？",
+        "answer": "4",
+        "en_translation": "The older sister is 10 years old this year, and the younger sister is 6 years old this year. How many years older will the older sister be than the younger sister in 5 years?"
+    },
+    {
+        "id": "math_bo_211",
+        "question": "དཔའ་བོའི་\"་ལྕགས་སྨྱུག་གཅིག་ལ་ཐོག་མའི་རིན་གོང་སྒོར་30ཡིན་པ་དང་ལོ་གསར་རིང་གཟིགས་སྐྱོང་བྲིན་ཚོང་བྱེད་ཀྱི་ཡོད་པས་དེ་སྔོན་ལྕགས་སྨྱུག་5ཉོས་པའི་དངུལ་གྱིས་ད་ཆ་ལྕགས་སྨྱུག་1མང་དུ་ཉོ་ཐུབ་པ་དང་ད་ཆ་ལྕགས་སྨྱུག་རེར་ཆ་སྙོམས་རིན་གོང་སྒོར་ག་ཚོད་ཡིན་ནམ།",
+        "zh_translation": "一种“英雄”钢笔，原价30元一支，新年期间优惠促销，原来买5支的钱现在可以多买1支，现在每只钢笔均价多少元？",
+        "answer": "25",
+        "en_translation": "The original price of a \"Hero\" pen is 30 yuan each. During the New Year promotional sale, the amount originally spent to buy 5 pens can now be used to buy 1 more pen. What is the current average price per pen?"
+    },
+    {
+        "id": "math_bo_238",
+        "question": "ཟམ་ཆེན་ཞིག་གི་རིང་ཚད་ལ་སྨི2400ཡོད།མེ་འཁོར་ཞིག་སྐར་མ་རེར་སྨི་900ཡི་མྱུར་ཚད་ཐོག་ནས་ཟམ་ཆེན་བརྒྱུད་དེ་རླངས་འཁོར་གྱི་མགོ་ནས་ཟམ་པའི་མཇུག་བར་ཟམ་པ་ནས་ཁ་བྲལ་བར་ཁྱོན་སྐར་མ་3འགོར་གྱི་ཡོད་པ་དང་མེ་འཁོར་དེའི་རིང་ཚད་ལ་སྨི་ག་ཚོད་ཡོད་དམ།",
+        "zh_translation": "一座大桥长2400米．一列火车以每分钟900米的速度通过大桥，从车头开上桥到车尾离开桥共需要3分钟，这列火车长多少米？",
+        "answer": "300",
+        "en_translation": "A bridge is 2400 meters long. A train passes the bridge at a speed of 900 meters per minute. From the moment the train's head enters the bridge until the tail leaves the bridge, it takes 3 minutes. How long is the train?"
+    },
+    {
+        "id": "math_bo_31",
+        "question": "650ནི་320ལས་ག་ཚོད་ཀྱིས་མང་།",
+        "zh_translation": "650比320多多少？",
+        "answer": "330",
+        "en_translation": "How much more is 650 than 320?"
+    },
+    {
+        "id": "math_bo_59",
+        "question": "གྲངས་ཀ་གཅིག་ལ་8་ལྷག་7དང་གྲངས་ཀ་འདི་ལ་4ལྷག་ག་ཚོད་ཡོད།",
+        "zh_translation": "一个数除以8余7，这个数除以4余几？",
+        "answer": "3",
+        "en_translation": "A number leaves a remainder of 7 when divided by 8. What is the remainder when this number is divided by 4?"
+    },
+    {
+        "id": "math_bo_191",
+        "question": "དགེ་རྒན་ལི་ལགས་ཀྱིས་ས་སྨྱུག་སྒམ་38ཉོས་པར་ཁྱོན་སྒོར་228བཏང་བ་དང་ས་སྨྱུག་སྒམ་གཅིག་ལ་སྒོར་ག་ཚོད་ཡིན་ནམ།",
+        "zh_translation": "李老师买了38箱粉笔，共花费了228元，粉笔多少元一箱？",
+        "answer": "6",
+        "en_translation": "How much does one box of chalk cost if Teacher Li bought 38 boxes for a total of 228 yuan?"
+    },
+    {
+        "id": "math_bo_66",
+        "question": "ཐོག་བརྩེགས་གཅིག་ལ་ཁྱོན་ཚན་པ་5ཡོད་པ་དང་ཚན་པ་རེའི་ཐོག་སོ་དང་པོ་དང་གཉིས་པར་ཐོག་སོ་རེར་དུད་ཚང་2དང་ཐོག་སོ་གསུམ་པ་ནས་བདུན་པའི་བར་སྡོད་མཁན་དུད་ཚང་3ཡོད་པ་རེད། ཐོག་ཁང་འདི་ལ་བསྡོམས་པས་ཁྱིམ་ཚང་ག་ཚོད་བསྡད་ཡོད།",
+        "zh_translation": "一座楼共五个单位，每单位的一层和二层每层住2户三层至七层每层住3户。这座楼一共住了多少户？",
+        "answer": "95",
+        "en_translation": "A building has five units. Each unit has two households on the first and second floors, and three households on each of the third to seventh floors. How many households live in this building altogether?"
+    },
+    {
+        "id": "math_bo_209",
+        "question": "གཏམ་རྒྱུད་ཀྱི་དཔེ་ཆ་ཞིག་ཞའོ་ཆང་གིས་ཉིན་12ལ་བལྟས་ཚར་སོང་།ཉིན་5སྔོན་ལ་ཤོག་ངོས་90ལ་བལྟས་པ་དང་།་ཉིན7་གྱི་རྗེས་ནས་ཉིན་རེར་ཤོག་ངོས་20ལ་བལྟས། དཔེ་ཆ་འདི་ལ་བསྡོམས་པས་ཤོག་ངོས་ག་ཚོད་ཡོད་།",
+        "zh_translation": "一本故事书小强用了12天看完．前5天看了90页，后7天每天看20页．这本书一共有多少页？",
+        "answer": "230",
+        "en_translation": "Xiao Qiang finished reading a storybook in 12 days. He read 90 pages in the first 5 days and 20 pages per day for the next 7 days. How many pages are there in the book in total?"
+    },
+    {
+        "id": "math_bo_45",
+        "question": "འོད་ཟེར་སློབ་ཆུང་ལོ་རིམ་གཉིས་པའི་(་1་)་འཛིན་གྲྭའི་སློབ་གྲོགས་རེར་ཆ་སྙོམས་ཞལ་འདེབས་སྒོར་9ཕུལ་བ་དང་སློབ་གྲོགས་7ལ་ཁྱོན་ཞལ་འདེབས་སྒོར་ག་ཚོད་ཕུལ་ཡོད་དམ།",
+        "zh_translation": "光明小学二年级（1）班的同学平均每人捐款9元，7名同学一共捐款多少元？",
+        "answer": "63",
+        "en_translation": "Students in Class 2 (1) at Guangming Primary School donate an average of 9 yuan per person. How much did 7 students donate in total?"
+    }
+]

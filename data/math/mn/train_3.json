@@ -1,0 +1,112 @@
+[
+    {
+        "id": "math_mn_64",
+        "question": "ᠴᠤᠤᠶᠠᠩ ᠪᠠᠭ᠎ᠠ ᠰᠤᠷᠭᠠᠭᠤᠯᠢ  ᠳᠦ ᠨᠡᠶᠢᠲᠡ 830 ᠰᠣᠷᠣᠭᠴᠢ ᠲᠠᠶ ᠂ ᠬᠡᠷᠪᠡ ᠰᠣᠷᠣᠭᠴᠢ ᠨᠢᠭᠡᠪᠦᠷᠢ ᠰᠠᠷ᠎ᠠ ᠪᠦᠷᠢ 6 ᠺᠢᠯᠣᠭ᠍ᠷᠠᠮ ᠤᠰᠤ  ᠠᠷᠪᠢᠯᠠᠬᠤ  ᠳᠦ  ᠭᠦᠷᠪᠡᠯ ᠂ ᠪᠥᠬᠥ ᠰᠤᠷᠭᠠᠭᠤᠯᠢ  ᠶᠢᠨ ᠰᠣᠷᠣᠭᠴᠢ ᠰᠠᠷ᠎ᠠ ᠪᠦᠷᠢ ᠬᠡᠳᠦᠶ ᠺᠢᠯᠣᠭ᠍ᠷᠠᠮ ᠤᠰᠤ  ᠠᠷᠪᠢᠯᠠᠬᠤ ᠪᠣᠶ ︖",
+        "zh_translation": "朝阳小学共有830名学生，如果每名学生每月节约用水6千克，全校学生每月节约用水多少千克？",
+        "answer": "4980",
+        "cot": {
+            "zh": "6×830=4980千克. 答案是4980",
+            "en": "6 × 830 = 4980 kilograms. The answer is 4980"
+        },
+        "en_translation": "Chaoyang Elementary School has a total of 830 students. If each student saves 6 kilograms of water every month, how many kilograms of water does the entire school save every month?"
+    },
+    {
+        "id": "math_mn_54",
+        "question": "ᠯᠢ ᠪᠠᠭᠰᠢ 4 ᠰᠠᠷ᠎ᠠ  ᠶᠢᠨ 30  ᠤ ᠡᠳᠦᠷ  ᠤᠨ 18 ᠄ 00 ᠴᠠᠭ ᠲᠤ ᠭᠠᠯᠲᠤ ᠲᠡᠷᠭᠡᠨ  ᠳᠤ ᠭᠠᠷᠴᠤ ᠂ 5 ᠰᠠᠷ᠎ᠠ  ᠶᠢᠨ 1  ᠤ ᠡᠳᠦᠷ  ᠤᠨ 10 ᠄ 00 ᠴᠠᠭ ᠲᠤ ᠭᠠᠯᠲᠤ ᠲᠡᠷᠭᠡᠨ ᠡᠴᠡ ᠪᠠᠭᠤᠨ᠎ᠠ ᠂ ᠲᠡᠷᠡ ᠭᠠᠯᠲᠤ ᠲᠡᠷᠭᠡᠨ  ᠳᠤ ᠰᠠᠭᠤᠭᠠᠳ  ᠬᠡᠳᠦᠶ ᠴᠠᠭ ᠬᠡᠷᠡᠭᠯᠡᠬᠦ ᠪᠣᠶ ︖",
+        "zh_translation": "李老师4月30日18：00上火车，5月1日10：00下火车，他乘火车共用多少小时？",
+        "answer": "16",
+        "cot": {
+            "zh": "24时-18时=6小时，10时-0时=10小时，6小时+10小时=16小时. 答案是16",
+            "en": "24:00 - 18:00 = 6 hours, 10:00 - 0:00 = 10 hours, 6 hours + 10 hours = 16 hours. The answer is 16"
+        },
+        "en_translation": "Teacher Li boards the train at 18:00 on April 30 and gets off the train at 10:00 on May 1. How many hours does he spend on the train in total?"
+    },
+    {
+        "id": "math_mn_169",
+        "question": "ᠨᠢᠭᠡ 5 ᠮᠧᠲ᠋ᠷ ᠥᠨᠳᠥᠷ ᠬᠤᠯᠤᠰᠤᠨ ᠡᠰᠢ  ᠪᠠᠢᠨ᠎ᠠ ᠂ ᠨᠢᠭᠡ ᠠᠯᠢᠶ᠎ᠠ ᠪᠢᠴᠢᠬᠠᠨ ᠪᠦᠷᠢᠶ᠎ᠡ ᠬᠣᠷᠣᠬᠠᠶ ᠨᠢ ᠬᠤᠯᠤᠰᠤᠨ ᠡᠰᠢᠨ  ᠤ ᠬᠠᠮᠤᠭ  ᠤᠨ ᠥᠨᠳᠥᠷ ᠳᠤ ᠠᠪᠠᠷᠢᠨ ᠭᠠᠷᠴᠤ ᠂ ᠡᠳᠦᠷ ᠲᠡᠬᠡᠨ 3 ᠮᠧᠲ᠋ᠷ ᠳᠣᠷᠣᠭᠰᠢ ᠠᠪᠠᠷᠢᠭᠠᠳ ᠂ ᠣᠷᠣᠶ ᠪᠣᠯᠪᠠᠯ ᠳᠠᠬᠢᠭᠠᠳ 2 ᠮᠧᠲ᠋ᠷ ᠳᠡᠭᠡᠭᠰᠢ  ᠠᠪᠠᠷᠢᠨ᠎ᠠ ᠂ ᠪᠢᠴᠢᠬᠠᠨ ᠪᠦᠷᠢᠶ᠎ᠡ ᠬᠣᠷᠣᠬᠠᠶ ᠨᠢ ᠬᠡᠳᠦᠨ ᠡᠳᠦᠷ  ᠤᠨ ᠳᠠᠷᠠᠭ᠎ᠠ ᠰᠠᠶ᠋ᠢ ᠭᠠᠵᠠᠷ ᠳᠡᠭᠡᠷ᠎ᠡ ᠠᠪᠠᠷᠢᠨ ᠭᠠᠷᠴᠤ ᠴᠢᠳᠠᠳᠠᠭ ᠪᠤᠶ ︖",
+        "zh_translation": "有一根5米高的竹竿，一只调皮的小蜗牛，爬到竹竿的最顶端．它白天往下爬3米，到了晚上又向上爬2米．小蜗牛第几天才能爬到地面？",
+        "answer": "3",
+        "cot": {
+            "zh": "第一天，所在的高度是5-3+2=4米，第二天，所在的高度是4-3+2=3米，第三天，白天高度是3-3=0米，所以小蜗牛第3天才能爬到地面. 答案是3",
+            "en": "On the first day, it is at a height of 5 - 3 + 2 = 4 meters. On the second day, it is at a height of 4 - 3 + 2 = 3 meters. On the third day, during the day, the height is 3 - 3 = 0 meters, so the little snail will reach the ground on the 3rd day. The answer is 3"
+        },
+        "en_translation": "There is a 5-meter tall bamboo pole, and a mischievous little snail climbs to the very top of the pole. It crawls down 3 meters during the day and crawls up 2 meters at night. On which day will the little snail reach the ground?"
+    },
+    {
+        "id": "math_mn_143",
+        "question": "ᠰᠤᠷᠭᠠᠭᠤᠯᠢ  ᠡᠴᠡ ᠭᠡᠷ  ᠤᠨ ᠠᠬᠠᠮᠠᠳ  ᠤᠨ ᠬᠤᠷᠠᠯ ᠬᠢᠵᠦ᠂ 541 ᠭᠡᠷ  ᠤᠨ ᠠᠬᠠᠮᠠᠳ  ᠢ ᠵᠠᠯᠠᠵᠤ᠂ 4 ᠬᠥᠮᠦᠨ ᠨᠢᠭᠡ ᠰᠢᠷᠡᠭᠡᠨ  ᠳᠦ ᠲᠣᠭᠣᠷᠢᠨ ᠰᠠᠭᠤᠪᠠ᠂ ᠨᠠᠭᠠᠳᠤ ᠵᠠᠬ᠎ᠠ ᠳᠠᠭᠠᠨ ᠬᠡᠳᠦᠨ ᠰᠢᠷᠡᠭᠡ ᠪᠡᠯᠡᠳᠬᠡᠬᠦ ᠴᠢᠬᠤᠯᠠ ᠲᠠᠶ ᠪᠤᠢ?",
+        "zh_translation": "学校召开家长会，请了541位家长，4人围坐一桌，至少需要准备多少张桌子？",
+        "answer": "136",
+        "cot": {
+            "zh": "541/4=135余1，所以至少需要136张桌子. 答案是136",
+            "en": "541/4 = 135 with a remainder of 1, so at least 136 tables are needed. The answer is 136"
+        },
+        "en_translation": "The school is holding a parents' meeting and has invited 541 parents. If 4 people are seated at each table, how many tables need to be prepared at a minimum?"
+    },
+    {
+        "id": "math_mn_136",
+        "question": "ᠰᠢᠶᠤᠤ ᠬᠤᠸᠠ  ᠶᠢᠨ ᠬᠤᠭᠤᠴᠠᠭᠠᠨ ᠳᠤᠮᠳᠠᠬᠢ ᠰᠢᠯᠭᠠᠯᠲᠠ  ᠶᠢᠨ ᠦᠶ᠎ᠡ ᠶᠢᠨ ᠬᠡᠯᠡ ᠪᠢᠴᠢᠭ ᠪᠠ ᠰᠢᠨᠵᠢᠯᠡᠬᠦ ᠤᠬᠠᠭᠠᠨ  ᠤ ᠬᠣᠶᠠᠷ ᠲᠥᠷᠥᠯ  ᠤᠨ ᠬᠢᠴᠢᠶᠡᠯ  ᠤᠨ ᠳᠤᠮᠳᠠᠴᠢ ᠬᠤᠪᠢ ᠨᠢ 96 ᠬᠤᠪᠢ ᠂ ᠲᠣᠭᠠᠨ  ᠤ ᠤᠬᠠᠭᠠᠨ 93 ᠬᠤᠪᠢ ᠂ ᠲᠡᠭᠡᠪᠡᠯ ᠲᠡᠭᠦᠨ  ᠤ ᠭᠤᠷᠪᠠᠨ ᠲᠥᠷᠥᠯ  ᠤᠨ ᠬᠢᠴᠢᠶᠡᠯ  ᠤᠨ ᠳᠤᠮᠳᠠᠴᠢ ᠬᠤᠪᠢ ᠨᠢ ᠬᠡᠳᠦᠶ ᠪᠣᠶ ︖",
+        "zh_translation": "小华期中考试时语文和科学两科的平均分是96分，数学93分，那么他的三科平均分是多少分？",
+        "answer": "95",
+        "cot": {
+            "zh": "三门课的总分是96×2+93=285分，所以三科平均分是285/3=95分. 答案是95",
+            "en": "The total score for the three subjects is 96×2+93=285, so the average score for the three subjects is 285/3=95. The answer is 95"
+        },
+        "en_translation": "In Xiaohua's midterm exams, his average score for Chinese and Science was 96, and for Math it was 93. What is his average score for all three subjects?"
+    },
+    {
+        "id": "math_mn_89",
+        "question": "ᠰᠢᠶᠤᠤ ᠮᠢᠩ ᠡᠳᠦᠷ ᠪᠦᠷᠢ ᠭᠡᠷ ᠡᠴᠡ ᠪᠡᠨ ᠶᠠᠪᠠᠭᠠᠨ  ᠢᠶᠠᠷ ᠰᠤᠷᠭᠠᠭᠤᠯᠢ ᠳᠦ ᠬᠦᠷᠴᠦ᠂ ᠮᠢᠨᠦ᠋ᠲ ᠪᠦᠷᠢ 48 ᠮᠧᠲ᠋ᠷ ᠶᠠᠪᠤᠵᠤ᠂ 8 ᠮᠢᠨᠦ᠋ᠲ ᠶᠠᠪᠤᠪᠠᠯ ᠰᠤᠷᠭᠠᠭᠤᠯᠢ  ᠳᠦ ᠪᠠᠨ ᠬᠦᠷᠴᠢᠬᠡᠨ᠎ᠡ᠂ ᠬᠢᠴᠢᠶᠡᠯ ᠣᠷᠣᠬᠤ ᠴᠠᠭ ᠡᠴᠡ ᠪᠠᠨ ᠵᠢᠷᠭᠤᠭᠠᠬᠠᠨ ᠮᠢᠨᠦ᠋ᠲ ᠦᠯᠡᠳᠡᠬᠦ ᠪᠣᠯᠴᠢᠬᠠᠨ᠎ᠠ᠃ ᠰᠢᠶᠣᠤ ᠮᠢᠩ ᠮᠢᠨᠦ᠋ᠲ ᠪᠦᠷᠢ ᠠᠳᠠᠭ ᠪᠠᠭ᠎ᠠ ᠳᠠᠭᠠᠨ ᠬᠡᠳᠦᠶ ᠮᠧᠲ᠋ᠷ ᠶᠠᠪᠤᠪᠠᠯ ᠬᠣᠵᠢᠮᠳᠠᠬᠤ ᠦᠭᠡᠶ ᠪᠤᠶ?",
+        "zh_translation": "小明每天从家步行到学校，每分钟走48米，8分钟就可以到学校，离上课时间只有6分钟了。 小明每分钟至少走多少米才能不迟到？",
+        "answer": "64",
+        "cot": {
+            "zh": "小明从家到学校的距离是48×8=384米，小明每分钟至少走384/6=64米才能不迟到. 答案是64",
+            "en": "The distance from Xiaoming's home to school is 48×8=384 meters. Xiaoming must walk at least 384/6=64 meters per minute in order not to be late. The answer is 64"
+        },
+        "en_translation": "Xiaoming walks from home to school every day, walking 48 meters per minute, and he can reach the school in 8 minutes, with only 6 minutes left until class starts. How many meters per minute must Xiaoming walk at least in order not to be late?"
+    },
+    {
+        "id": "math_mn_247",
+        "question": "ᠰᠢᠶᠤᠤ ᠮᠢᠩ ᠲᠦᠷᠢᠶᠡᠰᠦᠨ ᠮᠠᠰᠢᠨ  ᠳᠦ ᠰᠠᠭᠤᠵᠤ 15 ᠺᠢᠯᠣᠮᠧᠲ᠋ᠷ  ᠤᠨ ᠵᠠᠶᠢᠲᠠᠶ ᠭᠠᠵᠠᠷ ᠲᠤ ᠠᠵᠢᠯᠯᠠᠬᠤ  ᠳᠦ ᠂ ᠲᠦᠷᠢᠶᠡᠰᠦᠨ ᠮᠠᠰᠢᠨ  ᠤ ᠡᠬᠢᠯᠡᠵᠦ ᠬᠥᠳᠡᠯᠬᠦ ᠦᠨ᠎ᠡ ᠨᠢ 3 ᠺᠢᠯᠣᠮᠧᠲ᠋ᠷ 5 ᠲᠥᠭᠥᠷᠢᠭ ᠂ ᠬᠡᠲᠦᠷᠡᠭᠰᠡᠨ ᠬᠡᠰᠡᠭ  ᠢ ᠨᠢ ᠺᠢᠯᠣᠮᠧᠲ᠋ᠷ ᠪᠦᠷᠢ  ᠳᠦ 1.60 ᠲᠥᠭᠥᠷᠢᠭ  ᠢᠶᠠᠷ ᠪᠤᠳᠤᠨ᠎ᠠ ᠂ ᠰᠢᠶᠤᠤ ᠮᠢᠩ ᠡᠨᠡ ᠤᠳᠠᠭ᠎ᠠ ᠲᠦᠷᠢᠶᠡᠰᠦᠨ ᠮᠠᠰᠢᠨ  ᠳᠦ ᠰᠠᠭᠤᠪᠠᠯ ᠵᠢᠯᠣᠭᠣᠴᠢ  ᠳᠤ ᠬᠡᠳᠦᠶ ᠲᠥᠭᠥᠷᠢᠭ ᠥᠭᠬᠦ ᠬᠡᠷᠡᠭᠲᠡᠶ ᠪᠣᠶ ︖",
+        "zh_translation": "小明打车去15千米外的地方办事，出租车起步价为3千米5元，超过部分按每千米1.60元收费，请问小明本次乘坐出租车需要付给司机多少元钱？",
+        "answer": "24.2",
+        "cot": {
+            "zh": "超过3千米的部分是15-3=12千米，所以超过部分的费用是12×1.60=19.2元，所以小明本次乘坐出租车需要付给司机的钱是5+19.2=24.2元. 答案是24.2",
+            "en": "The portion exceeding 3 kilometers is 15 - 3 = 12 kilometers, so the cost for the exceeding part is 12 × 1.60 = 19.2 yuan. Therefore, Xiaoming needs to pay the driver 5 + 19.2 = 24.2 yuan for this taxi ride. The answer is 24.2"
+        },
+        "en_translation": "Xiaoming took a taxi to a place 15 kilometers away. The taxi starting price is 5 yuan for the first 3 kilometers, and the rest is charged at 1.60 yuan per kilometer. How much money does Xiaoming need to pay the driver for this taxi ride?"
+    },
+    {
+        "id": "math_mn_97",
+        "question": "ᠰᠠᠭᠰᠤᠨ ᠪᠥᠮᠪᠥᠭᠡ ᠨᠢᠭᠡ ᠪᠦᠷᠢ ᠳᠡᠭᠡᠨ 40 ᠲᠥᠭᠥᠷᠢᠭ ᠂ ᠣᠳᠣ ᠬᠠᠭᠠᠰ  ᠢᠶᠠᠷ ᠬᠢᠮᠳᠠᠷᠠᠵᠤ ᠪᠠᠶᠢᠨ᠎ᠠ ᠂ ᠤᠤᠯ ᠨᠢ 30 ᠰᠠᠭᠰᠤᠨ ᠪᠥᠮᠪᠥᠭᠡ ᠬᠤᠳᠠᠯᠳᠤᠨ ᠠᠪᠬᠤ ᠵᠣᠭᠣᠰ  ᠢᠶᠠᠷ ᠣᠳᠣ ᠬᠡᠳᠦᠶ ᠬᠤᠳᠠᠯᠳᠤᠨ ᠠᠪᠴᠤ ᠪᠣᠯᠬᠤ ᠪᠤᠶ ︖",
+        "zh_translation": "篮球每个40元，现在降价一半，原来买30个篮球的钱，现在可以买多少个？",
+        "answer": "60",
+        "cot": {
+            "zh": "原来买30个篮球的钱是40×30=1200元，现在可以买1200/20=60个篮球. 答案是60",
+            "en": "The money originally used to buy 30 basketballs is 40×30=1200 yuan. Now you can buy 1200/20=60 basketballs. The answer is 60"
+        },
+        "en_translation": "Each basketball costs 40 yuan. Now the price is halved. With the money originally spent to buy 30 basketballs, how many can be bought now?"
+    },
+    {
+        "id": "math_mn_133",
+        "question": "ᠨᠢᠭᠡ ᠵᠦᠢᠯ  ᠤᠨ ᠺᠣᠮᠫᠢᠦ᠋ᠲ᠋ᠧᠷ ᠂ ᠤᠤᠯ ᠦᠨ᠎ᠡ ᠨᠢ 2800 ᠲᠥᠭᠥᠷᠢᠭ ᠂ ᠣᠳᠣ ᠳᠣᠯᠣᠭ᠎ᠠ ᠲᠠᠪᠤ ᠪᠠᠷ ᠨᠤᠭᠤᠯᠵᠤ ᠬᠤᠳᠠᠯᠳᠤᠨ᠎ᠠ ᠂ ᠣᠳᠣ ᠬᠡᠳᠦᠶ ᠲᠥᠭᠥᠷᠢᠭ ᠬᠢᠮᠳᠠᠷᠠᠵᠤ  ᠪᠠᠢᠬᠤ ᠪᠤᠶ?",
+        "zh_translation": "一种电脑，原价2800元，现在七五折出售，现在便宜多少元？",
+        "answer": "700",
+        "cot": {
+            "zh": "电脑打折后的价格是2800×0.75=2100元，所以现在便宜了2800-2100=700元. 答案是700",
+            "en": "The discounted price of the computer is 2800×0.75=2100 yuan, so it is now cheaper by 2800-2100=700 yuan. The answer is 700"
+        },
+        "en_translation": "A computer originally priced at 2800 yuan is now being sold at a 25% discount. How much cheaper is it now?"
+    },
+    {
+        "id": "math_mn_218",
+        "question": "ᠬᠡᠳᠦ ᠳᠡᠯᠭᠡᠭᠦᠷ ᠪᠣᠷᠣᠯᠠᠭᠤᠯᠭ᠎ᠠ  ᠶᠢ ᠠᠬᠢᠭᠤᠯᠬᠤ ᠠᠵᠢᠯᠯᠠᠭ᠎ᠠ ᠬᠢᠬᠦ  ᠳᠦ᠂ᠰᠦᠨ ᠲᠠᠯᠬ᠎ᠠ ᠤᠭᠤᠲᠠ ᠪᠦᠷᠢ 10 ᠲᠥᠭᠥᠷᠢᠭ᠂ 4 ᠤᠭᠤᠲᠠ ᠠᠪᠤᠪᠠᠯ ᠨᠢᠭᠡ ᠤᠭᠤᠲᠠ ᠬᠦᠷᠭᠡᠨ᠎ᠡ᠂ ᠸᠠᠩ ᠠᠨᠢᠶ᠎ᠠ ᠨᠢᠭᠡ ᠤᠳᠠᠭ᠎ᠠ 4 ᠤᠭᠤᠲᠠ ᠬᠤᠳᠠᠯᠳᠤᠨ ᠠᠪᠤᠪᠠ᠂ ᠰᠦᠨ ᠲᠠᠯᠬ᠎ᠠ ᠨᠢ ᠤᠭᠤᠲᠠ ᠪᠦᠷᠢ ᠬᠡᠳᠦᠶ ᠲᠥᠭᠥᠷᠢᠭ  ᠬᠢᠮᠳᠠᠷᠠᠬᠤ ᠪᠤᠢ︖",
+        "zh_translation": "超市搞促销活动，每袋奶粉10元，买4袋送一袋，王阿姨一次买了4袋，每袋奶粉可以便宜多少元？",
+        "answer": "2",
+        "cot": {
+            "zh": "原本4袋奶粉是4×10=40元，现在便宜了10元，所以每袋奶粉便宜了10/4=2元. 答案是2",
+            "en": "Originally, 4 bags of milk powder cost 4×10=40 yuan. Now, it is 10 yuan cheaper, so each bag of milk powder is cheaper by 10/4=2 yuan. The answer is 2"
+        },
+        "en_translation": "The supermarket is having a promotional event. Each bag of milk powder costs 10 yuan, and if you buy 4 bags, you get one bag free. Aunt Wang bought 4 bags at once, how much cheaper is each bag of milk powder?"
+    }
+]

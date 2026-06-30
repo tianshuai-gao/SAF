@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+build/
+dist/
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Sphinx build
+docs/_build/
+
+# Results and logs (do not commit large outputs or model weights)
+results/
+logs/
+*.log
+*.out
+*.err
+
+# Model weights and caches
+*.bin
+*.safetensors
+cache/
+hub/
+
+# OS
+.DS_Store
+
+# Local validation scratch files (do not commit)
+test_prompts.json
+oracle_test3.json
+pred_*.json
+test_host_selection.json
