@@ -144,7 +144,11 @@ class DExpertsLlama:
         """
         base_outputs = self.base(**base_inputs, return_dict=return_dict)
         expert_outputs = self.expert(**expert_inputs, return_dict=return_dict)
-        antiexpert_outputs = self.antiexpert(**antiexpert_inputs, return_dict=return_dict)
+
+        if self.antiexpert is not None:
+            antiexpert_outputs = self.antiexpert(**antiexpert_inputs, return_dict=return_dict)
+        else:
+            antiexpert_outputs = None
         return base_outputs, expert_outputs, antiexpert_outputs
 
     def _get_tokenized_chat_inputs(self, input_ids):
@@ -250,15 +254,19 @@ class DExpertsLlama:
         for step in range(max_new_tokens):
             self.base._supports_cache_class = False
             self.expert._supports_cache_class = False
-            self.antiexpert._supports_cache_class = False
+            if self.antiexpert is not None:
+                self.antiexpert._supports_cache_class = False
 
             base_inputs = self.base.prepare_inputs_for_generation(input_ids, **base_kwargs)
             expert_inputs = self.expert.prepare_inputs_for_generation(
                 expert_input_ids, **expert_kwargs
             )
-            antiexpert_inputs = self.antiexpert.prepare_inputs_for_generation(
-                input_ids, **antiexpert_kwargs
-            )
+            if self.antiexpert is not None:
+                antiexpert_inputs = self.antiexpert.prepare_inputs_for_generation(
+                    input_ids, **antiexpert_kwargs
+                )
+            else:
+                antiexpert_inputs = None
 
             base_outputs, expert_outputs, antiexpert_outputs = self.forward(
                 base_inputs, expert_inputs, antiexpert_inputs, return_dict=True
@@ -266,14 +274,16 @@ class DExpertsLlama:
 
             base_next_token_logits = base_outputs.logits[..., -1, :]
             expert_next_token_logits = expert_outputs.logits[..., -1, :]
-            antiexpert_next_token_logits = antiexpert_outputs.logits[..., -1, :]
-
             expert_next_token_logits = expert_next_token_logits[
                 :, : base_next_token_logits.shape[-1]
             ]
-            antiexpert_next_token_logits = antiexpert_next_token_logits[
-                :, : base_next_token_logits.shape[-1]
-            ]
+            if antiexpert_outputs is not None:
+                antiexpert_next_token_logits = antiexpert_outputs.logits[..., -1, :]
+                antiexpert_next_token_logits = antiexpert_next_token_logits[
+                    :, : base_next_token_logits.shape[-1]
+                ]
+            else:
+                antiexpert_next_token_logits = None
 
             next_token_logits = self.fuse_logits(
                 base_next_token_logits,
@@ -319,9 +329,10 @@ class DExpertsLlama:
             expert_kwargs = self._update_model_kwargs_for_generation(
                 expert_outputs, expert_kwargs
             )
-            antiexpert_kwargs = self._update_model_kwargs_for_generation(
-                antiexpert_outputs, antiexpert_kwargs
-            )
+            if antiexpert_outputs is not None:
+                antiexpert_kwargs = self._update_model_kwargs_for_generation(
+                    antiexpert_outputs, antiexpert_kwargs
+                )
 
             if stopping_criteria and stopping_criteria(input_ids, None):
                 break
@@ -495,7 +506,7 @@ class SAFW(DExpertsLlama):
         gc.collect()
         if torch.cuda.is_available():
             torch.cuda.empty_cache()
-        self.antiexpert = self.expert
+        self.antiexpert = None
 
         self.beta_fixed = beta_fixed
         self.fixed_beta = fixed_beta
