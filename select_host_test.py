@@ -68,6 +68,7 @@ def main():
     A = load(args.model_a); B = load(args.model_b)
 
     n = 0
+    records = []
     acc = {"ins": 0, "cpt": 0, "e_ps": 0, "p_ps": 0, "oracle": 0}
     pick = {"e_ins": 0, "e_cpt": 0, "p_ins": 0, "p_cpt": 0}
     for c in conv:
@@ -75,6 +76,11 @@ def main():
         li, ei, pi = probe(A, B, tok, c["input"])
         lc, ec, pc = probe(B, A, tok, c["input"])
         ok_i = int(li == g); ok_c = int(lc == g)
+        records.append({"id": c["id"], "gold": g,
+                        "e_ins": ei, "e_cpt": ec,
+                        "p_ins": pi, "p_cpt": pc,
+                        "ans_ins": li, "ans_cpt": lc,
+                        "ok_ins": ok_i, "ok_cpt": ok_c})
         n += 1
         acc["ins"] += ok_i
         acc["cpt"] += ok_c
@@ -88,6 +94,9 @@ def main():
         else:
             acc["p_ps"] += ok_c; pick["p_cpt"] += 1
 
+    outp = f"records_{args.task}_{args.lang}.json"
+    json.dump(records, open(outp, "w"), ensure_ascii=False)
+    print(f"[saved] {len(records)} records -> {outp}")
     print(f"\n=== select-host test ({args.task}/{args.lang}, n={n}) ===")
     print(f"  fixed ins (host=7B)  : {acc['ins']/n:.3f}")
     print(f"  fixed cpt (host=cpt) : {acc['cpt']/n:.3f}")
