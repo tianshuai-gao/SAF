@@ -485,6 +485,18 @@ class SAFW(DExpertsLlama):
             self.expert.resize_token_embeddings(self.base.get_input_embeddings().weight.size(0))
             self.antiexpert.resize_token_embeddings(self.base.get_input_embeddings().weight.size(0))
 
+        # SAF-W only uses host (base slot) and scorer (expert slot). The parent
+        # loaded a second scorer copy into the antiexpert slot so the 3-model
+        # loop runs unchanged, but fuse_logits ignores antiexpert. Release that
+        # duplicate and point antiexpert at the same scorer object to save
+        # memory (one 1.5B copy instead of two).
+        import gc
+        del self.antiexpert
+        gc.collect()
+        if torch.cuda.is_available():
+            torch.cuda.empty_cache()
+        self.antiexpert = self.expert
+
         self.beta_fixed = beta_fixed
         self.fixed_beta = fixed_beta
 

@@ -9,6 +9,12 @@ import torch.nn.functional as F
 
 def fuse_logits(host_logits, scorer_logits):
     """SAF-W endorsement fusion at one position. Same rule as SAFW.fuse_logits."""
+    # Host and scorer may have different vocab sizes (e.g. 7B has 152064, the
+    # 1.5B cpt has 151936). Truncate both to the smaller size before fusing,
+    # matching the vocab handling in the decoder.
+    v = min(host_logits.shape[-1], scorer_logits.shape[-1])
+    host_logits = host_logits[..., :v]
+    scorer_logits = scorer_logits[..., :v]
     p_scorer = F.softmax(scorer_logits, dim=-1)
     host_top1 = host_logits.argmax(dim=-1, keepdim=True)
     e = p_scorer.gather(-1, host_top1).squeeze(-1)
@@ -19,7 +25,7 @@ def fuse_logits(host_logits, scorer_logits):
 @torch.no_grad()
 def fused_perplexity(host_model, scorer_model, tokenizer, text, device):
     """Perplexity of text under the SAF-W fused distribution for one assignment."""
-    input_ids = tokenizer(text, return_tensors="pt").input_ids.to(device)
+    input_ids = tokenizer(text, return_tensors="pt").input_ids.to(host_model.device)
     host_logits_all = host_model(input_ids).logits[0]
     scorer_logits_all = scorer_model(input_ids).logits[0]
     v = host_logits_all.shape[-1]
@@ -48,10 +54,10 @@ def main():
 
     from transformers import AutoTokenizer, AutoModelForCausalLM
     tok = AutoTokenizer.from_pretrained(args.model_a, trust_remote_code=True)
-    A = AutoModelForCausalLM.from_pretrained(args.model_a, torch_dtype=torch.float32,
-                                             trust_remote_code=True).to(args.device).eval()
-    B = AutoModelForCausalLM.from_pretrained(args.model_b, torch_dtype=torch.float32,
-                                             trust_remote_code=True).to(args.device).eval()
+    A = AutoModelForCausalLM.from_pretrained(args.model_a, torch_dtype=torch.bfloat16,
+                                             trust_remote_code=True, device_map="auto").eval()
+    B = AutoModelForCausalLM.from_pretrained(args.model_b, torch_dtype=torch.bfloat16,
+                                             trust_remote_code=True, device_map="auto").eval()
 
     data = json.load(open(args.prompts_file, encoding="utf-8"))
     results = []
