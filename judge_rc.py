@@ -16,8 +16,8 @@ def main():
     ap.add_argument("--cpt", required=True)
     ap.add_argument("--task", default="rc", choices=["rc", "rs"])
     ap.add_argument("--lang", default="bo")
-    ap.add_argument("--prompt_lang", default="zh")
-    ap.add_argument("--num_exemplar", type=int, default=3)
+    ap.add_argument("--prompt_lang", default="en")
+    ap.add_argument("--num_exemplar", type=int, default=5)
     ap.add_argument("--out", default=None)
     args = ap.parse_args()
     out = args.out or f"judge_{args.task}_{args.lang}.json"
