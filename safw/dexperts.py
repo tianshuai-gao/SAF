@@ -510,6 +510,17 @@ class SAFW(DExpertsLlama):
 
         self.beta_fixed = beta_fixed
         self.fixed_beta = fixed_beta
+        # anchor_lang: force the first generated token to come from one
+        # model alone, chosen by output language: "en" -> ins, "lrl" -> cpt,
+        # None -> off. Pins the output language on generation tasks.
+        # ins_in_base says which slot holds the ins model.
+        self.anchor_lang = None
+        self.ins_in_base = True
+        self._step = 0
+
+    def generate(self, input_ids=None, **kwargs):
+        self._step = 0
+        return super().generate(input_ids=input_ids, **kwargs)
 
     def fuse_logits(self, base_logits, expert_logits, antiexpert_logits):
         """Endorsement fusion of host (base slot) and scorer (expert slot).
@@ -519,6 +530,11 @@ class SAFW(DExpertsLlama):
         is ``beta = 1 - e`` where ``e`` is the scorer probability of the host's
         top token.
         """
+        step, self._step = self._step, self._step + 1
+        if self.anchor_lang in ("en", "lrl") and step == 0:
+            want_ins = self.anchor_lang == "en"
+            use_base = want_ins == self.ins_in_base
+            return base_logits if use_base else expert_logits
         l_host = base_logits
         l_scorer = expert_logits
         if self.fixed_beta:

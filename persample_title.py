@@ -24,6 +24,9 @@ class SAFWSwap(SAFW):
     def fuse_logits(self, base_logits, expert_logits, antiexpert_logits):
         if self.swap:
             base_logits, expert_logits = expert_logits, base_logits
+            self.ins_in_base = False
+        else:
+            self.ins_in_base = True
         return super().fuse_logits(base_logits, expert_logits, antiexpert_logits)
 
 
@@ -74,6 +77,8 @@ def main():
         e = ent[it["id"]]
         # lower-entropy model is host; base slot holds ins
         model.swap = not (e["H_ins"] < e["H_cpt"])  # swap=True -> cpt-led
+        # title outputs LRL -> anchor first token to cpt regardless of host.
+        model.anchor_lang = "lrl"
         outs = generate_completions(
             model=model, tokenizer=tokenizer, prompts=[it["input"]],
             batch_size=1, stop_id_sequences=stop_id_sequences,
