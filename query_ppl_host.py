@@ -1,5 +1,6 @@
 """Per-sample host selection via query-only conditional PPL (exemplars as
-condition, not scored). Direction: weaker-as-host. rc/rs, first-token answer."""
+condition, not scored). Direction: weaker-as-host. rc/rs, first-token answer.
+Memory-safe: never materializes full-sequence float32 logits."""
 import argparse, json
 import torch
 import torch.nn.functional as F
@@ -10,6 +11,25 @@ TASKS = {
     "rc": ("reading_comprehension", convert_comprehension),
     "rs": ("response_selection", convert_response),
 }
+
+@torch.no_grad()
+def score_model(model, ids, start, chunk=256):
+    """Return (mean NLL of tokens after `start`, last-position logits on cpu)."""
+    out = model(ids.to(model.device)).logits[0]  # (L, V) bf16, stays on GPU
+    L = out.shape[0]
+    tgt = ids[0].to(out.device)
+    nll_sum, cnt = 0.0, 0
+    for s in range(start, L - 1, chunk):
+        e = min(s + chunk, L - 1)
+        lp = F.log_softmax(out[s:e].float(), dim=-1)
+        got = lp.gather(-1, tgt[s + 1:e + 1].unsqueeze(-1)).squeeze(-1)
+        nll_sum += -got.sum().item()
+        cnt += got.numel()
+        del lp, got
+    last = out[-1].float().cpu()
+    del out
+    torch.cuda.empty_cache()
+    return nll_sum / max(cnt, 1), last
 
 def main():
     ap = argparse.ArgumentParser()
@@ -46,24 +66,14 @@ def main():
         prompt = it_full["input"]
         prefix = prompt[: len(prompt) - len(it_bare["input"])]
         n_prefix = tok(prefix, return_tensors="pt").input_ids.shape[1]
-        ids = tok(prompt, return_tensors="pt").input_ids.to(m_ins.device)
-        L = ids.shape[1]
+        ids = tok(prompt, return_tensors="pt").input_ids
         start = max(n_prefix - 1, 0)  # logits[i] predicts token i+1
 
-        with torch.no_grad():
-            lg_ins = m_ins(ids).logits[0].float()
-            lg_cpt = m_cpt(ids.to(m_cpt.device)).logits[0].float()
+        nll_ins, l_ins = score_model(m_ins, ids, start)
+        nll_cpt, l_cpt = score_model(m_cpt, ids, start)
 
-        tgt = ids[0, start + 1:].cpu()
-        lp_i = F.log_softmax(lg_ins[start:L-1].cpu(), -1).gather(
-            -1, tgt.unsqueeze(-1)).squeeze(-1)
-        lp_c = F.log_softmax(lg_cpt[start:L-1].cpu(), -1).gather(
-            -1, tgt.unsqueeze(-1)).squeeze(-1)
-        nll_ins = -lp_i.mean().item()
-        nll_cpt = -lp_c.mean().item()
-
-        n = min(lg_ins.size(-1), lg_cpt.size(-1))
-        l_ins, l_cpt = lg_ins[-1, :n].cpu(), lg_cpt[-1, :n].cpu()
+        n = min(l_ins.size(0), l_cpt.size(0))
+        l_ins, l_cpt = l_ins[:n], l_cpt[:n]
         p_ins = F.log_softmax(l_ins, -1)
         p_cpt = F.log_softmax(l_cpt, -1)
 
