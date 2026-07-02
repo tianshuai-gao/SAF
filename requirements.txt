@@ -9,5 +9,9 @@ accelerate>=0.30
 sentencepiece>=0.1.99
 numpy>=1.24
 sacrebleu>=2.4
-rouge-score>=0.1.2
+# ROUGE: MiLiC-Eval uses the multilingual fork (xl-sum), NOT the official
+# rouge-score package. The fork installs AS rouge_score and overrides it, so
+# the official package must not be listed here. pyonmttok is its tokenizer.
+pyonmttok>=1.38
+rouge_score @ git+https://github.com/csebuetnlp/xl-sum.git#subdirectory=multilingual_rouge_scoring
 tqdm>=4.65

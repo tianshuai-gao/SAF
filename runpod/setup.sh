@@ -7,7 +7,10 @@ set -e
 
 echo "[setup] installing pinned dependencies ..."
 pip install -q torch==2.5.1
-pip install -q transformers==4.47.0 accelerate sentencepiece numpy sacrebleu rouge-score tqdm
+pip install -q transformers==4.47.0 accelerate sentencepiece numpy sacrebleu tqdm
+# multilingual ROUGE (MiLiC-Eval parity); overrides official rouge-score
+pip install -q pyonmttok
+pip install -q "git+https://github.com/csebuetnlp/xl-sum.git#subdirectory=multilingual_rouge_scoring"
 pip install -q huggingface_hub
 
 echo "[setup] verifying versions ..."
