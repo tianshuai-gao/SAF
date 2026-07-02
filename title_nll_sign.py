@@ -6,6 +6,7 @@ import torch
 import torch.nn.functional as F
 from transformers import AutoModelForCausalLM, AutoTokenizer
 from safw.prompts import convert_title
+from tqdm import tqdm
 
 @torch.no_grad()
 def query_nll(model, ids, start, chunk=256):
@@ -51,7 +52,7 @@ def main():
     m_cpt = AutoModelForCausalLM.from_pretrained(args.cpt, **kw).eval()
 
     recs = []
-    for it_full, it_bare in zip(full, bare):
+    for it_full, it_bare in tqdm(list(zip(full, bare)), desc=f"title {args.lang}"):
         prompt = it_full["input"]
         prefix = prompt[: len(prompt) - len(it_bare["input"])]
         n_prefix = tok(prefix, return_tensors="pt").input_ids.shape[1]
