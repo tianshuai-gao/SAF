@@ -1,25 +1,33 @@
-"""Per-sample host selection on rc via delta=0 judge. One forward per model."""
+"""Per-sample host selection on rc/rs via delta=0 judge. One forward per model."""
 import argparse, json
 import torch
 import torch.nn.functional as F
 from transformers import AutoModelForCausalLM, AutoTokenizer
-from safw.prompts import convert_comprehension
+from safw.prompts import convert_comprehension, convert_response
+
+TASKS = {
+    "rc": ("reading_comprehension", convert_comprehension),
+    "rs": ("response_selection", convert_response),
+}
 
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--ins", required=True)
     ap.add_argument("--cpt", required=True)
+    ap.add_argument("--task", default="rc", choices=["rc", "rs"])
     ap.add_argument("--lang", default="bo")
     ap.add_argument("--prompt_lang", default="zh")
+    ap.add_argument("--num_exemplar", type=int, default=3)
     ap.add_argument("--out", default=None)
     args = ap.parse_args()
-    out = args.out or f"judge_rc_{args.lang}.json"
+    out = args.out or f"judge_{args.task}_{args.lang}.json"
 
-    d = f"data/reading_comprehension/{args.lang}"
+    dirname, builder = TASKS[args.task]
+    d = f"data/{dirname}/{args.lang}"
     test = json.load(open(f"{d}/test.json"))
     exem = json.load(open(f"{d}/train_1.json"))
-    items = convert_comprehension(test, exem, eval_lang=args.lang,
-                                  num_exemplar=3, prompt_lang=args.prompt_lang)
+    items = builder(test, exem, eval_lang=args.lang,
+                    num_exemplar=args.num_exemplar, prompt_lang=args.prompt_lang)
 
     tok = AutoTokenizer.from_pretrained(args.ins)
     kw = dict(torch_dtype=torch.bfloat16, device_map="auto")
@@ -68,6 +76,7 @@ def main():
     dis = [r for r in recs if r["A"] != r["B"]]
     disJ = sum(r["pick"] == r["gold"] for r in dis)
     disO = sum(r["A"] == r["gold"] or r["B"] == r["gold"] for r in dis)
+    print(f"task={args.task} lang={args.lang}")
     print(f"n={N}  agree={agree} ({agree/N:.1%})")
     print(f"acc  ins-led={accA:.3f}  cpt-led={accB:.3f}  judge={accJ:.3f}")
     print(f"disagree n={len(dis)}  judge_correct={disJ}  oracle_correct={disO}")
