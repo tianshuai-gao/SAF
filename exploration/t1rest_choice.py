@@ -23,21 +23,36 @@ def main():
     ap.add_argument("--prompt_lang", default="en")
     ap.add_argument("--num_exemplar", type=int, default=5)
     ap.add_argument("--load_in_8bit", action="store_true")
-    ap.add_argument("--eval_set", default="t1rest", choices=["t1rest", "t23"],
-                    help="t1rest: unused tail of train_1; t23: train_2+train_3")
+    ap.add_argument("--eval_set", default="t1rest",
+                    choices=["t1rest", "t23", "t123"],
+                    help="t1rest: unused tail of train_1; t23: train_2+train_3; "
+                         "t123: all of train_1+2+3 (requires --exemplar_source dev)")
+    ap.add_argument("--exemplar_source", default="train1",
+                    choices=["train1", "dev"],
+                    help="which file supplies the few-shot exemplars")
     args = ap.parse_args()
-    out = f"{args.eval_set}_{args.task}_{args.lang}_{args.scale}.json"
 
     dirname, builder = TASKS[args.task]
     d = f"data/{dirname}/{args.lang}"
     train1 = json.load(open(f"{d}/train_1.json"))
-    exem = train1[: args.num_exemplar]
+    if args.exemplar_source == "dev":
+        exem = json.load(open(f"{d}/dev.json"))[: args.num_exemplar]
+    else:
+        exem = train1[: args.num_exemplar]
     if args.eval_set == "t1rest":
         evalset = train1[args.num_exemplar:]
-    else:
+    elif args.eval_set == "t23":
         evalset = (json.load(open(f"{d}/train_2.json"))
                    + json.load(open(f"{d}/train_3.json")))
-    print(f"eval_set={args.eval_set}  exemplars={len(exem)}  eval={len(evalset)}")
+    else:  # t123
+        assert args.exemplar_source == "dev", \
+            "t123 evaluates all of train_1, so exemplars must come from dev"
+        evalset = (train1
+                   + json.load(open(f"{d}/train_2.json"))
+                   + json.load(open(f"{d}/train_3.json")))
+    out = f"{args.eval_set}_{args.exemplar_source}ex_{args.task}_{args.lang}_{args.scale}.json"
+    print(f"eval_set={args.eval_set}  exemplar_source={args.exemplar_source}  "
+          f"exemplars={len(exem)}  eval={len(evalset)}")
 
     items = builder(evalset, exem, eval_lang=args.lang,
                     num_exemplar=args.num_exemplar, prompt_lang=args.prompt_lang)
