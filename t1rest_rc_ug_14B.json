@@ -1,0 +1,32 @@
+[
+ {
+  "id": "rc_ug_52",
+  "gold": "A",
+  "insled": "A",
+  "cptled": "A"
+ },
+ {
+  "id": "rc_ug_179",
+  "gold": "A",
+  "insled": "B",
+  "cptled": "B"
+ },
+ {
+  "id": "rc_ug_170",
+  "gold": "C",
+  "insled": "C",
+  "cptled": "C"
+ },
+ {
+  "id": "rc_ug_41",
+  "gold": "B",
+  "insled": "B",
+  "cptled": "B"
+ },
+ {
+  "id": "rc_ug_50",
+  "gold": "A",
+  "insled": "A",
+  "cptled": "A"
+ }
+]
