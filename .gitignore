@@ -37,3 +37,7 @@ test_prompts.json
 oracle_test3.json
 pred_*.json
 test_host_selection.json
+docs/_build/
+safw.egg-info/
+__pycache__/
+*.pyc
