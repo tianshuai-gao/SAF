@@ -1,0 +1,362 @@
+[
+ {
+  "id": "response_ug_493",
+  "gold": "B",
+  "insled": "C",
+  "cptled": "C"
+ },
+ {
+  "id": "response_ug_176",
+  "gold": "B",
+  "insled": "B",
+  "cptled": "B"
+ },
+ {
+  "id": "response_ug_130",
+  "gold": "D",
+  "insled": "D",
+  "cptled": "D"
+ },
+ {
+  "id": "response_ug_150",
+  "gold": "B",
+  "insled": "D",
+  "cptled": "D"
+ },
+ {
+  "id": "response_ug_375",
+  "gold": "D",
+  "insled": "C",
+  "cptled": "C"
+ },
+ {
+  "id": "response_ug_26",
+  "gold": "A",
+  "insled": "A",
+  "cptled": "A"
+ },
+ {
+  "id": "response_ug_497",
+  "gold": "D",
+  "insled": "C",
+  "cptled": "C"
+ },
+ {
+  "id": "response_ug_56",
+  "gold": "D",
+  "insled": "C",
+  "cptled": "C"
+ },
+ {
+  "id": "response_ug_279",
+  "gold": "B",
+  "insled": "B",
+  "cptled": "B"
+ },
+ {
+  "id": "response_ug_108",
+  "gold": "C",
+  "insled": "B",
+  "cptled": "B"
+ },
+ {
+  "id": "response_ug_365",
+  "gold": "D",
+  "insled": "D",
+  "cptled": "D"
+ },
+ {
+  "id": "response_ug_331",
+  "gold": "A",
+  "insled": "A",
+  "cptled": "A"
+ },
+ {
+  "id": "response_ug_118",
+  "gold": "B",
+  "insled": "B",
+  "cptled": "B"
+ },
+ {
+  "id": "response_ug_288",
+  "gold": "D",
+  "insled": "D",
+  "cptled": "D"
+ },
+ {
+  "id": "response_ug_500",
+  "gold": "B",
+  "insled": "C",
+  "cptled": "C"
+ },
+ {
+  "id": "response_ug_315",
+  "gold": "B",
+  "insled": "B",
+  "cptled": "B"
+ },
+ {
+  "id": "response_ug_195",
+  "gold": "C",
+  "insled": "C",
+  "cptled": "C"
+ },
+ {
+  "id": "response_ug_24",
+  "gold": "B",
+  "insled": "B",
+  "cptled": "B"
+ },
+ {
+  "id": "response_ug_438",
+  "gold": "D",
+  "insled": "D",
+  "cptled": "D"
+ },
+ {
+  "id": "response_ug_17",
+  "gold": "B",
+  "insled": "C",
+  "cptled": "C"
+ },
+ {
+  "id": "response_ug_348",
+  "gold": "A",
+  "insled": "B",
+  "cptled": "B"
+ },
+ {
+  "id": "response_ug_489",
+  "gold": "D",
+  "insled": "B",
+  "cptled": "B"
+ },
+ {
+  "id": "response_ug_356",
+  "gold": "A",
+  "insled": "A",
+  "cptled": "A"
+ },
+ {
+  "id": "response_ug_44",
+  "gold": "B",
+  "insled": "D",
+  "cptled": "D"
+ },
+ {
+  "id": "response_ug_177",
+  "gold": "C",
+  "insled": "B",
+  "cptled": "B"
+ },
+ {
+  "id": "response_ug_205",
+  "gold": "C",
+  "insled": "B",
+  "cptled": "B"
+ },
+ {
+  "id": "response_ug_495",
+  "gold": "C",
+  "insled": "C",
+  "cptled": "C"
+ },
+ {
+  "id": "response_ug_202",
+  "gold": "C",
+  "insled": "C",
+  "cptled": "C"
+ },
+ {
+  "id": "response_ug_168",
+  "gold": "C",
+  "insled": "C",
+  "cptled": "C"
+ },
+ {
+  "id": "response_ug_100",
+  "gold": "A",
+  "insled": "A",
+  "cptled": "A"
+ },
+ {
+  "id": "response_ug_439",
+  "gold": "D",
+  "insled": "D",
+  "cptled": "D"
+ },
+ {
+  "id": "response_ug_483",
+  "gold": "D",
+  "insled": "D",
+  "cptled": "D"
+ },
+ {
+  "id": "response_ug_389",
+  "gold": "D",
+  "insled": "D",
+  "cptled": "D"
+ },
+ {
+  "id": "response_ug_62",
+  "gold": "B",
+  "insled": "B",
+  "cptled": "B"
+ },
+ {
+  "id": "response_ug_395",
+  "gold": "A",
+  "insled": "C",
+  "cptled": "C"
+ },
+ {
+  "id": "response_ug_427",
+  "gold": "A",
+  "insled": "B",
+  "cptled": "D"
+ },
+ {
+  "id": "response_ug_256",
+  "gold": "C",
+  "insled": "C",
+  "cptled": "C"
+ },
+ {
+  "id": "response_ug_58",
+  "gold": "D",
+  "insled": "C",
+  "cptled": "C"
+ },
+ {
+  "id": "response_ug_283",
+  "gold": "C",
+  "insled": "C",
+  "cptled": "C"
+ },
+ {
+  "id": "response_ug_64",
+  "gold": "B",
+  "insled": "B",
+  "cptled": "B"
+ },
+ {
+  "id": "response_ug_264",
+  "gold": "D",
+  "insled": "D",
+  "cptled": "D"
+ },
+ {
+  "id": "response_ug_98",
+  "gold": "B",
+  "insled": "B",
+  "cptled": "B"
+ },
+ {
+  "id": "response_ug_199",
+  "gold": "B",
+  "insled": "B",
+  "cptled": "B"
+ },
+ {
+  "id": "response_ug_366",
+  "gold": "C",
+  "insled": "C",
+  "cptled": "C"
+ },
+ {
+  "id": "response_ug_463",
+  "gold": "B",
+  "insled": "C",
+  "cptled": "C"
+ },
+ {
+  "id": "response_ug_127",
+  "gold": "B",
+  "insled": "B",
+  "cptled": "B"
+ },
+ {
+  "id": "response_ug_478",
+  "gold": "B",
+  "insled": "B",
+  "cptled": "B"
+ },
+ {
+  "id": "response_ug_502",
+  "gold": "C",
+  "insled": "B",
+  "cptled": "D"
+ },
+ {
+  "id": "response_ug_398",
+  "gold": "B",
+  "insled": "B",
+  "cptled": "B"
+ },
+ {
+  "id": "response_ug_259",
+  "gold": "A",
+  "insled": "D",
+  "cptled": "D"
+ },
+ {
+  "id": "response_ug_116",
+  "gold": "A",
+  "insled": "A",
+  "cptled": "A"
+ },
+ {
+  "id": "response_ug_27",
+  "gold": "C",
+  "insled": "A",
+  "cptled": "A"
+ },
+ {
+  "id": "response_ug_254",
+  "gold": "A",
+  "insled": "D",
+  "cptled": "D"
+ },
+ {
+  "id": "response_ug_84",
+  "gold": "B",
+  "insled": "D",
+  "cptled": "D"
+ },
+ {
+  "id": "response_ug_134",
+  "gold": "B",
+  "insled": "D",
+  "cptled": "D"
+ },
+ {
+  "id": "response_ug_237",
+  "gold": "A",
+  "insled": "A",
+  "cptled": "A"
+ },
+ {
+  "id": "response_ug_109",
+  "gold": "C",
+  "insled": "C",
+  "cptled": "C"
+ },
+ {
+  "id": "response_ug_329",
+  "gold": "C",
+  "insled": "C",
+  "cptled": "C"
+ },
+ {
+  "id": "response_ug_67",
+  "gold": "A",
+  "insled": "D",
+  "cptled": "D"
+ },
+ {
+  "id": "response_ug_314",
+  "gold": "B",
+  "insled": "C",
+  "cptled": "C"
+ }
+]
