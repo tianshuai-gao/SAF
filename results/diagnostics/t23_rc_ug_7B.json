@@ -1,0 +1,122 @@
+[
+ {
+  "id": "rc_ug_60",
+  "gold": "C",
+  "insled": "C",
+  "cptled": "C"
+ },
+ {
+  "id": "rc_ug_128",
+  "gold": "C",
+  "insled": "A",
+  "cptled": "A"
+ },
+ {
+  "id": "rc_ug_58",
+  "gold": "B",
+  "insled": "C",
+  "cptled": "C"
+ },
+ {
+  "id": "rc_ug_233",
+  "gold": "D",
+  "insled": "C",
+  "cptled": "C"
+ },
+ {
+  "id": "rc_ug_113",
+  "gold": "B",
+  "insled": "C",
+  "cptled": "C"
+ },
+ {
+  "id": "rc_ug_160",
+  "gold": "B",
+  "insled": "A",
+  "cptled": "A"
+ },
+ {
+  "id": "rc_ug_117",
+  "gold": "C",
+  "insled": "B",
+  "cptled": "B"
+ },
+ {
+  "id": "rc_ug_111",
+  "gold": "A",
+  "insled": "B",
+  "cptled": "B"
+ },
+ {
+  "id": "rc_ug_158",
+  "gold": "B",
+  "insled": "C",
+  "cptled": "C"
+ },
+ {
+  "id": "rc_ug_231",
+  "gold": "C",
+  "insled": "C",
+  "cptled": "C"
+ },
+ {
+  "id": "rc_ug_64",
+  "gold": "C",
+  "insled": "D",
+  "cptled": "D"
+ },
+ {
+  "id": "rc_ug_54",
+  "gold": "B",
+  "insled": "D",
+  "cptled": "D"
+ },
+ {
+  "id": "rc_ug_169",
+  "gold": "A",
+  "insled": "D",
+  "cptled": "D"
+ },
+ {
+  "id": "rc_ug_143",
+  "gold": "A",
+  "insled": "C",
+  "cptled": "B"
+ },
+ {
+  "id": "rc_ug_136",
+  "gold": "A",
+  "insled": "C",
+  "cptled": "C"
+ },
+ {
+  "id": "rc_ug_89",
+  "gold": "C",
+  "insled": "A",
+  "cptled": "A"
+ },
+ {
+  "id": "rc_ug_247",
+  "gold": "A",
+  "insled": "A",
+  "cptled": "A"
+ },
+ {
+  "id": "rc_ug_97",
+  "gold": "C",
+  "insled": "B",
+  "cptled": "B"
+ },
+ {
+  "id": "rc_ug_133",
+  "gold": "B",
+  "insled": "B",
+  "cptled": "B"
+ },
+ {
+  "id": "rc_ug_218",
+  "gold": "C",
+  "insled": "C",
+  "cptled": "C"
+ }
+]

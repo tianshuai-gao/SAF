@@ -17,7 +17,9 @@ env/
 docs/_build/
 
 # Results and logs (do not commit large outputs or model weights)
-results/
+results/*
+!results/diagnostics/
+!results/diagnostics/**
 logs/
 *.log
 *.out
