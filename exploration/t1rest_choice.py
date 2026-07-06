@@ -23,15 +23,21 @@ def main():
     ap.add_argument("--prompt_lang", default="en")
     ap.add_argument("--num_exemplar", type=int, default=5)
     ap.add_argument("--load_in_8bit", action="store_true")
+    ap.add_argument("--eval_set", default="t1rest", choices=["t1rest", "t23"],
+                    help="t1rest: unused tail of train_1; t23: train_2+train_3")
     args = ap.parse_args()
-    out = f"t1rest_{args.task}_{args.lang}_{args.scale}.json"
+    out = f"{args.eval_set}_{args.task}_{args.lang}_{args.scale}.json"
 
     dirname, builder = TASKS[args.task]
     d = f"data/{dirname}/{args.lang}"
     train1 = json.load(open(f"{d}/train_1.json"))
     exem = train1[: args.num_exemplar]
-    evalset = train1[args.num_exemplar:]
-    print(f"train1 total={len(train1)}  exemplars={len(exem)}  eval={len(evalset)}")
+    if args.eval_set == "t1rest":
+        evalset = train1[args.num_exemplar:]
+    else:
+        evalset = (json.load(open(f"{d}/train_2.json"))
+                   + json.load(open(f"{d}/train_3.json")))
+    print(f"eval_set={args.eval_set}  exemplars={len(exem)}  eval={len(evalset)}")
 
     items = builder(evalset, exem, eval_lang=args.lang,
                     num_exemplar=args.num_exemplar, prompt_lang=args.prompt_lang)
