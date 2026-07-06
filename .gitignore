@@ -42,3 +42,4 @@ safw.egg-info/
 __pycache__/
 *.pyc
 models/
+models/
