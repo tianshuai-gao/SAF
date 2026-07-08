@@ -14,8 +14,38 @@ From source
    pip install -e .
 
 This installs the ``safw`` package together with its runtime dependencies:
-PyTorch, Transformers, Accelerate, SentencePiece, NumPy, sacrebleu, and
-rouge-score.
+PyTorch, Transformers, Accelerate, SentencePiece, NumPy, sacrebleu, and tqdm.
+
+The ROUGE scorer is installed separately (next section) because it is a fork
+that replaces the official package.
+
+Multilingual ROUGE (required)
+-----------------------------
+
+Title generation is scored with the multilingual ROUGE fork from XL-Sum, which
+installs *as* ``rouge_score`` and overrides the official package. Install it
+after the package itself:
+
+.. code-block:: bash
+
+   pip install pyonmttok
+   pip install "git+https://github.com/csebuetnlp/xl-sum.git#subdirectory=multilingual_rouge_scoring"
+
+.. warning::
+
+   Do not install the official ``rouge-score`` package. It shares the import
+   name ``rouge_score`` and silently replaces the fork, which deflates title
+   ROUGE-L scores on the four evaluation languages by roughly a factor of
+   three. To verify the correct scorer is active:
+
+   .. code-block:: bash
+
+      python -c "from rouge_score import rouge_scorer; import inspect; \
+      assert 'kwargs' in str(inspect.signature(rouge_scorer.RougeScorer.__init__)), 'wrong rouge'; \
+      print('multilingual fork OK')"
+
+   The Docker build runs this assertion automatically and fails if the wrong
+   scorer is present.
 
 Optional dependency groups
 ---------------------------

@@ -55,6 +55,30 @@ It takes the evaluation language, the host model, and the scorer model:
        Qwen/Qwen2.5-32B-Instruct \
        pkupie/Qwen2.5-1.5B-bo-cpt
 
+Host selection protocol
+-----------------------
+
+For each task, language, and scale, SAF-W is run in both directions
+(instruction model as host, and CPT model as host). The deployed direction is
+the one that scores higher on a held-out selection set.
+
+The selection set is the unused tail of ``train_1`` (the items after the
+few-shot exemplars) together with all of ``train_2`` and ``train_3``. This
+gives 25 items for reading comprehension and math and 55 items for the other
+tasks. Ties keep the direction chosen on the development set.
+
+Two properties of this protocol matter. First, the selection prompts use the
+same ``train_1`` exemplars as deployment. Selecting with different exemplars
+can invert the measured host preference on the same items, so the selection
+protocol must match the deployment protocol exactly. Second, the development
+set itself is excluded from the selection set. On the multiple-choice tasks it
+disagrees with the test preference in about a third of the cells, and mixing
+it in degrades selection accuracy.
+
+``exploration/t1rest_choice.py`` computes both-direction scores on these
+selection sets; the per-item records used to fix the deployed hosts are under
+``results/diagnostics/``.
+
 For the math task, run the uniform-averaging reduction by setting the
 environment variables ``METHOD=safw_fixed`` and ``BETA_FIXED=0.5`` before
 submitting.
