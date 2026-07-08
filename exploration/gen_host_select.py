@@ -78,13 +78,17 @@ def main():
             max_new_tokens=mnt, do_sample=False, disable_tqdm=True)
         preds[it["id"]] = remove_special_tokens(outs[0].strip().split("\n")[0])
 
+    # Save predictions FIRST so a scoring failure never discards decoding.
+    json.dump({"predictions": preds},
+              open(out, "w", encoding="utf-8"), indent=1, ensure_ascii=False)
+
     if args.task == "title":
         from safw.eval import rouge_title
         score = rouge_title(evalset, preds)["rouge-l"] * 100
         metric = "rouge-l"
     else:
-        from safw.eval import chrf_mt
-        score = chrf_mt(evalset, preds, tgt_lang=tgt)
+        from safw.eval import chrf_translation
+        score = chrf_translation(evalset, preds, tgt_lang=tgt)["chrf++"] * 100
         metric = "chrf++"
 
     json.dump({"predictions": preds, "score": score, "metric": metric},
