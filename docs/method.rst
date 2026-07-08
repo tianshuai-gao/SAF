@@ -34,20 +34,38 @@ The scorer reports the probability it assigns to that token, the
 
    e = p_{\text{scorer}}[t^\star].
 
-The scorer weight is :math:`\beta = 1 - e`, and the fused logits are
+The scorer weight is
 
 .. math::
 
-   L_{\text{fused}} = (1 - \beta)\, L_{\text{host}} + \beta\, L_{\text{scorer}}
-   = e\, L_{\text{host}} + (1 - e)\, L_{\text{scorer}}.
+   \beta = \min(1,\ 1 - e + \delta),
+
+where :math:`\delta \ge 0` is a per-task offset. The fused logits are
+
+.. math::
+
+   L_{\text{fused}} = (1 - \beta)\, L_{\text{host}} + \beta\, L_{\text{scorer}}.
 
 When the scorer strongly endorses the host's token, :math:`e \to 1`, the
-weight :math:`\beta \to 0`, and the fused distribution follows the host. When
-the scorer rejects it, :math:`e \to 0`, the weight :math:`\beta \to 1`, and the
-fused distribution follows the scorer.
+weight is small and the fused distribution follows the host. When the scorer
+rejects it, :math:`e \to 0`, the weight approaches one and the fused
+distribution follows the scorer. The offset raises the scorer's floor weight
+on tasks that benefit from stronger correction, and the ``min`` keeps
+:math:`\beta` a valid mixture coefficient.
 
-The host and scorer roles are not fixed. They are chosen per task and per
-language on a development set. Either model can take either role.
+The host and scorer roles are not fixed. They are chosen per task, language,
+and scale on held-out training data; see the host selection protocol in the
+reproduction guide. Either model can take either role.
+
+First-token language anchor
+---------------------------
+
+On generation tasks the first decoded token fixes the output language, and a
+host that prefers the wrong language can derail the whole sequence. SAF-W
+therefore supports a first-token anchor. With ``anchor_lang="lrl"`` the first
+token comes from the CPT model alone, with ``anchor_lang="en"`` from the
+instruction model alone, and fusion resumes from the second token. The anchor
+follows the required output language, not the host direction.
 
 Uniform averaging as a special case
 ------------------------------------
