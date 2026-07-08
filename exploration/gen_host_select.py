@@ -41,7 +41,7 @@ def main():
     if args.task == "title":
         d = f"data/title_generation_200/{args.lang}"
         evalset, items = build_eval(
-            d, 3, convert_title, lang=args.lang,
+            d, 3, convert_title, eval_lang=args.lang,
             max_passage_len=1024, prompt_lang=args.prompt_lang)
         anchor, mnt = "lrl", 250
     else:
