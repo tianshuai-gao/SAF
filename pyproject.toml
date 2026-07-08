@@ -17,7 +17,9 @@ dependencies = [
     "sentencepiece>=0.1.99",
     "numpy>=1.24",
     "sacrebleu>=2.4",
-    "rouge-score>=0.1.2",
+    # rouge: use the xl-sum multilingual fork, installed explicitly
+    # via requirements.txt / Dockerfile. The official rouge-score
+    # package must NOT be listed here or it overrides the fork.
 ]
 
 [project.optional-dependencies]

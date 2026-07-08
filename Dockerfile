@@ -34,6 +34,14 @@ RUN python -m pip install --upgrade pip \
 COPY . .
 RUN python -m pip install -e .
 
+# Multilingual ROUGE (xl-sum fork) must override any official rouge-score
+# pulled in transitively. Fail the build if the wrong one is present.
+RUN pip uninstall -y rouge-score rouge_score || true
+RUN pip install --no-cache-dir pyonmttok \
+    "git+https://github.com/csebuetnlp/xl-sum.git#subdirectory=multilingual_rouge_scoring" \
+    pytest
+RUN python -c "from rouge_score import rouge_scorer; import inspect; sig = str(inspect.signature(rouge_scorer.RougeScorer.__init__)); assert 'kwargs' in sig, 'official rouge-score detected: ' + sig; print('rouge check OK')"
+
 # Deterministic decoding on Ampere and other CUDA GPUs.
 ENV CUBLAS_WORKSPACE_CONFIG=:4096:8
 
