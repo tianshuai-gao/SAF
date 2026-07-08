@@ -530,10 +530,12 @@ class SAFW(DExpertsLlama):
         is ``beta = 1 - e`` where ``e`` is the scorer probability of the host's
         top token.
         """
-        step, self._step = self._step, self._step + 1
-        if self.anchor_lang in ("en", "lrl") and step == 0:
-            want_ins = self.anchor_lang == "en"
-            use_base = want_ins == self.ins_in_base
+        step = getattr(self, "_step", 0)
+        self._step = step + 1
+        anchor_lang = getattr(self, "anchor_lang", None)
+        if anchor_lang in ("en", "lrl") and step == 0:
+            want_ins = anchor_lang == "en"
+            use_base = want_ins == getattr(self, "ins_in_base", True)
             return base_logits if use_base else expert_logits
         l_host = base_logits
         l_scorer = expert_logits
