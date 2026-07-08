@@ -41,7 +41,7 @@ def main():
     if args.task == "title":
         d = f"data/title_generation_200/{args.lang}"
         evalset, items = build_eval(
-            d, 3, convert_title, eval_lang=args.lang,
+            d, 3, convert_title, lang=args.lang,
             max_passage_len=1024, prompt_lang=args.prompt_lang)
         anchor, mnt = "lrl", 250
     else:
@@ -83,8 +83,8 @@ def main():
         score = rouge_title(evalset, preds)["rouge-l"] * 100
         metric = "rouge-l"
     else:
-        from safw.eval import chrf_translation
-        score = chrf_translation(evalset, preds, tgt_lang=tgt)
+        from safw.eval import chrf_mt
+        score = chrf_mt(evalset, preds, tgt_lang=tgt)
         metric = "chrf++"
 
     json.dump({"predictions": preds, "score": score, "metric": metric},
