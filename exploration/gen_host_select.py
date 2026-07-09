@@ -32,8 +32,11 @@ def main():
     ap.add_argument("--scale", required=True)
     ap.add_argument("--host", required=True, choices=["ins", "cpt"])
     ap.add_argument("--prompt_lang", default="en")
+    ap.add_argument("--max_passage_len", type=int, default=1024,
+                    help="title passage truncation; mn uses 256")
     args = ap.parse_args()
-    out = f"gensel_{args.task}_{args.lang}_{args.scale}_{args.host}host.json"
+    plen = f"_p{args.max_passage_len}" if (args.task == "title" and args.max_passage_len != 1024) else ""
+    out = f"gensel_{args.task}_{args.lang}_{args.scale}_{args.host}host{plen}.json"
     if os.path.exists(out):
         print(f"Output {out} exists. Stopping.")
         return
@@ -42,7 +45,8 @@ def main():
         d = f"data/title_generation_200/{args.lang}"
         evalset, items = build_eval(
             d, 3, convert_title, eval_lang=args.lang,
-            max_passage_len=1024, prompt_lang=args.prompt_lang)
+            max_passage_len=args.max_passage_len,
+            prompt_lang=args.prompt_lang)
         anchor, mnt = "lrl", 250
     else:
         d = f"data/translation_dialogue/{args.lang}"
