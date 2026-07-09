@@ -100,6 +100,7 @@ class DExpertsLlama:
         alpha: float = 1.0,
         chat_response_prefix: str = None,
         model_kwargs: Dict[str, Any] = None,
+        skip_antiexpert: bool = False,
     ):
         self.base = AutoModelForCausalLM.from_pretrained(
             base_model_name_or_path, **model_kwargs
@@ -107,13 +108,20 @@ class DExpertsLlama:
         self.expert = AutoModelForCausalLM.from_pretrained(
             expert_model_name_or_path, **model_kwargs
         )
-        self.antiexpert = AutoModelForCausalLM.from_pretrained(
-            antiexpert_model_name_or_path, **model_kwargs
-        )
+        if skip_antiexpert:
+            # Fusion rules that ignore the antiexpert (SAF-W) skip loading a
+            # third model entirely; a 32B scorer would otherwise be loaded
+            # twice and exceed GPU memory before it could be released.
+            self.antiexpert = None
+        else:
+            self.antiexpert = AutoModelForCausalLM.from_pretrained(
+                antiexpert_model_name_or_path, **model_kwargs
+            )
 
         self.base.eval()
         self.expert.eval()
-        self.antiexpert.eval()
+        if self.antiexpert is not None:
+            self.antiexpert.eval()
 
         self.tokenizer = tokenizer
         self.alpha = alpha
@@ -491,22 +499,10 @@ class SAFW(DExpertsLlama):
             alpha=1.0,
             chat_response_prefix=chat_response_prefix,
             model_kwargs=model_kwargs,
+            skip_antiexpert=True,
         )
         if self.base.get_input_embeddings().weight.size(0) != self.expert.get_input_embeddings().weight.size(0):
             self.expert.resize_token_embeddings(self.base.get_input_embeddings().weight.size(0))
-            self.antiexpert.resize_token_embeddings(self.base.get_input_embeddings().weight.size(0))
-
-        # SAF-W only uses host (base slot) and scorer (expert slot). The parent
-        # loaded a second scorer copy into the antiexpert slot so the 3-model
-        # loop runs unchanged, but fuse_logits ignores antiexpert. Release that
-        # duplicate and point antiexpert at the same scorer object to save
-        # memory (one 1.5B copy instead of two).
-        import gc
-        del self.antiexpert
-        gc.collect()
-        if torch.cuda.is_available():
-            torch.cuda.empty_cache()
-        self.antiexpert = None
 
         self.beta_fixed = beta_fixed
         self.fixed_beta = fixed_beta

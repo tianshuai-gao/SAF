@@ -62,8 +62,7 @@ def main():
         scorer_model_name_or_path=scorer_path,
         tokenizer=tokenizer,
         fixed_beta=False,
-        model_kwargs={**_model_kwargs(False),
-                      "max_memory": {0: "42GiB", 1: "42GiB", "cpu": "120GiB"}},
+        model_kwargs=_model_kwargs(False),
     )
     model.anchor_lang = anchor
     model.ins_in_base = (args.host == "ins")
