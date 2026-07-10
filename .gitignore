@@ -18,8 +18,11 @@ docs/_build/
 
 # Results and logs (do not commit large outputs or model weights)
 results/*
-!results/diagnostics/
-!results/diagnostics/**
+!results/README.md
+!results/devx/
+!results/devx/**
+!results/test_metrics/
+!results/test_metrics/**
 logs/
 *.log
 *.out
