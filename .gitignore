@@ -21,8 +21,8 @@ results/*
 !results/README.md
 !results/devx/
 !results/devx/**
-!results/test_metrics/
-!results/test_metrics/**
+!results/test_outputs/
+!results/test_outputs/**
 logs/
 *.log
 *.out
