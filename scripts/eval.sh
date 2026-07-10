@@ -1,47 +1,49 @@
 #!/bin/bash
-# Evaluate all MiLiC-Eval tasks for one language and method.
-#
-# Reads the prediction files written by run_safw.sh under
-# results/<method>/<lang>/ and writes a .metrics.json next to each one.
+# Evaluate every non-empty *_preds.json in the canonical tree that does
+# not yet have a *_metrics.json next to it. Task and language are read
+# from the path, so no model arguments are needed.
 #
 # Usage:
-#   bash scripts/eval.sh <eval_lang> [method]
-# Example:
-#   bash scripts/eval.sh bo safw
+#   bash scripts/eval.sh [tree_root]
 
 set -euo pipefail
 
-EVAL_LANG=${1:-bo}
-METHOD=${2:-safw}
 DATA_ROOT=${DATA_ROOT:-data}
-OUT_ROOT=${OUT_ROOT:-results/${METHOD}/${EVAL_LANG}}
+ROOT=${1:-results/test_outputs}
 
-# task | data subdir
-eval_task () {
-    local task=$1 subdir=$2
-    python -m scripts.evaluate \
-        --task "${task}" \
-        --input_file "${DATA_ROOT}/${subdir}/${EVAL_LANG}/test.json" \
-        --pred_file "${OUT_ROOT}/${task}.json" \
-        --metrics_output_file "${OUT_ROOT}/${task}.metrics.json"
+subdir_of () {
+    case $1 in
+        rc) echo reading_comprehension ;;
+        rs) echo response_selection ;;
+        title) echo title_generation_200 ;;
+        math) echo math ;;
+        xx2en|en2xx) echo translation_dialogue ;;
+    esac
 }
 
-eval_task reading_comprehension reading_comprehension
-eval_task response_selection    response_selection
-eval_task title_generation      title_generation_200
-eval_task math                  math
+task_of () {
+    case $1 in
+        rc) echo reading_comprehension ;;
+        rs) echo response_selection ;;
+        title) echo title_generation ;;
+        math) echo math ;;
+        xx2en|en2xx) echo translation ;;
+    esac
+}
 
-# Translation, both directions; tgt_lang differs per direction.
-python -m scripts.evaluate --task translation \
-    --input_file "${DATA_ROOT}/translation_dialogue/${EVAL_LANG}/test.json" \
-    --pred_file "${OUT_ROOT}/translation_${EVAL_LANG}2en.json" \
-    --metrics_output_file "${OUT_ROOT}/translation_${EVAL_LANG}2en.metrics.json" \
-    --tgt_lang en
-
-python -m scripts.evaluate --task translation \
-    --input_file "${DATA_ROOT}/translation_dialogue/${EVAL_LANG}/test.json" \
-    --pred_file "${OUT_ROOT}/translation_en2${EVAL_LANG}.json" \
-    --metrics_output_file "${OUT_ROOT}/translation_en2${EVAL_LANG}.metrics.json" \
-    --tgt_lang "${EVAL_LANG}"
-
-echo "evaluation done for ${EVAL_LANG} (method=${METHOD})"
+find "${ROOT}" -name "*_preds.json" -size +0c | sort | while read -r PRED; do
+    METR="${PRED%_preds.json}_metrics.json"
+    [ -s "${METR}" ] && continue
+    DIR=$(dirname "${PRED}")
+    SHORT=$(basename "${DIR}")
+    LANG_=$(basename "$(dirname "${DIR}")")
+    TGT=en
+    [ "${SHORT}" = "en2xx" ] && TGT="${LANG_}"
+    python -m scripts.evaluate \
+        --task "$(task_of "${SHORT}")" \
+        --input_file "${DATA_ROOT}/$(subdir_of "${SHORT}")/${LANG_}/test.json" \
+        --pred_file "${PRED}" \
+        --metrics_output_file "${METR}" \
+        --tgt_lang "${TGT}" \
+        --source_run "$(basename "${PRED}")"
+done

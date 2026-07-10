@@ -133,7 +133,7 @@ def main() -> None:
 
     out_dir = os.path.dirname(os.path.abspath(args.output_file))
     os.makedirs(out_dir, exist_ok=True)
-    if os.path.exists(args.output_file):
+    if os.path.exists(args.output_file) and os.path.getsize(args.output_file) > 0:
         print(f"Output {args.output_file} exists. Stopping.")
         return
 
