@@ -1,125 +1,75 @@
 Reproducing the experiments
 ===========================
 
-This page describes how to reproduce the thesis results across all six
-MiLiC-Eval tasks and four low-resource languages (Tibetan ``bo``, Uyghur
-``ug``, Mongolian ``mn``, Kazakh ``kk``).
+Results layout
+--------------
 
-Tasks and settings
--------------------
+Every run lands in one canonical tree. ``scripts/canonical.py`` is the
+single source of truth for the mapping:
 
-The six tasks and their generation settings follow the MiLiC-Eval protocol.
+.. code-block:: text
 
-.. list-table::
-   :header-rows: 1
-   :widths: 30 30 15 15
+   results/test_outputs/{method}/{family}/{lang}/{task}/
+       {method}_{family}_{lang}_{task}_{key}_preds.json
+       {method}_{family}_{lang}_{task}_{key}_metrics.json
 
-   * - Task
-     - Data subdirectory
-     - Exemplars
-     - Max new tokens
-   * - Reading comprehension
-     - ``reading_comprehension``
-     - 5
-     - 2
-   * - Response selection
-     - ``response_selection``
-     - 5
-     - 2
-   * - Title generation
-     - ``title_generation_200``
-     - 3
-     - 250
-   * - Math
-     - ``math``
-     - 5
-     - 250
-   * - Translation (xx2en)
-     - ``translation_dialogue``
-     - 5
-     - 200
-   * - Translation (en2xx)
-     - ``translation_dialogue``
-     - 5
-     - 200
-
-Running a full language with SAF-W
-----------------------------------
-
-``scripts/run_safw.sh`` runs all six tasks for one language on a SLURM cluster.
-It takes the evaluation language, the host model, and the scorer model:
+The key is ``ins{scale}`` or ``cpt{size}`` for single models,
+``{scale}`` for the three-model baselines and uniform averaging, and
+``inshost{scale}`` or ``cpthost{scale}`` for SAF-W. Files start as
+zero-byte placeholders. A zero-byte file never blocks a run and never
+counts as evaluated. Audit the unfilled files with:
 
 .. code-block:: bash
 
-   sbatch scripts/run_safw.sh bo \
-       Qwen/Qwen2.5-32B-Instruct \
-       pkupie/Qwen2.5-1.5B-bo-cpt
+   find results/test_outputs -name "*.json" -size 0 | wc -l
 
-Host selection protocol
------------------------
+Full grid
+---------
 
-For each task, language, and scale, SAF-W is run in both directions
-(instruction model as host, and CPT model as host). The deployed direction is
-the one that scores higher on a held-out selection set.
+On the cluster, one submission covers one method, language, and scale
+across all six tasks. ``scripts/run.sh`` is a thin SBATCH wrapper
+around the driver:
 
-The selection set is the unused tail of ``train_1`` (the items after the
-few-shot exemplars) together with all of ``train_2`` and ``train_3``. This
-gives 25 items for reading comprehension and math and 55 items for the other
-tasks. Ties keep the direction chosen on the development set.
+.. code-block:: bash
 
-Two properties of this protocol matter. First, the selection prompts use the
-same ``train_1`` exemplars as deployment. Selecting with different exemplars
-can invert the measured host preference on the same items, so the selection
-protocol must match the deployment protocol exactly. Second, the development
-set itself is excluded from the selection set. On the multiple-choice tasks it
-disagrees with the test preference in about a third of the cells, and mixing
-it in degrades selection accuracy.
+   for LANG in bo ug mn kk; do
+     for SCALE in 7B 14B 32B; do
+       sbatch scripts/run.sh --method safw --lang $LANG --scale $SCALE --host ins
+       sbatch scripts/run.sh --method safw --lang $LANG --scale $SCALE --host cpt
+       sbatch scripts/run.sh --method proxy --lang $LANG --scale $SCALE
+     done
+   done
 
-``exploration/t1rest_choice.py`` computes both-direction scores on these
-selection sets; the per-item records used to fix the deployed hosts are under
-``results/diagnostics/``.
+The deployed SAF-W host per cell follows the devx selection recorded
+under ``results/devx`` and reported in the paper.
 
-For the math task, run the uniform-averaging reduction by setting the
-environment variables ``METHOD=safw_fixed`` and ``BETA_FIXED=0.5`` before
-submitting.
+TriMix weights
+--------------
+
+TriMix uses per-task weights from its perplexity heuristic. Restrict
+the tasks and set the weights per submission:
+
+.. code-block:: bash
+
+   sbatch scripts/run.sh --method trimix --lang bo --scale 7B \
+       --tasks rc rs --base_weight 0.1 --expert_weight 1.0
+
+Uniform averaging and math
+--------------------------
+
+Math decodes with uniform averaging. The mode is symmetric, so no host
+is declared:
+
+.. code-block:: bash
+
+   sbatch scripts/run.sh --method safw_fixed --lang bo --scale 7B --tasks math
 
 Evaluation
 ----------
 
-``scripts/eval.sh`` scores every prediction file for one language and writes a
-metrics file beside each one:
-
 .. code-block:: bash
 
-   bash scripts/eval.sh bo safw
+   bash scripts/eval.sh
 
-Multiple-choice tasks report accuracy, translation reports chrF++, and title
-generation reports ROUGE-L. The metric per task is fixed in
-:mod:`safw.eval`.
-
-Selecting TriMix weights by perplexity
---------------------------------------
-
-The TriMix baseline selects its base and expert weights per task and language
-on a development set. ``scripts/get_perplexity.py`` sweeps the weight grid and
-reports the lowest-perplexity combination:
-
-.. code-block:: bash
-
-   python -m scripts.get_perplexity \
-       --base_model_name_or_path Qwen/Qwen2.5-7B-Instruct \
-       --expert_model_name_or_path pkupie/Qwen2.5-1.5B-bo-cpt \
-       --antiexpert_model_name_or_path Qwen/Qwen2.5-1.5B \
-       --task_name reading_comprehension --lang bo --prompt_lang en \
-       --input_file data/reading_comprehension/bo/test.json \
-       --exemplar_file data/reading_comprehension/bo/train_1.json \
-       --output_file results/ppl/bo_rc.json
-
-Scales
-------
-
-The Qwen experiments use instruction models at three scales (7B, 14B, 32B) as
-the host or base, with a 1.5B continually-pretrained model as the scorer or
-expert and the 1.5B base model as the antiexpert. Pass the relevant model
-paths to the host/scorer (SAF-W) or base/expert/antiexpert (baselines)
-arguments.
+The sweep is idempotent. It skips every cell with a non-empty metrics
+file already in place.

@@ -32,3 +32,21 @@ Evaluation
 .. automodule:: safw.eval
    :members:
    :undoc-members:
+
+Pipeline scripts
+----------------
+
+The batch driver, the canonical path resolver, the inference engine,
+and the evaluator live under ``scripts``.
+
+.. automodule:: scripts.canonical
+   :members:
+
+.. automodule:: scripts.run
+   :members:
+
+.. automodule:: scripts.infer
+   :members:
+
+.. automodule:: scripts.evaluate
+   :members:
