@@ -23,6 +23,44 @@ counts as evaluated. Audit the unfilled files with:
 
    find results/test_outputs -name "*.json" -size 0 | wc -l
 
+Task settings
+-------------
+
+The six tasks and their generation settings follow the MiLiC-Eval protocol.
+
+.. list-table::
+   :header-rows: 1
+   :widths: 30 30 15 15
+
+   * - Task
+     - Data subdirectory
+     - Exemplars
+     - Max new tokens
+   * - Reading comprehension
+     - ``reading_comprehension``
+     - 5
+     - 2
+   * - Response selection
+     - ``response_selection``
+     - 5
+     - 2
+   * - Title generation
+     - ``title_generation_200``
+     - 3
+     - 250
+   * - Math
+     - ``math``
+     - 5
+     - 250
+   * - Translation (xx2en)
+     - ``translation_dialogue``
+     - 5
+     - 200
+   * - Translation (en2xx)
+     - ``translation_dialogue``
+     - 5
+     - 200
+
 Full grid
 ---------
 
