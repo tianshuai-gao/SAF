@@ -504,9 +504,11 @@ reference generated from the docstrings.
 ## Use of Auto-generation Tools
 
 Claude (Anthropic) assisted with code, experiment orchestration,
-debugging, and report drafting. Every generated artefact was reviewed,
-tested, and verified by the author. The full declaration, itemised by
-activity, is in the appendix of the project report.
+debugging, and report drafting. GitHub Copilot provided occasional
+inline completions for docstrings and comments. Every generated
+artefact was reviewed, tested, and verified by the author. The full
+declaration, itemised by tool and activity, is in the appendix of the
+project report.
 
 ## Support
 
