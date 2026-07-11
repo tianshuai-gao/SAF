@@ -1,0 +1,6 @@
+.git
+docs/_build
+__pycache__
+*.pyc
+logs
+models

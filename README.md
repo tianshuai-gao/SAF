@@ -226,7 +226,7 @@ docker run --gpus all -v $PWD:/workspace \
 Apptainer with GPU pass-through:
 
 ```bash
-apptainer exec --nv docker://<registry>/safw:latest python -c \
+apptainer exec --nv docker://tianshuai2024/safw:latest python -c \
     "import torch; assert torch.cuda.is_available()"
 ```
 
