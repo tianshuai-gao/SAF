@@ -1,0 +1,12 @@
+task,lang,baseline,veto
+xx2en,ug,69.4,97.9
+xx2en,kk,74.5,97.7
+xx2en,bo,81.1,95.9
+xx2en,mn,78.0,95.6
+en2xx,ug,89.0,99.9
+en2xx,kk,91.5,99.7
+en2xx,mn,84.7,99.4
+title,ug,72.0,99.7
+title,kk,81.1,99.7
+title,bo,77.5,99.8
+title,mn,81.8,99.8
