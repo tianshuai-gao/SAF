@@ -1,3 +1,3 @@
 Paper-facing results only.
-test_metrics: test-set metric files from CSD3 (see its README for layout).
-devx: host-selection scores backing tab:devx-host.
+test_outputs: the canonical tree of test-set runs, scaffolded with placeholders (see its README).
+devx: host-selection scores backing the selection table of the report.

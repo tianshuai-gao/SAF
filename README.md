@@ -133,9 +133,14 @@ metadata header, for example:
 }
 ```
 
-Files are populated from the CSD3 runs. They start as zero-byte
-placeholders. A zero-byte file never blocks a run and never counts as
-evaluated. Audit the unfilled files at any time with:
+The tree is scaffolded with zero-byte placeholder files, one per run,
+under the canonical names below. The runs could not be completed,
+because the CSD3 cluster was offline from a cooling failure through the
+submission deadline. The reported numbers come from the runs described
+in the report, and the placeholders mark where their output files
+belong. A zero-byte file never blocks a run and never counts as
+evaluated, so the pipeline fills them in place once the cluster
+returns. Audit the unfilled files at any time with:
 
 ```bash
 find results/test_outputs -name "*.json" -size 0 | wc -l
@@ -522,9 +527,11 @@ This project is licensed under the MIT License. See the LICENSE file.
 
 ## Project Status
 
-The pipeline is complete. The results tree is populated from the CSD3
-runs; audit the remaining unfilled files with the command in
-[Results](#results).
+The pipeline is complete and tested. The results tree is scaffolded but
+unfilled, because the CSD3 cluster was offline from a cooling failure
+through the submission deadline. Every run in the report is reproduced
+by one command in [Usage](#usage), and the outputs land in the
+placeholder files described in [Results](#results).
 
 ## Authors and Acknowledgment
 
