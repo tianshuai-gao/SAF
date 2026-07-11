@@ -17,6 +17,11 @@ scorer's next-token distribution. For the three-model baselines, write
 :math:`L_{\text{anti}}` for the base (large instruction model), expert
 (small continually-pretrained model), and antiexpert (small base model).
 
+.. image:: saf_overview.png
+   :width: 92%
+   :align: center
+   :alt: SAF-W overview
+
 SAF-W
 -----
 

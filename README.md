@@ -18,6 +18,13 @@ host per task and language on development data only, (iv) measure all
 methods across three backbone scales, four languages, and six tasks,
 and (v) confirm the findings on a second model family.
 
+![SAF-W overview](docs/saf_overview.png)
+
+*SAF-W at one decoding step. The host proposes its top token. The
+scorer reports the probability it assigns to that token. This
+endorsement sets the mixing weight, and the fused logits decode the
+step.*
+
 ## Table of Contents
 
 - [Data Availability](#data-availability)
