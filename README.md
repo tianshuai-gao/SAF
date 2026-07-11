@@ -48,6 +48,7 @@ step.*
 - [Use of Auto-generation Tools](#use-of-auto-generation-tools)
 - [Support](#support)
 - [License](#license)
+- [Project Status](#project-status)
 - [Authors and Acknowledgment](#authors-and-acknowledgment)
 
 ## Data Availability
@@ -514,6 +515,12 @@ For questions, feedback, or assistance, contact tg561@cam.ac.uk.
 ## License
 
 This project is licensed under the MIT License. See the LICENSE file.
+
+## Project Status
+
+The pipeline is complete. The results tree is populated from the CSD3
+runs; audit the remaining unfilled files with the command in
+[Results](#results).
 
 ## Authors and Acknowledgment
 
