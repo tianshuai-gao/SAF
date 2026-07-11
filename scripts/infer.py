@@ -41,6 +41,9 @@ import argparse
 import json
 import os
 
+import torch
+from transformers import AutoModelForCausalLM, AutoTokenizer
+
 from safw import (
     generate_completions, add_pad_token,
     load_safw, load_proxy, load_trimix,
@@ -55,7 +58,7 @@ def build_argparser() -> argparse.ArgumentParser:
     """Construct the argument parser."""
     p = argparse.ArgumentParser(description="SAF-W / Proxy / TriMix inference.")
     p.add_argument("--method", required=True,
-                   choices=["safw", "safw_fixed", "proxy", "trimix"])
+                   choices=["single", "safw", "safw_fixed", "proxy", "trimix"])
     # two-model (SAF-W)
     p.add_argument("--host_model")
     p.add_argument("--scorer_model")
@@ -106,6 +109,16 @@ def build_converted(args, input_data, exemplar_data):
 
 def load_model(args):
     """Load the decoder and tokenizer for the requested method."""
+    if args.method == "single":
+        tokenizer = AutoTokenizer.from_pretrained(args.host_model)
+        tokenizer = add_pad_token(tokenizer, "left")
+        if args.load_in_8bit:
+            kwargs = {"load_in_8bit": True, "device_map": "auto"}
+        else:
+            kwargs = {"torch_dtype": torch.bfloat16, "device_map": "auto"}
+        model = AutoModelForCausalLM.from_pretrained(args.host_model, **kwargs)
+        model.eval()
+        return model, tokenizer
     if args.method == "safw":
         return load_safw(args.host_model, args.scorer_model,
                          fixed_beta=False, load_in_8bit=args.load_in_8bit)

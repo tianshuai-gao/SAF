@@ -57,11 +57,12 @@ def build_argparser():
     p = argparse.ArgumentParser(description=__doc__,
                                 formatter_class=argparse.RawDescriptionHelpFormatter)
     p.add_argument("--method", required=True,
-                   choices=["safw", "safw_fixed", "proxy", "trimix"])
+                   choices=["single", "safw", "safw_fixed", "proxy", "trimix"])
     p.add_argument("--family", default="qwen", choices=["qwen", "gemma"])
     p.add_argument("--lang", required=True, choices=["bo", "ug", "mn", "kk"])
-    p.add_argument("--scale", required=True,
-                   choices=["7B", "14B", "32B", "12B", "27B"])
+    p.add_argument("--scale",
+                   choices=["7B", "14B", "32B", "12B", "27B"],
+                   help="Required for every run except the single cpt model.")
     p.add_argument("--host", choices=["ins", "cpt"],
                    help="SAF-W only. Which model leads the decoding.")
     p.add_argument("--tasks", nargs="+", default=TASK_ORDER,
@@ -111,6 +112,35 @@ def validate_common(args, instruct, cpt):
 
 def resolve_models(args):
     """Return (models_in_canonical_order, method_args)."""
+    if args.method == "single":
+        if args.host is None:
+            fail("--host is required for single. ins decodes the instruct "
+                 "model and cpt decodes the CPT model")
+        if args.scorer_model or args.base_model or args.expert_model \
+                or args.antiexpert_model:
+            fail("only --host_model applies to single")
+        if args.host == "cpt":
+            if args.scale is not None:
+                fail("--scale does not apply to the single cpt model. "
+                     "Its size is fixed per family")
+            model = args.host_model or default_cpt(args)
+            if not is_cpt(model):
+                fail(f"cpt slot holds a non-cpt model: {model}")
+            if f"-{args.lang}-" not in model:
+                fail(f"--lang {args.lang} but cpt model is {model}")
+        else:
+            if args.scale is None:
+                fail("--scale is required for the single instruct model")
+            model = args.host_model or default_instruct(args)
+            if is_cpt(model):
+                fail(f"instruct slot holds a cpt model: {model}")
+            if size_of(model) != args.scale:
+                fail(f"--scale {args.scale} but model is {model}")
+        if args.family not in model.lower():
+            fail(f"--family {args.family} but model is {model}")
+        return [model], ["--host_model", model]
+    if args.scale is None:
+        fail("--scale is required")
     if args.method in ("safw", "safw_fixed"):
         if args.method == "safw" and args.host is None:
             fail("--host is required for safw")
@@ -159,9 +189,9 @@ def main():
     for short in ordered:
         task, subdir, nex, mnt, extra = TASK_TABLE[short]
         stem = resolve(args.method, args.lang, short, models)
-        host_note = f" host={args.host}" if args.method == "safw" else ""
+        host_note = f" host={args.host}" if args.method in ("safw", "single") else ""
         print(f"plan: method={args.method} family={args.family} "
-              f"lang={args.lang} scale={args.scale}{host_note} "
+              f"lang={args.lang} scale={args.scale or '-'}{host_note} "
               f"task={short} -> {stem}_preds.json", flush=True)
         if args.dry_run:
             continue
@@ -179,7 +209,7 @@ def main():
                "--exemplar_file", f"{args.data_root}/{subdir}/{args.lang}/train_1.json",
                "--output_file", f"{stem}_preds.json"]
         subprocess.run(cmd, check=True)
-    print(f"done: method={args.method} lang={args.lang} scale={args.scale}")
+    print(f"done: method={args.method} lang={args.lang} scale={args.scale or '-'}")
 
 
 if __name__ == "__main__":

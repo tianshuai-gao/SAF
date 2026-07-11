@@ -34,6 +34,22 @@ def test_gemma_with_explicit_cpt():
     assert stem.endswith("saf/gemma/bo/title/saf_gemma_bo_title_inshost12B")
 
 
+def test_single_ins_stem():
+    args = parse(["--method", "single", "--lang", "ug",
+                  "--scale", "7B", "--host", "ins"])
+    models, margs = resolve_models(args)
+    stem = resolve("single", "ug", "rc", models)
+    assert stem.endswith("single/qwen/ug/rc/single_qwen_ug_rc_ins7B")
+    assert margs == ["--host_model", "Qwen/Qwen2.5-7B-Instruct"]
+
+
+def test_single_cpt_stem():
+    args = parse(["--method", "single", "--lang", "kk", "--host", "cpt"])
+    models, _ = resolve_models(args)
+    stem = resolve("single", "kk", "math", models)
+    assert stem.endswith("single/qwen/kk/math/single_qwen_kk_math_cpt1.5B")
+
+
 @pytest.mark.parametrize("argv,frag", [
     (["--method", "safw", "--lang", "bo", "--scale", "7B"],
      "--host is required"),
@@ -62,6 +78,13 @@ def test_gemma_with_explicit_cpt():
     (["--method", "proxy", "--family", "gemma", "--lang", "bo",
       "--scale", "12B"],
      "no default cpt model for family gemma"),
+    (["--method", "single", "--lang", "bo", "--scale", "7B"],
+     "--host is required for single"),
+    (["--method", "single", "--lang", "bo", "--scale", "7B",
+      "--host", "cpt"],
+     "--scale does not apply to the single cpt model"),
+    (["--method", "safw", "--lang", "bo", "--host", "ins"],
+     "--scale is required"),
 ])
 def test_rejections(argv, frag):
     args = parse(argv)

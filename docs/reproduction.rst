@@ -71,9 +71,12 @@ around the driver:
 .. code-block:: bash
 
    for LANG in bo ug mn kk; do
+     sbatch scripts/run.sh --method single --lang $LANG --host cpt
      for SCALE in 7B 14B 32B; do
+       sbatch scripts/run.sh --method single --lang $LANG --scale $SCALE --host ins
        sbatch scripts/run.sh --method safw --lang $LANG --scale $SCALE --host ins
        sbatch scripts/run.sh --method safw --lang $LANG --scale $SCALE --host cpt
+       sbatch scripts/run.sh --method safw_fixed --lang $LANG --scale $SCALE
        sbatch scripts/run.sh --method proxy --lang $LANG --scale $SCALE
      done
    done
