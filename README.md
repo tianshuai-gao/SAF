@@ -466,6 +466,7 @@ results/
 analysis/            the analysis notebook, csv sources, and report figures
 exploration/
   records/             development-time diagnostics, kept for provenance
+report/              the compiled project report and executive summary
 docs/                Sphinx documentation
 tests/               unit tests
 runpod/              environment setup for ad-hoc GPU pods
