@@ -491,7 +491,7 @@ pytest tests/ -q
 Twenty-three tests cover the SAF-W fusion rule, the uniform-averaging
 reduction, the first-token anchor, and the declaration checks of the
 driver, including three accepted configurations and twelve refusals.
-The GitLab CI runs the same suite on every push.
+The same suite is configured to run in CI, in `.gitlab-ci.yml`.
 
 ## Documentation
 
