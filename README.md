@@ -463,6 +463,7 @@ data/                MiLiC-Eval splits per task and language
 results/
   devx/                host-selection scores behind the paper table
   test_outputs/        canonical tree of predictions and metrics
+analysis/            the analysis notebook, csv sources, and report figures
 exploration/
   records/             development-time diagnostics, kept for provenance
 docs/                Sphinx documentation
@@ -471,7 +472,7 @@ runpod/              environment setup for ad-hoc GPU pods
 Dockerfile           CUDA runtime image with the ROUGE assertion
 ```
 
-Paper-facing numbers live only under `results/`. The material under
+Paper-facing numbers live only under `results/`, and the report figures with their producer live in `analysis/`. The material under
 `exploration/records/` documents the development process, including
 the host-selection ablations discussed in the report.
 
