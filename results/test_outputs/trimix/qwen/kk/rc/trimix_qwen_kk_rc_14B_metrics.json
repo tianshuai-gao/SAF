@@ -1,0 +1,11 @@
+{
+    "metric": "accuracy",
+    "value": 0.605,
+    "n": 200,
+    "source_run": "trimix_qwen_kk_rc_14B_preds.json",
+    "key": "14B",
+    "task": "rc",
+    "lang": "kk",
+    "family": "qwen",
+    "method": "trimix"
+}

@@ -1,0 +1,11 @@
+{
+    "metric": "rouge-l",
+    "value": 0.2979848963895915,
+    "n": 200,
+    "source_run": "trimix_qwen_bo_title_14B_preds.json",
+    "key": "14B",
+    "task": "title",
+    "lang": "bo",
+    "family": "qwen",
+    "method": "trimix"
+}

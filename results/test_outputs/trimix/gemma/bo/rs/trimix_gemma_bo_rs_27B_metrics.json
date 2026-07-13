@@ -1,0 +1,11 @@
+{
+    "metric": "accuracy",
+    "value": 0.6953316953316954,
+    "n": 407,
+    "source_run": "trimix_gemma_bo_rs_27B_preds.json",
+    "key": "27B",
+    "task": "rs",
+    "lang": "bo",
+    "family": "gemma",
+    "method": "trimix"
+}

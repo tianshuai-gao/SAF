@@ -1,0 +1,11 @@
+{
+    "metric": "accuracy",
+    "value": 0.61,
+    "n": 200,
+    "source_run": "saf_qwen_kk_rc_inshost32B_preds.json",
+    "key": "inshost32B",
+    "task": "rc",
+    "lang": "kk",
+    "family": "qwen",
+    "method": "saf"
+}

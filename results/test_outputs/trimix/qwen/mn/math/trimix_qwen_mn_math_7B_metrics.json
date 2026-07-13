@@ -1,0 +1,11 @@
+{
+    "metric": "accuracy",
+    "value": 0.08,
+    "n": 200,
+    "source_run": "trimix_qwen_mn_math_7B_preds.json",
+    "key": "7B",
+    "task": "math",
+    "lang": "mn",
+    "family": "qwen",
+    "method": "trimix"
+}

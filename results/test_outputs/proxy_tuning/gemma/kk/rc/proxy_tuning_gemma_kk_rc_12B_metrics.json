@@ -1,0 +1,11 @@
+{
+    "metric": "accuracy",
+    "value": 0.73,
+    "n": 200,
+    "source_run": "proxy_tuning_gemma_kk_rc_12B_preds.json",
+    "key": "12B",
+    "task": "rc",
+    "lang": "kk",
+    "family": "gemma",
+    "method": "proxy_tuning"
+}

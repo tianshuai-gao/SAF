@@ -1,0 +1,11 @@
+{
+    "metric": "accuracy",
+    "value": 0.34,
+    "n": 200,
+    "source_run": "saf_qwen_ug_math_inshost7B_preds.json",
+    "key": "inshost7B",
+    "task": "math",
+    "lang": "ug",
+    "family": "qwen",
+    "method": "saf"
+}

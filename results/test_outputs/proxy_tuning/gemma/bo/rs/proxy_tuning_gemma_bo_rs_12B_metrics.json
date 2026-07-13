@@ -1,0 +1,11 @@
+{
+    "metric": "accuracy",
+    "value": 0.5773955773955773,
+    "n": 407,
+    "source_run": "proxy_tuning_gemma_bo_rs_12B_preds.json",
+    "key": "12B",
+    "task": "rs",
+    "lang": "bo",
+    "family": "gemma",
+    "method": "proxy_tuning"
+}

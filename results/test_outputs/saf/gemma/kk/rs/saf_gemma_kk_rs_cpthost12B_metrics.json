@@ -1,0 +1,11 @@
+{
+    "metric": "accuracy",
+    "value": 0.7346437346437347,
+    "n": 407,
+    "source_run": "saf_gemma_kk_rs_cpthost12B_preds.json",
+    "key": "cpthost12B",
+    "task": "rs",
+    "lang": "kk",
+    "family": "gemma",
+    "method": "saf"
+}

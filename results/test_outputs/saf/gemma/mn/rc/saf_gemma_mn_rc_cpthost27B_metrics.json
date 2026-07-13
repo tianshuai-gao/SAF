@@ -1,0 +1,11 @@
+{
+    "metric": "accuracy",
+    "value": 0.485,
+    "n": 200,
+    "source_run": "saf_gemma_mn_rc_cpthost27B_preds.json",
+    "key": "cpthost27B",
+    "task": "rc",
+    "lang": "mn",
+    "family": "gemma",
+    "method": "saf"
+}

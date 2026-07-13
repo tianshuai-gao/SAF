@@ -1,0 +1,11 @@
+{
+    "metric": "accuracy",
+    "value": 0.48,
+    "n": 200,
+    "source_run": "saf_gemma_ug_math_cpthost27B_preds.json",
+    "key": "cpthost27B",
+    "task": "math",
+    "lang": "ug",
+    "family": "gemma",
+    "method": "saf"
+}

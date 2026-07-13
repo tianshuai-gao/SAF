@@ -1,0 +1,11 @@
+{
+    "metric": "accuracy",
+    "value": 0.755,
+    "n": 200,
+    "source_run": "saf_gemma_ug_rc_inshost12B_preds.json",
+    "key": "inshost12B",
+    "task": "rc",
+    "lang": "ug",
+    "family": "gemma",
+    "method": "saf"
+}

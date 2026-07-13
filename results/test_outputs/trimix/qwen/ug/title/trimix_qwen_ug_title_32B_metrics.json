@@ -1,0 +1,11 @@
+{
+    "metric": "rouge-l",
+    "value": 0.17140463432216277,
+    "n": 200,
+    "source_run": "trimix_qwen_ug_title_32B_preds.json",
+    "key": "32B",
+    "task": "title",
+    "lang": "ug",
+    "family": "qwen",
+    "method": "trimix"
+}

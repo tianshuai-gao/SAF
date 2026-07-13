@@ -1,0 +1,11 @@
+{
+    "metric": "accuracy",
+    "value": 0.8058968058968059,
+    "n": 407,
+    "source_run": "saf_gemma_kk_rs_inshost27B_preds.json",
+    "key": "inshost27B",
+    "task": "rs",
+    "lang": "kk",
+    "family": "gemma",
+    "method": "saf"
+}

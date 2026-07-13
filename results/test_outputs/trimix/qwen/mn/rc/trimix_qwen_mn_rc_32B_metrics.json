@@ -1,0 +1,11 @@
+{
+    "metric": "accuracy",
+    "value": 0.47,
+    "n": 200,
+    "source_run": "trimix_qwen_mn_rc_32B_preds.json",
+    "key": "32B",
+    "task": "rc",
+    "lang": "mn",
+    "family": "qwen",
+    "method": "trimix"
+}

@@ -1,0 +1,11 @@
+{
+    "metric": "rouge-l",
+    "value": 0.27718299500815097,
+    "n": 200,
+    "source_run": "trimix_gemma_kk_title_27B_preds.json",
+    "key": "27B",
+    "task": "title",
+    "lang": "kk",
+    "family": "gemma",
+    "method": "trimix"
+}

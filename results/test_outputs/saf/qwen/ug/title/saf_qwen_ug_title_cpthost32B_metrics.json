@@ -1,0 +1,11 @@
+{
+    "metric": "rouge-l",
+    "value": 0.24617901620748292,
+    "n": 200,
+    "source_run": "saf_qwen_ug_title_cpthost32B_preds.json",
+    "key": "cpthost32B",
+    "task": "title",
+    "lang": "ug",
+    "family": "qwen",
+    "method": "saf"
+}

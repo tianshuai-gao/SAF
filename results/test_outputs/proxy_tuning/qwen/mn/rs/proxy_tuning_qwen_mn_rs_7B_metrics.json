@@ -1,0 +1,11 @@
+{
+    "metric": "accuracy",
+    "value": 0.39803439803439805,
+    "n": 407,
+    "source_run": "proxy_tuning_qwen_mn_rs_7B_preds.json",
+    "key": "7B",
+    "task": "rs",
+    "lang": "mn",
+    "family": "qwen",
+    "method": "proxy_tuning"
+}

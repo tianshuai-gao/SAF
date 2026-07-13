@@ -1,0 +1,11 @@
+{
+    "metric": "rouge-l",
+    "value": 0.482556618566078,
+    "n": 200,
+    "source_run": "trimix_gemma_bo_title_12B_preds.json",
+    "key": "12B",
+    "task": "title",
+    "lang": "bo",
+    "family": "gemma",
+    "method": "trimix"
+}

@@ -1,0 +1,11 @@
+{
+    "metric": "accuracy",
+    "value": 0.58,
+    "n": 200,
+    "source_run": "proxy_tuning_gemma_bo_math_12B_preds.json",
+    "key": "12B",
+    "task": "math",
+    "lang": "bo",
+    "family": "gemma",
+    "method": "proxy_tuning"
+}

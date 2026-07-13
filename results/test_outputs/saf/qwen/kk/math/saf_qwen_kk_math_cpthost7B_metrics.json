@@ -1,0 +1,11 @@
+{
+    "metric": "accuracy",
+    "value": 0.16,
+    "n": 200,
+    "source_run": "saf_qwen_kk_math_cpthost7B_preds.json",
+    "key": "cpthost7B",
+    "task": "math",
+    "lang": "kk",
+    "family": "qwen",
+    "method": "saf"
+}

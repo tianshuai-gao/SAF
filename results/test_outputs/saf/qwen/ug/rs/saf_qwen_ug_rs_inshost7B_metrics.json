@@ -1,0 +1,11 @@
+{
+    "metric": "accuracy",
+    "value": 0.5135135135135135,
+    "n": 407,
+    "source_run": "saf_qwen_ug_rs_inshost7B_preds.json",
+    "key": "inshost7B",
+    "task": "rs",
+    "lang": "ug",
+    "family": "qwen",
+    "method": "saf"
+}

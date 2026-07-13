@@ -1,0 +1,11 @@
+{
+    "metric": "chrf++",
+    "value": 0.014154692901361687,
+    "n": 673,
+    "source_run": "proxy_tuning_qwen_kk_en2xx_7B_preds.json",
+    "key": "7B",
+    "task": "en2xx",
+    "lang": "kk",
+    "family": "qwen",
+    "method": "proxy_tuning"
+}

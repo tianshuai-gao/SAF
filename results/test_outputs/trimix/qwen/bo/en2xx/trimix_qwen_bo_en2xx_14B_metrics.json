@@ -1,0 +1,11 @@
+{
+    "metric": "chrf++",
+    "value": 0.16185803570279622,
+    "n": 673,
+    "source_run": "trimix_qwen_bo_en2xx_14B_preds.json",
+    "key": "14B",
+    "task": "en2xx",
+    "lang": "bo",
+    "family": "qwen",
+    "method": "trimix"
+}

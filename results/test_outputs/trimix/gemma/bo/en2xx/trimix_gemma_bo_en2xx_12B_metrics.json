@@ -1,0 +1,11 @@
+{
+    "metric": "chrf++",
+    "value": 0.38630976174787485,
+    "n": 673,
+    "source_run": "trimix_gemma_bo_en2xx_12B_preds.json",
+    "key": "12B",
+    "task": "en2xx",
+    "lang": "bo",
+    "family": "gemma",
+    "method": "trimix"
+}

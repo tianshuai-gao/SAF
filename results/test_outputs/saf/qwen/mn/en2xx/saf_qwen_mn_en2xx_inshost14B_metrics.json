@@ -1,0 +1,11 @@
+{
+    "metric": "chrf++",
+    "value": 0.11348975904579664,
+    "n": 673,
+    "source_run": "saf_qwen_mn_en2xx_inshost14B_preds.json",
+    "key": "inshost14B",
+    "task": "en2xx",
+    "lang": "mn",
+    "family": "qwen",
+    "method": "saf"
+}

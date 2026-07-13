@@ -1,0 +1,11 @@
+{
+    "metric": "chrf++",
+    "value": 0.3842617252440624,
+    "n": 673,
+    "source_run": "saf_gemma_bo_en2xx_inshost27B_preds.json",
+    "key": "inshost27B",
+    "task": "en2xx",
+    "lang": "bo",
+    "family": "gemma",
+    "method": "saf"
+}

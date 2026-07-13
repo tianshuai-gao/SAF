@@ -1,0 +1,11 @@
+{
+    "metric": "accuracy",
+    "value": 0.765,
+    "n": 200,
+    "source_run": "trimix_gemma_kk_rc_27B_preds.json",
+    "key": "27B",
+    "task": "rc",
+    "lang": "kk",
+    "family": "gemma",
+    "method": "trimix"
+}

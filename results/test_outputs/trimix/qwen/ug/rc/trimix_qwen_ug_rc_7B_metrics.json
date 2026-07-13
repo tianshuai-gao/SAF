@@ -1,0 +1,11 @@
+{
+    "metric": "accuracy",
+    "value": 0.64,
+    "n": 200,
+    "source_run": "trimix_qwen_ug_rc_7B_preds.json",
+    "key": "7B",
+    "task": "rc",
+    "lang": "ug",
+    "family": "qwen",
+    "method": "trimix"
+}

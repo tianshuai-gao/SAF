@@ -1,0 +1,11 @@
+{
+    "metric": "accuracy",
+    "value": 0.77,
+    "n": 200,
+    "source_run": "proxy_tuning_gemma_ug_rc_12B_preds.json",
+    "key": "12B",
+    "task": "rc",
+    "lang": "ug",
+    "family": "gemma",
+    "method": "proxy_tuning"
+}

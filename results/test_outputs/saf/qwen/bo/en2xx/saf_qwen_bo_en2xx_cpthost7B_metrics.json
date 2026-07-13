@@ -1,0 +1,11 @@
+{
+    "metric": "chrf++",
+    "value": 0.15049683083926538,
+    "n": 673,
+    "source_run": "saf_qwen_bo_en2xx_cpthost7B_preds.json",
+    "key": "cpthost7B",
+    "task": "en2xx",
+    "lang": "bo",
+    "family": "qwen",
+    "method": "saf"
+}

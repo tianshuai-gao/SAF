@@ -1,0 +1,11 @@
+{
+    "metric": "accuracy",
+    "value": 0.495,
+    "n": 200,
+    "source_run": "saf_qwen_mn_rc_cpthost32B_preds.json",
+    "key": "cpthost32B",
+    "task": "rc",
+    "lang": "mn",
+    "family": "qwen",
+    "method": "saf"
+}

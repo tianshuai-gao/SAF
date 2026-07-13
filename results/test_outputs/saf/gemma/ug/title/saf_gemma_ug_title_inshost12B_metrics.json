@@ -1,0 +1,11 @@
+{
+    "metric": "rouge-l",
+    "value": 0.27418212226606853,
+    "n": 200,
+    "source_run": "saf_gemma_ug_title_inshost12B_preds.json",
+    "key": "inshost12B",
+    "task": "title",
+    "lang": "ug",
+    "family": "gemma",
+    "method": "saf"
+}

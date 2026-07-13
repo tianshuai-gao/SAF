@@ -1,0 +1,11 @@
+{
+    "metric": "accuracy",
+    "value": 0.12,
+    "n": 200,
+    "source_run": "proxy_tuning_qwen_bo_math_14B_preds.json",
+    "key": "14B",
+    "task": "math",
+    "lang": "bo",
+    "family": "qwen",
+    "method": "proxy_tuning"
+}

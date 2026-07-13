@@ -1,0 +1,11 @@
+{
+    "metric": "rouge-l",
+    "value": 0.1493271582754083,
+    "n": 200,
+    "source_run": "saf_qwen_mn_title_inshost14B_preds.json",
+    "key": "inshost14B",
+    "task": "title",
+    "lang": "mn",
+    "family": "qwen",
+    "method": "saf"
+}

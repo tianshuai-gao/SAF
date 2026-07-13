@@ -1,0 +1,11 @@
+{
+    "metric": "chrf++",
+    "value": 0.42619250654464397,
+    "n": 673,
+    "source_run": "proxy_tuning_gemma_bo_xx2en_12B_preds.json",
+    "key": "12B",
+    "task": "xx2en",
+    "lang": "bo",
+    "family": "gemma",
+    "method": "proxy_tuning"
+}

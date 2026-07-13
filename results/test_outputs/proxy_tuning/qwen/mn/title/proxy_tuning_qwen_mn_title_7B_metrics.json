@@ -1,0 +1,11 @@
+{
+    "metric": "rouge-l",
+    "value": 0.09092216794180263,
+    "n": 200,
+    "source_run": "proxy_tuning_qwen_mn_title_7B_preds.json",
+    "key": "7B",
+    "task": "title",
+    "lang": "mn",
+    "family": "qwen",
+    "method": "proxy_tuning"
+}

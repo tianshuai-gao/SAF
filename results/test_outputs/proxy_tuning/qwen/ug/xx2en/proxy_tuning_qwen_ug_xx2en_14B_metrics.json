@@ -1,0 +1,11 @@
+{
+    "metric": "chrf++",
+    "value": 0.36135724032625416,
+    "n": 673,
+    "source_run": "proxy_tuning_qwen_ug_xx2en_14B_preds.json",
+    "key": "14B",
+    "task": "xx2en",
+    "lang": "ug",
+    "family": "qwen",
+    "method": "proxy_tuning"
+}

@@ -1,0 +1,11 @@
+{
+    "metric": "accuracy",
+    "value": 0.47665847665847666,
+    "n": 407,
+    "source_run": "saf_qwen_kk_rs_cpthost14B_preds.json",
+    "key": "cpthost14B",
+    "task": "rs",
+    "lang": "kk",
+    "family": "qwen",
+    "method": "saf"
+}

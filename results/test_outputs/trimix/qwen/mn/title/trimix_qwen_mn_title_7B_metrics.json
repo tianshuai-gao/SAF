@@ -1,0 +1,11 @@
+{
+    "metric": "rouge-l",
+    "value": 0.15363992571309953,
+    "n": 200,
+    "source_run": "trimix_qwen_mn_title_7B_preds.json",
+    "key": "7B",
+    "task": "title",
+    "lang": "mn",
+    "family": "qwen",
+    "method": "trimix"
+}
