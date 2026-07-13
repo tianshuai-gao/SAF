@@ -5,6 +5,8 @@
 This repository is the data analysis pipeline for a research project of
 the MPhil in Data Intensive Science at the University of Cambridge.
 
+The project report and the executive summary are in `report/`:
+
 **📄 [Full report](report/report.pdf)** · **📄 [Executive summary](report/executive_summary.pdf)**
 
 The report describes the method and the results. This README describes how
