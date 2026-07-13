@@ -1,0 +1,11 @@
+{
+    "metric": "accuracy",
+    "value": 0.67,
+    "n": 200,
+    "source_run": "uniform_qwen_ug_rc_32B_preds.json",
+    "key": "32B",
+    "task": "rc",
+    "lang": "ug",
+    "family": "qwen",
+    "method": "uniform"
+}

@@ -1,0 +1,11 @@
+{
+    "metric": "accuracy",
+    "value": 0.3906633906633907,
+    "n": 407,
+    "source_run": "uniform_qwen_bo_rs_14B_preds.json",
+    "key": "14B",
+    "task": "rs",
+    "lang": "bo",
+    "family": "qwen",
+    "method": "uniform"
+}

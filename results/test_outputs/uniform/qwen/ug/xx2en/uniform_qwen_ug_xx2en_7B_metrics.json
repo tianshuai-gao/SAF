@@ -1,0 +1,11 @@
+{
+    "metric": "chrf++",
+    "value": 0.326554034735006,
+    "n": 673,
+    "source_run": "uniform_qwen_ug_xx2en_7B_preds.json",
+    "key": "7B",
+    "task": "xx2en",
+    "lang": "ug",
+    "family": "qwen",
+    "method": "uniform"
+}

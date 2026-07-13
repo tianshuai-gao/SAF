@@ -1,0 +1,11 @@
+{
+    "metric": "accuracy",
+    "value": 0.5896805896805897,
+    "n": 407,
+    "source_run": "uniform_qwen_ug_rs_14B_preds.json",
+    "key": "14B",
+    "task": "rs",
+    "lang": "ug",
+    "family": "qwen",
+    "method": "uniform"
+}

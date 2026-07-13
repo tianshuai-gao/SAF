@@ -1,0 +1,11 @@
+{
+    "metric": "accuracy",
+    "value": 0.5331695331695332,
+    "n": 407,
+    "source_run": "uniform_qwen_kk_rs_32B_preds.json",
+    "key": "32B",
+    "task": "rs",
+    "lang": "kk",
+    "family": "qwen",
+    "method": "uniform"
+}

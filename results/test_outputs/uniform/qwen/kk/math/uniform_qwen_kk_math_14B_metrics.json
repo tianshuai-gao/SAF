@@ -1,0 +1,11 @@
+{
+    "metric": "accuracy",
+    "value": 0.445,
+    "n": 200,
+    "source_run": "uniform_qwen_kk_math_14B_preds.json",
+    "key": "14B",
+    "task": "math",
+    "lang": "kk",
+    "family": "qwen",
+    "method": "uniform"
+}

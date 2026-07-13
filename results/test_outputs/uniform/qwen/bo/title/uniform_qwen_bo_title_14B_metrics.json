@@ -1,0 +1,11 @@
+{
+    "metric": "rouge-l",
+    "value": 0.3203670804286311,
+    "n": 200,
+    "source_run": "uniform_qwen_bo_title_14B_preds.json",
+    "key": "14B",
+    "task": "title",
+    "lang": "bo",
+    "family": "qwen",
+    "method": "uniform"
+}
