@@ -1,0 +1,11 @@
+{
+    "metric": "accuracy",
+    "value": 0.14,
+    "n": 200,
+    "source_run": "single_gemma_mn_math_ins27B_preds.json",
+    "key": "ins27B",
+    "task": "math",
+    "lang": "mn",
+    "family": "gemma",
+    "method": "single"
+}

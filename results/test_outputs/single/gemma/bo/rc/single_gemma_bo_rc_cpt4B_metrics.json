@@ -1,0 +1,11 @@
+{
+    "metric": "accuracy",
+    "value": 0.62,
+    "n": 200,
+    "source_run": "single_gemma_bo_rc_cpt4B_preds.json",
+    "key": "cpt4B",
+    "task": "rc",
+    "lang": "bo",
+    "family": "gemma",
+    "method": "single"
+}

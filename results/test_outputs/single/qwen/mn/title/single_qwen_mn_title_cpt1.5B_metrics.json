@@ -1,0 +1,11 @@
+{
+    "metric": "rouge-l",
+    "value": 0.14697442904666963,
+    "n": 200,
+    "source_run": "single_qwen_mn_title_cpt1.5B_preds.json",
+    "key": "cpt1.5B",
+    "task": "title",
+    "lang": "mn",
+    "family": "qwen",
+    "method": "single"
+}

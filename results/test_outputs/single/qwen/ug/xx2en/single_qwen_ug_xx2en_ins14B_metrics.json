@@ -1,0 +1,11 @@
+{
+    "metric": "chrf++",
+    "value": 0.306677063743379,
+    "n": 673,
+    "source_run": "single_qwen_ug_xx2en_ins14B_preds.json",
+    "key": "ins14B",
+    "task": "xx2en",
+    "lang": "ug",
+    "family": "qwen",
+    "method": "single"
+}

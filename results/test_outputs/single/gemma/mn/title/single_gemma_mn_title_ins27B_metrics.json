@@ -1,0 +1,11 @@
+{
+    "metric": "rouge-l",
+    "value": 0.04,
+    "n": 200,
+    "source_run": "single_gemma_mn_title_ins27B_preds.json",
+    "key": "ins27B",
+    "task": "title",
+    "lang": "mn",
+    "family": "gemma",
+    "method": "single"
+}

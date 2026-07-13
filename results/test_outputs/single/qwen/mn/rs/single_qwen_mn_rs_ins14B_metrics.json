@@ -1,0 +1,11 @@
+{
+    "metric": "accuracy",
+    "value": 0.4668304668304668,
+    "n": 407,
+    "source_run": "single_qwen_mn_rs_ins14B_preds.json",
+    "key": "ins14B",
+    "task": "rs",
+    "lang": "mn",
+    "family": "qwen",
+    "method": "single"
+}

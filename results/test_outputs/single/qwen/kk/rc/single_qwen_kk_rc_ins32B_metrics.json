@@ -1,0 +1,11 @@
+{
+    "metric": "accuracy",
+    "value": 0.585,
+    "n": 200,
+    "source_run": "single_qwen_kk_rc_ins32B_preds.json",
+    "key": "ins32B",
+    "task": "rc",
+    "lang": "kk",
+    "family": "qwen",
+    "method": "single"
+}

@@ -1,0 +1,11 @@
+{
+    "metric": "rouge-l",
+    "value": 0.05416666666666666,
+    "n": 200,
+    "source_run": "single_gemma_bo_title_cpt4B_preds.json",
+    "key": "cpt4B",
+    "task": "title",
+    "lang": "bo",
+    "family": "gemma",
+    "method": "single"
+}

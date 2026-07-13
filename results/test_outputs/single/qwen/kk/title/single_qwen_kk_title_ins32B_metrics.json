@@ -1,0 +1,11 @@
+{
+    "metric": "rouge-l",
+    "value": 0.21869680915327308,
+    "n": 200,
+    "source_run": "single_qwen_kk_title_ins32B_preds.json",
+    "key": "ins32B",
+    "task": "title",
+    "lang": "kk",
+    "family": "qwen",
+    "method": "single"
+}

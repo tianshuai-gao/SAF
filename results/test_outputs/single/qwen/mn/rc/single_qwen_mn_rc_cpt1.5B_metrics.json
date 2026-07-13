@@ -1,0 +1,11 @@
+{
+    "metric": "accuracy",
+    "value": 0.445,
+    "n": 200,
+    "source_run": "single_qwen_mn_rc_cpt1.5B_preds.json",
+    "key": "cpt1.5B",
+    "task": "rc",
+    "lang": "mn",
+    "family": "qwen",
+    "method": "single"
+}

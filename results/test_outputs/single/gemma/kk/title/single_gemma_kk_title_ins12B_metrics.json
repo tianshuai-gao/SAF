@@ -1,0 +1,11 @@
+{
+    "metric": "rouge-l",
+    "value": 0.08483333333333333,
+    "n": 200,
+    "source_run": "single_gemma_kk_title_ins12B_preds.json",
+    "key": "ins12B",
+    "task": "title",
+    "lang": "kk",
+    "family": "gemma",
+    "method": "single"
+}

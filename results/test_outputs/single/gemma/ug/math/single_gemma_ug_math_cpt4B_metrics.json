@@ -1,0 +1,11 @@
+{
+    "metric": "accuracy",
+    "value": 0.425,
+    "n": 200,
+    "source_run": "single_gemma_ug_math_cpt4B_preds.json",
+    "key": "cpt4B",
+    "task": "math",
+    "lang": "ug",
+    "family": "gemma",
+    "method": "single"
+}

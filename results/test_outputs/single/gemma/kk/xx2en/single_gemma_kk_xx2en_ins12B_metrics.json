@@ -1,0 +1,11 @@
+{
+    "metric": "chrf++",
+    "value": 0.4003454369803005,
+    "n": 673,
+    "source_run": "single_gemma_kk_xx2en_ins12B_preds.json",
+    "key": "ins12B",
+    "task": "xx2en",
+    "lang": "kk",
+    "family": "gemma",
+    "method": "single"
+}
