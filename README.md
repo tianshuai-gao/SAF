@@ -3,9 +3,11 @@
 **Test-Time Logit Fusion for Low-Resource Language Adaptation**
 
 This repository is the data analysis pipeline for a research project of
-the MPhil in Data Intensive Science at the University of Cambridge. The
-project report and the executive summary are in `report/`. The
-report describes the method and the results. This README describes how
+the MPhil in Data Intensive Science at the University of Cambridge.
+
+**📄 [Full report](report/report.pdf)** · **📄 [Executive summary](report/executive_summary.pdf)**
+
+The report describes the method and the results. This README describes how
 to install the pipeline, how to run every method, and how to reproduce
 every number in the report.
 
